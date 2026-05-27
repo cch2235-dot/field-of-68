@@ -6,6 +6,7 @@ const nextConfig = {
       { protocol: 'https', hostname: 'img.youtube.com' },
       { protocol: 'https', hostname: 'cdn.beehiiv.com' },
       { protocol: 'https', hostname: 'media.beehiiv.com' },
+      { protocol: 'https', hostname: 'beehiiv-images-production.s3.amazonaws.com' },
       { protocol: 'https', hostname: 'pbs.twimg.com' },
       { protocol: 'https', hostname: 'picsum.photos' },
     ],
