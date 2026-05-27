@@ -13,8 +13,9 @@ export const revalidate = 1800;
 export default function ArticlesPage() {
   const dailyArticles = articlesData.filter(a => a.category === 'The Daily');
   const portalArticles = articlesData.filter(a => a.category === 'Transfer Portal');
+  const coachingArticles = articlesData.filter(a => a.category === 'Coaching Carousel');
+  const featuresArticles = articlesData.filter(a => a.category === 'Features');
   const grassrootsArticles = articlesData.filter(a => a.category === 'Grassroots');
-  const featuresArticles = articlesData.filter(a => !['The Daily', 'Transfer Portal', 'Grassroots', 'Coaching Carousel'].includes(a.category));
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14">
@@ -26,7 +27,7 @@ export default function ArticlesPage() {
           <h1 className="font-display text-white text-4xl md:text-5xl tracking-wider leading-none">ARTICLES</h1>
         </div>
         <p className="text-[#8A8A8A] font-condensed text-lg mt-2">
-          Daily coverage, transfer portal, coaching carousel, grassroots recruiting and more.
+          Daily coverage, transfer portal, coaching carousel, features, grassroots recruiting and more.
         </p>
       </div>
 
@@ -53,7 +54,6 @@ export default function ArticlesPage() {
                 <div className="relative h-40 overflow-hidden">
                   <img src={article.thumbnail} alt={article.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#1A1A1A] to-transparent" />
-                  {/* Lock overlay */}
                   <div className="absolute top-2 right-2 bg-[#F5A623] rounded-full w-7 h-7 flex items-center justify-center">
                     <svg className="w-3.5 h-3.5 text-black" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/>
@@ -73,6 +73,36 @@ export default function ArticlesPage() {
           ))}
         </div>
       </div>
+
+      {/* Features */}
+      {featuresArticles.length > 0 && (
+        <div className="mb-12">
+          <div className="flex items-center gap-3 mb-5">
+            <div className="w-1 h-6 bg-[#F5A623] rounded-full" />
+            <h2 className="font-display text-white text-2xl md:text-3xl tracking-wider">FEATURES</h2>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {featuresArticles.map(article => (
+              <ArticleCard key={article.id} article={article} featured />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Coaching Carousel */}
+      {coachingArticles.length > 0 && (
+        <div className="mb-12">
+          <div className="flex items-center gap-3 mb-5">
+            <div className="w-1 h-6 bg-[#F5A623] rounded-full" />
+            <h2 className="font-display text-white text-2xl md:text-3xl tracking-wider">COACHING CAROUSEL</h2>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {coachingArticles.map(article => (
+              <ArticleCard key={article.id} article={article} featured />
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Transfer Portal */}
       {portalArticles.length > 0 && (
@@ -104,7 +134,6 @@ export default function ArticlesPage() {
         </div>
       )}
 
-      {/* Newsletter CTA bottom */}
       <NewsletterSignup variant="hero" />
     </div>
   );
