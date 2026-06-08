@@ -61,19 +61,18 @@ export default async function HomePage() {
         <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-[#0A0A0A] to-transparent" />
       </section>
 
-      {/* SHOW PHOTOS */}
+      {/* SHOW PHOTOS — no labels */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div className="relative h-64 md:h-80 rounded-xl overflow-hidden">
-            <Image src="/photos/show-photo-1.jpg" alt="Field of 68 After Dark Live" fill className="object-cover" sizes="(max-width: 768px) 100vw, 50vw" />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-4">
-              <p className="text-white font-condensed font-bold text-lg">Field of 68 After Dark — Live</p>
-            </div>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div className="relative md:col-span-2 rounded-xl overflow-hidden" style={{height:'320px'}}>
+            <Image src="/photos/action-1.jpg" alt="" fill className="object-cover object-center" sizes="(max-width: 768px) 100vw, 66vw" />
           </div>
-          <div className="relative h-64 md:h-80 rounded-xl overflow-hidden">
-            <Image src="/photos/show-photo-2.jpg" alt="Field of 68 — ACC Kickoff" fill className="object-cover" sizes="(max-width: 768px) 100vw, 50vw" />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-4">
-              <p className="text-white font-condensed font-bold text-lg">Field of 68 — ACC Kickoff</p>
+          <div className="grid grid-rows-2 gap-4">
+            <div className="relative rounded-xl overflow-hidden" style={{height:'152px'}}>
+              <Image src="/photos/action-2.jpg" alt="" fill className="object-cover object-center" sizes="33vw" />
+            </div>
+            <div className="relative rounded-xl overflow-hidden" style={{height:'152px'}}>
+              <Image src="/photos/action-3.jpg" alt="" fill className="object-cover object-center" sizes="33vw" />
             </div>
           </div>
         </div>
