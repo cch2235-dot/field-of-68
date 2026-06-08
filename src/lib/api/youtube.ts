@@ -22,7 +22,7 @@ export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]>
 
   if (!apiKey) {
     console.warn('[YouTube] No API key — using fallback data.');
-    return fallbackVideos as YouTubeVideo[];
+    return (fallbackVideos as any).videos as YouTubeVideo[];
   }
 
   try {
@@ -35,13 +35,13 @@ export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]>
 
     if (pd.error) {
       console.error('[YouTube] Playlist fetch error:', pd.error.message);
-      return fallbackVideos as YouTubeVideo[];
+      return (fallbackVideos as any).videos as YouTubeVideo[];
     }
 
     const videoIds = pd.items?.map((i: any) => i.snippet.resourceId.videoId).join(',');
     if (!videoIds) {
       console.warn('[YouTube] No video IDs found — using fallback data.');
-      return fallbackVideos as YouTubeVideo[];
+      return (fallbackVideos as any).videos as YouTubeVideo[];
     }
 
     const vr = await fetch(
@@ -52,7 +52,7 @@ export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]>
 
     if (vd.error) {
       console.error('[YouTube] Video fetch error:', vd.error.message);
-      return fallbackVideos as YouTubeVideo[];
+      return (fallbackVideos as any).videos as YouTubeVideo[];
     }
 
     return vd.items.map((item: any): YouTubeVideo => ({
@@ -79,6 +79,6 @@ export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]>
     }));
   } catch (error) {
     console.error('[YouTube] API error, using fallback data:', error);
-    return fallbackVideos as YouTubeVideo[];
+    return (fallbackVideos as any).videos as YouTubeVideo[];
   }
 }
