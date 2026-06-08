@@ -1,0 +1,37 @@
+{
+  "weeks": [
+    {
+      "week": "Way-Too-Early",
+      "label": "Way-Too-Early Top 25",
+      "date": "2026-06-07",
+      "author": "Rob Dauster",
+      "rankings": [
+        { "rank": 1, "prev": null, "team": "Florida", "conference": "SEC", "movement": 0 },
+        { "rank": 2, "prev": null, "team": "Michigan", "conference": "Big Ten", "movement": 0 },
+        { "rank": 3, "prev": null, "team": "UConn", "conference": "Big East", "movement": 0 },
+        { "rank": 4, "prev": null, "team": "Duke", "conference": "ACC", "movement": 0 },
+        { "rank": 5, "prev": 7, "team": "Illinois", "conference": "Big Ten", "movement": 2 },
+        { "rank": 6, "prev": 5, "team": "Michigan State", "conference": "Big Ten", "movement": -1 },
+        { "rank": 7, "prev": 6, "team": "Houston", "conference": "Big 12", "movement": -1 },
+        { "rank": 8, "prev": null, "team": "Arizona", "conference": "Big 12", "movement": 0 },
+        { "rank": 9, "prev": null, "team": "Virginia", "conference": "ACC", "movement": 0 },
+        { "rank": 10, "prev": null, "team": "Texas", "conference": "SEC", "movement": 0 },
+        { "rank": 11, "prev": 17, "team": "Tennessee", "conference": "SEC", "movement": 6 },
+        { "rank": 12, "prev": 19, "team": "St. John's", "conference": "Big East", "movement": 7 },
+        { "rank": 13, "prev": 11, "team": "Iowa State", "conference": "Big 12", "movement": -2 },
+        { "rank": 14, "prev": 12, "team": "Miami FL", "conference": "ACC", "movement": -2 },
+        { "rank": 15, "prev": 13, "team": "Louisville", "conference": "ACC", "movement": -2 },
+        { "rank": 16, "prev": 15, "team": "Gonzaga", "conference": "WCC", "movement": -1 },
+        { "rank": 17, "prev": null, "team": "Kentucky", "conference": "SEC", "movement": null },
+        { "rank": 18, "prev": null, "team": "Alabama", "conference": "SEC", "movement": 0 },
+        { "rank": 19, "prev": null, "team": "Vanderbilt", "conference": "SEC", "movement": null },
+        { "rank": 20, "prev": null, "team": "Arkansas", "conference": "SEC", "movement": 0 },
+        { "rank": 21, "prev": 20, "team": "Indiana", "conference": "Big Ten", "movement": -1 },
+        { "rank": 22, "prev": 21, "team": "Purdue", "conference": "Big Ten", "movement": -1 },
+        { "rank": 23, "prev": null, "team": "Kansas", "conference": "Big 12", "movement": null },
+        { "rank": 24, "prev": 23, "team": "USC", "conference": "Big Ten", "movement": -1 },
+        { "rank": 25, "prev": 24, "team": "Nebraska", "conference": "Big Ten", "movement": -1 }
+      ]
+    }
+  ]
+}

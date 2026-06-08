@@ -9,6 +9,7 @@ import ArticleCard from '@/components/ArticleCard';
 import { TweetCard } from '@/components/SocialPostCard';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import SponsorCTA from '@/components/SponsorCTA';
+import HeroSection from '@/components/HeroSection';
 import showsData from '../../data/shows.json';
 export const metadata: Metadata = {
   title: 'The Field of 68 — The Home of College Basketball',
