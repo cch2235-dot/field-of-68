@@ -1,10 +1,7 @@
 import { YouTubeVideo } from '@/types';
-import fallbackVideos from '../../../data/youtube.json';
+import fallbackData from '../../../data/youtube.json';
 
 const YOUTUBE_API_BASE = 'https://www.googleapis.com/youtube/v3';
-
-// The uploads playlist ID is always UU + channel_id (without the UC prefix)
-// For UC9by2xjmM_ldmvIwYrARCDg → UU9by2xjmM_ldmvIwYrARCDg
 const UPLOADS_PLAYLIST_ID = 'UU9by2xjmM_ldmvIwYrARCDg';
 
 export function formatISODuration(d: string): string {
@@ -17,16 +14,30 @@ export function formatISODuration(d: string): string {
   return `${h}${mn}:${s}`;
 }
 
+function mapFallback(): YouTubeVideo[] {
+  return (fallbackData as any).videos.map((v: any): YouTubeVideo => ({
+    id: v.id,
+    videoId: v.id,
+    title: v.title,
+    description: '',
+    thumbnail: v.thumbnail || `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`,
+    publishedAt: v.publishedAt || '2025-01-01T00:00:00Z',
+    duration: v.duration || '',
+    viewCount: v.viewCount || '0',
+    category: v.category || 'After Dark',
+    url: v.url || `https://www.youtube.com/watch?v=${v.id}`,
+  }));
+}
+
 export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]> {
   const apiKey = process.env.YOUTUBE_API_KEY;
 
   if (!apiKey) {
     console.warn('[YouTube] No API key — using fallback data.');
-    return (fallbackVideos as any).videos as YouTubeVideo[];
+    return mapFallback();
   }
 
   try {
-    // Fetch directly from the uploads playlist — no channel lookup needed
     const pr = await fetch(
       `${YOUTUBE_API_BASE}/playlistItems?part=snippet&playlistId=${UPLOADS_PLAYLIST_ID}&maxResults=${maxResults}&key=${apiKey}`,
       { next: { revalidate: 1800 } }
@@ -35,13 +46,13 @@ export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]>
 
     if (pd.error) {
       console.error('[YouTube] Playlist fetch error:', pd.error.message);
-      return (fallbackVideos as any).videos as YouTubeVideo[];
+      return mapFallback();
     }
 
     const videoIds = pd.items?.map((i: any) => i.snippet.resourceId.videoId).join(',');
     if (!videoIds) {
       console.warn('[YouTube] No video IDs found — using fallback data.');
-      return (fallbackVideos as any).videos as YouTubeVideo[];
+      return mapFallback();
     }
 
     const vr = await fetch(
@@ -52,7 +63,7 @@ export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]>
 
     if (vd.error) {
       console.error('[YouTube] Video fetch error:', vd.error.message);
-      return (fallbackVideos as any).videos as YouTubeVideo[];
+      return mapFallback();
     }
 
     return vd.items.map((item: any): YouTubeVideo => ({
@@ -63,22 +74,23 @@ export async function getYouTubeVideos(maxResults = 24): Promise<YouTubeVideo[]>
       thumbnail:
         item.snippet.thumbnails?.maxres?.url ||
         item.snippet.thumbnails?.high?.url ||
-        item.snippet.thumbnails?.medium?.url,
+        item.snippet.thumbnails?.medium?.url ||
+        `https://i.ytimg.com/vi/${item.id}/hqdefault.jpg`,
       publishedAt: item.snippet.publishedAt,
       duration: formatISODuration(item.contentDetails?.duration || ''),
       viewCount: item.statistics?.viewCount || '0',
       category:
         item.snippet.title.startsWith('EXCLUSIVE:') ? 'Exclusive Interviews'
         : item.snippet.title.toUpperCase().includes('AFTER DARK') ? 'After Dark'
-        : item.snippet.title.includes('Transfer Portal') || item.snippet.title.toUpperCase().includes('TRANSFER PORTAL') ? 'Transfer Portal'
-        : item.snippet.title.includes('NBA Draft') || item.snippet.title.includes('Ground Floor') ? 'NBA Draft'
-        : item.snippet.title.includes('Carousel') || item.snippet.title.toUpperCase().includes('CAROUSEL') ? 'Coaching Carousel'
-        : item.snippet.title.includes('Insider') || item.snippet.title.includes('Mid-Major') || item.snippet.title.includes('WCC') ? 'Conference Shows'
+        : item.snippet.title.toUpperCase().includes('TRANSFER PORTAL') ? 'Transfer Portal'
+        : item.snippet.title.toUpperCase().includes('NBA DRAFT') ? 'NBA Draft'
+        : item.snippet.title.toUpperCase().includes('CAROUSEL') ? 'Coaching Carousel'
+        : item.snippet.title.toUpperCase().includes('INSIDER') ? 'Conference Shows'
         : 'After Dark',
       url: `https://www.youtube.com/watch?v=${item.id}`,
     }));
   } catch (error) {
     console.error('[YouTube] API error, using fallback data:', error);
-    return (fallbackVideos as any).videos as YouTubeVideo[];
+    return mapFallback();
   }
 }
