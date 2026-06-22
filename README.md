@@ -4,7 +4,7 @@ A full Next.js 14 website serving as the central home for all Field of 68 colleg
 
 ---
 
-## Quick Start
+## Quick Start 
 
 ### Prerequisites
 - Node.js 18+
