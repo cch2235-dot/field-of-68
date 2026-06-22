@@ -5,19 +5,13 @@ const BEEHIIV_API_BASE = 'https://api.beehiiv.com/v2';
 export async function getArticles(limit = 24): Promise<Article[]> {
   const apiKey = process.env.BEEHIIV_API_KEY;
   const publicationId = process.env.BEEHIIV_PUBLICATION_ID;
-  if (!apiKey || !publicationId) {
-    console.warn('[Beehiiv] No credentials found — using empty array.');
-    return [];
-  }
+  if (!apiKey || !publicationId) return [];
   try {
     const res = await fetch(
       `${BEEHIIV_API_BASE}/publications/${publicationId}/posts?status=confirmed&limit=${limit}&order_by=publish_date&direction=desc`,
-      {
-        headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
-        next: { revalidate: 1800 },
-      }
+      { headers: { Authorization: `Bearer ${apiKey}` }, next: { revalidate: 1800 } }
     );
-    if (!res.ok) throw new Error(`Beehiiv API error: ${res.status}`);
+    if (!res.ok) return [];
     const data = await res.json();
     return data.data.map((post: any): Article => ({
       id: post.id,
@@ -32,29 +26,22 @@ export async function getArticles(limit = 24): Promise<Article[]> {
       url: post.web_url || `https://fieldof68.beehiiv.com/p/${post.slug}`,
       readTime: '5 min read',
     }));
-  } catch (error) {
-    console.error('[Beehiiv] API error:', error);
-    return [];
-  }
+  } catch { return []; }
 }
 
-export async function getBeehiivPosts(limit = 60) {
-  return getArticles(limit);
-}
+export async function getBeehiivPosts(limit = 60) { return getArticles(limit); }
 
 export async function subscribeToNewsletter(email: string): Promise<{ success: boolean; message: string }> {
   const apiKey = process.env.BEEHIIV_API_KEY;
   const publicationId = process.env.BEEHIIV_PUBLICATION_ID;
-  if (!apiKey || !publicationId) return { success: true, message: 'Subscribed successfully!' };
+  if (!apiKey || !publicationId) return { success: true, message: 'Subscribed!' };
   try {
     const res = await fetch(`${BEEHIIV_API_BASE}/publications/${publicationId}/subscriptions`, {
       method: 'POST',
       headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, reactivate_existing: false, send_welcome_email: true }),
     });
-    if (!res.ok) throw new Error('Subscription failed');
-    return { success: true, message: "You're subscribed! Check your inbox." };
-  } catch (error: any) {
-    return { success: false, message: error.message || 'Something went wrong.' };
-  }
+    if (!res.ok) throw new Error('Failed');
+    return { success: true, message: "You're subscribed!" };
+  } catch (e: any) { return { success: false, message: e.message || 'Error' }; }
 }
