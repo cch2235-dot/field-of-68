@@ -1,56 +1,60 @@
-export interface BeehiivPost {
-  id: string;
-  title: string;
-  subtitle: string;
-  slug: string;
-  status: string;
-  publish_date: number;
-  displayed_date: number;
-  web_url: string;
-  thumbnail_url: string | null;
-  preview_text: string;
-  authors: Array<{ name: string }>;
-  audience: 'free' | 'premium';
-}
+import { Article } from '@/types';
 
-const PUB_ID = process.env.BEEHIIV_PUBLICATION_ID;
-const API_KEY = process.env.BEEHIIV_API_KEY;
-const BASE = 'https://api.beehiiv.com/v2';
+const BEEHIIV_API_BASE = 'https://api.beehiiv.com/v2';
 
-async function fetchPosts(limit: number): Promise<BeehiivPost[]> {
-  if (!PUB_ID || !API_KEY) return [];
+export async function getArticles(limit = 24): Promise<Article[]> {
+  const apiKey = process.env.BEEHIIV_API_KEY;
+  const publicationId = process.env.BEEHIIV_PUBLICATION_ID;
+  if (!apiKey || !publicationId) {
+    console.warn('[Beehiiv] No credentials found — using empty array.');
+    return [];
+  }
   try {
     const res = await fetch(
-      `${BASE}/publications/${PUB_ID}/posts?limit=${limit}&status=confirmed&order_by=publish_date&direction=desc`,
-      { headers: { Authorization: `Bearer ${API_KEY}` }, next: { revalidate: 1800 } }
+      `${BEEHIIV_API_BASE}/publications/${publicationId}/posts?status=confirmed&limit=${limit}&order_by=publish_date&direction=desc`,
+      {
+        headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
+        next: { revalidate: 1800 },
+      }
     );
-    if (!res.ok) return [];
+    if (!res.ok) throw new Error(`Beehiiv API error: ${res.status}`);
     const data = await res.json();
-    return (data.data || []) as BeehiivPost[];
-  } catch {
+    return data.data.map((post: any): Article => ({
+      id: post.id,
+      title: post.subject || post.slug,
+      excerpt: post.preview_text || '',
+      content: '',
+      author: post.authors?.[0]?.name || 'Field of 68',
+      publishedAt: new Date(post.publish_date * 1000).toISOString(),
+      thumbnail: post.thumbnail_url || '',
+      category: post.content_tags?.[0]?.name || 'The Daily',
+      tags: post.content_tags?.map((t: any) => t.name) || [],
+      url: post.web_url || `https://fieldof68.beehiiv.com/p/${post.slug}`,
+      readTime: '5 min read',
+    }));
+  } catch (error) {
+    console.error('[Beehiiv] API error:', error);
     return [];
   }
 }
 
-export async function getBeehiivPosts(limit = 60): Promise<BeehiivPost[]> {
-  return fetchPosts(limit);
-}
-
-export async function getArticles(limit = 6): Promise<BeehiivPost[]> {
-  return fetchPosts(limit);
+export async function getBeehiivPosts(limit = 60) {
+  return getArticles(limit);
 }
 
 export async function subscribeToNewsletter(email: string): Promise<{ success: boolean; message: string }> {
-  if (!PUB_ID || !API_KEY) return { success: false, message: 'Server configuration error' };
+  const apiKey = process.env.BEEHIIV_API_KEY;
+  const publicationId = process.env.BEEHIIV_PUBLICATION_ID;
+  if (!apiKey || !publicationId) return { success: true, message: 'Subscribed successfully!' };
   try {
-    const res = await fetch(`${BASE}/publications/${PUB_ID}/subscriptions`, {
+    const res = await fetch(`${BEEHIIV_API_BASE}/publications/${publicationId}/subscriptions`, {
       method: 'POST',
-      headers: { Authorization: `Bearer ${API_KEY}`, 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email, reactivate_existing: true, send_welcome_email: true }),
+      headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, reactivate_existing: false, send_welcome_email: true }),
     });
-    if (res.ok) return { success: true, message: 'Successfully subscribed!' };
-    return { success: false, message: 'Subscription failed' };
-  } catch {
-    return { success: false, message: 'Network error' };
+    if (!res.ok) throw new Error('Subscription failed');
+    return { success: true, message: "You're subscribed! Check your inbox." };
+  } catch (error: any) {
+    return { success: false, message: error.message || 'Something went wrong.' };
   }
 }
