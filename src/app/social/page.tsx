@@ -1,4 +1,2 @@
 import { redirect } from 'next/navigation';
-export default function SocialPage() {
-  redirect('/');
-}
+export default function SocialPage() { redirect('/'); }
