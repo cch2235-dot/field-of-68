@@ -5,7 +5,7 @@ export default function HeroSection() {
     <section className="relative bg-[#0A0A0A] overflow-hidden" style={{ height: '92vh' }}>
       {/* Full bleed photo */}
       <img
-        src="/photos/hero-main.jpg"
+        src="/photos/hero-5.png"
         alt=""
         className="absolute inset-0 w-full h-full object-cover object-center"
       />
