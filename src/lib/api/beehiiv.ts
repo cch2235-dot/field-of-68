@@ -14,29 +14,18 @@ async function fetchPosts(limit: number): Promise<Article[]> {
     if (!res.ok) return [];
     const data = await res.json();
     return data.data.map((post: any): Article => ({
-      id: post.id,
-      title: post.subject || post.slug,
-      excerpt: post.preview_text || '',
-      content: '',
-      author: post.authors?.[0]?.name || 'Field of 68',
+      id: post.id, title: post.subject || post.slug, excerpt: post.preview_text || '',
+      content: '', author: post.authors?.[0]?.name || 'Field of 68',
       publishedAt: new Date(post.publish_date * 1000).toISOString(),
-      thumbnail: post.thumbnail_url || '',
-      category: post.content_tags?.[0]?.name || 'The Daily',
-      tags: post.content_tags?.map((t: any) => t.name) || [],
+      thumbnail: post.thumbnail_url || '', category: 'The Daily', tags: [],
       url: post.web_url || `https://fieldof68.beehiiv.com/p/${post.slug}`,
       readTime: '5 min read',
     }));
   } catch { return []; }
 }
 
-export async function getBeehiivPosts(limit = 60): Promise<Article[]> {
-  return fetchPosts(limit);
-}
-
-export async function getArticles(limit = 6): Promise<Article[]> {
-  return fetchPosts(limit);
-}
-
+export async function getBeehiivPosts(limit = 60): Promise<Article[]> { return fetchPosts(limit); }
+export async function getArticles(limit = 6): Promise<Article[]> { return fetchPosts(limit); }
 export async function subscribeToNewsletter(email: string): Promise<{ success: boolean; message: string }> {
   const apiKey = process.env.BEEHIIV_API_KEY;
   const pubId = process.env.BEEHIIV_PUBLICATION_ID;
