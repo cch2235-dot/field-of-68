@@ -2,27 +2,31 @@ import { Article } from '@/types';
 import fallbackData from '../../../data/articles.json';
 
 const BASE = 'https://api.beehiiv.com/v2';
+const API_KEY = 'pub_6eb29cce-a4cc-4d50-b145-4439d9fe229a';
+const PUB_ID = '6eb29cce-a4cc-4d50-b145-4439d9fe229a';
 
 function getFallback(): Article[] {
   return (fallbackData as any).articles as Article[];
 }
 
 async function fetchPosts(limit: number): Promise<Article[]> {
-  const apiKey = process.env.BEEHIIV_API_KEY;
-  const pubId = process.env.BEEHIIV_PUBLICATION_ID;
-  if (!apiKey || !pubId) return getFallback();
   try {
     const res = await fetch(
-      `${BASE}/publications/${pubId}/posts?status=confirmed&limit=${limit}&order_by=publish_date&direction=desc`,
-      { headers: { Authorization: `Bearer ${apiKey}` }, next: { revalidate: 1800 } }
+      `${BASE}/publications/${PUB_ID}/posts?status=confirmed&limit=${limit}&order_by=publish_date&direction=desc`,
+      { headers: { Authorization: `Bearer ${API_KEY}` }, next: { revalidate: 1800 } }
     );
     if (!res.ok) return getFallback();
     const data = await res.json();
     return data.data.map((post: any): Article => ({
-      id: post.id, title: post.subject || post.slug, excerpt: post.preview_text || '',
-      content: '', author: post.authors?.[0]?.name || 'Field of 68',
+      id: post.id,
+      title: post.subject || post.slug,
+      excerpt: post.preview_text || '',
+      content: '',
+      author: post.authors?.[0]?.name || 'Field of 68',
       publishedAt: new Date(post.publish_date * 1000).toISOString(),
-      thumbnail: post.thumbnail_url || '', category: 'Daily', tags: [],
+      thumbnail: post.thumbnail_url || '',
+      category: 'Daily',
+      tags: [],
       url: post.web_url || `https://fieldof68.beehiiv.com/p/${post.slug}`,
       readTime: '5 min read',
     }));
@@ -32,13 +36,10 @@ async function fetchPosts(limit: number): Promise<Article[]> {
 export async function getBeehiivPosts(limit = 60): Promise<Article[]> { return fetchPosts(limit); }
 export async function getArticles(limit = 6): Promise<Article[]> { return fetchPosts(limit); }
 export async function subscribeToNewsletter(email: string): Promise<{ success: boolean; message: string }> {
-  const apiKey = process.env.BEEHIIV_API_KEY;
-  const pubId = process.env.BEEHIIV_PUBLICATION_ID;
-  if (!apiKey || !pubId) return { success: true, message: 'Subscribed!' };
   try {
-    const res = await fetch(`${BASE}/publications/${pubId}/subscriptions`, {
+    const res = await fetch(`${BASE}/publications/${PUB_ID}/subscriptions`, {
       method: 'POST',
-      headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
+      headers: { Authorization: `Bearer ${API_KEY}`, 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, reactivate_existing: false, send_welcome_email: true }),
     });
     if (!res.ok) throw new Error('Failed');
