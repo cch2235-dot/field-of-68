@@ -1,27 +1,32 @@
 import { Article } from '@/types';
+import fallbackData from '../../../data/articles.json';
 
 const BASE = 'https://api.beehiiv.com/v2';
+
+function getFallback(): Article[] {
+  return (fallbackData as any).articles as Article[];
+}
 
 async function fetchPosts(limit: number): Promise<Article[]> {
   const apiKey = process.env.BEEHIIV_API_KEY;
   const pubId = process.env.BEEHIIV_PUBLICATION_ID;
-  if (!apiKey || !pubId) return [];
+  if (!apiKey || !pubId) return getFallback();
   try {
     const res = await fetch(
       `${BASE}/publications/${pubId}/posts?status=confirmed&limit=${limit}&order_by=publish_date&direction=desc`,
       { headers: { Authorization: `Bearer ${apiKey}` }, next: { revalidate: 1800 } }
     );
-    if (!res.ok) return [];
+    if (!res.ok) return getFallback();
     const data = await res.json();
     return data.data.map((post: any): Article => ({
       id: post.id, title: post.subject || post.slug, excerpt: post.preview_text || '',
       content: '', author: post.authors?.[0]?.name || 'Field of 68',
       publishedAt: new Date(post.publish_date * 1000).toISOString(),
-      thumbnail: post.thumbnail_url || '', category: 'The Daily', tags: [],
+      thumbnail: post.thumbnail_url || '', category: 'Daily', tags: [],
       url: post.web_url || `https://fieldof68.beehiiv.com/p/${post.slug}`,
       readTime: '5 min read',
     }));
-  } catch { return []; }
+  } catch { return getFallback(); }
 }
 
 export async function getBeehiivPosts(limit = 60): Promise<Article[]> { return fetchPosts(limit); }
