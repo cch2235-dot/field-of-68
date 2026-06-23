@@ -56,7 +56,7 @@ export default async function ArticlesPage() {
           {/* Featured article */}
           {featured && (
             <div className="mb-10">
-              <a href={featured.web_url} target="_blank" rel="noopener noreferrer"
+              <a href={featured.url} target="_blank" rel="noopener noreferrer"
                 className="group block bg-[#111] rounded-2xl overflow-hidden border border-[#1A1A1A] hover:border-[#F5A623]/40 transition-all">
                 <div className="grid grid-cols-1 md:grid-cols-2">
                   <div className="relative overflow-hidden" style={{ minHeight: '300px' }}>
@@ -111,7 +111,7 @@ export default async function ArticlesPage() {
           {rest.length > 0 && (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
               {rest.map(post => (
-                <a key={post.id} href={post.web_url} target="_blank" rel="noopener noreferrer"
+                <a key={post.id} href={post.url} target="_blank" rel="noopener noreferrer"
                   className="group block bg-[#111] rounded-xl overflow-hidden border border-[#1A1A1A] hover:border-[#F5A623]/40 transition-all">
                   <div className="relative overflow-hidden" style={{ height: '180px' }}>
                     {post.thumbnail_url ? (
