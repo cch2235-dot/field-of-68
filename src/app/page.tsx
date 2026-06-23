@@ -1,195 +1,249 @@
-import type { Metadata } from 'next';
-import Image from 'next/image';
-import Link from 'next/link';
-import { getYouTubeVideos } from '@/lib/api/youtube';
-import { getArticles } from '@/lib/api/beehiiv';
-import { getTweets } from '@/lib/api/twitter';
-import VideoCard from '@/components/VideoCard';
-import ArticleCard from '@/components/ArticleCard';
-import { TweetCard } from '@/components/SocialPostCard';
-import NewsletterSignup from '@/components/NewsletterSignup';
-import SponsorCTA from '@/components/SponsorCTA';
-import HeroSection from '@/components/HeroSection';
-import showsData from '../../data/shows.json';
-export const metadata: Metadata = {
-  title: 'The Field of 68 — The Home of College Basketball',
-  description: 'Breaking news, interviews, analysis, live shows, podcasts, and everything college hoops.',
+'use client';
+import { useState } from 'react';
+import portalData from '../../../data/portal.json';
+
+const ESPN_IDS: Record<string,string> = {
+  'Alabama':'333','Arizona':'12','Arizona State':'9','Arkansas':'8','Auburn':'2',
+  'Baylor':'239','Boise State':'68','Boston College':'103','Bowling Green':'189',
+  'BYU':'252','California':'25','Charlotte':'2429','Cincinnati':'2132','Clemson':'228',
+  'Colorado':'38','Connecticut':'41','UConn':'41','Creighton':'156','DePaul':'305',
+  'Duke':'150','Florida':'57','Florida State':'52','Fordham':'2210','Georgetown':'46',
+  'Georgia':'61','Georgia Tech':'59','Gonzaga':'2250','Houston':'248','Illinois':'356',
+  'Indiana':'84','Iowa':'2294','Iowa State':'66','Kansas':'2305','Kansas State':'2306',
+  'Kentucky':'96','Liberty':'2335','Louisville':'97','LSU':'99','Marquette':'269',
+  'Maryland':'120','Miami FL':'2390','Michigan':'130','Michigan State':'127',
+  'Minnesota':'135','Mississippi State':'344','Missouri':'142','NC State':'152',
+  'Nebraska':'158','New Mexico':'167','North Carolina':'153','Northwestern':'77',
+  'Notre Dame':'87','Ohio State':'194','Oklahoma':'201','Oklahoma State':'197',
+  'Ole Miss':'145','Oregon':'2483','Penn State':'213','Pittsburgh':'221','Purdue':'2509',
+  'Robert Morris':'2543','Rutgers':'164','Saint Mary\'s':'2608','Sam Houston':'2534',
+  'San Francisco':'2650','San Diego State':'21','Seton Hall':'238','SMU':'2567',
+  'South Carolina':'2579','South Florida':'58','Stanford':'24','Syracuse':'183',
+  'TCU':'2628','Tennessee':'2633','Texas':'251','Texas A&M':'245','Texas Tech':'2641',
+  'UCF':'2116','UCLA':'26','UNLV':'2439','USC':'30','Utah':'254',
+  'Vanderbilt':'238','VCU':'2670','Virginia':'258','Virginia Tech':'259',
+  'Wake Forest':'154','Washington':'264','West Virginia':'277','Wisconsin':'275',
+  'Xavier':'2752','NBA Draft':'','St. John\'s':'2599',
 };
-export const revalidate = 1800;
-export default async function HomePage() {
-  const [videos, articles, tweets] = await Promise.all([getYouTubeVideos(8), getArticles(6), getTweets(5)]);
-  const featuredVideo = videos[0];
-  const sideVideos = videos.slice(1, 4);
-  const featuredArticle = articles[0];
-  const sideArticles = articles.slice(1, 4);
+
+function getLogo(school: string) {
+  const id = ESPN_IDS[school];
+  if (!id) return null;
+  return `https://a.espncdn.com/i/teamlogos/ncaa/500/${id}.png`;
+}
+
+const STATUS_STYLES: Record<string,string> = {
+  'Committed': 'bg-green-900/40 text-green-400 border-green-800/40',
+  'Available': 'bg-blue-900/40 text-blue-400 border-blue-800/40',
+  'Withdrawn': 'bg-yellow-900/40 text-yellow-400 border-yellow-800/40',
+  'NBA Draft': 'bg-purple-900/40 text-purple-400 border-purple-800/40',
+};
+
+type Player = typeof portalData.players[0] & { ppg?: number; rpg?: number; apg?: number; spg?: number; bpg?: number; fgPct?: number; threePct?: number; prevTeam?: string };
+
+export default function PortalPage() {
+  const [search, setSearch] = useState('');
+  const [statusFilter, setStatusFilter] = useState('all');
+  const [posFilter, setPosFilter] = useState('all');
+  const [selected, setSelected] = useState<Player | null>(null);
+
+  const players = portalData.players as Player[];
+
+  const filtered = players.filter(p => {
+    const matchSearch = !search ||
+      p.name.toLowerCase().includes(search.toLowerCase()) ||
+      p.from.toLowerCase().includes(search.toLowerCase()) ||
+      p.to.toLowerCase().includes(search.toLowerCase());
+    const matchStatus = statusFilter === 'all' || p.status === statusFilter;
+    const matchPos = posFilter === 'all' || p.pos.includes(posFilter);
+    return matchSearch && matchStatus && matchPos;
+  });
+
   return (
-    <>
-      {/* HERO */}
-      <section className="relative bg-[#0A0A0A] overflow-hidden min-h-[85vh] md:min-h-[75vh] flex items-center">
-        <div className="absolute inset-0">
-          <div className="absolute inset-0 bg-gradient-to-br from-[#1A0A00] via-[#0A0A0A] to-[#0A0A0A]" />
-          <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full bg-[#F5A623]/10 blur-[120px] -translate-y-1/2 translate-x-1/4" />
-        </div>
-        <div className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-8 select-none pointer-events-none hidden lg:block opacity-10">
-          <Image src="/logo.png" alt="" width={480} height={192} className="w-[480px] h-auto" />
-        </div>
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-20">
-          <div className="max-w-3xl">
-            <div className="flex items-center gap-2 mb-6">
-              <div className="live-dot" />
-              <span className="font-condensed font-bold text-[#C4C4C4] text-xs tracking-widest uppercase">Live Coverage · College Basketball</span>
-            </div>
-            <h1 className="font-display text-[#FAFAFA] leading-none tracking-wider mb-4" style={{ fontSize: 'clamp(3.5rem, 8vw, 7rem)' }}>
-              THE HOME OF{' '}<span className="text-gradient">COLLEGE BASKETBALL</span>
-            </h1>
-            <p className="font-condensed text-[#8A8A8A] text-xl md:text-2xl leading-relaxed mb-8 max-w-2xl">Breaking news, interviews, analysis, live shows, podcasts, and everything college hoops.</p>
-            <div className="flex flex-wrap gap-3 mb-10">
-              <Link href="/videos" className="flex items-center gap-2 bg-[#F5A623] hover:bg-[#FFBE4D] text-black font-display text-lg tracking-widest uppercase px-7 py-4 rounded-lg transition-all shadow-lg">
-                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>Watch Now
-              </Link>
-              <Link href="/shows" className="flex items-center gap-2 bg-transparent border border-[#2E2E2E] hover:border-[#F5A623] text-[#C4C4C4] hover:text-white font-condensed font-bold tracking-widest uppercase px-7 py-4 rounded-lg transition-all text-sm">Our Shows</Link>
-              <a href="#newsletter" className="flex items-center gap-2 bg-transparent border border-[#2E2E2E] hover:border-[#F5A623] text-[#C4C4C4] hover:text-white font-condensed font-bold tracking-widest uppercase px-7 py-4 rounded-lg transition-all text-sm">Newsletter</a>
-            </div>
-            <div className="flex items-center gap-4 flex-wrap">
-              <span className="text-[#8A8A8A] font-condensed text-xs uppercase tracking-widest">Follow us:</span>
-              {[{name:'YouTube',href:'https://youtube.com/@TheFieldOf68',color:'hover:text-[#FF0000]'},{name:'X / Twitter',href:'https://twitter.com/TheFieldOf68',color:'hover:text-white'},{name:'Instagram',href:'https://instagram.com/fieldof68',color:'hover:text-pink-400'}].map(({name,href,color}) => (
-                <a key={name} href={href} target="_blank" rel="noopener noreferrer" className={`text-[#8A8A8A] ${color} font-condensed font-semibold text-sm transition-colors`}>{name}</a>
-              ))}
-            </div>
-          </div>
-        </div>
-        <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-[#0A0A0A] to-transparent" />
-      </section>
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14">
 
-      {/* SHOW PHOTOS — no labels */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div className="relative md:col-span-2 rounded-xl overflow-hidden" style={{height:'320px'}}>
-            <Image src="/photos/action-1.jpg" alt="" fill className="object-cover object-center" sizes="(max-width: 768px) 100vw, 66vw" />
-          </div>
-          <div className="grid grid-rows-2 gap-4">
-            <div className="relative rounded-xl overflow-hidden" style={{height:'152px'}}>
-              <Image src="/photos/action-2.jpg" alt="" fill className="object-cover object-center" sizes="33vw" />
-            </div>
-            <div className="relative rounded-xl overflow-hidden" style={{height:'152px'}}>
-              <Image src="/photos/action-3.jpg" alt="" fill className="object-cover object-center" sizes="33vw" />
-            </div>
-          </div>
+      {/* Header */}
+      <div className="mb-8">
+        <div className="flex items-center gap-3 mb-2">
+          <div className="w-1 h-7 bg-[#F5A623] rounded-full" />
+          <h1 className="font-display text-white text-4xl md:text-5xl tracking-wider">TRANSFER PORTAL</h1>
         </div>
-      </section>
+        <p className="text-[#8A8A8A] font-condensed text-lg mt-1">Field of 68 Top 100 Transfer Portal Rankings</p>
+      </div>
 
-      <div className="section-divider mx-4 sm:mx-6 lg:mx-8 max-w-7xl xl:mx-auto" />
-
-      {/* VIDEOS */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
-        <div className="flex items-center justify-between mb-6 md:mb-8">
-          <div className="flex items-center gap-3">
-            <div className="w-1 h-7 bg-[#F5A623] rounded-full" />
-            <h2 className="font-display text-white text-3xl md:text-4xl tracking-wider leading-none">LATEST VIDEOS</h2>
-          </div>
-          <a href="https://www.youtube.com/@TheFieldOf68" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-[#FF0000] hover:bg-[#CC0000] text-white font-condensed font-bold text-xs tracking-widest uppercase px-4 py-2 rounded transition-colors">Watch on YouTube</a>
+      {/* Filters */}
+      <div className="flex flex-wrap gap-3 mb-6">
+        {/* Search */}
+        <div className="relative flex-1 min-w-[200px] max-w-xs">
+          <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[#555]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+          <input type="text" placeholder="Search player or school..."
+            value={search} onChange={e => setSearch(e.target.value)}
+            className="w-full bg-[#111] border border-[#1A1A1A] focus:border-[#F5A623] text-white font-condensed text-sm pl-9 pr-4 py-2.5 rounded-lg outline-none transition-colors placeholder-[#444]" />
         </div>
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-          <div className="lg:col-span-2">{featuredVideo && <VideoCard video={featuredVideo} featured />}</div>
-          <div className="lg:col-span-1 bg-[#111111] rounded-lg p-4 flex flex-col gap-2">
-            <p className="font-condensed font-bold text-[#8A8A8A] text-xs tracking-widest uppercase px-3 mb-2">More Videos</p>
-            {sideVideos.map(video => <VideoCard key={video.id} video={video} />)}
-            <div className="mt-auto pt-4 border-t border-[#1A1A1A]">
-              <Link href="/videos" className="flex items-center justify-center gap-2 w-full bg-[#1A1A1A] hover:bg-[#242424] text-[#C4C4C4] hover:text-white font-condensed font-bold text-xs tracking-widest uppercase py-3 rounded transition-colors">View All Videos →</Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <div className="section-divider mx-4 sm:mx-6 lg:mx-8 max-w-7xl xl:mx-auto" />
-
-      {/* ARTICLES */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
-        <div className="flex items-center justify-between mb-6 md:mb-8">
-          <div className="flex items-center gap-3">
-            <div className="w-1 h-7 bg-[#F5A623] rounded-full" />
-            <h2 className="font-display text-white text-3xl md:text-4xl tracking-wider leading-none">LATEST ARTICLES</h2>
-          </div>
-          <Link href="/articles" className="text-[#F5A623] font-condensed font-bold text-xs tracking-widest uppercase hover:text-[#FFBE4D] transition-colors">All Articles →</Link>
-        </div>
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-          <div className="lg:col-span-2">{featuredArticle && <ArticleCard article={featuredArticle} featured />}</div>
-          <div className="lg:col-span-1 bg-[#111111] rounded-lg p-4 flex flex-col gap-2">
-            <p className="font-condensed font-bold text-[#8A8A8A] text-xs tracking-widest uppercase px-3 mb-2">More Articles</p>
-            {sideArticles.map(article => <ArticleCard key={article.id} article={article} />)}
-            <div className="mt-auto pt-4 border-t border-[#1A1A1A]">
-              <Link href="/articles" className="flex items-center justify-center gap-2 w-full bg-[#1A1A1A] hover:bg-[#242424] text-[#C4C4C4] hover:text-white font-condensed font-bold text-xs tracking-widest uppercase py-3 rounded transition-colors">View All Articles →</Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <div className="section-divider mx-4 sm:mx-6 lg:mx-8 max-w-7xl xl:mx-auto" />
-
-      {/* TWEETS */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
-        <div className="flex items-center justify-between mb-6 md:mb-8">
-          <div className="flex items-center gap-3">
-            <div className="w-1 h-7 bg-[#F5A623] rounded-full" />
-            <h2 className="font-display text-white text-3xl md:text-4xl tracking-wider leading-none">LATEST FROM X</h2>
-          </div>
-          <a href="https://twitter.com/TheFieldOf68" target="_blank" rel="noopener noreferrer" className="text-[#F5A623] font-condensed font-bold text-xs tracking-widest uppercase hover:text-[#FFBE4D] transition-colors">@TheFieldOf68 →</a>
-        </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {tweets.slice(0, 3).map(tweet => <TweetCard key={tweet.id} tweet={tweet} />)}
-        </div>
-      </section>
-
-      <div className="section-divider mx-4 sm:mx-6 lg:mx-8 max-w-7xl xl:mx-auto" />
-
-      {/* SHOWS */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
-        <div className="flex items-center justify-between mb-6 md:mb-8">
-          <div className="flex items-center gap-3">
-            <div className="w-1 h-7 bg-[#F5A623] rounded-full" />
-            <h2 className="font-display text-white text-3xl md:text-4xl tracking-wider leading-none">OUR SHOWS</h2>
-          </div>
-          <Link href="/shows" className="text-[#F5A623] font-condensed font-bold text-xs tracking-widest uppercase hover:text-[#FFBE4D] transition-colors">All Shows →</Link>
-        </div>
-        <div className="relative bg-[#111111] rounded-xl overflow-hidden border border-[#1A1A1A] group mb-6">
-          <div className="flex flex-col md:flex-row">
-            <div className="relative md:w-2/5 h-48 md:h-auto">
-              <Image src={showsData[0].thumbnail} alt={showsData[0].name} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 100vw, 40vw" />
-              <div className="absolute inset-0 bg-gradient-to-r from-transparent to-[#111111] hidden md:block" />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#111111] to-transparent md:hidden" />
-            </div>
-            <div className="p-6 md:p-8 flex-1 flex flex-col justify-center">
-              <span className="inline-block bg-[#F5A623] text-black font-condensed font-bold text-[10px] tracking-widest uppercase px-2.5 py-1 rounded mb-3">Flagship Show</span>
-              <h3 className="font-display text-white text-3xl md:text-4xl tracking-wider leading-none mb-2 group-hover:text-[#F5A623] transition-colors">{showsData[0].name}</h3>
-              <p className="text-[#F5A623] font-condensed text-sm font-semibold tracking-wider mb-3">{showsData[0].tagline}</p>
-              <p className="text-[#8A8A8A] font-condensed text-sm leading-relaxed mb-5 max-w-lg">{showsData[0].description}</p>
-              <div className="flex gap-3">
-                <a href={showsData[0].youtubePlaylistUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-[#FF0000] hover:bg-[#CC0000] text-white font-condensed font-bold text-xs tracking-widest uppercase px-5 py-3 rounded transition-colors">Watch on YouTube</a>
-                <a href={showsData[0].podcastUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-[#1A1A1A] hover:bg-[#242424] text-[#C4C4C4] hover:text-white font-condensed font-bold text-xs tracking-widest uppercase px-5 py-3 rounded transition-colors">Listen on Spotify</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
-          {showsData.slice(1, 6).map((show: any) => (
-            <Link key={show.id} href={`/shows#${show.slug}`} className="group bg-[#111111] rounded-lg overflow-hidden border border-[#1A1A1A] hover:border-[#F5A623]/40 transition-all card-lift">
-              <div className="relative h-32 overflow-hidden">
-                <Image src={show.thumbnail} alt={show.name} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="220px" />
-                <div className="show-overlay absolute inset-0" />
-              </div>
-              <div className="p-3">
-                <h4 className="font-condensed font-bold text-white text-sm leading-tight group-hover:text-[#F5A623] transition-colors line-clamp-2">{show.name}</h4>
-                <p className="text-[#8A8A8A] text-xs font-condensed mt-1">{show.hosts.join(', ')}</p>
-              </div>
-            </Link>
+        {/* Status */}
+        <div className="flex gap-2 flex-wrap">
+          {['all','Committed','Available','Withdrawn','NBA Draft'].map(s => (
+            <button key={s} onClick={() => setStatusFilter(s)}
+              className={`font-condensed font-bold text-xs tracking-widest uppercase px-4 py-2.5 rounded-full transition-all ${statusFilter === s ? 'bg-[#F5A623] text-black' : 'bg-[#1A1A1A] text-[#8A8A8A] hover:text-white'}`}>
+              {s === 'all' ? 'All' : s}
+            </button>
           ))}
         </div>
-      </section>
+        {/* Position */}
+        <div className="flex gap-2 flex-wrap">
+          {['all','G','F','C'].map(p => (
+            <button key={p} onClick={() => setPosFilter(p)}
+              className={`font-condensed font-bold text-xs tracking-widest uppercase px-4 py-2.5 rounded-full transition-all ${posFilter === p ? 'bg-[#F5A623] text-black' : 'bg-[#1A1A1A] text-[#8A8A8A] hover:text-white'}`}>
+              {p === 'all' ? 'All Pos' : p}
+            </button>
+          ))}
+        </div>
+      </div>
 
-      <div className="section-divider mx-4 sm:mx-6 lg:mx-8 max-w-7xl xl:mx-auto" />
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16"><NewsletterSignup variant="hero" /></section>
-      <div className="section-divider mx-4 sm:mx-6 lg:mx-8 max-w-7xl xl:mx-auto" />
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16"><SponsorCTA variant="section" /></section>
-    </>
+      {/* Count */}
+      <p className="text-[#555] font-condensed text-sm mb-4">{filtered.length} players</p>
+
+      {/* Table */}
+      <div className="bg-[#111] rounded-2xl border border-[#1A1A1A] overflow-hidden">
+        {/* Header row */}
+        <div className="grid grid-cols-[48px_1fr_80px_1fr_1fr_120px] px-4 py-3 border-b border-[#1A1A1A] bg-[#0A0A0A]">
+          <span className="font-condensed font-bold text-[#555] text-xs tracking-widest uppercase">#</span>
+          <span className="font-condensed font-bold text-[#555] text-xs tracking-widest uppercase">Player</span>
+          <span className="font-condensed font-bold text-[#555] text-xs tracking-widest uppercase">Pos</span>
+          <span className="font-condensed font-bold text-[#555] text-xs tracking-widest uppercase">From</span>
+          <span className="font-condensed font-bold text-[#555] text-xs tracking-widest uppercase">To</span>
+          <span className="font-condensed font-bold text-[#555] text-xs tracking-widest uppercase">Status</span>
+        </div>
+
+        {filtered.map((player, i) => (
+          <button key={player.rank} onClick={() => setSelected(selected?.rank === player.rank ? null : player)}
+            className={`w-full grid grid-cols-[48px_1fr_80px_1fr_1fr_120px] px-4 py-3.5 border-b border-[#1A1A1A] last:border-0 hover:bg-[#1A1A1A] transition-colors text-left items-center ${selected?.rank === player.rank ? 'bg-[#1A1A1A]' : ''}`}>
+            {/* Rank */}
+            <span className="font-display text-[#F5A623] text-lg">{player.rank}</span>
+            {/* Name */}
+            <span className="font-condensed font-bold text-white text-sm">{player.name}</span>
+            {/* Pos */}
+            <span className="font-condensed text-[#8A8A8A] text-sm">{player.pos}</span>
+            {/* From */}
+            <div className="flex items-center gap-2">
+              {getLogo(player.from) && <img src={getLogo(player.from)!} alt={player.from} className="w-7 h-7 object-contain flex-shrink-0" />}
+              <span className="font-condensed text-[#C4C4C4] text-sm hidden md:block">{player.from}</span>
+            </div>
+            {/* To */}
+            <div className="flex items-center gap-2">
+              {player.status === 'NBA Draft' ? (
+                <span className="font-condensed font-bold text-purple-400 text-sm">NBA Draft</span>
+              ) : player.status === 'Withdrawn' ? (
+                <span className="font-condensed font-bold text-yellow-400 text-sm">Staying</span>
+              ) : (
+                <>
+                  {getLogo(player.to) && <img src={getLogo(player.to)!} alt={player.to} className="w-7 h-7 object-contain flex-shrink-0" />}
+                  <span className="font-condensed text-[#C4C4C4] text-sm hidden md:block">{player.to}</span>
+                </>
+              )}
+            </div>
+            {/* Status */}
+            <span className={`inline-flex font-condensed font-bold text-[10px] tracking-widest uppercase px-2.5 py-1 rounded-full border w-fit ${STATUS_STYLES[player.status]}`}>
+              {player.status}
+            </span>
+          </button>
+        ))}
+      </div>
+
+      {/* Player detail panel */}
+      {selected && (
+        <div className="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4" onClick={() => setSelected(null)}>
+          <div className="bg-[#111] border border-[#1A1A1A] rounded-2xl p-8 max-w-md w-full" onClick={e => e.stopPropagation()}>
+            <div className="flex items-start justify-between mb-6">
+              <div>
+                <div className="flex items-center gap-2 mb-1">
+                  <span className="font-display text-[#F5A623] text-2xl">#{selected.rank}</span>
+                  <span className={`font-condensed font-bold text-[10px] tracking-widest uppercase px-2.5 py-1 rounded-full border ${STATUS_STYLES[selected.status]}`}>{selected.status}</span>
+                </div>
+                <h2 className="font-display text-white text-3xl tracking-wider">{selected.name}</h2>
+                <p className="text-[#8A8A8A] font-condensed text-sm mt-1">{selected.pos}</p>
+              </div>
+              <button onClick={() => setSelected(null)} className="text-[#555] hover:text-white font-condensed text-xl">✕</button>
+            </div>
+
+            {/* From → To */}
+            <div className="flex items-center justify-between bg-[#1A1A1A] rounded-xl p-4 mb-6">
+              <div className="flex flex-col items-center gap-2">
+                {getLogo(selected.from) && <img src={getLogo(selected.from)!} alt={selected.from} className="w-14 h-14 object-contain" />}
+                <span className="text-[#8A8A8A] font-condensed text-xs text-center">{selected.from}</span>
+                <span className="text-[#555] font-condensed text-[10px] uppercase tracking-widest">From</span>
+              </div>
+              <div className="text-[#F5A623] font-display text-2xl">→</div>
+              <div className="flex flex-col items-center gap-2">
+                {selected.status === 'NBA Draft' ? (
+                  <div className="w-14 h-14 rounded-full bg-purple-900/40 flex items-center justify-center">
+                    <span className="text-purple-400 font-display text-lg">NBA</span>
+                  </div>
+                ) : selected.status === 'Withdrawn' ? (
+                  getLogo(selected.to) && <img src={getLogo(selected.to)!} alt={selected.to} className="w-14 h-14 object-contain" />
+                ) : (
+                  getLogo(selected.to) && <img src={getLogo(selected.to)!} alt={selected.to} className="w-14 h-14 object-contain" />
+                )}
+                <span className="text-[#8A8A8A] font-condensed text-xs text-center">{selected.status === 'NBA Draft' ? 'NBA Draft' : selected.to}</span>
+                <span className="text-[#555] font-condensed text-[10px] uppercase tracking-widest">To</span>
+              </div>
+            </div>
+
+            {/* Stats */}
+            {(selected.ppg || selected.rpg || selected.apg) ? (
+              <div>
+                <p className="text-[#555] font-condensed text-xs tracking-widest uppercase mb-3">2024-25 Stats</p>
+                <div className="grid grid-cols-3 gap-3">
+                  {selected.ppg !== undefined && (
+                    <div className="bg-[#1A1A1A] rounded-lg p-3 text-center">
+                      <div className="font-display text-[#F5A623] text-2xl">{selected.ppg}</div>
+                      <div className="text-[#555] font-condensed text-xs uppercase tracking-wider mt-1">PPG</div>
+                    </div>
+                  )}
+                  {selected.rpg !== undefined && (
+                    <div className="bg-[#1A1A1A] rounded-lg p-3 text-center">
+                      <div className="font-display text-[#F5A623] text-2xl">{selected.rpg}</div>
+                      <div className="text-[#555] font-condensed text-xs uppercase tracking-wider mt-1">RPG</div>
+                    </div>
+                  )}
+                  {selected.apg !== undefined && (
+                    <div className="bg-[#1A1A1A] rounded-lg p-3 text-center">
+                      <div className="font-display text-[#F5A623] text-2xl">{selected.apg}</div>
+                      <div className="text-[#555] font-condensed text-xs uppercase tracking-wider mt-1">APG</div>
+                    </div>
+                  )}
+                </div>
+                {(selected.fgPct || selected.threePct) && (
+                  <div className="grid grid-cols-3 gap-3 mt-3">
+                    {selected.spg !== undefined && (
+                      <div className="bg-[#1A1A1A] rounded-lg p-3 text-center">
+                        <div className="font-display text-[#F5A623] text-2xl">{selected.spg}</div>
+                        <div className="text-[#555] font-condensed text-xs uppercase tracking-wider mt-1">SPG</div>
+                      </div>
+                    )}
+                    {selected.fgPct !== undefined && (
+                      <div className="bg-[#1A1A1A] rounded-lg p-3 text-center">
+                        <div className="font-display text-[#F5A623] text-2xl">{selected.fgPct}%</div>
+                        <div className="text-[#555] font-condensed text-xs uppercase tracking-wider mt-1">FG%</div>
+                      </div>
+                    )}
+                    {selected.threePct !== undefined && (
+                      <div className="bg-[#1A1A1A] rounded-lg p-3 text-center">
+                        <div className="font-display text-[#F5A623] text-2xl">{selected.threePct}%</div>
+                        <div className="text-[#555] font-condensed text-xs uppercase tracking-wider mt-1">3P%</div>
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            ) : (
+              <p className="text-[#555] font-condensed text-sm text-center py-4">Stats coming soon</p>
+            )}
+          </div>
+        </div>
+      )}
+    </div>
   );
 }
