@@ -1,5415 +1,988 @@
 {
-  "conferences": [
+  "teams": [
     {
-      "name": "ACC",
-      "teams": [
-        {
-          "name": "Boston College",
-          "players": [
-            {
-              "name": "Jack Bailey",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Money Williams",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ernest Shelton",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Brandon Benjamin",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Andrija Bukumirovic",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Armoni Zeigler",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Colby Duggan",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Luke Hunger",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "JB Frankel",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Aly Tounkara",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jacob Furphy",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Zak Smrekar",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "California",
-          "players": [
-            {
-              "name": "Lee Dort",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Mantas Kocanas",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Sammie Yeanay",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dhiaukuei Manyiel Dut",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jovani Ruff",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Michael Cooper",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Nojus Indrusaitis",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jordan Ross",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jake Wilkins",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Amier Ali",
-              "pos": "G/F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Nicolas Mitrovic",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Fr."
-            },
-            {
-              "name": "Gabe Sularski",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "Dionycius Bakare",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Clemson",
-          "players": [
-            {
-              "name": "Carter Welling",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ace Buckner",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Zac Foster",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Chase Thompson",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Dallas Thomas",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Trent Steinour",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Blake Davidson",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Dylan Faulkner",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Cole Certa",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "David Fuchs",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Liutauras Lelevicius",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "William Stevens",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Fr."
-            },
-            {
-              "name": "Harris Reynolds",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Amare James",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Duke",
-          "players": [
-            {
-              "name": "Patrick Ngongba II",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Caleb Foster",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Cayden Boozer",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Dame Sarr",
-              "pos": "G/F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Sebastian Wilkins",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "John Blackwell",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jacob Theodosiou",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Drew Scharnowski",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Cameron Williams",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Fr."
-            },
-            {
-              "name": "Deron Rippey Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            },
-            {
-              "name": "Bryson Howard",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Joaquim Boumtje Boumtje",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Fr."
-            },
-            {
-              "name": "Maxime Meyer",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Florida State",
-          "players": [
-            {
-              "name": "AJ Swinton",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kameron Taylor",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Sebastian Rancik",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Anthony Robinson II",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Shon Abaev",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Cooper Schwieger",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Marcis Ponder",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Fr."
-            },
-            {
-              "name": "Martay Barnes",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Brandon Bass Jr.",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "Collin Paul",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Jasen Lopez",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Georgia Tech",
-          "players": [
-            {
-              "name": "Kam Craft",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Cole Kirouac",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Nasir Whitlock",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Colby Garland",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Victor Valdes",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jackson Fields",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Courtland Muldrew",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Kayden Allen",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Kaiden Bailey",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            },
-            {
-              "name": "Moustapha Diop",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Fr."
-            },
-            {
-              "name": "Haiden Harper",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Louisville",
-          "players": [
-            {
-              "name": "Adrian Wooley",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "London Johnson",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jackson Shelstad",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "De'Shayne Montgomery",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Flory Bidunga",
-              "pos": "C",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Alvaro Folgueiras",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Karter Knox",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Gabe Dynes",
-              "pos": "C",
-              "ht": "7-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Obinna Ekezie",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Fr."
-            },
-            {
-              "name": "Boyuan Zhang",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Isaac Ellis",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Miami FL",
-          "players": [
-            {
-              "name": "Shelton Henderson",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Dante Allen",
-              "pos": "G/F",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "DeSean Goode",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Brent Bland",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Acaden Lewis",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "So."
-            },
-            {
-              "name": "Somto Cyril",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Nick Dorn",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Quin Berger",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Caleb Gaskins",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Chris Birden",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "NC State",
-          "players": [
-            {
-              "name": "Paul McNeil Jr.",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Zymicah Wilkins",
-              "pos": "C",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Preston Edmead",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Christian Hammond",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kyle Evans",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Darius Adams",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Eemeli Yalaho",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Comeh Emuobor",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "RJ Keene II",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kingston Whitty",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "North Carolina",
-          "players": [
-            {
-              "name": "Jarin Stevenson",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Isaiah Denis",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Jaydon Young",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Terrence Brown",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Neoklis Avdalas",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Matt Able",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Cade Bennerman",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Maximo Adams",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Fr."
-            },
-            {
-              "name": "Kevin Thomas",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Sayon Keita",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Fr."
-            },
-            {
-              "name": "Malloy Smith",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Notre Dame",
-          "players": [
-            {
-              "name": "Braeden Shrewsberry",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Brady Koehler",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Logan Imes",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tommy Ahneman",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Logan Duncomb",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ethan Roberts",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Yoro Diallo",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Devin Brown",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Braeden Smith",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Bryce Dortch",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jon Sanderson",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Pittsburgh",
-          "players": [
-            {
-              "name": "Macari Moore",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "A'lahn Sumler",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kraig Gilbert",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Armani Mighty",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Timofei Rudovskii",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Baye Ndongo",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Naithan George",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Colin Hawkins",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jonathan Powell",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jalil Bethea",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dominique Diomande",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ibrahim Souare",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Chase Foster",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Jermal Jones",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "SMU",
-          "players": [
-            {
-              "name": "Jaden Toombs",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Jermaine O'Neal Jr.",
-              "pos": "G/F",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Nigel Walls",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Billy White III",
-              "pos": "G/F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Rowan Brumbaugh",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "David Terrell Jr.",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Johan Munch",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jacob Patrick",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jaylin Stewart",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Nic Codie",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Cameron Lomax",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Stanford",
-          "players": [
-            {
-              "name": "Aidan Cammann",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Donavin Young",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Evan Stinson",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kristers Skrinda",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Tallis Toure",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Anthony Batson Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Myles Jones",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Austin Maurer",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Aziz Olajuwon",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Julius Price",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Isaiah Rogers",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            },
-            {
-              "name": "Elias Obenyah",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Fr."
-            },
-            {
-              "name": "Drew Anderson",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Syracuse",
-          "players": [
-            {
-              "name": "Kiyan Anthony",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Sadiq White Jr.",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Gavin Doty",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Aiden Tobiason",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Francis Folefac",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Luke Wilson",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Tasman Goodrick",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Garwey Dual",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ryan Moesch",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            },
-            {
-              "name": "Abdramane Siby",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Virginia",
-          "players": [
-            {
-              "name": "Thijs De Ridder",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Sam Lewis",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Chance Mallory",
-              "pos": "G",
-              "ht": "5-10",
-              "yr": "So."
-            },
-            {
-              "name": "Johann Grunloh",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Elijah Gertrude",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Martin Carrere",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Silas Barksdale",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Jurian Dixon",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Christian Harmon",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kalu Anya",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Favour Ibe",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Virginia Tech",
-          "players": [
-            {
-              "name": "Amani Hansberry",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ben Hammond",
-              "pos": "G",
-              "ht": "5-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Tyler Johnson",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Sin'Cere Jones",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Solomon Davis",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Ethan Copeland",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Isaiah Elohim",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jaylen Curry",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kuol Atak",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Miles Heide",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Musa Sagnia",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "So."
-            }
-          ]
-        },
-        {
-          "name": "Wake Forest",
-          "players": [
-            {
-              "name": "Isaac Carr",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Kevair Kennedy",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Justin Ray",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ring Nyeri",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Xander Pintelon",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jamari McDowell",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Antonio Dorn",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Gallagher Placide",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Gavin Placide",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        }
+      "name": "Maryland",
+      "conference": "Big Ten",
+      "coach": "Buzz Williams",
+      "espnId": "120",
+      "players": [
+        {"name":"D.J. Wagner","pos":"G","height":"6-4","year":"Sr.","ppg":7.4,"rpg":1.6,"apg":2.5,"notes":"Arkansas transfer"},
+        {"name":"Andre Mills","pos":"G","height":"6-4","year":"R-So.","ppg":12.2,"rpg":4.1,"apg":1.6,"notes":""},
+        {"name":"Baba Oladotun","pos":"F","height":"6-10","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #11, 5-star"},
+        {"name":"Pharrel Payne","pos":"F/C","height":"6-9","year":"Sr.","ppg":17.5,"rpg":7.2,"apg":1.4,"notes":"Likely medical redshirt"},
+        {"name":"Tomislav Buljan","pos":"F/C","height":"6-9","year":"So.","ppg":13.2,"rpg":10.4,"apg":1.5,"notes":"New Mexico transfer"},
+        {"name":"Bishop Boswell","pos":"G","height":"6-4","year":"Jr.","ppg":6.4,"rpg":4.4,"apg":3.1,"notes":"Tennessee transfer"},
+        {"name":"Michael McNair","pos":"G","height":"6-5","year":"Sr.","ppg":16.9,"rpg":5.1,"apg":2.1,"notes":"Boston University transfer"},
+        {"name":"Kaden House","pos":"G","height":"6-3","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #43, 4-star"},
+        {"name":"Maban Jabriel","pos":"F","height":"6-9","year":"Jr.","ppg":7.7,"rpg":3.8,"apg":1.0,"notes":"Queens transfer"}
       ]
     },
     {
-      "name": "Big 12",
-      "teams": [
-        {
-          "name": "Arizona",
-          "players": [
-            {
-              "name": "Motiejus Krivas",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ivan Kharchenkov",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Bryce James",
-              "pos": "F",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Mabil Mawut",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ugnius Jarusevicius",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Derek Dixon",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "JJ Mandaquit",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "So."
-            },
-            {
-              "name": "Evan Otten",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Caleb Holt",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "Cameron Holmes",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Arizona State",
-          "players": [
-            {
-              "name": "Bryce Ford",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Vijay Wallace",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Paulius Murauskas",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Joel Foxwell",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ben Defty",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Dillan Shaw",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Emmanuel Innocenti",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "JRob Croy",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Baylor",
-          "players": [
-            {
-              "name": "Isaac Williams IV",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Jr."
-            },
-            {
-              "name": "Juslin Bodo-Bodo",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Andre Iguodala II",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Maikcol Perez",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Mayo Soyoye",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Brett Decker Jr.",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kayden Mingo",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Isaac Celiscar",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Evan Chatman",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dylan Mingo",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Elijah Williams",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "BYU",
-          "players": [
-            {
-              "name": "Rob Wright III",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Jr."
-            },
-            {
-              "name": "Khadim Mboup",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Brody Kozlowski",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Nate Pickens",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Collin Chandler",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Tyler Betsey",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jake Wahlin",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Bruce Branch III",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Dean Rueckert",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Cincinnati",
-          "players": [
-            {
-              "name": "Tyler Tejada",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tylen Riley",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Riley Allenspach",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Trevian Carson",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Myles Colvin",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Akai Fleming",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Eric Mahaffey",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jayden Hastings",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Adlan Elamin",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            }
-          ]
-        },
-        {
-          "name": "Colorado",
-          "players": [
-            {
-              "name": "Barrington Hargress",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jalin Holland",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Josiah Sanders",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Ian Inman",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Justin Neely",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Noah Feddersen",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "David Gomez",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Rider Portela",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Houston",
-          "players": [
-            {
-              "name": "Joseph Tugler",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Mercy Miller",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Chase McCarty",
-              "pos": "F",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Bryce Jackson",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Kordel Jefferson",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Corey Hadnot II",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Delrecco Gillespie",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Dedan Thomas Jr.",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Braden East",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Arafan Diane",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Fr."
-            },
-            {
-              "name": "Ikenna Alozie",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Tyus Thomas",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Iowa State",
-          "players": [
-            {
-              "name": "Killyan Toure",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Blake Buchanan",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jamarion Batemon",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Dominykas Pleta",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Xzavion Mitchell",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Jaquan Johnson",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ryan Prather Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Leon Bond III",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Tre Singleton",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Taj Manning",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Christian Wiggins",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Yusef Gray Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Kansas",
-          "players": [
-            {
-              "name": "Kohl Rosario",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Paul Mbiya",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Dennis Parker Jr.",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Leroy Blyden Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Keanu Dawes",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Christian Reeves",
-              "pos": "C",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Tyran Stokes",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "Taylen Kinney",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "Davion Adkins",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            },
-            {
-              "name": "Trent Perry",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Luke Barnett",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Kansas State",
-          "players": [
-            {
-              "name": "Andrej Kostic",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Brandon Rechsteiner",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Montana Wheeler",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jaden Schutt",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "JT Rock",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dezdrick Lindsay",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Isaiah Abraham",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Timotej Malovec",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Pape N'Diaye",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "Jr."
-            },
-            {
-              "name": "Brock Vice",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            }
-          ]
-        },
-        {
-          "name": "Oklahoma State",
-          "players": [
-            {
-              "name": "Kanye Clary",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "Sr."
-            },
-            {
-              "name": "Benjamin Ahmed",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Ryan Crotty",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Mekhi Ragland",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Jordan Burks",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jacob Walker",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Luka Bogavac",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Julius Halaifonua",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Jr."
-            },
-            {
-              "name": "Andrija Grbovic",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Latrell Allmond",
-              "pos": "C",
-              "ht": "6-9",
-              "yr": "Fr."
-            },
-            {
-              "name": "Anthony Felesi",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "TCU",
-          "players": [
-            {
-              "name": "Xavier Edmonds",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Micah Robinson",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Brock Harding",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tanner Toolson",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Gavin Sykes",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "DJ Thomas",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Luke Bamgboye",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            }
-          ]
-        },
-        {
-          "name": "Texas Tech",
-          "players": [
-            {
-              "name": "JT Toppin",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Josiah Moseley",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Marial Akuentok",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "LaTrell Hoover",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Dra Gibbs-Lawhorn",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Cruz Davis",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Damarion Dennis",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dakari Spear",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "UCF",
-          "players": [
-            {
-              "name": "Arturo Dean",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jon Bol",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Carmelo Pacheco",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Elijah Hulsewe",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tanner Jones",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Dior Johnson",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Lewis Walker",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Isaiah Malone",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Cayden Vasko",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Mister Dean",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Churchill Abass",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ladarius Givan",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Utah",
-          "players": [
-            {
-              "name": "Lucas Langarita",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Obomate Abbey",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "So."
-            },
-            {
-              "name": "Jackson Holcombe",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "TJ Burch",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Malek Gomma",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Taison Chatman",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Styles Clemmons",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "West Virginia",
-          "players": [
-            {
-              "name": "Amir Jenkins",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "So."
-            },
-            {
-              "name": "Evans Barning Jr.",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Finley Bizjack",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Mouhamed Sylla",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Seydou Traore",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Martin Somerville",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Joson Sanon",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Miles Sadler",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Amadou Seini",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Fr."
-            },
-            {
-              "name": "Aliou Dioum",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Keonte Greybear",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        }
+      "name": "Indiana",
+      "conference": "Big Ten",
+      "coach": "Darian DeVries",
+      "espnId": "84",
+      "players": [
+        {"name":"Markus Burton","pos":"G","height":"6-0","year":"R-Jr.","ppg":18.5,"rpg":2.8,"apg":3.7,"notes":"Notre Dame transfer"},
+        {"name":"Bryce Lindsay","pos":"G","height":"6-3","year":"R-Jr.","ppg":12.3,"rpg":2.1,"apg":2.1,"notes":"Villanova transfer"},
+        {"name":"Darren Harris","pos":"G","height":"6-5","year":"Jr.","ppg":3.5,"rpg":0.9,"apg":0.4,"notes":"Duke transfer"},
+        {"name":"Aiden Sherrell","pos":"F","height":"6-11","year":"Jr.","ppg":11.2,"rpg":6.2,"apg":1.1,"notes":"Alabama transfer"},
+        {"name":"Samet Yigitoglu","pos":"C","height":"7-2","year":"Jr.","ppg":10.7,"rpg":7.9,"apg":1.6,"notes":"SMU transfer"},
+        {"name":"Jaeden Mustaf","pos":"G","height":"6-6","year":"Jr.","ppg":10.4,"rpg":4.3,"apg":2.4,"notes":"Georgia Tech transfer"},
+        {"name":"Trent Sisley","pos":"F","height":"6-8","year":"So.","ppg":4.2,"rpg":2.8,"apg":0.4,"notes":""},
+        {"name":"Vaughn Karvala","pos":"F","height":"6-7","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #51, 4-star"},
+        {"name":"Trevor Manhertz","pos":"F","height":"6-8","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #65, 4-star"}
       ]
     },
     {
-      "name": "Big Ten",
-      "teams": [
-        {
-          "name": "Illinois",
-          "players": [
-            {
-              "name": "David Mirkovic",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Andrej Stojakovic",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tomislav Ivisic",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Zvonimir Ivisic",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jake Davis",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jason Jakstys",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Stefan Vaaks",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Quentin Coleman",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Lucas Morillo",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Landon Davis",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Ethan Brown",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Indiana",
-          "players": [
-            {
-              "name": "Trent Sisley",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Markus Burton",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "Sr."
-            },
-            {
-              "name": "Bryce Lindsay",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Aiden Sherrell",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Samet Yigitoglu",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jaeden Mustaf",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Darren Harris",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Vaughn Karvala",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Trevor Manhertz",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Prince-Alexander Moody",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Iowa",
-          "players": [
-            {
-              "name": "Cooper Koch",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Cam Manyawu",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kael Combs",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tate Sage",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Isaia Howard",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Trevin Jirak",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Joey Matteoni",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Trey Thompson",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ty'Reek Coleman",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Andrew McKeever",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ethan Harris",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Maryland",
-          "players": [
-            {
-              "name": "Andre Mills",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Guillermo Del Pino",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "George Turkson Jr.",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Rakease Passmore",
-              "pos": "G/F",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Michael McNair",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tomislav Buljan",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Maban Jabriel",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "DJ Wagner",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Bishop Boswell",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Robert Jennings II",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Babatunde Oladotun",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Kaden House",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Austin Brown",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Michigan",
-          "players": [
-            {
-              "name": "Elliot Cadeau",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Trey McKenney",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "L.J. Cason",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Oscar Goodman",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ricky Liburd",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Moustapha Thiam",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "JP Estrella",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jalen Reed",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Brandon McCoy",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Quinn Costello",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Fr."
-            },
-            {
-              "name": "Lincoln Cosby",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Michigan State",
-          "players": [
-            {
-              "name": "Jeremy Fears Jr.",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Coen Carr",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kur Teng",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jordan Scott",
-              "pos": "G/F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Cam Ward",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Kaleb Glenn",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jesse McCulloch",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Anton Bonke",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jasiah Jervis",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "Ethan Taylor",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Fr."
-            },
-            {
-              "name": "Carlos Medlock Jr.",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Fr."
-            },
-            {
-              "name": "Julius Avent",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Minnesota",
-          "players": [
-            {
-              "name": "Jaylen Crocker-Johnson",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Isaac Asuma",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Bobby Durkin",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Grayson Grove",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kai Shinholster",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Malachi Palmer",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kyan Evans",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Winters Grady",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Malick Kordel",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "So."
-            },
-            {
-              "name": "Nolan Groves",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            }
-          ]
-        },
-        {
-          "name": "Nebraska",
-          "players": [
-            {
-              "name": "Pryce Sandfort",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Braden Frager",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Cale Jacobsen",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Leo Curtis",
-              "pos": "F/C",
-              "ht": "7-2",
-              "yr": "So."
-            },
-            {
-              "name": "Connor Essegian",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Will Cooper",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Damon Wilkinson",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Sam Orme",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Trevan Leonhardt",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Boden Kapke",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Taj DeGourville",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Colin Rice",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Northwestern",
-          "players": [
-            {
-              "name": "Angelo Ciaravino",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jake West",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Phoenix Gill",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Jack Karasinski",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "LA Pratt",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Colin Smith",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Luke McEldon",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Okku Federiko",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Aleksej Kostic",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Jayden Hodge",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Symon Ghai",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Ohio State",
-          "players": [
-            {
-              "name": "John Mobley Jr.",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Amare Bynum",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Josh Ojianwuna",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Ivan Njegovan",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Myles Herro",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Jimmie Williams",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Justin Pippen",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Curtis Givens III",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Andrija Jelavic",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Anthony Thompson",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Alex Smith",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Oregon",
-          "players": [
-            {
-              "name": "Sean Stewart",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Fred Payne",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tyrone Riley IV",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Andrew Meadow",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Pharaoh Compton",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Taylor Bol Bowen",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jasper Johnson",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Jerry Easter II",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Dwayne Aristode",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Tajh Ariza",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Kendre Harrison",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Seven Spurlock",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Penn State",
-          "players": [
-            {
-              "name": "Ivan Juric",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Reggie Grodin",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Brant Byers",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Roberts Blums",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jay Rodgers",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Tim Oboh",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Roko Prkacin",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Fr."
-            },
-            {
-              "name": "Francois Wibaut",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Purdue",
-          "players": [
-            {
-              "name": "C.J. Cox",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Daniel Jacobsen",
-              "pos": "F/C",
-              "ht": "7-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Omer Mayer",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Gicarri Harris",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jack Benter",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Raleigh Burgess",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Antione West Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Caden Pierce",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Luke Ertel",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Fr."
-            },
-            {
-              "name": "Sinan Huan",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Fr."
-            },
-            {
-              "name": "Jacob Webber",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Rivers Knight",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Rutgers",
-          "players": [
-            {
-              "name": "Tariq Francis",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Darren Buchanan Jr.",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jamichael Davis",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kaden Powers",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Lino Mark",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "So."
-            },
-            {
-              "name": "Gevonte Ware",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Darin Smith Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Rasheed Jones",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Christian Gurdak",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Will Sydnor",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dorin Buca",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Imahri Wooten",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "UCLA",
-          "players": [
-            {
-              "name": "Trent Perry",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Eric Dailey Jr.",
-              "pos": "G/F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Xavier Booker",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Brandon Williams",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Eric Freeny",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Markell Alston",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "So."
-            },
-            {
-              "name": "Jaylen Petty",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "So."
-            },
-            {
-              "name": "Filip Jovic",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Azavier Robinson",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "So."
-            },
-            {
-              "name": "Sergej Macura",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Joe Philon",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "USC",
-          "players": [
-            {
-              "name": "Rodney Rice",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Alijah Arenas",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Jacob Cofie",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Isaac Bruns",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jalen Cox",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "KJ Lewis",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Joshua Hughes",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Eric Reibe",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "So."
-            },
-            {
-              "name": "Christian Collins",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Adonis Ratliff",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Fr."
-            },
-            {
-              "name": "Darius Ratliff",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Washington",
-          "players": [
-            {
-              "name": "Wesley Yates III",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Lathan Sommerville",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jasir Rencher",
-              "pos": "F",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Nikola Dzepina",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Ryan Beasley",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "LeJuan Watts",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Parker Friedrichsen",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Steele Venters",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Lattimore Ford",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Wisconsin",
-          "players": [
-            {
-              "name": "Nolan Winter",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "Sr."
-            },
-            {
-              "name": "Austin Rapp",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jack Janicki",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Hayden Jones",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Zach Kinziger",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Will Garlock",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Eian Elmer",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Trey Autry",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Victory Onuetu",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            }
-          ]
-        }
+      "name": "Michigan",
+      "conference": "Big Ten",
+      "coach": "Mike Boynton",
+      "espnId": "130",
+      "players": [
+        {"name":"Elliot Cadeau","pos":"G","height":"6-1","year":"Sr.","ppg":10.1,"rpg":2.6,"apg":5.7,"notes":""},
+        {"name":"Trey McKenney","pos":"G","height":"6-4","year":"So.","ppg":9.5,"rpg":2.7,"apg":0.9,"notes":""},
+        {"name":"Brandon McCoy","pos":"G","height":"6-5","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #14, 5-star"},
+        {"name":"J.P. Estrella","pos":"F/C","height":"6-11","year":"R-Jr.","ppg":10.2,"rpg":5.4,"apg":0.8,"notes":"Tennessee transfer"},
+        {"name":"Moustapha Thiam","pos":"C","height":"7-2","year":"Jr.","ppg":12.8,"rpg":7.1,"apg":0.5,"notes":"Cincinnati transfer"},
+        {"name":"Jalen Reed","pos":"F","height":"6-10","year":"Sr.","ppg":9.5,"rpg":5.7,"apg":0.7,"notes":"LSU transfer"},
+        {"name":"Quinn Costello","pos":"F","height":"6-10","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #44, 4-star"},
+        {"name":"Lincoln Cosby","pos":"F","height":"6-8","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #45, 4-star"}
       ]
     },
     {
-      "name": "Big East",
-      "teams": [
-        {
-          "name": "Butler",
-          "players": [
-            {
-              "name": "Jalen Jackson",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Drayton Jones",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Bryson Cardinal",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Kevin Ndzie",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jordan Ellerbee",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Christian Moore",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Treyson Anderson",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Eduardo Klafke",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Herly Brutus",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "UConn",
-          "players": [
-            {
-              "name": "Braylon Mullins",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Silas Demary Jr.",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jayden Ross",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jacob Ross",
-              "pos": "F",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Nils Machowski",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Nikolas Khamenia",
-              "pos": "G/F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Najai Hines",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Oskar Giltay",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Colben Landrew",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Junior County",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Creighton",
-          "players": [
-            {
-              "name": "Austin Swartz",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jasen Green",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jackson McAndrew",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Isaac Traudt",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Hudson Greer",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Shane Thomas",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Wes Enis",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "BJ Davis",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Oswin Erhunmwunse",
-              "pos": "F/C",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kayden Edwards",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Katrelle Harmon",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Trevon Carter-Givens",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "DePaul",
-          "players": [
-            {
-              "name": "Layden Blocker",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kruz McClure",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Theo Pierre-Justin",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Fabian Flores",
-              "pos": "C",
-              "ht": "7-2",
-              "yr": "So."
-            },
-            {
-              "name": "Amsal Delalic",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kahmare Holmes",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Koree Cotton",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ade Popoola",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Magoon Gwath",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Jr."
-            },
-            {
-              "name": "Wilson Jacques",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Noah Meeusen",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Noah Smith",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Georgetown",
-          "players": [
-            {
-              "name": "Caleb Williams",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kayvaun Mulready",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Seal Diouf",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Gabriel Landeira",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Vyctorius Miller",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Josiah Parker",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Chol Machot",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jaland Lowe",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Elmarko Jackson",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Justin Caldwell",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Marquette",
-          "players": [
-            {
-              "name": "Nigel James Jr.",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "So."
-            },
-            {
-              "name": "Royce Parham",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Adrien Stevens",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "So."
-            },
-            {
-              "name": "Damarius Owens",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Caedin Hamilton",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Michael Phillips II",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Joshua Clark",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ian Miletic",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Nash Walker",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Nolan Minessale",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Sananda Fru",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Alex Egbuonu",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Ethan Johnston",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Providence",
-          "players": [
-            {
-              "name": "Ryan Mela",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ryan Sabol",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Devin Vanterpool",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Malik Mack",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Miles Byrd",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Arrinten Page",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Samson Aletan",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jacob Bannarbie",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dink Pate",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Seton Hall",
-          "players": [
-            {
-              "name": "Trey Parker",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "Jr."
-            },
-            {
-              "name": "Del Jones",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kareem Thomas",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Rodney Brown Jr.",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Roddie Anderson III",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Mayar Wol",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Devin Williams",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Simeon Wilcher",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Chris Nwuli",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Darien Moore",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "St. John's",
-          "players": [
-            {
-              "name": "Ian Jackson",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ruben Prey",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Lefteris Liotopoulos",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Casper Pohto",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Tounde Yessoufou",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Donnie Freeman",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kyle Cuffe Jr.",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Avery Brown",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Theo Edema",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Villanova",
-          "players": [
-            {
-              "name": "Tyler Perkins",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Matt Hodge",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Nico Onyekwere",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "So."
-            },
-            {
-              "name": "Jake Fiegen",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Darryl Simmons II",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Elijah Crawford",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Devin Royal",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kwame Evans Jr.",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Adam Oumiddoch",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Xavier",
-          "players": [
-            {
-              "name": "Jovan Milicevic",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Gabriel Pozzato",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kason Westphal",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Chance Westry",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Mike Nwoko",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tru Washington",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Nikolaos Chitikoudis",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Ruben Dominguez",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Rolyns Aligbe",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Braden Appelhans",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kalek House",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        }
+      "name": "Wisconsin",
+      "conference": "Big Ten",
+      "coach": "Greg Gard",
+      "espnId": "275",
+      "players": [
+        {"name":"Trey Autry","pos":"G","height":"6-4","year":"Sr.","ppg":11.0,"rpg":3.5,"apg":1.5,"notes":"George Washington transfer"},
+        {"name":"Eian Elmer","pos":"G","height":"6-6","year":"Sr.","ppg":12.7,"rpg":5.9,"apg":1.1,"notes":"Miami OH transfer"},
+        {"name":"Austin Rapp","pos":"F","height":"6-10","year":"Jr.","ppg":9.7,"rpg":4.0,"apg":1.6,"notes":""},
+        {"name":"Nolan Winter","pos":"F","height":"7-0","year":"Sr.","ppg":13.1,"rpg":8.5,"apg":1.5,"notes":""},
+        {"name":"Victory Onuetu","pos":"F","height":"6-11","year":"So.","ppg":4.7,"rpg":6.9,"apg":0.4,"notes":"Hofstra transfer"},
+        {"name":"Owen Foxwell","pos":"G","height":"6-2","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"Australian"}
       ]
     },
     {
-      "name": "SEC",
-      "teams": [
-        {
-          "name": "Alabama",
-          "players": [
-            {
-              "name": "Amari Allen",
-              "pos": "G/F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "London Jemison",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Keitenn Bristow",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Collins Onyejiaka",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Drew Fielder",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Brandon Garrison",
-              "pos": "F/C",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jamarion Davis-Fleming",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Jaxon Richardson",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "Qayden Samuels",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Fr."
-            },
-            {
-              "name": "Tarris Bouie",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Arkansas",
-          "players": [
-            {
-              "name": "Billy Richmond III",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Isaiah Sealy",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Paulo Semedo",
-              "pos": "F",
-              "ht": "7-1",
-              "yr": "So."
-            },
-            {
-              "name": "Jeremiah Wilkinson",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Jr."
-            },
-            {
-              "name": "Cooper Bowser",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jordan Smith",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            },
-            {
-              "name": "JaShawn Andrews",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Abdou Toure",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Fr."
-            },
-            {
-              "name": "Miikka Muurinen",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Maper Maker",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Auburn",
-          "players": [
-            {
-              "name": "Tahaad Pettiford",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kevin Overton",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Simon Walker",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Adam Olsen",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Thomas Dowd",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Bukky Oboye",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Owen Freeman",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Caleb Williams",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Florida",
-          "players": [
-            {
-              "name": "Thomas Haugh",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Alex Condon",
-              "pos": "F/C",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Boogie Fland",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Rueben Chinyelu",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Urban Klavzar",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Isaiah Brown",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "CJ Ingram",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Viktor Mikic",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Alex Lloyd",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "Alex Kovatchev",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "AJ Brown",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            }
-          ]
-        },
-        {
-          "name": "Georgia",
-          "players": [
-            {
-              "name": "Blue Cain",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Marcus Millender",
-              "pos": "G",
-              "ht": "5-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Kanon Catchings",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kareem Stagg",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Freddie Dilione V",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Brady Dunlap",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "James Scott",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Donovan Williams",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Kentucky",
-          "players": [
-            {
-              "name": "Malachi Moreno",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Kam Williams",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Trent Noah",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Reece Potter",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Sr."
-            },
-            {
-              "name": "Alex Wilkins",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Zoom Diallo",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Justin McBride",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jerone Morton",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Franck Kepnang",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Jr."
-            },
-            {
-              "name": "Mason Williams",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "LSU",
-          "players": [
-            {
-              "name": "Abdi Bashir Jr.",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Austin Nunez",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Mouhamed Dioubate",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Divine Ugochukwu",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Marcio Santos",
-              "pos": "C",
-              "ht": "7-1",
-              "yr": "Fr."
-            },
-            {
-              "name": "Saliou Niang",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Michael Ruzic",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Mississippi State",
-          "players": [
-            {
-              "name": "Josh Hubbard",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "Sr."
-            },
-            {
-              "name": "King Grace",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Tee Bartlett",
-              "pos": "C",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Cameren Paul",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "RJ Johnson",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "ND Okafor",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Tajuan Simpkins",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Thomas Bassong",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Kendyl Sanders",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Tristan Reed",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Fr."
-            },
-            {
-              "name": "Willie Burnett III",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Jalyn Collingwood",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Missouri",
-          "players": [
-            {
-              "name": "Trent Pierce",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Luke Northweather",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Sr."
-            },
-            {
-              "name": "Annor Boateng",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Jr."
-            },
-            {
-              "name": "Trent Burns",
-              "pos": "C",
-              "ht": "7-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Nicholas Randall",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Jordan Crawford",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Cord Stansberry",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jamier Jones",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Kennard Davis Jr.",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Bryson Tiller",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jaylen Carey",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jason Crowe",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Toni Bryant",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Oklahoma",
-          "players": [
-            {
-              "name": "Xzayvier Brown",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Derrion Reid",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Dayton Forsythe",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Jr."
-            },
-            {
-              "name": "Kai Rogers",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Tyler Hendricks",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Pop Isaacs",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Yaak Yaak",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Khani Rooths",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Jr."
-            },
-            {
-              "name": "Quincy Wadley",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Gage Mayfield",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Ole Miss",
-          "players": [
-            {
-              "name": "Ilias Kamardine",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Patton Pinkins",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Adam Clark",
-              "pos": "G",
-              "ht": "5-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Dasear Haskins",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Roman Siulepa",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Santiago Trouet",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Stefan Cicic",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jaron Saulsberry",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "South Carolina",
-          "players": [
-            {
-              "name": "Grant Polk",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Hayden Assemian",
-              "pos": "F",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Kory Mincy",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Shane Blakeney",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jakub Necas",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Jr."
-            },
-            {
-              "name": "Camden Heide",
-              "pos": "G",
-              "ht": "6-7",
-              "yr": "Sr."
-            },
-            {
-              "name": "Aleksas Bieliauskas",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "So."
-            },
-            {
-              "name": "Davion Hannah",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Marcus Johnson",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Tennessee",
-          "players": [
-            {
-              "name": "DeWayne Brown II",
-              "pos": "F/C",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Troy Henderson",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "So."
-            },
-            {
-              "name": "Juke Harris",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "Sr."
-            },
-            {
-              "name": "Dai Dai Ames",
-              "pos": "G",
-              "ht": "6-2",
-              "yr": "Sr."
-            },
-            {
-              "name": "Jalen Haralson",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "So."
-            },
-            {
-              "name": "Tyler Lundblade",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Terrence Hill Jr.",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Miles Rubin",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Jr."
-            },
-            {
-              "name": "Braedan Lue",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Chris Washington Jr.",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Ralph Scott",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Fr."
-            },
-            {
-              "name": "Manny Green",
-              "pos": "G/F",
-              "ht": "6-6",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Texas",
-          "players": [
-            {
-              "name": "Matas Vokietaitis",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Jr."
-            },
-            {
-              "name": "John Clark",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "So."
-            },
-            {
-              "name": "Lewis Obiorah",
-              "pos": "F",
-              "ht": "7-0",
-              "yr": "So."
-            },
-            {
-              "name": "Isaiah Johnson",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "So."
-            },
-            {
-              "name": "David Punch",
-              "pos": "F",
-              "ht": "6-7",
-              "yr": "Jr."
-            },
-            {
-              "name": "Mikey Lewis",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Sr."
-            },
-            {
-              "name": "Elyjah Freeman",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "Jr."
-            },
-            {
-              "name": "Amari Evans",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "So."
-            },
-            {
-              "name": "Austin Goosby",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Bo Ogden",
-              "pos": "G",
-              "ht": "6-5",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Texas A&M",
-          "players": [
-            {
-              "name": "Mackenzie Mgbako",
-              "pos": "F",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Zach Clemence",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jamie Vinson",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jeremiah Green",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "So."
-            },
-            {
-              "name": "PJ Haggerty",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Tyshawn Archie",
-              "pos": "G",
-              "ht": "6-3",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jalen Shelley",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Jalen Reece",
-              "pos": "G",
-              "ht": "6-0",
-              "yr": "So."
-            },
-            {
-              "name": "Cade Phillips",
-              "pos": "F/C",
-              "ht": "6-9",
-              "yr": "Sr."
-            },
-            {
-              "name": "Neiko Mundey",
-              "pos": "G",
-              "ht": "6-1",
-              "yr": "Fr."
-            },
-            {
-              "name": "Josh Irving",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Fr."
-            }
-          ]
-        },
-        {
-          "name": "Vanderbilt",
-          "players": [
-            {
-              "name": "Tyler Tanner",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Chandler Bing",
-              "pos": "G",
-              "ht": "6-6",
-              "yr": "So."
-            },
-            {
-              "name": "Jayden Leverett",
-              "pos": "F",
-              "ht": "6-11",
-              "yr": "So."
-            },
-            {
-              "name": "Ace Glass",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Sr."
-            },
-            {
-              "name": "Bangot Dak",
-              "pos": "C",
-              "ht": "7-0",
-              "yr": "Sr."
-            },
-            {
-              "name": "TO Barrett",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Jr."
-            },
-            {
-              "name": "Sebastian Williams-Adams",
-              "pos": "F",
-              "ht": "6-8",
-              "yr": "So."
-            },
-            {
-              "name": "Berke Buyuktuncel",
-              "pos": "F",
-              "ht": "6-10",
-              "yr": "Sr."
-            },
-            {
-              "name": "Anthony Brown Jr.",
-              "pos": "G",
-              "ht": "6-4",
-              "yr": "Fr."
-            },
-            {
-              "name": "Ethan Mgbako",
-              "pos": "G/F",
-              "ht": "6-7",
-              "yr": "Fr."
-            },
-            {
-              "name": "Jackson Sheffield",
-              "pos": "C",
-              "ht": "6-10",
-              "yr": "Fr."
-            }
-          ]
-        }
+      "name": "Ohio State",
+      "conference": "Big Ten",
+      "coach": "Jake Diebler",
+      "espnId": "194",
+      "players": [
+        {"name":"Justin Pippen","pos":"G","height":"6-4","year":"Jr.","ppg":14.2,"rpg":3.9,"apg":4.6,"notes":"California transfer"},
+        {"name":"John Mobley Jr.","pos":"G","height":"6-2","year":"Jr.","ppg":15.7,"rpg":2.4,"apg":2.8,"notes":""},
+        {"name":"Anthony Thompson","pos":"F","height":"6-9","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #7, 5-star"},
+        {"name":"A'mare Bynum","pos":"F","height":"6-8","year":"So.","ppg":9.7,"rpg":4.9,"apg":1.1,"notes":""},
+        {"name":"Josh Ojianwuna","pos":"F","height":"6-10","year":"R-Sr.","ppg":7.4,"rpg":6.4,"apg":0.6,"notes":"Baylor transfer"},
+        {"name":"Jimmie Williams","pos":"G","height":"6-4","year":"Sr.","ppg":15.1,"rpg":4.5,"apg":2.6,"notes":"Duquesne transfer"},
+        {"name":"Andrija Jelavic","pos":"F","height":"6-11","year":"Jr.","ppg":5.5,"rpg":4.0,"apg":0.7,"notes":"Kentucky transfer"},
+        {"name":"Curtis Givens III","pos":"G","height":"6-3","year":"Jr.","ppg":9.4,"rpg":2.1,"apg":2.3,"notes":"Memphis transfer"}
+      ]
+    },
+    {
+      "name": "Michigan State",
+      "conference": "Big Ten",
+      "coach": "Tom Izzo",
+      "espnId": "127",
+      "players": [
+        {"name":"Jeremy Fears Jr.","pos":"G","height":"6-2","year":"R-Jr.","ppg":15.3,"rpg":2.4,"apg":9.4,"notes":"Returning from NBA Draft"},
+        {"name":"Jordan Scott","pos":"G/F","height":"6-7","year":"So.","ppg":5.9,"rpg":3.0,"apg":1.2,"notes":""},
+        {"name":"Coen Carr","pos":"F","height":"6-5","year":"Sr.","ppg":12.0,"rpg":5.5,"apg":1.2,"notes":""},
+        {"name":"Cam Ward","pos":"F","height":"6-8","year":"So.","ppg":5.2,"rpg":4.2,"apg":0.3,"notes":""},
+        {"name":"Anton Bonke","pos":"C","height":"7-2","year":"Sr.","ppg":10.6,"rpg":8.3,"apg":1.0,"notes":"Charlotte transfer"},
+        {"name":"Kur Teng","pos":"G","height":"6-4","year":"Jr.","ppg":7.5,"rpg":2.0,"apg":1.1,"notes":""},
+        {"name":"Ethan Taylor","pos":"F","height":"7-0","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #28, 4-star"},
+        {"name":"Jasiah Jervis","pos":"G","height":"6-4","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #33, 4-star"}
+      ]
+    },
+    {
+      "name": "Iowa",
+      "conference": "Big Ten",
+      "coach": "Ben McCollum",
+      "espnId": "2294",
+      "players": [
+        {"name":"Ty'Reek Coleman","pos":"G","height":"6-2","year":"So.","ppg":9.8,"rpg":2.7,"apg":1.8,"notes":"Illinois St. transfer"},
+        {"name":"Kael Combs","pos":"G","height":"6-4","year":"Sr.","ppg":6.2,"rpg":2.5,"apg":2.3,"notes":""},
+        {"name":"Cooper Koch","pos":"F","height":"6-8","year":"R-So.","ppg":7.8,"rpg":3.0,"apg":1.1,"notes":""},
+        {"name":"Cam Manyawu","pos":"F","height":"6-9","year":"Sr.","ppg":6.9,"rpg":4.7,"apg":1.0,"notes":""},
+        {"name":"Andrew McKeever","pos":"C","height":"7-3","year":"R-Jr.","ppg":8.2,"rpg":9.2,"apg":1.8,"notes":"Saint Mary's transfer"}
+      ]
+    },
+    {
+      "name": "Purdue",
+      "conference": "Big Ten",
+      "coach": "Matt Painter",
+      "espnId": "2509",
+      "players": [
+        {"name":"Omer Mayer","pos":"G","height":"6-4","year":"So.","ppg":5.6,"rpg":1.1,"apg":1.2,"notes":""},
+        {"name":"C.J. Cox","pos":"G","height":"6-3","year":"Jr.","ppg":8.5,"rpg":2.6,"apg":1.3,"notes":""},
+        {"name":"Caden Pierce","pos":"F","height":"6-7","year":"Sr.","ppg":11.2,"rpg":7.2,"apg":3.2,"notes":"Princeton transfer"},
+        {"name":"Daniel Jacobsen","pos":"C","height":"7-4","year":"Jr.","ppg":5.8,"rpg":3.2,"apg":0.4,"notes":""},
+        {"name":"Jack Benter","pos":"F","height":"6-6","year":"So.","ppg":4.6,"rpg":2.7,"apg":0.9,"notes":""},
+        {"name":"Luke Ertel","pos":"G","height":"6-2","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #41, 4-star"}
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "conference": "Big Ten",
+      "coach": "Fred Hoiberg",
+      "espnId": "158",
+      "players": [
+        {"name":"Trevan Leonhardt","pos":"G","height":"6-6","year":"R-Sr.","ppg":11.9,"rpg":5.4,"apg":6.0,"notes":"Utah Valley transfer"},
+        {"name":"Braden Frager","pos":"G/F","height":"6-7","year":"R-So.","ppg":11.7,"rpg":3.8,"apg":1.0,"notes":""},
+        {"name":"Pryce Sandfort","pos":"G/F","height":"6-7","year":"Sr.","ppg":17.9,"rpg":4.9,"apg":2.0,"notes":""},
+        {"name":"Sam Orme","pos":"F","height":"6-10","year":"R-Jr.","ppg":12.7,"rpg":5.0,"apg":1.8,"notes":"Belmont transfer"},
+        {"name":"Boden Kapke","pos":"F","height":"7-0","year":"Sr.","ppg":10.6,"rpg":5.7,"apg":0.7,"notes":"Boston College transfer"},
+        {"name":"Damon Wilkinson","pos":"F","height":"6-11","year":"R-Jr.","ppg":13.9,"rpg":6.4,"apg":1.3,"notes":"South Dakota St. transfer"}
+      ]
+    },
+    {
+      "name": "Illinois",
+      "conference": "Big Ten",
+      "coach": "Brad Underwood",
+      "espnId": "356",
+      "players": [
+        {"name":"Quentin Coleman","pos":"G","height":"6-4","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #13, 5-star"},
+        {"name":"Stefan Vaaks","pos":"G","height":"6-7","year":"So.","ppg":15.8,"rpg":2.5,"apg":3.2,"notes":"Providence transfer"},
+        {"name":"Andrej Stojakovic","pos":"G","height":"6-7","year":"Sr.","ppg":13.5,"rpg":4.5,"apg":1.0,"notes":""},
+        {"name":"David Mirkovic","pos":"F","height":"6-9","year":"So.","ppg":13.6,"rpg":7.9,"apg":2.7,"notes":""},
+        {"name":"Tomislav Ivisic","pos":"F","height":"7-1","year":"Sr.","ppg":10.2,"rpg":5.7,"apg":1.6,"notes":""},
+        {"name":"Jake Davis","pos":"F","height":"6-6","year":"Sr.","ppg":5.6,"rpg":2.1,"apg":0.7,"notes":""},
+        {"name":"Zvonimir Ivisic","pos":"C","height":"7-2","year":"Sr.","ppg":6.8,"rpg":4.8,"apg":0.3,"notes":""}
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "conference": "Big Ten",
+      "coach": "Niko Medved",
+      "espnId": "135",
+      "players": [
+        {"name":"Kyan Evans","pos":"G","height":"6-2","year":"Sr.","ppg":4.0,"rpg":1.2,"apg":2.5,"notes":"North Carolina transfer"},
+        {"name":"Isaac Asuma","pos":"G","height":"6-3","year":"Jr.","ppg":11.1,"rpg":4.0,"apg":3.8,"notes":""},
+        {"name":"Bobby Durkin","pos":"F","height":"6-7","year":"Sr.","ppg":10.3,"rpg":3.1,"apg":1.9,"notes":""},
+        {"name":"Jaylen Crocker-Johnson","pos":"F","height":"6-8","year":"Sr.","ppg":13.4,"rpg":6.8,"apg":1.8,"notes":""},
+        {"name":"Grayson Grove","pos":"F","height":"6-9","year":"R-So.","ppg":4.1,"rpg":3.1,"apg":1.7,"notes":""},
+        {"name":"Malachi Palmer","pos":"F","height":"6-6","year":"Jr.","ppg":4.6,"rpg":1.7,"apg":0.6,"notes":"Villanova transfer"}
+      ]
+    },
+    {
+      "name": "Northwestern",
+      "conference": "Big Ten",
+      "coach": "Chris Collins",
+      "espnId": "77",
+      "players": [
+        {"name":"Jake West","pos":"G","height":"6-3","year":"So.","ppg":5.3,"rpg":0.8,"apg":2.8,"notes":""},
+        {"name":"LA Pratt","pos":"G","height":"6-5","year":"Sr.","ppg":17.0,"rpg":1.7,"apg":3.3,"notes":"Northeastern transfer"},
+        {"name":"Jack Karasinski","pos":"F","height":"6-7","year":"Sr.","ppg":21.7,"rpg":4.7,"apg":1.2,"notes":"Bellarmine transfer"},
+        {"name":"Colin Smith","pos":"F","height":"6-8","year":"R-Sr.","ppg":11.9,"rpg":4.2,"apg":1.5,"notes":"UC Santa Barbara transfer"},
+        {"name":"Luke McEldon","pos":"F/C","height":"6-10","year":"R-Sr.","ppg":11.7,"rpg":6.2,"apg":1.3,"notes":"Mount St. Mary's transfer"},
+        {"name":"Angelo Ciaravino","pos":"F","height":"6-6","year":"Jr.","ppg":6.3,"rpg":3.9,"apg":1.2,"notes":""}
+      ]
+    },
+    {
+      "name": "Penn State",
+      "conference": "Big Ten",
+      "coach": "Mike Rhoades",
+      "espnId": "213",
+      "players": [
+        {"name":"Dasonte Bowen","pos":"G","height":"6-2","year":"Sr.","ppg":10.9,"rpg":3.0,"apg":4.8,"notes":"St. Bonaventure transfer"},
+        {"name":"Roberts Blums","pos":"G","height":"6-4","year":"Jr.","ppg":12.4,"rpg":3.4,"apg":1.1,"notes":"Davidson transfer"},
+        {"name":"Brant Byers","pos":"G/F","height":"6-8","year":"R-Jr.","ppg":14.2,"rpg":4.1,"apg":0.6,"notes":"Miami OH transfer"},
+        {"name":"Ivan Juric","pos":"F/C","height":"7-0","year":"So.","ppg":10.2,"rpg":5.3,"apg":0.8,"notes":""},
+        {"name":"Jay Rodgers","pos":"G","height":"6-3","year":"Sr.","ppg":11.0,"rpg":2.2,"apg":6.9,"notes":"Central Connecticut transfer"},
+        {"name":"Tim Oboh","pos":"F","height":"6-11","year":"Jr.","ppg":8.5,"rpg":4.9,"apg":0.3,"notes":"Buffalo transfer"},
+        {"name":"Thomas Allard","pos":"F","height":"6-7","year":"Gr.","ppg":13.7,"rpg":4.9,"apg":3.5,"notes":"D-II transfer"}
+      ]
+    },
+    {
+      "name": "Rutgers",
+      "conference": "Big Ten",
+      "coach": "Steve Pikiell",
+      "espnId": "164",
+      "players": [
+        {"name":"Tariq Francis","pos":"G","height":"6-1","year":"Sr.","ppg":16.9,"rpg":2.3,"apg":2.9,"notes":""},
+        {"name":"Jamichael Davis","pos":"G","height":"6-2","year":"Sr.","ppg":7.2,"rpg":2.9,"apg":2.5,"notes":""},
+        {"name":"Darren Buchanan Jr.","pos":"F","height":"6-7","year":"R-Sr.","ppg":8.4,"rpg":3.8,"apg":1.7,"notes":""},
+        {"name":"Christian Gurdak","pos":"F/C","height":"6-9","year":"So.","ppg":5.6,"rpg":4.4,"apg":0.3,"notes":"Virginia Tech transfer"},
+        {"name":"Darin Smith Jr.","pos":"F","height":"6-7","year":"R-Jr.","ppg":20.7,"rpg":5.4,"apg":1.2,"notes":"Central Connecticut transfer"},
+        {"name":"Rasheed Jones","pos":"F","height":"6-6","year":"R-Sr.","ppg":14.8,"rpg":4.6,"apg":2.9,"notes":"Coastal Carolina transfer"},
+        {"name":"Will Sydnor","pos":"F","height":"6-8","year":"Jr.","ppg":13.9,"rpg":6.8,"apg":1.5,"notes":"Manhattan transfer"}
+      ]
+    },
+    {
+      "name": "Washington",
+      "conference": "Big Ten",
+      "coach": "Danny Sprinkle",
+      "espnId": "264",
+      "players": [
+        {"name":"Ryan Beasley","pos":"G","height":"5-11","year":"Sr.","ppg":13.6,"rpg":3.4,"apg":4.0,"notes":"San Francisco transfer"},
+        {"name":"Wesley Yates III","pos":"G","height":"6-4","year":"Jr.","ppg":12.7,"rpg":3.3,"apg":1.3,"notes":""},
+        {"name":"LeJuan Watts","pos":"F","height":"6-6","year":"R-Sr.","ppg":11.8,"rpg":6.0,"apg":2.4,"notes":"Texas Tech transfer"},
+        {"name":"Nikola Dzepina","pos":"F","height":"6-9","year":"So.","ppg":2.6,"rpg":1.3,"apg":0.7,"notes":""},
+        {"name":"Lathan Sommerville","pos":"F/C","height":"6-10","year":"Jr.","ppg":4.3,"rpg":2.6,"apg":0.2,"notes":""},
+        {"name":"Parker Friedrichsen","pos":"G","height":"6-4","year":"Sr.","ppg":10.8,"rpg":2.5,"apg":1.4,"notes":"Davidson transfer"}
+      ]
+    },
+    {
+      "name": "USC",
+      "conference": "Big Ten",
+      "coach": "Eric Musselman",
+      "espnId": "30",
+      "players": [
+        {"name":"Rodney Rice","pos":"G","height":"6-5","year":"Sr.","ppg":20.3,"rpg":3.3,"apg":6.0,"notes":""},
+        {"name":"KJ Lewis","pos":"G","height":"6-4","year":"Sr.","ppg":14.9,"rpg":5.1,"apg":2.5,"notes":"Georgetown transfer"},
+        {"name":"Alijah Arenas","pos":"G","height":"6-6","year":"So.","ppg":14.1,"rpg":2.9,"apg":2.1,"notes":""},
+        {"name":"Jacob Cofie","pos":"F","height":"6-10","year":"Jr.","ppg":9.9,"rpg":6.8,"apg":1.9,"notes":""},
+        {"name":"Eric Reibe","pos":"C","height":"7-1","year":"So.","ppg":6.5,"rpg":3.6,"apg":0.5,"notes":"Connecticut transfer"},
+        {"name":"Jalen Cox","pos":"G","height":"6-3","year":"Sr.","ppg":17.9,"rpg":5.2,"apg":5.3,"notes":"Colgate transfer"},
+        {"name":"Jadis Jones","pos":"F","height":"6-5","year":"Jr.","ppg":15.3,"rpg":8.5,"apg":2.6,"notes":"Lindenwood transfer"},
+        {"name":"Christian Collins","pos":"F","height":"6-9","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #9, 5-star"}
+      ]
+    },
+    {
+      "name": "Oregon",
+      "conference": "Big Ten",
+      "coach": "Dana Altman",
+      "espnId": "2483",
+      "players": [
+        {"name":"Fred Payne","pos":"G","height":"6-1","year":"R-Jr.","ppg":15.8,"rpg":4.2,"apg":2.7,"notes":"Boston College transfer"},
+        {"name":"Jasper Johnson","pos":"G","height":"6-4","year":"So.","ppg":4.9,"rpg":1.1,"apg":1.6,"notes":"Kentucky transfer"},
+        {"name":"Tyrone Riley IV","pos":"G","height":"6-6","year":"Jr.","ppg":12.2,"rpg":4.8,"apg":1.2,"notes":"San Francisco transfer"},
+        {"name":"Dwayne Aristode","pos":"F","height":"6-8","year":"So.","ppg":4.1,"rpg":1.8,"apg":0.8,"notes":"Arizona transfer"},
+        {"name":"Sean Stewart","pos":"F","height":"6-9","year":"Sr.","ppg":6.5,"rpg":5.2,"apg":1.2,"notes":""},
+        {"name":"Pharaoh Compton","pos":"F","height":"6-8","year":"Jr.","ppg":7.5,"rpg":2.8,"apg":0.3,"notes":"San Diego St. transfer"},
+        {"name":"Andrew Meadow","pos":"F","height":"6-7","year":"Sr.","ppg":12.1,"rpg":3.6,"apg":1.0,"notes":"Boise St. transfer"}
+      ]
+    },
+    {
+      "name": "UCLA",
+      "conference": "Big Ten",
+      "coach": "Mick Cronin",
+      "espnId": "26",
+      "players": [
+        {"name":"Trent Perry","pos":"G","height":"6-4","year":"Jr.","ppg":12.6,"rpg":3.0,"apg":2.8,"notes":""},
+        {"name":"Jaylen Petty","pos":"G","height":"6-0","year":"So.","ppg":9.9,"rpg":3.9,"apg":2.2,"notes":"Texas Tech transfer"},
+        {"name":"Eric Dailey Jr.","pos":"F","height":"6-8","year":"Sr.","ppg":11.6,"rpg":5.8,"apg":1.3,"notes":""},
+        {"name":"Filip Jovic","pos":"F","height":"6-8","year":"So.","ppg":5.9,"rpg":4.1,"apg":0.5,"notes":"Auburn transfer"},
+        {"name":"Xavier Booker","pos":"F","height":"6-11","year":"Sr.","ppg":7.3,"rpg":3.5,"apg":0.8,"notes":""},
+        {"name":"Joe Philon","pos":"F","height":"6-8","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #71, 4-star"}
+      ]
+    },
+    {
+      "name": "Kansas",
+      "conference": "Big 12",
+      "coach": "Bill Self",
+      "espnId": "2305",
+      "players": [
+        {"name":"Leroy Blyden Jr.","pos":"G","height":"6-1","year":"So.","ppg":16.4,"rpg":4.0,"apg":4.5,"notes":"Toledo transfer"},
+        {"name":"Keanu Dawes","pos":"F","height":"6-9","year":"Sr.","ppg":12.5,"rpg":8.8,"apg":2.2,"notes":"Utah transfer"},
+        {"name":"Dennis Parker Jr.","pos":"F","height":"6-6","year":"Sr.","ppg":18.3,"rpg":5.9,"apg":1.3,"notes":"Radford transfer"},
+        {"name":"Christian Reeves","pos":"C","height":"7-2","year":"R-Sr.","ppg":11.1,"rpg":7.8,"apg":0.4,"notes":"Charleston transfer"},
+        {"name":"Tyran Stokes","pos":"F","height":"6-7","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #1, 5-star"},
+        {"name":"Taylen Kinney","pos":"G","height":"6-1","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #13, 5-star"}
+      ]
+    },
+    {
+      "name": "Cincinnati",
+      "conference": "Big 12",
+      "coach": "Jerrod Calhoun",
+      "espnId": "2132",
+      "players": [
+        {"name":"Tylen Riley","pos":"G","height":"6-3","year":"Sr.","ppg":15.0,"rpg":3.9,"apg":4.4,"notes":"Tulsa transfer"},
+        {"name":"Myles Colvin","pos":"G","height":"6-5","year":"Sr.","ppg":11.6,"rpg":4.4,"apg":1.4,"notes":"Wake Forest transfer"},
+        {"name":"Tyler Tejada","pos":"F","height":"6-9","year":"Sr.","ppg":17.7,"rpg":5.5,"apg":2.3,"notes":"Towson transfer"},
+        {"name":"Eric Mahaffey","pos":"F","height":"6-6","year":"R-So.","ppg":7.8,"rpg":5.6,"apg":1.5,"notes":"Akron transfer"},
+        {"name":"Riley Allenspach","pos":"F","height":"6-11","year":"Sr.","ppg":13.6,"rpg":6.1,"apg":0.8,"notes":"George Mason transfer"},
+        {"name":"Trevian Carson","pos":"F","height":"6-4","year":"Sr.","ppg":11.9,"rpg":6.5,"apg":2.9,"notes":"North Dakota St. transfer"}
+      ]
+    },
+    {
+      "name": "Houston",
+      "conference": "Big 12",
+      "coach": "Kelvin Sampson",
+      "espnId": "248",
+      "players": [
+        {"name":"Dedan Thomas Jr.","pos":"G","height":"6-1","year":"Sr.","ppg":15.3,"rpg":2.7,"apg":6.5,"notes":"LSU transfer"},
+        {"name":"Mercy Miller","pos":"G","height":"6-4","year":"Jr.","ppg":5.2,"rpg":1.9,"apg":0.5,"notes":""},
+        {"name":"Delrecco Gillespie","pos":"F","height":"6-8","year":"Sr.","ppg":17.7,"rpg":11.3,"apg":1.7,"notes":"Kent St. transfer"},
+        {"name":"Joseph Tugler","pos":"F/C","height":"6-8","year":"Sr.","ppg":8.5,"rpg":5.3,"apg":1.2,"notes":"Returning"},
+        {"name":"Corey Hadnot II","pos":"G","height":"6-3","year":"Sr.","ppg":20.4,"rpg":4.0,"apg":3.5,"notes":"Purdue Fort Wayne transfer"},
+        {"name":"Braden East","pos":"F","height":"6-9","year":"Jr.","ppg":12.8,"rpg":9.1,"apg":0.7,"notes":"Lamar transfer"}
+      ]
+    },
+    {
+      "name": "Iowa State",
+      "conference": "Big 12",
+      "coach": "TJ Otzelberger",
+      "espnId": "66",
+      "players": [
+        {"name":"Jaquan Johnson","pos":"G","height":"5-11","year":"Jr.","ppg":16.9,"rpg":3.9,"apg":3.6,"notes":"Bradley transfer"},
+        {"name":"Killyan Toure","pos":"G","height":"6-3","year":"So.","ppg":8.6,"rpg":3.4,"apg":2.3,"notes":""},
+        {"name":"Blake Buchanan","pos":"F","height":"6-10","year":"Sr.","ppg":8.5,"rpg":5.8,"apg":1.7,"notes":""},
+        {"name":"Leon Bond III","pos":"F","height":"6-5","year":"R-Sr.","ppg":11.9,"rpg":4.7,"apg":1.5,"notes":"Northern Iowa transfer"},
+        {"name":"Ryan Prather Jr.","pos":"F","height":"6-5","year":"R-Sr.","ppg":15.7,"rpg":3.9,"apg":3.6,"notes":"Robert Morris transfer"},
+        {"name":"Tre Singleton","pos":"F","height":"6-8","year":"So.","ppg":7.6,"rpg":4.8,"apg":1.5,"notes":"Northwestern transfer"}
+      ]
+    },
+    {
+      "name": "Baylor",
+      "conference": "Big 12",
+      "coach": "Scott Drew",
+      "espnId": "239",
+      "players": [
+        {"name":"Kayden Mingo","pos":"G","height":"6-2","year":"So.","ppg":13.7,"rpg":3.5,"apg":4.3,"notes":"Penn St. transfer"},
+        {"name":"Dylan Mingo","pos":"F","height":"6-5","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #8, 5-star"},
+        {"name":"Isaac Celiscar","pos":"F","height":"6-6","year":"Jr.","ppg":13.2,"rpg":6.3,"apg":3.2,"notes":"Yale transfer"},
+        {"name":"Brett Decker Jr.","pos":"G","height":"6-2","year":"Jr.","ppg":16.9,"rpg":2.6,"apg":1.1,"notes":"Liberty transfer"},
+        {"name":"Isaac Williams","pos":"G","height":"6-1","year":"Jr.","ppg":10.5,"rpg":2.3,"apg":3.3,"notes":""},
+        {"name":"Evan Chatman","pos":"F","height":"6-8","year":"Sr.","ppg":8.8,"rpg":8.8,"apg":1.1,"notes":"UAB transfer"}
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "conference": "Big 12",
+      "coach": "Ross Hodge",
+      "espnId": "277",
+      "players": [
+        {"name":"Finley Bizjack","pos":"G","height":"6-4","year":"Sr.","ppg":17.1,"rpg":2.2,"apg":2.5,"notes":"Butler transfer"},
+        {"name":"Joson Sanon","pos":"G","height":"6-5","year":"Jr.","ppg":8.1,"rpg":2.5,"apg":0.7,"notes":"St. John's transfer"},
+        {"name":"Seydou Traore","pos":"F","height":"6-7","year":"Sr.","ppg":9.0,"rpg":3.4,"apg":2.0,"notes":"Utah transfer"},
+        {"name":"Mouhamed Sylla","pos":"C","height":"6-10","year":"So.","ppg":9.6,"rpg":7.2,"apg":0.6,"notes":"Georgia Tech transfer"},
+        {"name":"Miles Sadler","pos":"G","height":"5-10","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #31, 4-star"}
+      ]
+    },
+    {
+      "name": "TCU",
+      "conference": "Big 12",
+      "coach": "Jamie Dixon",
+      "espnId": "2628",
+      "players": [
+        {"name":"Brock Harding","pos":"G","height":"6-0","year":"Sr.","ppg":8.0,"rpg":2.9,"apg":5.6,"notes":""},
+        {"name":"Xavier Edmonds","pos":"F","height":"6-8","year":"Sr.","ppg":12.7,"rpg":6.5,"apg":1.2,"notes":""},
+        {"name":"Micah Robinson","pos":"G","height":"6-6","year":"Jr.","ppg":10.9,"rpg":4.7,"apg":1.7,"notes":""},
+        {"name":"Gavin Sykes","pos":"G","height":"6-4","year":"So.","ppg":19.4,"rpg":3.0,"apg":1.5,"notes":"Long Beach St. transfer"},
+        {"name":"Luke Bamgboye","pos":"F/C","height":"6-10","year":"Jr.","ppg":4.5,"rpg":3.4,"apg":0.5,"notes":"Texas Tech transfer"}
+      ]
+    },
+    {
+      "name": "Texas Tech",
+      "conference": "Big 12",
+      "coach": "Grant McCasland",
+      "espnId": "2641",
+      "players": [
+        {"name":"Cruz Davis","pos":"G","height":"6-3","year":"Sr.","ppg":20.1,"rpg":3.7,"apg":4.7,"notes":"Hofstra transfer"},
+        {"name":"Dra Gibbs-Lawhorn","pos":"G","height":"6-1","year":"Sr.","ppg":20.7,"rpg":3.1,"apg":2.5,"notes":"UNLV transfer"},
+        {"name":"Josiah Moseley","pos":"F","height":"6-8","year":"Jr.","ppg":5.5,"rpg":3.6,"apg":0.5,"notes":""},
+        {"name":"Damarion Dennis","pos":"G","height":"6-1","year":"Jr.","ppg":11.2,"rpg":3.2,"apg":1.3,"notes":"Wyoming transfer"},
+        {"name":"DaKari Spear","pos":"G/F","height":"6-5","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #47, 4-star"}
+      ]
+    },
+    {
+      "name": "Kansas State",
+      "conference": "Big 12",
+      "coach": "Casey Alexander",
+      "espnId": "2306",
+      "players": [
+        {"name":"Brandon Rechsteiner","pos":"G","height":"6-1","year":"Sr.","ppg":12.0,"rpg":2.2,"apg":2.5,"notes":"Colorado St. transfer"},
+        {"name":"Jaden Schutt","pos":"G","height":"6-5","year":"R-Sr.","ppg":7.7,"rpg":1.6,"apg":0.9,"notes":"Virginia Tech transfer"},
+        {"name":"Isaiah Abraham","pos":"F","height":"6-7","year":"Jr.","ppg":4.8,"rpg":2.9,"apg":0.7,"notes":"Georgetown transfer"},
+        {"name":"JT Rock","pos":"F/C","height":"7-1","year":"R-Jr.","ppg":6.0,"rpg":3.4,"apg":0.4,"notes":"New Mexico transfer"},
+        {"name":"Montana Wheeler","pos":"G","height":"5-10","year":"So.","ppg":8.5,"rpg":1.1,"apg":2.8,"notes":"Bradley transfer"}
+      ]
+    },
+    {
+      "name": "Oklahoma State",
+      "conference": "Big 12",
+      "coach": "Steve Lutz",
+      "espnId": "197",
+      "players": [
+        {"name":"Kanye Clary","pos":"G","height":"6-0","year":"R-Sr.","ppg":10.6,"rpg":2.9,"apg":4.6,"notes":""},
+        {"name":"Luka Bogavac","pos":"G","height":"6-5","year":"So.","ppg":9.8,"rpg":2.5,"apg":2.2,"notes":"North Carolina transfer"},
+        {"name":"Jordan Burks","pos":"F","height":"6-9","year":"Sr.","ppg":13.3,"rpg":4.8,"apg":0.7,"notes":"UCF transfer"},
+        {"name":"Julius Halaifonua","pos":"F/C","height":"7-0","year":"Jr.","ppg":9.5,"rpg":4.4,"apg":1.3,"notes":"Georgetown transfer"},
+        {"name":"Latrell Allmond","pos":"F","height":"6-8","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #24, 4-star"},
+        {"name":"Kashie Natt","pos":"G","height":"6-3","year":"Gr.","ppg":10.8,"rpg":8.2,"apg":2.4,"notes":"Sam Houston St. transfer"}
+      ]
+    },
+    {
+      "name": "Utah",
+      "conference": "Big 12",
+      "coach": "Alex Jensen",
+      "espnId": "254",
+      "players": [
+        {"name":"Jackson Holcombe","pos":"G/F","height":"6-7","year":"R-Jr.","ppg":16.0,"rpg":7.0,"apg":3.6,"notes":"Utah Valley transfer"},
+        {"name":"TJ Burch","pos":"G","height":"6-1","year":"Jr.","ppg":12.4,"rpg":2.4,"apg":3.6,"notes":"Wright St. transfer"},
+        {"name":"Malek Gomma","pos":"F","height":"6-8","year":"Sr.","ppg":8.0,"rpg":6.9,"apg":1.4,"notes":"Weber St. transfer"},
+        {"name":"Taison Chatman","pos":"G","height":"6-4","year":"R-Jr.","ppg":4.3,"rpg":1.2,"apg":0.8,"notes":"Ohio St. transfer"}
+      ]
+    },
+    {
+      "name": "Arizona",
+      "conference": "Big 12",
+      "coach": "Tommy Lloyd",
+      "espnId": "12",
+      "players": [
+        {"name":"Derek Dixon","pos":"G","height":"6-3","year":"So.","ppg":6.5,"rpg":2.3,"apg":2.7,"notes":"North Carolina transfer"},
+        {"name":"Caleb Holt","pos":"G","height":"6-6","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #4, 5-star"},
+        {"name":"Ivan Kharchenkov","pos":"F","height":"6-7","year":"So.","ppg":10.2,"rpg":4.3,"apg":2.3,"notes":""},
+        {"name":"Motiejus Krivas","pos":"C","height":"7-2","year":"Sr.","ppg":10.4,"rpg":8.2,"apg":1.0,"notes":""},
+        {"name":"Cameron Holmes","pos":"F","height":"6-6","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #29, 4-star"}
+      ]
+    },
+    {
+      "name": "Arizona State",
+      "conference": "Big 12",
+      "coach": "Randy Bennett",
+      "espnId": "9",
+      "players": [
+        {"name":"Joel Foxwell","pos":"G","height":"6-1","year":"So.","ppg":15.6,"rpg":4.3,"apg":6.5,"notes":"Portland transfer"},
+        {"name":"Paulius Murauskas","pos":"F","height":"6-8","year":"Sr.","ppg":18.4,"rpg":7.6,"apg":2.1,"notes":"Saint Mary's transfer"},
+        {"name":"Ben Defty","pos":"C","height":"7-0","year":"Jr.","ppg":15.1,"rpg":6.8,"apg":1.9,"notes":"Boston University transfer"},
+        {"name":"Emmanuel Innocenti","pos":"G","height":"6-5","year":"Sr.","ppg":6.0,"rpg":3.8,"apg":1.7,"notes":"Gonzaga transfer"},
+        {"name":"Dillan Shaw","pos":"G","height":"6-7","year":"So.","ppg":7.5,"rpg":5.4,"apg":1.5,"notes":"Saint Mary's transfer"}
+      ]
+    },
+    {
+      "name": "Colorado",
+      "conference": "Big 12",
+      "coach": "Tad Boyle",
+      "espnId": "38",
+      "players": [
+        {"name":"Barrington Hargress","pos":"G","height":"6-1","year":"Sr.","ppg":14.2,"rpg":2.1,"apg":4.5,"notes":""},
+        {"name":"Justin Neely","pos":"F","height":"6-6","year":"Sr.","ppg":17.9,"rpg":11.5,"apg":2.4,"notes":"UNC Greensboro transfer"},
+        {"name":"Noah Feddersen","pos":"F","height":"6-10","year":"Sr.","ppg":9.3,"rpg":5.0,"apg":1.0,"notes":"North Dakota St. transfer"},
+        {"name":"Jalin Holland","pos":"G","height":"6-5","year":"So.","ppg":5.0,"rpg":2.5,"apg":0.8,"notes":""}
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "conference": "SEC",
+      "coach": "Mark Pope",
+      "espnId": "96",
+      "players": [
+        {"name":"Zoom Diallo","pos":"G","height":"6-4","year":"Jr.","ppg":15.7,"rpg":3.9,"apg":4.5,"notes":"Washington transfer"},
+        {"name":"Alex Wilkins","pos":"G","height":"6-5","year":"So.","ppg":17.8,"rpg":2.0,"apg":4.7,"notes":"Furman transfer"},
+        {"name":"Milan Momcilovic","pos":"F","height":"6-8","year":"Sr.","ppg":17.2,"rpg":3.2,"apg":1.0,"notes":"Iowa St. transfer"},
+        {"name":"Malachi Moreno","pos":"C","height":"6-11","year":"So.","ppg":7.8,"rpg":6.3,"apg":1.8,"notes":"Testing NBA Draft"},
+        {"name":"Justin McBride","pos":"F","height":"6-7","year":"Sr.","ppg":15.3,"rpg":5.6,"apg":1.5,"notes":"James Madison transfer"},
+        {"name":"Kam Williams","pos":"G","height":"6-8","year":"Jr.","ppg":6.0,"rpg":2.1,"apg":1.0,"notes":""}
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "conference": "SEC",
+      "coach": "Rick Barnes",
+      "espnId": "2633",
+      "players": [
+        {"name":"Terrence Hill Jr.","pos":"G","height":"6-3","year":"Jr.","ppg":15.0,"rpg":2.7,"apg":2.8,"notes":"VCU transfer"},
+        {"name":"Dai Dai Ames","pos":"G","height":"6-2","year":"Sr.","ppg":16.9,"rpg":2.0,"apg":2.2,"notes":"California transfer"},
+        {"name":"Juke Harris","pos":"G/F","height":"6-7","year":"Jr.","ppg":21.4,"rpg":6.5,"apg":1.9,"notes":"Wake Forest transfer"},
+        {"name":"Jalen Haralson","pos":"G","height":"6-7","year":"So.","ppg":16.2,"rpg":4.0,"apg":2.6,"notes":"Notre Dame transfer"},
+        {"name":"Miles Rubin","pos":"C","height":"6-10","year":"Sr.","ppg":11.3,"rpg":7.1,"apg":2.3,"notes":"Loyola Chicago transfer"},
+        {"name":"Tyler Lundblade","pos":"G","height":"6-5","year":"Sr.","ppg":15.6,"rpg":2.7,"apg":1.8,"notes":"Belmont transfer"}
+      ]
+    },
+    {
+      "name": "Florida",
+      "conference": "SEC",
+      "coach": "Todd Golden",
+      "espnId": "57",
+      "players": [
+        {"name":"Boogie Fland","pos":"G","height":"6-2","year":"Jr.","ppg":11.6,"rpg":2.5,"apg":3.5,"notes":""},
+        {"name":"Denzel Aberdeen","pos":"G","height":"6-5","year":"Sr.","ppg":13.5,"rpg":2.5,"apg":3.4,"notes":"Kentucky transfer"},
+        {"name":"Thomas Haugh","pos":"F","height":"6-9","year":"Sr.","ppg":17.1,"rpg":6.1,"apg":2.1,"notes":"Returning from NBA Draft"},
+        {"name":"Alex Condon","pos":"F/C","height":"6-11","year":"Sr.","ppg":15.1,"rpg":7.5,"apg":3.6,"notes":"Returning from NBA Draft"},
+        {"name":"Rueben Chinyelu","pos":"C","height":"6-10","year":"Sr.","ppg":10.9,"rpg":11.2,"apg":0.7,"notes":"Returning from NBA Draft"}
+      ]
+    },
+    {
+      "name": "Alabama",
+      "conference": "SEC",
+      "coach": "Nate Oats",
+      "espnId": "333",
+      "players": [
+        {"name":"Aden Holloway","pos":"G","height":"6-1","year":"Sr.","ppg":16.8,"rpg":2.8,"apg":3.8,"notes":""},
+        {"name":"Amari Allen","pos":"G","height":"6-8","year":"So.","ppg":11.6,"rpg":7.0,"apg":3.1,"notes":"Returning from NBA Draft"},
+        {"name":"Drew Fielder","pos":"F","height":"6-9","year":"Sr.","ppg":14.7,"rpg":5.7,"apg":1.3,"notes":"Boise St. transfer"},
+        {"name":"Brandon Garrison","pos":"F/C","height":"6-10","year":"Sr.","ppg":4.7,"rpg":4.1,"apg":1.1,"notes":"Kentucky transfer"},
+        {"name":"London Jemison","pos":"F","height":"6-8","year":"So.","ppg":6.2,"rpg":3.4,"apg":0.4,"notes":""}
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "conference": "SEC",
+      "coach": "John Calipari",
+      "espnId": "8",
+      "players": [
+        {"name":"Jeremiah Wilkinson","pos":"G","height":"6-1","year":"Jr.","ppg":17.4,"rpg":2.0,"apg":1.7,"notes":"Georgia transfer"},
+        {"name":"Billy Richmond III","pos":"G","height":"6-5","year":"Jr.","ppg":11.1,"rpg":4.3,"apg":2.0,"notes":"Returning from NBA Draft"},
+        {"name":"Cooper Bowser","pos":"F","height":"6-11","year":"Sr.","ppg":13.8,"rpg":5.9,"apg":1.8,"notes":"Furman transfer"},
+        {"name":"Jordan Smith Jr.","pos":"G","height":"6-2","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #2, 5-star"},
+        {"name":"JJ Andrews","pos":"F","height":"6-7","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #12, 5-star"}
+      ]
+    },
+    {
+      "name": "LSU",
+      "conference": "SEC",
+      "coach": "Will Wade",
+      "espnId": "99",
+      "players": [
+        {"name":"Abdi Bashir Jr.","pos":"G","height":"6-6","year":"Sr.","ppg":13.2,"rpg":2.2,"apg":2.3,"notes":"Kansas St. transfer"},
+        {"name":"Mouhamed Dioubate","pos":"F","height":"6-7","year":"Sr.","ppg":8.8,"rpg":5.5,"apg":1.0,"notes":"Kentucky transfer"},
+        {"name":"Divine Ugochukwu","pos":"G","height":"6-3","year":"Jr.","ppg":5.1,"rpg":1.5,"apg":1.5,"notes":"Michigan St. transfer"}
+      ]
+    },
+    {
+      "name": "Texas A&M",
+      "conference": "SEC",
+      "coach": "Bucky McMillan",
+      "espnId": "245",
+      "players": [
+        {"name":"PJ Haggerty","pos":"G","height":"6-3","year":"R-Sr.","ppg":23.4,"rpg":5.3,"apg":3.8,"notes":"Kansas St. transfer"},
+        {"name":"Mackenzie Mgbako","pos":"F","height":"6-8","year":"Sr.","ppg":10.4,"rpg":4.9,"apg":1.3,"notes":""},
+        {"name":"Jalen Shelley","pos":"F","height":"6-8","year":"Jr.","ppg":13.7,"rpg":6.6,"apg":2.7,"notes":"Loyola Marymount transfer"},
+        {"name":"Tyshawn Archie","pos":"G","height":"6-0","year":"Sr.","ppg":14.3,"rpg":1.9,"apg":2.9,"notes":"McNeese transfer"},
+        {"name":"Pop Isaacs","pos":"G","height":"6-2","year":"Sr.","ppg":9.8,"rpg":2.5,"apg":2.6,"notes":"Texas A&M transfer - to Oklahoma"}
+      ]
+    },
+    {
+      "name": "Georgia",
+      "conference": "SEC",
+      "coach": "Mike White",
+      "espnId": "61",
+      "players": [
+        {"name":"Marcus Millender","pos":"G","height":"5-11","year":"Sr.","ppg":12.0,"rpg":2.8,"apg":4.1,"notes":""},
+        {"name":"Freddie Dilione V","pos":"G","height":"6-5","year":"R-Sr.","ppg":14.0,"rpg":3.2,"apg":2.2,"notes":"Penn St. transfer"},
+        {"name":"Blue Cain","pos":"G","height":"6-5","year":"Sr.","ppg":13.1,"rpg":5.1,"apg":2.6,"notes":""},
+        {"name":"Kanon Catchings","pos":"F","height":"6-9","year":"Jr.","ppg":11.6,"rpg":4.8,"apg":1.2,"notes":""}
+      ]
+    },
+    {
+      "name": "Missouri",
+      "conference": "SEC",
+      "coach": "Dennis Gates",
+      "espnId": "142",
+      "players": [
+        {"name":"Jason Crowe Jr.","pos":"G","height":"6-3","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #5, 5-star"},
+        {"name":"Jamier Jones","pos":"G","height":"6-6","year":"So.","ppg":11.9,"rpg":4.5,"apg":1.4,"notes":"Providence transfer"},
+        {"name":"Trent Pierce","pos":"G/F","height":"6-10","year":"Sr.","ppg":10.4,"rpg":3.8,"apg":1.2,"notes":""},
+        {"name":"Bryson Tiller","pos":"F","height":"6-10","year":"So.","ppg":7.9,"rpg":6.1,"apg":1.0,"notes":"Kansas transfer"},
+        {"name":"Kennard Davis","pos":"F","height":"6-6","year":"Sr.","ppg":8.5,"rpg":2.7,"apg":1.3,"notes":"BYU transfer"}
+      ]
+    },
+    {
+      "name": "Vanderbilt",
+      "conference": "SEC",
+      "coach": "Mark Byington",
+      "espnId": "238",
+      "players": [
+        {"name":"Tyler Tanner","pos":"G","height":"6-0","year":"Jr.","ppg":19.5,"rpg":3.6,"apg":5.1,"notes":"Returning from NBA Draft"},
+        {"name":"Ace Glass III","pos":"G","height":"6-3","year":"So.","ppg":16.4,"rpg":3.0,"apg":2.3,"notes":"Washington St. transfer"},
+        {"name":"Bangot Dak","pos":"F","height":"7-0","year":"Sr.","ppg":11.5,"rpg":6.5,"apg":1.4,"notes":"Colorado transfer"},
+        {"name":"Berke Buyuktuncel","pos":"F","height":"6-10","year":"Sr.","ppg":6.7,"rpg":5.4,"apg":1.8,"notes":"Nebraska transfer"}
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "conference": "SEC",
+      "coach": "Lamont Paris",
+      "espnId": "2579",
+      "players": [
+        {"name":"Kory Mincy","pos":"G","height":"6-2","year":"Sr.","ppg":14.3,"rpg":3.6,"apg":2.9,"notes":"George Mason transfer"},
+        {"name":"Shane Blakeney","pos":"G","height":"6-5","year":"Sr.","ppg":14.2,"rpg":5.1,"apg":2.5,"notes":"Drexel transfer"},
+        {"name":"Aleksas Bieliauskas","pos":"F","height":"6-10","year":"So.","ppg":4.9,"rpg":4.4,"apg":0.9,"notes":"Wisconsin transfer"}
+      ]
+    },
+    {
+      "name": "Ole Miss",
+      "conference": "SEC",
+      "coach": "Chris Beard",
+      "espnId": "145",
+      "players": [
+        {"name":"Adam Clark","pos":"G","height":"5-10","year":"Sr.","ppg":12.7,"rpg":3.0,"apg":4.9,"notes":"Seton Hall transfer"},
+        {"name":"Patton Pinkins","pos":"G","height":"6-5","year":"So.","ppg":9.3,"rpg":1.9,"apg":0.9,"notes":""},
+        {"name":"Roman Siulepa","pos":"F","height":"6-7","year":"So.","ppg":10.0,"rpg":5.5,"apg":0.9,"notes":"Pittsburgh transfer"},
+        {"name":"Dasear Haskins","pos":"F","height":"6-8","year":"R-Jr.","ppg":11.1,"rpg":6.4,"apg":1.4,"notes":"Saint Joseph's transfer"}
+      ]
+    },
+    {
+      "name": "Mississippi State",
+      "conference": "SEC",
+      "coach": "Chris Jans",
+      "espnId": "344",
+      "players": [
+        {"name":"Josh Hubbard","pos":"G","height":"6-0","year":"Sr.","ppg":22.1,"rpg":2.5,"apg":3.6,"notes":""},
+        {"name":"RJ Johnson","pos":"G","height":"6-4","year":"R-Jr.","ppg":14.5,"rpg":3.1,"apg":4.0,"notes":"Kennesaw St. transfer"},
+        {"name":"ND Okafor","pos":"F/C","height":"6-10","year":"R-Sr.","ppg":11.0,"rpg":5.7,"apg":0.9,"notes":"Washington St. transfer"}
+      ]
+    },
+    {
+      "name": "Auburn",
+      "conference": "SEC",
+      "coach": "Steven Pearl",
+      "espnId": "2",
+      "players": [
+        {"name":"Tahaad Pettiford","pos":"G","height":"6-1","year":"Jr.","ppg":15.3,"rpg":3.0,"apg":3.7,"notes":""},
+        {"name":"Kevin Overton","pos":"G","height":"6-5","year":"Sr.","ppg":13.7,"rpg":3.4,"apg":1.2,"notes":""},
+        {"name":"Thomas Dowd","pos":"F","height":"6-8","year":"Sr.","ppg":14.4,"rpg":10.1,"apg":2.1,"notes":"Troy transfer"},
+        {"name":"Bukky Oboye","pos":"C","height":"7-1","year":"R-Jr.","ppg":7.9,"rpg":4.1,"apg":0.6,"notes":"Santa Clara transfer"},
+        {"name":"Adam Olsen","pos":"F","height":"6-8","year":"Sr.","ppg":16.7,"rpg":4.1,"apg":0.9,"notes":"South Alabama transfer"}
+      ]
+    },
+    {
+      "name": "Duke",
+      "conference": "ACC",
+      "coach": "Jon Scheyer",
+      "espnId": "150",
+      "players": [
+        {"name":"Cayden Boozer","pos":"G","height":"6-4","year":"So.","ppg":7.5,"rpg":2.2,"apg":2.9,"notes":""},
+        {"name":"John Blackwell","pos":"G","height":"6-4","year":"Sr.","ppg":19.1,"rpg":5.1,"apg":2.3,"notes":"Wisconsin transfer"},
+        {"name":"Dame Sarr","pos":"G","height":"6-8","year":"So.","ppg":6.4,"rpg":3.8,"apg":1.1,"notes":""},
+        {"name":"Patrick Ngongba","pos":"C","height":"6-11","year":"Jr.","ppg":10.5,"rpg":6.0,"apg":2.0,"notes":"Returning"},
+        {"name":"Drew Scharnowski","pos":"F","height":"6-9","year":"R-Jr.","ppg":10.7,"rpg":6.0,"apg":2.6,"notes":"Belmont transfer"},
+        {"name":"Cameron Williams","pos":"F","height":"6-11","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #3, 5-star"},
+        {"name":"Deron Rippey","pos":"G","height":"6-2","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #10, 5-star"}
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "conference": "ACC",
+      "coach": "Mike Malone",
+      "espnId": "153",
+      "players": [
+        {"name":"Terrence Brown","pos":"G","height":"6-3","year":"Sr.","ppg":19.9,"rpg":2.4,"apg":3.8,"notes":"Utah transfer"},
+        {"name":"Matt Able","pos":"G","height":"6-6","year":"So.","ppg":8.8,"rpg":3.4,"apg":0.9,"notes":"NC State transfer"},
+        {"name":"Neoklis Avdalas","pos":"G/F","height":"6-9","year":"So.","ppg":12.1,"rpg":3.1,"apg":4.6,"notes":"Virginia Tech transfer"},
+        {"name":"Jarin Stevenson","pos":"F","height":"6-11","year":"Sr.","ppg":8.1,"rpg":4.4,"apg":0.9,"notes":""}
+      ]
+    },
+    {
+      "name": "Louisville",
+      "conference": "ACC",
+      "coach": "Pat Kelsey",
+      "espnId": "97",
+      "players": [
+        {"name":"Jackson Shelstad","pos":"G","height":"6-0","year":"Sr.","ppg":15.6,"rpg":2.9,"apg":4.9,"notes":"Oregon transfer"},
+        {"name":"Karter Knox","pos":"F","height":"6-6","year":"Jr.","ppg":8.1,"rpg":4.5,"apg":1.2,"notes":"Arkansas transfer"},
+        {"name":"Flory Bidunga","pos":"C","height":"6-9","year":"Jr.","ppg":13.3,"rpg":9.0,"apg":1.5,"notes":"Kansas transfer"},
+        {"name":"Alvaro Folgueiras","pos":"F","height":"6-9","year":"Sr.","ppg":8.5,"rpg":3.8,"apg":2.3,"notes":"Iowa transfer"},
+        {"name":"De'Shayne Montgomery","pos":"G","height":"6-4","year":"Sr.","ppg":13.4,"rpg":4.0,"apg":2.1,"notes":"Dayton transfer"}
+      ]
+    },
+    {
+      "name": "Virginia",
+      "conference": "ACC",
+      "coach": "Ryan Odom",
+      "espnId": "258",
+      "players": [
+        {"name":"Chance Mallory","pos":"G","height":"5-9","year":"So.","ppg":9.3,"rpg":3.7,"apg":3.4,"notes":""},
+        {"name":"Jurian Dixon","pos":"G","height":"6-4","year":"R-Jr.","ppg":15.9,"rpg":3.6,"apg":2.5,"notes":"UC Irvine transfer"},
+        {"name":"Sam Lewis","pos":"G","height":"6-6","year":"Sr.","ppg":10.6,"rpg":3.6,"apg":1.4,"notes":""},
+        {"name":"Thijs de Ridder","pos":"F","height":"6-8","year":"So.","ppg":15.6,"rpg":6.2,"apg":1.6,"notes":""},
+        {"name":"Johann Grunloh","pos":"F/C","height":"7-0","year":"So.","ppg":7.1,"rpg":5.2,"apg":0.6,"notes":""}
+      ]
+    },
+    {
+      "name": "Miami FL",
+      "conference": "ACC",
+      "coach": "Jai Lucas",
+      "espnId": "2390",
+      "players": [
+        {"name":"Acaden Lewis","pos":"G","height":"6-2","year":"So.","ppg":12.2,"rpg":3.0,"apg":5.3,"notes":"Villanova transfer"},
+        {"name":"Shelton Henderson","pos":"F","height":"6-6","year":"So.","ppg":13.8,"rpg":4.9,"apg":2.1,"notes":""},
+        {"name":"DeSean Goode","pos":"F","height":"6-8","year":"Jr.","ppg":15.2,"rpg":8.7,"apg":1.4,"notes":"Robert Morris transfer"},
+        {"name":"Somto Cyril","pos":"C","height":"6-11","year":"Jr.","ppg":9.3,"rpg":5.4,"apg":0.6,"notes":"Georgia transfer"}
+      ]
+    },
+    {
+      "name": "NC State",
+      "conference": "ACC",
+      "coach": "Justin Gainey",
+      "espnId": "152",
+      "players": [
+        {"name":"Preston Edmead","pos":"G","height":"6-1","year":"So.","ppg":16.1,"rpg":3.5,"apg":4.4,"notes":"Hofstra transfer"},
+        {"name":"Christian Hammond","pos":"G","height":"6-4","year":"R-Jr.","ppg":15.6,"rpg":3.0,"apg":2.5,"notes":"Santa Clara transfer"},
+        {"name":"Paul McNeil Jr.","pos":"G","height":"6-5","year":"Jr.","ppg":13.8,"rpg":3.6,"apg":0.8,"notes":"Staying"},
+        {"name":"Darius Adams","pos":"G","height":"6-5","year":"So.","ppg":10.8,"rpg":3.4,"apg":1.6,"notes":"Maryland transfer"}
+      ]
+    },
+    {
+      "name": "Syracuse",
+      "conference": "ACC",
+      "coach": "Gerry McNamara",
+      "espnId": "183",
+      "players": [
+        {"name":"Aiden Tobiason","pos":"G","height":"6-5","year":"Jr.","ppg":15.3,"rpg":3.7,"apg":2.0,"notes":"Temple transfer"},
+        {"name":"Gavin Doty","pos":"G","height":"6-5","year":"Jr.","ppg":18.0,"rpg":6.9,"apg":2.2,"notes":"Siena transfer"},
+        {"name":"Garwey Dual","pos":"G","height":"6-5","year":"Sr.","ppg":8.4,"rpg":2.9,"apg":4.4,"notes":"McNeese transfer"},
+        {"name":"Luke Wilson","pos":"F","height":"6-9","year":"Sr.","ppg":10.7,"rpg":8.3,"apg":0.6,"notes":"Appalachian St. transfer"}
+      ]
+    },
+    {
+      "name": "Georgia Tech",
+      "conference": "ACC",
+      "coach": "Scott Cross",
+      "espnId": "59",
+      "players": [
+        {"name":"Victor Valdes","pos":"G","height":"6-7","year":"Sr.","ppg":14.8,"rpg":4.0,"apg":4.5,"notes":"Troy transfer"},
+        {"name":"Colby Garland","pos":"G","height":"6-0","year":"Sr.","ppg":20.3,"rpg":3.3,"apg":4.6,"notes":"San Jose St. transfer"},
+        {"name":"Nasir Whitlock","pos":"G","height":"6-2","year":"Sr.","ppg":20.5,"rpg":3.5,"apg":3.3,"notes":"Lehigh transfer"},
+        {"name":"Kayden Allen","pos":"F","height":"6-5","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #50, 4-star"}
+      ]
+    },
+    {
+      "name": "Pittsburgh",
+      "conference": "ACC",
+      "coach": "Jeff Capel",
+      "espnId": "221",
+      "players": [
+        {"name":"Baye Ndongo","pos":"F","height":"6-9","year":"Sr.","ppg":11.8,"rpg":8.1,"apg":2.4,"notes":"Georgia Tech transfer"},
+        {"name":"Naithan George","pos":"G","height":"6-3","year":"Sr.","ppg":10.9,"rpg":3.0,"apg":5.4,"notes":"Syracuse transfer"},
+        {"name":"Armani Mighty","pos":"C","height":"6-10","year":"R-Sr.","ppg":13.2,"rpg":10.6,"apg":1.1,"notes":"Mercer transfer"},
+        {"name":"A'lahn Sumler","pos":"G","height":"6-4","year":"R-Sr.","ppg":18.9,"rpg":4.8,"apg":3.8,"notes":"Charleston Southern transfer"}
+      ]
+    },
+    {
+      "name": "Florida State",
+      "conference": "ACC",
+      "coach": "Luke Loucks",
+      "espnId": "52",
+      "players": [
+        {"name":"Anthony Robinson II","pos":"G","height":"6-3","year":"Sr.","ppg":8.9,"rpg":3.1,"apg":3.0,"notes":"Missouri transfer"},
+        {"name":"Kameron Taylor","pos":"F","height":"6-7","year":"Jr.","ppg":18.9,"rpg":5.0,"apg":3.0,"notes":"UNC Asheville transfer"},
+        {"name":"Sebastian Rancik","pos":"F","height":"6-11","year":"Jr.","ppg":12.3,"rpg":5.6,"apg":2.0,"notes":"Colorado transfer"}
+      ]
+    },
+    {
+      "name": "Clemson",
+      "conference": "ACC",
+      "coach": "Brad Brownell",
+      "espnId": "228",
+      "players": [
+        {"name":"Dylan Faulkner","pos":"F","height":"6-9","year":"Sr.","ppg":17.2,"rpg":8.6,"apg":1.8,"notes":"Samford transfer"},
+        {"name":"David Fuchs","pos":"F","height":"6-9","year":"Sr.","ppg":12.7,"rpg":7.8,"apg":1.4,"notes":"San Francisco transfer"},
+        {"name":"Liutauras Lelevicius","pos":"G","height":"6-7","year":"Jr.","ppg":8.0,"rpg":3.4,"apg":0.7,"notes":"TCU transfer"},
+        {"name":"Cole Certa","pos":"G","height":"6-5","year":"Jr.","ppg":12.8,"rpg":1.7,"apg":0.8,"notes":"Notre Dame transfer"}
+      ]
+    },
+    {
+      "name": "Virginia Tech",
+      "conference": "ACC",
+      "coach": "Mike Young",
+      "espnId": "259",
+      "players": [
+        {"name":"Ben Hammond","pos":"G","height":"5-11","year":"Jr.","ppg":13.2,"rpg":2.3,"apg":3.2,"notes":""},
+        {"name":"Amani Hansberry","pos":"F","height":"6-8","year":"Sr.","ppg":14.3,"rpg":7.4,"apg":2.4,"notes":""},
+        {"name":"Jaylen Curry","pos":"G","height":"6-1","year":"Sr.","ppg":10.1,"rpg":3.2,"apg":3.5,"notes":"Oklahoma St. transfer"},
+        {"name":"Ethan Copeland","pos":"G","height":"6-2","year":"Sr.","ppg":15.0,"rpg":3.7,"apg":2.1,"notes":"Stetson transfer"}
+      ]
+    },
+    {
+      "name": "Wake Forest",
+      "conference": "ACC",
+      "coach": "Steve Forbes",
+      "espnId": "154",
+      "players": [
+        {"name":"Kevair Kennedy","pos":"G","height":"6-2","year":"So.","ppg":18.4,"rpg":4.6,"apg":4.2,"notes":"Merrimack transfer"},
+        {"name":"Justin Ray","pos":"G","height":"6-3","year":"Jr.","ppg":11.3,"rpg":2.1,"apg":1.2,"notes":"Monmouth transfer"},
+        {"name":"Xavier Edmonds","pos":"F","height":"6-8","year":"Sr.","ppg":12.7,"rpg":6.5,"apg":1.2,"notes":""},
+        {"name":"Ring Nyeri","pos":"F","height":"6-8","year":"Jr.","ppg":8.5,"rpg":6.3,"apg":0.6,"notes":"Northern Colorado transfer"}
+      ]
+    },
+    {
+      "name": "Boston College",
+      "conference": "ACC",
+      "coach": "Luke Murray",
+      "espnId": "103",
+      "players": [
+        {"name":"Money Williams","pos":"G","height":"6-4","year":"Sr.","ppg":20.6,"rpg":4.3,"apg":4.7,"notes":"Montana transfer"},
+        {"name":"Ernest Shelton","pos":"G","height":"6-5","year":"Sr.","ppg":15.9,"rpg":3.1,"apg":0.9,"notes":"Merrimack transfer"},
+        {"name":"Brandon Benjamin","pos":"F","height":"6-8","year":"So.","ppg":14.2,"rpg":10.4,"apg":1.2,"notes":"Fairfield transfer"},
+        {"name":"Armoni Zeigler","pos":"G","height":"6-4","year":"Sr.","ppg":12.5,"rpg":5.1,"apg":3.3,"notes":"Ball St. transfer"}
+      ]
+    },
+    {
+      "name": "UConn",
+      "conference": "Big East",
+      "coach": "Dan Hurley",
+      "espnId": "41",
+      "players": [
+        {"name":"Silas Demary Jr.","pos":"G","height":"6-5","year":"Sr.","ppg":10.6,"rpg":4.5,"apg":6.1,"notes":""},
+        {"name":"Braylon Mullins","pos":"G","height":"6-5","year":"So.","ppg":12.1,"rpg":3.5,"apg":1.5,"notes":""},
+        {"name":"Nikolas Khamenia","pos":"F","height":"6-8","year":"So.","ppg":5.8,"rpg":3.4,"apg":1.1,"notes":"Duke transfer"},
+        {"name":"Najai Hines","pos":"C","height":"6-10","year":"So.","ppg":6.5,"rpg":5.5,"apg":0.6,"notes":"Seton Hall transfer"},
+        {"name":"Nils Machowski","pos":"G","height":"6-3","year":"Sr.","ppg":17.2,"rpg":5.7,"apg":2.6,"notes":"Wofford transfer"}
+      ]
+    },
+    {
+      "name": "Marquette",
+      "conference": "Big East",
+      "coach": "Shaka Smart",
+      "espnId": "269",
+      "players": [
+        {"name":"Nigel James Jr.","pos":"G","height":"6-0","year":"So.","ppg":16.4,"rpg":3.4,"apg":4.9,"notes":""},
+        {"name":"Nolan Minessale","pos":"F","height":"6-5","year":"Jr.","ppg":19.8,"rpg":4.6,"apg":4.3,"notes":"St. Thomas transfer"},
+        {"name":"Royce Parham","pos":"F","height":"6-8","year":"Jr.","ppg":12.5,"rpg":4.9,"apg":0.9,"notes":""},
+        {"name":"Sananda Fru","pos":"C","height":"6-11","year":"Sr.","ppg":9.0,"rpg":6.1,"apg":1.2,"notes":"Louisville transfer"},
+        {"name":"Adrien Stevens","pos":"G","height":"6-4","year":"So.","ppg":7.9,"rpg":2.6,"apg":1.6,"notes":""}
+      ]
+    },
+    {
+      "name": "St. John's",
+      "conference": "Big East",
+      "coach": "Rick Pitino",
+      "espnId": "2599",
+      "players": [
+        {"name":"Ian Jackson","pos":"G","height":"6-5","year":"Jr.","ppg":9.6,"rpg":2.3,"apg":1.3,"notes":""},
+        {"name":"Tounde Yessoufou","pos":"F","height":"6-5","year":"So.","ppg":17.8,"rpg":5.8,"apg":1.6,"notes":"Baylor transfer"},
+        {"name":"Donnie Freeman","pos":"F","height":"6-9","year":"Jr.","ppg":16.5,"rpg":7.2,"apg":1.3,"notes":"Syracuse transfer"},
+        {"name":"Quinn Ellis","pos":"G","height":"6-4","year":"Sr.","ppg":0,"rpg":0,"apg":0,"notes":"English, EuroLeague"}
+      ]
+    },
+    {
+      "name": "Creighton",
+      "conference": "Big East",
+      "coach": "Alan Huss",
+      "espnId": "156",
+      "players": [
+        {"name":"Wes Enis","pos":"G","height":"6-2","year":"Sr.","ppg":20.1,"rpg":4.4,"apg":3.1,"notes":"South Florida transfer"},
+        {"name":"BJ Davis","pos":"G","height":"6-2","year":"Sr.","ppg":10.8,"rpg":3.2,"apg":2.2,"notes":"San Diego St. transfer"},
+        {"name":"Jasen Green","pos":"F","height":"6-8","year":"Sr.","ppg":10.2,"rpg":6.1,"apg":2.5,"notes":""},
+        {"name":"Oswin Erhunmwunse","pos":"C","height":"6-10","year":"Jr.","ppg":6.9,"rpg":8.3,"apg":0.8,"notes":"Providence transfer"},
+        {"name":"Austin Swartz","pos":"G","height":"6-4","year":"Jr.","ppg":10.9,"rpg":2.8,"apg":1.4,"notes":""}
+      ]
+    },
+    {
+      "name": "Seton Hall",
+      "conference": "Big East",
+      "coach": "Shaheen Holloway",
+      "espnId": "238",
+      "players": [
+        {"name":"Del Jones","pos":"G","height":"6-2","year":"Jr.","ppg":17.2,"rpg":3.5,"apg":3.5,"notes":"Radford transfer"},
+        {"name":"Rodney Brown Jr.","pos":"G","height":"6-6","year":"Sr.","ppg":14.0,"rpg":2.4,"apg":1.7,"notes":"Loyola Marymount transfer"},
+        {"name":"Kareem Thomas","pos":"G","height":"6-5","year":"Jr.","ppg":15.9,"rpg":3.0,"apg":1.5,"notes":"Dartmouth transfer"},
+        {"name":"Devin Williams","pos":"F","height":"6-10","year":"R-Jr.","ppg":7.5,"rpg":5.2,"apg":1.3,"notes":"Florida Atlantic transfer"}
+      ]
+    },
+    {
+      "name": "Providence",
+      "conference": "Big East",
+      "coach": "Bryan Hodgson",
+      "espnId": "2507",
+      "players": [
+        {"name":"Malik Mack","pos":"G","height":"6-2","year":"Sr.","ppg":13.6,"rpg":3.0,"apg":4.1,"notes":"Georgetown transfer"},
+        {"name":"Devin Vanterpool","pos":"G","height":"6-4","year":"R-Jr.","ppg":15.8,"rpg":6.3,"apg":2.4,"notes":"Florida Atlantic transfer"},
+        {"name":"Miles Byrd","pos":"G/F","height":"6-7","year":"Sr.","ppg":10.4,"rpg":4.7,"apg":2.6,"notes":"San Diego St. transfer"},
+        {"name":"Ryan Sabol","pos":"G","height":"6-3","year":"Sr.","ppg":18.8,"rpg":3.2,"apg":3.3,"notes":"Buffalo transfer"}
+      ]
+    },
+    {
+      "name": "Xavier",
+      "conference": "Big East",
+      "coach": "Richard Pitino",
+      "espnId": "2752",
+      "players": [
+        {"name":"Chance Westry","pos":"G","height":"6-6","year":"Jr.","ppg":15.5,"rpg":3.8,"apg":5.5,"notes":"UAB transfer"},
+        {"name":"Tru Washington","pos":"G","height":"6-4","year":"Sr.","ppg":11.9,"rpg":4.0,"apg":1.8,"notes":"Miami FL transfer"},
+        {"name":"Michael Nwoko","pos":"F","height":"6-10","year":"Sr.","ppg":13.4,"rpg":5.9,"apg":0.8,"notes":"LSU transfer"},
+        {"name":"Jovan Milicevic","pos":"F","height":"6-10","year":"Jr.","ppg":12.4,"rpg":3.9,"apg":1.4,"notes":""}
+      ]
+    },
+    {
+      "name": "Georgetown",
+      "conference": "Big East",
+      "coach": "Ed Cooley",
+      "espnId": "46",
+      "players": [
+        {"name":"Jaland Lowe","pos":"G","height":"6-3","year":"Sr.","ppg":8.0,"rpg":2.1,"apg":2.4,"notes":"Kentucky transfer"},
+        {"name":"Vyctorius Miller","pos":"G","height":"6-5","year":"Jr.","ppg":10.8,"rpg":2.7,"apg":1.8,"notes":"Oklahoma St. transfer"},
+        {"name":"Elmarko Jackson","pos":"G","height":"6-3","year":"R-Jr.","ppg":4.8,"rpg":1.8,"apg":1.4,"notes":"Kansas transfer"},
+        {"name":"Chol Machot","pos":"C","height":"7-0","year":"Jr.","ppg":8.9,"rpg":5.5,"apg":0.2,"notes":"Charleston transfer"}
+      ]
+    },
+    {
+      "name": "Butler",
+      "conference": "Big East",
+      "coach": "Ronald Nored",
+      "espnId": "2086",
+      "players": [
+        {"name":"Jordan Ellerbee","pos":"G","height":"6-3","year":"So.","ppg":13.1,"rpg":3.4,"apg":2.1,"notes":"Florida Gulf Coast transfer"},
+        {"name":"Treyson Anderson","pos":"F","height":"6-10","year":"Jr.","ppg":10.4,"rpg":5.3,"apg":0.8,"notes":"North Dakota St. transfer"},
+        {"name":"Christian Moore","pos":"F","height":"6-6","year":"R-Jr.","ppg":11.2,"rpg":3.1,"apg":1.0,"notes":"The Citadel transfer"},
+        {"name":"Drayton Jones","pos":"C","height":"6-11","year":"Sr.","ppg":6.3,"rpg":4.6,"apg":1.4,"notes":""}
+      ]
+    },
+    {
+      "name": "DePaul",
+      "conference": "Big East",
+      "coach": "Chris Holtmann",
+      "espnId": "305",
+      "players": [
+        {"name":"Layden Blocker","pos":"G","height":"6-2","year":"Sr.","ppg":11.1,"rpg":2.5,"apg":3.5,"notes":""},
+        {"name":"Kahmare Holmes","pos":"G","height":"6-3","year":"Jr.","ppg":19.5,"rpg":5.7,"apg":2.7,"notes":"Wofford transfer"},
+        {"name":"Koree Cotton","pos":"F","height":"6-6","year":"R-Jr.","ppg":13.9,"rpg":5.3,"apg":2.5,"notes":"UT Rio Grande Valley transfer"},
+        {"name":"Magoon Gwath","pos":"C","height":"7-0","year":"R-Jr.","ppg":8.9,"rpg":4.3,"apg":0.3,"notes":"San Diego St. transfer"},
+        {"name":"Wilson Jacques","pos":"C","height":"7-0","year":"So.","ppg":8.8,"rpg":8.8,"apg":1.1,"notes":"Fresno St. transfer"}
+      ]
+    },
+    {
+      "name": "Villanova",
+      "conference": "Big East",
+      "coach": "Kevin Willard",
+      "espnId": "222",
+      "players": [
+        {"name":"Elijah Crawford","pos":"G","height":"6-2","year":"Jr.","ppg":14.1,"rpg":2.9,"apg":4.9,"notes":"Illinois Chicago transfer"},
+        {"name":"Tyler Perkins","pos":"G","height":"6-4","year":"Sr.","ppg":13.7,"rpg":5.4,"apg":1.6,"notes":""},
+        {"name":"Devin Royal","pos":"F","height":"6-6","year":"Sr.","ppg":13.7,"rpg":5.7,"apg":1.6,"notes":"Ohio St. transfer"},
+        {"name":"Kwame Evans Jr.","pos":"F","height":"6-9","year":"Sr.","ppg":13.3,"rpg":7.4,"apg":2.0,"notes":"Oregon transfer"},
+        {"name":"Darryl Simmons II","pos":"G","height":"5-11","year":"Sr.","ppg":16.4,"rpg":1.9,"apg":2.8,"notes":"St. Bonaventure transfer"}
+      ]
+    },
+    {
+      "name": "BYU",
+      "conference": "Big 12",
+      "coach": "Kevin Young",
+      "espnId": "252",
+      "players": [
+        {"name":"Robert Wright III","pos":"G","height":"6-1","year":"Jr.","ppg":18.1,"rpg":3.5,"apg":4.6,"notes":"Returning"},
+        {"name":"Collin Chandler","pos":"G","height":"6-5","year":"Jr.","ppg":9.7,"rpg":2.8,"apg":2.3,"notes":"Kentucky transfer"},
+        {"name":"Bruce Branch III","pos":"F","height":"6-7","year":"Fr.","ppg":0,"rpg":0,"apg":0,"notes":"247 #6, 5-star"},
+        {"name":"Tyler Betsey","pos":"F","height":"6-8","year":"Jr.","ppg":6.7,"rpg":2.8,"apg":0.4,"notes":"Syracuse transfer"}
+      ]
+    },
+    {
+      "name": "UCF",
+      "conference": "Big 12",
+      "coach": "Johnny Dawkins",
+      "espnId": "2116",
+      "players": [
+        {"name":"Dior Johnson","pos":"G","height":"6-3","year":"Sr.","ppg":24.0,"rpg":3.3,"apg":1.6,"notes":"Tarleton St. transfer"},
+        {"name":"Isaiah Malone","pos":"F","height":"6-8","year":"Sr.","ppg":10.5,"rpg":5.8,"apg":0.5,"notes":"Florida Gulf Coast transfer"},
+        {"name":"Lewis Walker","pos":"F","height":"6-6","year":"R-So.","ppg":18.9,"rpg":5.0,"apg":1.8,"notes":"North Carolina A&T transfer"},
+        {"name":"Cayden Vasko","pos":"F","height":"6-6","year":"Sr.","ppg":10.4,"rpg":4.5,"apg":4.1,"notes":"Wofford transfer"}
+      ]
+    },
+    {
+      "name": "Gonzaga",
+      "conference": "WCC",
+      "coach": "Mark Few",
+      "espnId": "2250",
+      "players": [
+        {"name":"Massamba Diop","pos":"C","height":"7-1","year":"So.","ppg":13.6,"rpg":5.8,"apg":1.1,"notes":"Arizona State transfer"},
+        {"name":"Isiah Harwell","pos":"G","height":"6-3","year":"So.","ppg":3.6,"rpg":2.0,"apg":0.5,"notes":"Houston transfer"}
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "conference": "SEC",
+      "coach": "Porter Moser",
+      "espnId": "201",
+      "players": [
+        {"name":"Xzayvier Brown","pos":"G","height":"6-2","year":"Sr.","ppg":15.3,"rpg":3.2,"apg":3.2,"notes":""},
+        {"name":"Pop Isaacs","pos":"G","height":"6-2","year":"Sr.","ppg":9.8,"rpg":2.5,"apg":2.6,"notes":"Texas A&M transfer"},
+        {"name":"Derrion Reid","pos":"F","height":"6-8","year":"Jr.","ppg":11.8,"rpg":4.6,"apg":1.1,"notes":""},
+        {"name":"Tyler Hendricks","pos":"F","height":"6-5","year":"R-Sr.","ppg":11.8,"rpg":4.3,"apg":1.9,"notes":"Utah Valley transfer"}
       ]
     }
   ]
