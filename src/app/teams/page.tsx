@@ -3,7 +3,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import rostersData from '../../../data/rosters.json';
 
-const CONFERENCES = ['ACC', 'Big East', 'Big Ten', 'Big 12', 'SEC', 'WCC'];
+const CONFERENCES = ['ACC', 'Big East', 'Big Ten', 'Big 12', 'SEC'];
 
 function TeamsContent() {
   const sp = useSearchParams();
