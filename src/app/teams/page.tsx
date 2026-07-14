@@ -84,7 +84,7 @@ function TeamsContent() {
                 </tr>
               </thead>
               <tbody>
-                {selectedTeam.players.map((player, i) => (
+                {[...selectedTeam.players].sort((a, b) => (b.ppg || 0) - (a.ppg || 0)).map((player, i) => (
                   <tr key={i} className={`border-b border-[#1A1A1A] last:border-0 hover:bg-[#1A1A1A] transition-colors`}>
                     <td className="px-4 py-3">
                       <span className="font-condensed font-bold text-white text-sm">{player.name}</span>
