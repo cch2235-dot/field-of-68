@@ -11,7 +11,7 @@ function TeamsContent() {
   const [activeTeam, setActiveTeam] = useState<string | null>(null);
 
   const allTeams = rostersData.teams;
-  const confTeams = allTeams.filter(t => t.conference === activeConf);
+  const confTeams = allTeams.filter(t => t.conference === activeConf).sort((a, b) => a.name.localeCompare(b.name));
   const selectedTeam = allTeams.find(t => t.name === activeTeam);
 
   useEffect(() => {
