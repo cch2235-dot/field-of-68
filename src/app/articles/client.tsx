@@ -20,7 +20,6 @@ export default function ArticlesClient({ posts }: { posts: Article[] }) {
 
   return (
     <>
-      {/* Category tabs */}
       <div className="flex gap-2 flex-wrap mb-8">
         {CATS.map(c => (
           <button key={c.id} onClick={() => setCat(c.id)}
@@ -42,7 +41,6 @@ export default function ArticlesClient({ posts }: { posts: Article[] }) {
         </div>
       ) : (
         <>
-          {/* Featured */}
           {featured && (
             <div className="mb-10">
               <a href={featured.url} target="_blank" rel="noopener noreferrer"
@@ -78,12 +76,11 @@ export default function ArticlesClient({ posts }: { posts: Article[] }) {
             </div>
           )}
 
-          {/* Grid */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {rest.map(post => (
               <a key={post.id} href={post.url} target="_blank" rel="noopener noreferrer"
-                className="group block bg-[#111] rounded-xl overflow-hidden border border-[#1A1A1A] hover:border-[#F5A623]/40 transition-all">
-                <div style={{ height: '180px' }}>
+                className="group flex flex-col bg-[#111] rounded-xl overflow-hidden border border-[#1A1A1A] hover:border-[#F5A623]/40 transition-all">
+                <div style={{ height: '180px', flexShrink: 0 }}>
                   {post.thumbnail ? (
                     <img src={post.thumbnail} alt={post.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                   ) : (
@@ -92,14 +89,17 @@ export default function ArticlesClient({ posts }: { posts: Article[] }) {
                     </div>
                   )}
                 </div>
-                <div className="p-4">
-                  <span className="inline-block bg-[#F5A623]/10 text-[#F5A623] font-condensed font-bold text-[10px] tracking-widest uppercase px-2 py-0.5 rounded mb-2">
+                <div className="p-4 flex flex-col flex-1">
+                  <span className="inline-block bg-[#F5A623]/10 text-[#F5A623] font-condensed font-bold text-[10px] tracking-widest uppercase px-2 py-0.5 rounded mb-2 w-fit">
                     {post.category}
                   </span>
-                  <h3 className="font-condensed font-bold text-white text-sm leading-snug mb-2 line-clamp-2 group-hover:text-[#F5A623] transition-colors">
+                  <h3 className="font-condensed font-bold text-white text-sm leading-snug mb-1 line-clamp-2 group-hover:text-[#F5A623] transition-colors">
                     {post.title}
                   </h3>
-                  <div className="flex items-center justify-between">
+                  {post.excerpt && (
+                    <p className="text-[#8A8A8A] font-condensed text-xs leading-relaxed mb-3 line-clamp-2">{post.excerpt}</p>
+                  )}
+                  <div className="flex items-center justify-between mt-auto">
                     <span className="text-[#555] font-condensed text-xs">{formatDate(post.publishedAt)}</span>
                     <span className="text-[#8A8A8A] font-condensed text-xs">Read →</span>
                   </div>
@@ -108,7 +108,6 @@ export default function ArticlesClient({ posts }: { posts: Article[] }) {
             ))}
           </div>
 
-          {/* Subscribe CTA */}
           <div className="mt-14 bg-[#111] border border-[#1A1A1A] rounded-2xl p-8 md:p-12 text-center">
             <h2 className="font-display text-white text-3xl md:text-4xl tracking-wider mb-3">THE FIELD OF 68 DAILY</h2>
             <p className="text-[#8A8A8A] font-condensed text-lg mb-6 max-w-lg mx-auto">
