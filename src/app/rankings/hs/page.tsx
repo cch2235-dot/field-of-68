@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import hsData from '../../../data/hs-rankings.json';
+import hsData from '../../../../data/hs-rankings.json';
 
 type Prospect = {
   rank: number;
