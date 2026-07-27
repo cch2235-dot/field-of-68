@@ -7,14 +7,14 @@ import { usePathname } from 'next/navigation';
 const NAV = [
   { href:'/', label:'Home' },
   { href:'/videos', label:'Videos' },
-  { href:'/portal', label:'Portal' },
-  { href:'/rankings/hs', label:'HS Rankings' },
-  { href:'/rankings', label:'Rankings' },
-  { href:'/teams', label:'Teams' },
   { href:'/articles', label:'Articles' },
   { href:'/shows', label:'Shows' },
-  { href:'/about', label:'About' },
+  { href:'/teams', label:'Teams' },
+  { href:'/portal', label:'Portal' },
+  { href:'/rankings', label:'Rankings' },
+  { href:'/rankings/hs', label:'HS Rankings' },
   { href:'https://fieldof68.shop/', label:'Shop', external:true },
+  { href:'/about', label:'About' },
   { href:'/contact', label:'Advertise' },
 ];
 
