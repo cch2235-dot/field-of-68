@@ -8,6 +8,7 @@ const NAV = [
   { href:'/', label:'Home' },
   { href:'/videos', label:'Videos' },
   { href:'/portal', label:'Portal' },
+  { href:'/rankings/hs', label:'HS Rankings' },
   { href:'/rankings', label:'Rankings' },
   { href:'/teams', label:'Teams' },
   { href:'/articles', label:'Articles' },
@@ -53,4 +54,3 @@ export default function Header() {
     </header>
   );
 }
-
