@@ -9,8 +9,40 @@
       "weight": 155,
       "school": "Calvary Christian Academy",
       "location": "Fort Lauderdale, FL",
-      "warm": ["Iowa", "Florida State", "Miami", "Michigan", "Arizona State"],
-      "others": ["BYU", "Cincinnati", "Florida", "Georgia", "Illinois", "Kentucky", "LSU", "Louisville", "Mississippi State", "Ohio State", "Ole Miss", "Penn State", "Pittsburgh", "Rutgers", "Texas", "Texas A&M", "Virginia", "West Virginia", "South Florida", "Florida Atlantic", "Dayton", "Providence", "UConn", "Villanova", "Sacramento State"]
+      "warm": [
+        "Iowa",
+        "Florida State",
+        "Miami",
+        "Michigan",
+        "Arizona State"
+      ],
+      "others": [
+        "BYU",
+        "Cincinnati",
+        "Florida",
+        "Georgia",
+        "Illinois",
+        "Kentucky",
+        "LSU",
+        "Louisville",
+        "Mississippi State",
+        "Ohio State",
+        "Ole Miss",
+        "Penn State",
+        "Pittsburgh",
+        "Rutgers",
+        "Texas",
+        "Texas A&M",
+        "Virginia",
+        "West Virginia",
+        "South Florida",
+        "Florida Atlantic",
+        "Dayton",
+        "Providence",
+        "UConn",
+        "Villanova",
+        "Sacramento State"
+      ]
     },
     {
       "rank": 2,
@@ -21,8 +53,38 @@
       "weight": 190,
       "school": "Compass Prep",
       "location": "Chandler, AZ",
-      "warm": ["BYU", "Arkansas", "Kansas", "Kentucky", "Louisville", "North Carolina", "Ohio State", "UConn"],
-      "others": ["Alabama", "Arizona State", "Cincinnati", "Illinois", "LSU", "Mississippi State", "Oklahoma State", "Oregon", "Stanford", "Tennessee", "Texas A&M", "USC", "Vanderbilt", "Virginia", "Washington", "West Virginia", "Gonzaga", "Grand Canyon", "UNLV", "Xavier"]
+      "warm": [
+        "BYU",
+        "Arkansas",
+        "Kansas",
+        "Kentucky",
+        "Louisville",
+        "North Carolina",
+        "Ohio State",
+        "UConn"
+      ],
+      "others": [
+        "Alabama",
+        "Arizona State",
+        "Cincinnati",
+        "Illinois",
+        "LSU",
+        "Mississippi State",
+        "Oklahoma State",
+        "Oregon",
+        "Stanford",
+        "Tennessee",
+        "Texas A&M",
+        "USC",
+        "Vanderbilt",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Gonzaga",
+        "Grand Canyon",
+        "UNLV",
+        "Xavier"
+      ]
     },
     {
       "rank": 3,
@@ -33,9 +95,44 @@
       "weight": 180,
       "school": "Southeastern Prep",
       "location": "Orlando, FL",
-      "warm": ["Georgetown", "Texas", "Arkansas"],
-      "visits": [{"school": "Georgetown", "date": "Mar. 24"}, {"school": "Texas", "date": "Sept. 9"}],
-      "others": ["Auburn", "California", "Cincinnati", "Duke", "Kansas", "Kentucky", "Miami", "Michigan", "Mississippi State", "North Carolina", "Oklahoma", "Oklahoma State", "TCU", "Texas A&M", "Texas Tech", "USC", "Virginia", "SMU", "Creighton", "Villanova", "Florida A&M"]
+      "warm": [
+        "Georgetown",
+        "Texas",
+        "Arkansas"
+      ],
+      "visits": [
+        {
+          "school": "Georgetown",
+          "date": "Mar. 24"
+        },
+        {
+          "school": "Texas",
+          "date": "Sept. 9"
+        }
+      ],
+      "others": [
+        "Auburn",
+        "California",
+        "Cincinnati",
+        "Duke",
+        "Kansas",
+        "Kentucky",
+        "Miami",
+        "Michigan",
+        "Mississippi State",
+        "North Carolina",
+        "Oklahoma",
+        "Oklahoma State",
+        "TCU",
+        "Texas A&M",
+        "Texas Tech",
+        "USC",
+        "Virginia",
+        "SMU",
+        "Creighton",
+        "Villanova",
+        "Florida A&M"
+      ]
     },
     {
       "rank": 4,
@@ -47,7 +144,38 @@
       "school": "Prolific Prep",
       "location": "Fort Lauderdale, FL",
       "warm": [],
-      "others": ["Alabama", "Arkansas", "BYU", "Baylor", "Cincinnati", "Duke", "Florida", "Florida State", "Houston", "Illinois", "Indiana", "Kansas", "Kentucky", "LSU", "Louisville", "Miami", "Michigan", "Mississippi State", "North Carolina", "Ohio State", "Oklahoma", "Ole Miss", "Syracuse", "Texas", "Texas A&M", "UCLA", "USC", "Providence", "Seton Hall", "UMBC"]
+      "others": [
+        "Alabama",
+        "Arkansas",
+        "BYU",
+        "Baylor",
+        "Cincinnati",
+        "Duke",
+        "Florida",
+        "Florida State",
+        "Houston",
+        "Illinois",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "LSU",
+        "Louisville",
+        "Miami",
+        "Michigan",
+        "Mississippi State",
+        "North Carolina",
+        "Ohio State",
+        "Oklahoma",
+        "Ole Miss",
+        "Syracuse",
+        "Texas",
+        "Texas A&M",
+        "UCLA",
+        "USC",
+        "Providence",
+        "Seton Hall",
+        "UMBC"
+      ]
     },
     {
       "rank": 5,
@@ -59,7 +187,35 @@
       "school": "Millennium",
       "location": "Goodyear, AZ",
       "warm": [],
-      "others": ["Alabama", "Arizona", "Arizona State", "BYU", "California", "Duke", "Houston", "Kansas", "Kentucky", "LSU", "Maryland", "North Carolina", "Oregon", "Stanford", "Texas", "Texas A&M", "UCLA", "USC", "Utah", "Virginia", "Washington", "West Virginia", "UMass", "UNLV", "Creighton", "Providence", "Villanova"]
+      "others": [
+        "Alabama",
+        "Arizona",
+        "Arizona State",
+        "BYU",
+        "California",
+        "Duke",
+        "Houston",
+        "Kansas",
+        "Kentucky",
+        "LSU",
+        "Maryland",
+        "North Carolina",
+        "Oregon",
+        "Stanford",
+        "Texas",
+        "Texas A&M",
+        "UCLA",
+        "USC",
+        "Utah",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "UMass",
+        "UNLV",
+        "Creighton",
+        "Providence",
+        "Villanova"
+      ]
     },
     {
       "rank": 6,
@@ -70,9 +226,59 @@
       "weight": 175,
       "school": "Houston Second Baptist",
       "location": "Houston, TX",
-      "warm": ["Louisville", "Wichita State", "Kentucky", "LSU", "Tennessee"],
-      "visits": [{"school": "Louisville", "date": "Dec. 13"}, {"school": "Wichita State", "date": "Mar. 7"}, {"school": "Purdue", "date": "Jan. 24"}],
-      "others": ["Arizona State", "Florida State", "Houston", "Illinois", "Kansas", "Maryland", "NC State", "Ole Miss", "Pittsburgh", "Stanford", "TCU", "Texas", "Texas A&M", "Texas Tech", "UCF", "USC", "Vanderbilt", "Virginia", "Washington", "SMU", "UTSA", "Nevada", "Sam Houston", "UT Arlington", "Nicholls", "Norfolk State", "Manhattan", "Rhode Island", "Seton Hall", "Villanova"]
+      "warm": [
+        "Louisville",
+        "Wichita State",
+        "Kentucky",
+        "LSU",
+        "Tennessee"
+      ],
+      "visits": [
+        {
+          "school": "Louisville",
+          "date": "Dec. 13"
+        },
+        {
+          "school": "Wichita State",
+          "date": "Mar. 7"
+        },
+        {
+          "school": "Purdue",
+          "date": "Jan. 24"
+        }
+      ],
+      "others": [
+        "Arizona State",
+        "Florida State",
+        "Houston",
+        "Illinois",
+        "Kansas",
+        "Maryland",
+        "NC State",
+        "Ole Miss",
+        "Pittsburgh",
+        "Stanford",
+        "TCU",
+        "Texas",
+        "Texas A&M",
+        "Texas Tech",
+        "UCF",
+        "USC",
+        "Vanderbilt",
+        "Virginia",
+        "Washington",
+        "SMU",
+        "UTSA",
+        "Nevada",
+        "Sam Houston",
+        "UT Arlington",
+        "Nicholls",
+        "Norfolk State",
+        "Manhattan",
+        "Rhode Island",
+        "Seton Hall",
+        "Villanova"
+      ]
     },
     {
       "rank": 7,
@@ -84,7 +290,12 @@
       "school": "Ruston",
       "location": "Ruston, LA",
       "warm": [],
-      "others": ["LSU", "Miami", "Louisiana Tech", "Grambling State"]
+      "others": [
+        "LSU",
+        "Miami",
+        "Louisiana Tech",
+        "Grambling State"
+      ]
     },
     {
       "rank": 8,
@@ -95,9 +306,58 @@
       "weight": 245,
       "school": "Sunnyslope",
       "location": "Phoenix, AZ",
-      "warm": ["Arizona", "Indiana", "Louisville", "Texas", "North Carolina", "Kentucky"],
-      "visits": [{"school": "Arizona", "date": "Sept. 25"}, {"school": "Indiana", "date": "Sept. 5"}, {"school": "Louisville", "date": "Sept. 11"}, {"school": "Texas", "date": "Oct. 9"}, {"school": "North Carolina", "date": "Oct. 30"}, {"school": "Washington", "date": "Oct. 24"}],
-      "others": ["Alabama", "Arizona State", "Baylor", "California", "LSU", "Maryland", "Oregon", "Purdue", "Stanford", "Texas A&M", "Texas Tech", "USC", "Sacramento State", "Cal State Northridge", "Providence", "Villanova"]
+      "warm": [
+        "Arizona",
+        "Indiana",
+        "Louisville",
+        "Texas",
+        "North Carolina",
+        "Kentucky"
+      ],
+      "visits": [
+        {
+          "school": "Arizona",
+          "date": "Sept. 25"
+        },
+        {
+          "school": "Indiana",
+          "date": "Sept. 5"
+        },
+        {
+          "school": "Louisville",
+          "date": "Sept. 11"
+        },
+        {
+          "school": "Texas",
+          "date": "Oct. 9"
+        },
+        {
+          "school": "North Carolina",
+          "date": "Oct. 30"
+        },
+        {
+          "school": "Washington",
+          "date": "Oct. 24"
+        }
+      ],
+      "others": [
+        "Alabama",
+        "Arizona State",
+        "Baylor",
+        "California",
+        "LSU",
+        "Maryland",
+        "Oregon",
+        "Purdue",
+        "Stanford",
+        "Texas A&M",
+        "Texas Tech",
+        "USC",
+        "Sacramento State",
+        "Cal State Northridge",
+        "Providence",
+        "Villanova"
+      ]
     },
     {
       "rank": 9,
@@ -108,8 +368,36 @@
       "weight": 195,
       "school": "Southeastern Prep",
       "location": "Orlando, FL",
-      "warm": ["Kentucky", "North Carolina"],
-      "others": ["Alabama", "Arkansas", "Auburn", "BYU", "Cincinnati", "Florida State", "Georgia Tech", "Kansas", "Louisville", "Maryland", "Miami", "Michigan", "Mississippi State", "NC State", "Syracuse", "TCU", "Texas A&M", "UCF", "USC", "Virginia Tech", "Wake Forest", "High Point", "Presbyterian", "Villanova"]
+      "warm": [
+        "Kentucky",
+        "North Carolina"
+      ],
+      "others": [
+        "Alabama",
+        "Arkansas",
+        "Auburn",
+        "BYU",
+        "Cincinnati",
+        "Florida State",
+        "Georgia Tech",
+        "Kansas",
+        "Louisville",
+        "Maryland",
+        "Miami",
+        "Michigan",
+        "Mississippi State",
+        "NC State",
+        "Syracuse",
+        "TCU",
+        "Texas A&M",
+        "UCF",
+        "USC",
+        "Virginia Tech",
+        "Wake Forest",
+        "High Point",
+        "Presbyterian",
+        "Villanova"
+      ]
     },
     {
       "rank": 10,
@@ -120,8 +408,36 @@
       "weight": 180,
       "school": "Notre Dame",
       "location": "Sherman Oaks, CA",
-      "warm": ["Arizona", "Illinois", "Texas", "UConn"],
-      "others": ["Alabama", "Arkansas", "Baylor", "California", "Indiana", "Kansas", "Kentucky", "Maryland", "Miami", "North Carolina", "Penn State", "Stanford", "TCU", "Tennessee", "UCLA", "USC", "Washington", "UTSA", "New Mexico", "UNLV", "Saint Louis", "Villanova"]
+      "warm": [
+        "Arizona",
+        "Illinois",
+        "Texas",
+        "UConn"
+      ],
+      "others": [
+        "Alabama",
+        "Arkansas",
+        "Baylor",
+        "California",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "Maryland",
+        "Miami",
+        "North Carolina",
+        "Penn State",
+        "Stanford",
+        "TCU",
+        "Tennessee",
+        "UCLA",
+        "USC",
+        "Washington",
+        "UTSA",
+        "New Mexico",
+        "UNLV",
+        "Saint Louis",
+        "Villanova"
+      ]
     },
     {
       "rank": 11,
@@ -133,7 +449,27 @@
       "school": "Long Island Lutheran",
       "location": "Glen Head, NY",
       "warm": [],
-      "others": ["Alabama", "BYU", "Cincinnati", "Illinois", "Kentucky", "Louisville", "NC State", "Oklahoma State", "Penn State", "Syracuse", "Virginia", "NJIT", "Sacred Heart", "Fordham", "Marist", "Providence", "Rhode Island", "UConn", "Youngstown State"]
+      "others": [
+        "Alabama",
+        "BYU",
+        "Cincinnati",
+        "Illinois",
+        "Kentucky",
+        "Louisville",
+        "NC State",
+        "Oklahoma State",
+        "Penn State",
+        "Syracuse",
+        "Virginia",
+        "NJIT",
+        "Sacred Heart",
+        "Fordham",
+        "Marist",
+        "Providence",
+        "Rhode Island",
+        "UConn",
+        "Youngstown State"
+      ]
     },
     {
       "rank": 12,
@@ -144,8 +480,35 @@
       "weight": 220,
       "school": "Bella Vista Prep",
       "location": "Scottsdale, AZ",
-      "warm": ["West Virginia"],
-      "others": ["Arkansas", "BYU", "Cincinnati", "Georgia Tech", "Houston", "Illinois", "Indiana", "Kansas", "Kentucky", "Mississippi State", "North Carolina", "Oklahoma State", "Oregon", "Rutgers", "Syracuse", "Texas", "UCLA", "USC", "Utah", "Virginia", "Washington", "Cal State Northridge", "Arizona State", "Kansas State"]
+      "warm": [
+        "West Virginia"
+      ],
+      "others": [
+        "Arkansas",
+        "BYU",
+        "Cincinnati",
+        "Georgia Tech",
+        "Houston",
+        "Illinois",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "Mississippi State",
+        "North Carolina",
+        "Oklahoma State",
+        "Oregon",
+        "Rutgers",
+        "Syracuse",
+        "Texas",
+        "UCLA",
+        "USC",
+        "Utah",
+        "Virginia",
+        "Washington",
+        "Cal State Northridge",
+        "Arizona State",
+        "Kansas State"
+      ]
     },
     {
       "rank": 13,
@@ -156,8 +519,34 @@
       "weight": 180,
       "school": "IMG Academy",
       "location": "Bradenton, FL",
-      "warm": ["NC State", "North Carolina"],
-      "others": ["Baylor", "California", "Florida State", "Georgia Tech", "Houston", "Indiana", "Kansas", "Kentucky", "Miami", "Michigan", "Minnesota", "Oklahoma State", "South Carolina", "Tennessee", "Texas A&M", "Texas Tech", "UCLA", "Virginia", "Georgetown", "Providence", "Seton Hall", "UConn"]
+      "warm": [
+        "NC State",
+        "North Carolina"
+      ],
+      "others": [
+        "Baylor",
+        "California",
+        "Florida State",
+        "Georgia Tech",
+        "Houston",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "Miami",
+        "Michigan",
+        "Minnesota",
+        "Oklahoma State",
+        "South Carolina",
+        "Tennessee",
+        "Texas A&M",
+        "Texas Tech",
+        "UCLA",
+        "Virginia",
+        "Georgetown",
+        "Providence",
+        "Seton Hall",
+        "UConn"
+      ]
     },
     {
       "rank": 14,
@@ -168,8 +557,33 @@
       "weight": 195,
       "school": "Hillgrove",
       "location": "Powder Springs, GA",
-      "warm": ["Auburn", "Georgia"],
-      "others": ["Alabama", "Arizona", "Florida", "Florida State", "Georgia Tech", "Houston", "LSU", "Louisville", "Maryland", "Michigan State", "North Carolina", "Ole Miss", "Rutgers", "Texas A&M", "Texas Tech", "Georgia State", "Kennesaw State", "Providence", "Seton Hall", "UConn", "Xavier"]
+      "warm": [
+        "Auburn",
+        "Georgia"
+      ],
+      "others": [
+        "Alabama",
+        "Arizona",
+        "Florida",
+        "Florida State",
+        "Georgia Tech",
+        "Houston",
+        "LSU",
+        "Louisville",
+        "Maryland",
+        "Michigan State",
+        "North Carolina",
+        "Ole Miss",
+        "Rutgers",
+        "Texas A&M",
+        "Texas Tech",
+        "Georgia State",
+        "Kennesaw State",
+        "Providence",
+        "Seton Hall",
+        "UConn",
+        "Xavier"
+      ]
     },
     {
       "rank": 15,
@@ -181,7 +595,39 @@
       "school": "Bremerton",
       "location": "Bremerton, WA",
       "warm": [],
-      "others": ["Alabama", "BYU", "California", "Houston", "Iowa", "Kansas", "Mississippi State", "Oklahoma", "Ole Miss", "Oregon", "Stanford", "TCU", "Texas Tech", "UCLA", "USC", "Vanderbilt", "Washington", "West Virginia", "SMU", "Gonzaga", "Oregon State", "Washington State", "New Mexico", "San Diego State", "UNLV", "Montana", "Seattle", "Weber State", "Loyola Marymount", "San Francisco", "Xavier"]
+      "others": [
+        "Alabama",
+        "BYU",
+        "California",
+        "Houston",
+        "Iowa",
+        "Kansas",
+        "Mississippi State",
+        "Oklahoma",
+        "Ole Miss",
+        "Oregon",
+        "Stanford",
+        "TCU",
+        "Texas Tech",
+        "UCLA",
+        "USC",
+        "Vanderbilt",
+        "Washington",
+        "West Virginia",
+        "SMU",
+        "Gonzaga",
+        "Oregon State",
+        "Washington State",
+        "New Mexico",
+        "San Diego State",
+        "UNLV",
+        "Montana",
+        "Seattle",
+        "Weber State",
+        "Loyola Marymount",
+        "San Francisco",
+        "Xavier"
+      ]
     },
     {
       "rank": 16,
@@ -207,7 +653,43 @@
       "school": "SPIRE Academy",
       "location": "Geneva, OH",
       "warm": [],
-      "others": ["Alabama", "Arkansas", "Auburn", "Cincinnati", "Florida State", "Georgia", "Houston", "Indiana", "Kentucky", "LSU", "Michigan", "Mississippi State", "Missouri", "NC State", "North Carolina", "Notre Dame", "Penn State", "South Carolina", "Syracuse", "Texas A&M", "Virginia Tech", "Wake Forest", "West Virginia", "Charlotte", "Cal State Bakersfield", "College of Charleston", "High Point", "Howard", "Morehead State", "New Orleans", "North Carolina A&T", "Georgetown", "Providence", "Seton Hall", "UConn"]
+      "others": [
+        "Alabama",
+        "Arkansas",
+        "Auburn",
+        "Cincinnati",
+        "Florida State",
+        "Georgia",
+        "Houston",
+        "Indiana",
+        "Kentucky",
+        "LSU",
+        "Michigan",
+        "Mississippi State",
+        "Missouri",
+        "NC State",
+        "North Carolina",
+        "Notre Dame",
+        "Penn State",
+        "South Carolina",
+        "Syracuse",
+        "Texas A&M",
+        "Virginia Tech",
+        "Wake Forest",
+        "West Virginia",
+        "Charlotte",
+        "Cal State Bakersfield",
+        "College of Charleston",
+        "High Point",
+        "Howard",
+        "Morehead State",
+        "New Orleans",
+        "North Carolina A&T",
+        "Georgetown",
+        "Providence",
+        "Seton Hall",
+        "UConn"
+      ]
     },
     {
       "rank": 18,
@@ -218,8 +700,43 @@
       "weight": 205,
       "school": "Prolific Prep",
       "location": "Fort Lauderdale, FL",
-      "warm": ["Auburn", "Georgia"],
-      "others": ["Alabama", "Baylor", "California", "Cincinnati", "Florida", "Georgia Tech", "Houston", "Illinois", "Indiana", "Kansas", "Kentucky", "LSU", "Louisville", "Maryland", "Mississippi State", "Missouri", "NC State", "North Carolina", "Ole Miss", "Oregon", "Syracuse", "UCLA", "USC", "Virginia", "Virginia Tech", "Georgia State", "South Florida", "Louisiana", "Jacksonville", "Providence", "Seton Hall"]
+      "warm": [
+        "Auburn",
+        "Georgia"
+      ],
+      "others": [
+        "Alabama",
+        "Baylor",
+        "California",
+        "Cincinnati",
+        "Florida",
+        "Georgia Tech",
+        "Houston",
+        "Illinois",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "LSU",
+        "Louisville",
+        "Maryland",
+        "Mississippi State",
+        "Missouri",
+        "NC State",
+        "North Carolina",
+        "Ole Miss",
+        "Oregon",
+        "Syracuse",
+        "UCLA",
+        "USC",
+        "Virginia",
+        "Virginia Tech",
+        "Georgia State",
+        "South Florida",
+        "Louisiana",
+        "Jacksonville",
+        "Providence",
+        "Seton Hall"
+      ]
     },
     {
       "rank": 19,
@@ -244,9 +761,1402 @@
       "weight": 165,
       "school": "The Master's Academy International",
       "location": "Hanover, MA",
-      "warm": ["Utah", "Marquette", "Boston College"],
-      "visits": [{"school": "Utah", "date": "Sept. 20"}, {"school": "Marquette", "date": "Dec. 29"}],
-      "others": ["Auburn", "Florida State", "Georgia Tech", "Iowa", "Kansas", "Maryland", "Michigan", "Michigan State", "Notre Dame", "Oklahoma State", "Ole Miss", "Penn State", "Rutgers", "South Carolina", "Tennessee", "UCLA", "Washington", "Albany", "Bryant", "Georgetown", "Xavier"]
+      "warm": [
+        "Utah",
+        "Marquette",
+        "Boston College"
+      ],
+      "visits": [
+        {
+          "school": "Utah",
+          "date": "Sept. 20"
+        },
+        {
+          "school": "Marquette",
+          "date": "Dec. 29"
+        }
+      ],
+      "others": [
+        "Auburn",
+        "Florida State",
+        "Georgia Tech",
+        "Iowa",
+        "Kansas",
+        "Maryland",
+        "Michigan",
+        "Michigan State",
+        "Notre Dame",
+        "Oklahoma State",
+        "Ole Miss",
+        "Penn State",
+        "Rutgers",
+        "South Carolina",
+        "Tennessee",
+        "UCLA",
+        "Washington",
+        "Albany",
+        "Bryant",
+        "Georgetown",
+        "Xavier"
+      ]
+    },
+    {
+      "rank": 21,
+      "name": "Chase Lumpkin",
+      "stars": 4,
+      "pos": "CG",
+      "height": "6'4",
+      "weight": 170,
+      "school": "McEachern",
+      "location": "Powder Springs, GA",
+      "warm": [
+        "Alabama",
+        "Kentucky",
+        "Louisville"
+      ],
+      "others": [
+        "Arizona State",
+        "Auburn",
+        "California",
+        "Cincinnati",
+        "Florida State",
+        "Georgia",
+        "Georgia Tech",
+        "Indiana",
+        "Iowa",
+        "Maryland",
+        "Miami",
+        "Michigan",
+        "Ole Miss",
+        "Oregon",
+        "Rutgers",
+        "Tennessee",
+        "UCLA",
+        "USC",
+        "Utah",
+        "SMU",
+        "East Carolina",
+        "Georgia State",
+        "Providence",
+        "San Diego"
+      ]
+    },
+    {
+      "rank": 22,
+      "name": "Donovan Davis",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'7",
+      "weight": 200,
+      "school": "Freedom",
+      "location": "Kaukauna, WI",
+      "committed": "Iowa State",
+      "commitDate": "May 6, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 23,
+      "name": "Kager Knueppel",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'10",
+      "weight": 225,
+      "school": "Wisconsin Lutheran",
+      "location": "Milwaukee, WI",
+      "committed": "Duke",
+      "commitDate": "Jun. 29, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 24,
+      "name": "Malachi Jordan",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'7",
+      "weight": 225,
+      "school": "Prolific Prep",
+      "location": "Fort Lauderdale, FL",
+      "warm": [
+        "USC",
+        "Vanderbilt",
+        "Tennessee",
+        "Alabama",
+        "Kansas",
+        "Missouri"
+      ],
+      "visits": [
+        {
+          "school": "USC",
+          "date": "Sept. 4"
+        },
+        {
+          "school": "Vanderbilt",
+          "date": "Sept. 19"
+        },
+        {
+          "school": "Tennessee",
+          "date": "Sept. 25"
+        },
+        {
+          "school": "Alabama",
+          "date": "Oct. 9"
+        }
+      ],
+      "others": [
+        "Arizona State",
+        "Auburn",
+        "BYU",
+        "Baylor",
+        "Indiana",
+        "Miami",
+        "Ohio State",
+        "Texas Tech",
+        "Washington",
+        "West Virginia",
+        "Memphis",
+        "Louisiana",
+        "UConn",
+        "Alabama A&M",
+        "Tennessee State"
+      ]
+    },
+    {
+      "rank": 25,
+      "name": "Cherif Millogo",
+      "stars": 4,
+      "pos": "C",
+      "height": "7'2",
+      "weight": 210,
+      "school": "St. Francis",
+      "location": "La Canada Flintridge, CA",
+      "warm": [],
+      "others": [
+        "Alabama",
+        "Arizona",
+        "BYU",
+        "Georgia",
+        "Kentucky",
+        "Nebraska",
+        "Syracuse",
+        "TCU",
+        "USC",
+        "Vanderbilt"
+      ]
+    },
+    {
+      "rank": 26,
+      "name": "Ahmed Nur",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'8",
+      "weight": 190,
+      "school": "Bella Vista Prep",
+      "location": "Scottsdale, AZ",
+      "warm": [
+        "Ole Miss"
+      ],
+      "visits": [
+        {
+          "school": "Ole Miss",
+          "date": "Aug. 22"
+        },
+        {
+          "school": "Purdue",
+          "date": "Jun. 23"
+        },
+        {
+          "school": "Syracuse",
+          "date": "Aug. 28"
+        },
+        {
+          "school": "Washington",
+          "date": "Sept. 6"
+        }
+      ],
+      "others": [
+        "Alabama",
+        "Arizona State",
+        "BYU",
+        "Cincinnati",
+        "Florida State",
+        "Georgia Tech",
+        "Indiana",
+        "Kansas",
+        "Miami",
+        "Minnesota",
+        "Mississippi State",
+        "Penn State",
+        "Rutgers",
+        "Texas",
+        "Wake Forest",
+        "West Virginia",
+        "SMU",
+        "San Diego State",
+        "UNLV",
+        "Utah State",
+        "Marquette",
+        "Providence",
+        "Xavier"
+      ]
+    },
+    {
+      "rank": 27,
+      "name": "Dawson Battie",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'8",
+      "weight": 210,
+      "school": "St. Mark's",
+      "location": "Dallas, TX",
+      "warm": [
+        "Stanford",
+        "Nebraska",
+        "Virginia",
+        "SMU"
+      ],
+      "visits": [
+        {
+          "school": "Stanford",
+          "date": "Jun. 28"
+        },
+        {
+          "school": "Nebraska",
+          "date": "Oct. 9"
+        }
+      ],
+      "others": [
+        "Auburn",
+        "California",
+        "Houston",
+        "Kentucky",
+        "LSU",
+        "Maryland",
+        "Missouri",
+        "Oklahoma State",
+        "Ole Miss",
+        "TCU",
+        "Texas",
+        "Texas A&M",
+        "Texas Tech",
+        "Temple",
+        "Wichita State",
+        "Portland"
+      ]
+    },
+    {
+      "rank": 28,
+      "name": "Quinton Kitt",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'6",
+      "weight": 205,
+      "school": "Monarch Academy",
+      "location": "Kansas City, KS",
+      "committed": "Illinois",
+      "commitDate": "Nov. 27, 2025",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 29,
+      "name": "Jayon Connor",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'7",
+      "weight": 190,
+      "school": "Forsyth Country Day School",
+      "location": "Lewisville, NC",
+      "warm": [],
+      "others": [
+        "Georgia Tech",
+        "Houston",
+        "Illinois",
+        "Michigan State",
+        "Tennessee",
+        "Texas A&M",
+        "USC",
+        "Virginia Tech",
+        "Wake Forest",
+        "Ball State",
+        "Charlotte",
+        "Coastal Carolina",
+        "Ohio",
+        "Presbyterian",
+        "UNC Greensboro",
+        "Providence",
+        "UConn"
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Ryan Hampton",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'6",
+      "weight": 190,
+      "school": "DME Academy",
+      "location": "Daytona Beach, FL",
+      "committed": "Kentucky",
+      "commitDate": "Jun. 7, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 31,
+      "name": "Jarvis Hayes",
+      "stars": 4,
+      "pos": "SG",
+      "height": "6'5",
+      "weight": 175,
+      "school": "Woodward Academy",
+      "location": "Atlanta, GA",
+      "warm": [
+        "Georgia",
+        "Florida State",
+        "Clemson",
+        "Vanderbilt"
+      ],
+      "visits": [
+        {
+          "school": "Florida State",
+          "date": "Aug. 27"
+        }
+      ],
+      "others": [
+        "Auburn",
+        "Cincinnati",
+        "Georgia Tech",
+        "Miami",
+        "Missouri",
+        "Ole Miss",
+        "Oregon",
+        "Wake Forest",
+        "Georgia State",
+        "Tulane",
+        "Morehead State",
+        "South Carolina State",
+        "Xavier"
+      ]
+    },
+    {
+      "rank": 32,
+      "name": "Deng Ngor",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'8",
+      "weight": 200,
+      "school": "Fort Erie International Academy",
+      "location": "Fort Erie, ON",
+      "warm": [],
+      "visits": [
+        {
+          "school": "St. Bonaventure",
+          "date": "Nov. 16"
+        }
+      ],
+      "others": [
+        "Auburn",
+        "Florida State",
+        "Georgia Tech",
+        "Ohio State",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "East Carolina",
+        "Ball State",
+        "Colorado State",
+        "Grand Canyon",
+        "New Mexico",
+        "UNLV",
+        "UT Arlington",
+        "LIU",
+        "Butler",
+        "George Mason",
+        "George Washington",
+        "Marquette",
+        "Saint Joseph's",
+        "San Diego"
+      ]
+    },
+    {
+      "rank": 33,
+      "name": "Jaxson Davis",
+      "stars": 4,
+      "pos": "PG",
+      "height": "6'0",
+      "weight": 165,
+      "school": "Monarch Academy",
+      "location": "Kansas City, KS",
+      "warm": [],
+      "visits": [
+        {
+          "school": "Iowa",
+          "date": "Sept. 19"
+        },
+        {
+          "school": "Michigan State",
+          "date": "Oct. 1"
+        }
+      ],
+      "others": [
+        "Arizona State",
+        "Illinois",
+        "Indiana",
+        "Kentucky",
+        "Michigan",
+        "Minnesota",
+        "Missouri",
+        "Purdue",
+        "Northwestern",
+        "Eastern Illinois",
+        "Western Illinois",
+        "DePaul",
+        "Marquette"
+      ]
+    },
+    {
+      "rank": 34,
+      "name": "Scottie Adkinson",
+      "stars": 4,
+      "pos": "CG",
+      "height": "6'4",
+      "weight": 186,
+      "school": "Webster Groves",
+      "location": "St. Louis, MO",
+      "committed": "Missouri",
+      "commitDate": "Jul. 1, 2025",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 35,
+      "name": "Isaiah Hill",
+      "stars": 4,
+      "pos": "C",
+      "height": "7'0",
+      "weight": 205,
+      "school": "Pike",
+      "location": "Indianapolis, IN",
+      "committed": "Purdue",
+      "commitDate": "May 15, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 36,
+      "name": "Tyrone Jamison",
+      "stars": 4,
+      "pos": "PG",
+      "height": "6'1",
+      "weight": 165,
+      "school": "Calvary Baptist Academy",
+      "location": "Shreveport, LA",
+      "committed": "Baylor",
+      "commitDate": "Jul. 25, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 37,
+      "name": "Dylan Jones",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'6",
+      "weight": 180,
+      "school": "Bartlett",
+      "location": "Bartlett, TN",
+      "warm": [
+        "Memphis",
+        "Texas A&M",
+        "Ole Miss",
+        "Providence"
+      ],
+      "visits": [
+        {
+          "school": "Memphis",
+          "date": "Sept. 4"
+        },
+        {
+          "school": "Texas A&M",
+          "date": "Sept. 11"
+        },
+        {
+          "school": "Ole Miss",
+          "date": "Sept. 19"
+        },
+        {
+          "school": "Providence",
+          "date": "Sept. 25"
+        }
+      ],
+      "others": [
+        "Alabama",
+        "Mississippi State",
+        "Oklahoma State",
+        "Tennessee",
+        "UCF",
+        "Arkansas State",
+        "Louisiana-Monroe",
+        "Middle Tennessee",
+        "New Mexico",
+        "New Mexico State",
+        "Sam Houston",
+        "UAB",
+        "Alabama A&M",
+        "Jacksonville",
+        "Southern Illinois",
+        "Tennessee State",
+        "UT Martin",
+        "Georgetown",
+        "La Salle"
+      ]
+    },
+    {
+      "rank": 38,
+      "name": "Micah Gordon",
+      "stars": 4,
+      "pos": "PG",
+      "height": "5'10",
+      "weight": 180,
+      "school": "SPIRE Academy",
+      "location": "Geneva, OH",
+      "warm": [],
+      "others": [
+        "Auburn",
+        "Maryland",
+        "Mississippi State",
+        "Oklahoma State",
+        "Rutgers",
+        "TCU",
+        "Tennessee",
+        "UCLA",
+        "West Virginia",
+        "Northwestern",
+        "South Florida",
+        "Binghamton",
+        "Hampton",
+        "High Point",
+        "Creighton",
+        "Georgetown",
+        "La Salle",
+        "Marquette",
+        "Providence",
+        "Quinnipiac",
+        "Seton Hall",
+        "UConn",
+        "VCU",
+        "Villanova",
+        "Arizona State",
+        "NC State"
+      ]
+    },
+    {
+      "rank": 39,
+      "name": "Kevin Savage",
+      "stars": 4,
+      "pos": "PG",
+      "height": "5'11",
+      "weight": 160,
+      "school": "Wheeler",
+      "location": "Marietta, GA",
+      "committed": "Purdue",
+      "commitDate": "Jul. 5, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 40,
+      "name": "Chase Branham",
+      "stars": 4,
+      "pos": "CG",
+      "height": "6'4",
+      "weight": 175,
+      "school": "La Lumiere School",
+      "location": "La Porte, IN",
+      "committed": "Indiana",
+      "commitDate": "Sept. 20, 2025",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 41,
+      "name": "Isaiah Santos",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'5",
+      "weight": 210,
+      "school": "Seven Lakes",
+      "location": "Katy, TX",
+      "warm": [
+        "Butler",
+        "Colorado",
+        "Minnesota",
+        "Texas Tech",
+        "Houston",
+        "Illinois",
+        "Vanderbilt"
+      ],
+      "visits": [
+        {
+          "school": "Butler",
+          "date": "Jun. 29"
+        },
+        {
+          "school": "Colorado",
+          "date": "Jul. 19"
+        },
+        {
+          "school": "Minnesota",
+          "date": "Jul. 22"
+        },
+        {
+          "school": "Texas Tech",
+          "date": "Jul. 24"
+        }
+      ],
+      "others": [
+        "Mississippi State",
+        "UCF",
+        "Virginia Tech",
+        "UTSA",
+        "Ohio",
+        "Sam Houston",
+        "Texas State",
+        "UTEP",
+        "Utah State",
+        "Stephen F. Austin",
+        "UC San Diego"
+      ]
+    },
+    {
+      "rank": 42,
+      "name": "Javion Tyndale",
+      "stars": 4,
+      "pos": "PG",
+      "height": "5'8",
+      "weight": 155,
+      "school": "Montverde Academy",
+      "location": "Montverde, FL",
+      "warm": [],
+      "others": [
+        "West Virginia",
+        "East Carolina",
+        "Bowling Green",
+        "Ohio",
+        "UNLV",
+        "Stephen F. Austin",
+        "Providence",
+        "Richmond",
+        "St. Bonaventure"
+      ]
+    },
+    {
+      "rank": 43,
+      "name": "Devin Cleveland",
+      "stars": 4,
+      "pos": "PG",
+      "height": "6'3",
+      "weight": 165,
+      "school": "La Lumiere School",
+      "location": "La Porte, IN",
+      "warm": [
+        "Arkansas",
+        "Michigan",
+        "Marquette"
+      ],
+      "others": [
+        "Arizona State",
+        "Illinois",
+        "Missouri",
+        "Syracuse",
+        "Northern Illinois",
+        "Hampton",
+        "Illinois State",
+        "Western Illinois",
+        "DePaul"
+      ]
+    },
+    {
+      "rank": 44,
+      "name": "Marri Wesley",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'5",
+      "weight": 205,
+      "school": "Southeastern Prep",
+      "location": "Orlando, FL",
+      "warm": [],
+      "others": [
+        "Cincinnati",
+        "Mississippi State",
+        "Oklahoma",
+        "TCU",
+        "USC",
+        "SMU",
+        "Georgetown",
+        "Cal State Bakersfield",
+        "Grambling State"
+      ]
+    },
+    {
+      "rank": 45,
+      "name": "RJ Moore",
+      "stars": 4,
+      "pos": "SG",
+      "height": "6'7",
+      "weight": 190,
+      "school": "Ambassador Christian School",
+      "location": "Huntersville, NC",
+      "warm": [
+        "Rutgers"
+      ],
+      "visits": [
+        {
+          "school": "Rutgers",
+          "date": "Sept. 3"
+        }
+      ],
+      "others": [
+        "Florida State",
+        "Georgia",
+        "Georgia Tech",
+        "Mississippi State",
+        "Syracuse",
+        "Utah",
+        "Virginia",
+        "Wake Forest",
+        "Appalachian State",
+        "East Carolina",
+        "Charlotte",
+        "High Point",
+        "North Carolina A&T"
+      ]
+    },
+    {
+      "rank": 46,
+      "name": "Oneal Delancy",
+      "stars": 4,
+      "pos": "CG",
+      "height": "6'2",
+      "weight": 165,
+      "school": "Montverde Academy",
+      "location": "Montverde, FL",
+      "committed": "Houston",
+      "commitDate": "Jul. 22, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 47,
+      "name": "Tyran Frazier",
+      "stars": 4,
+      "pos": "C",
+      "height": "6'10",
+      "weight": 210,
+      "school": "The Principia School",
+      "location": "St. Louis, MO",
+      "warm": [],
+      "others": [
+        "Miami",
+        "Missouri",
+        "Texas A&M",
+        "Louisiana",
+        "Wichita State",
+        "Creighton",
+        "Saint Louis"
+      ]
+    },
+    {
+      "rank": 48,
+      "name": "Brandon Woodard",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'8",
+      "weight": 190,
+      "school": "Bishop McNamara",
+      "location": "Lanham, MD",
+      "warm": [],
+      "visits": [
+        {
+          "school": "Rutgers",
+          "date": "Sept. 18"
+        }
+      ],
+      "others": [
+        "Florida State",
+        "Maryland",
+        "Miami",
+        "Oklahoma State",
+        "Virginia Tech",
+        "West Virginia",
+        "Memphis",
+        "Morehead State",
+        "Georgetown",
+        "Villanova"
+      ]
+    },
+    {
+      "rank": 49,
+      "name": "Jaydn Jenkins",
+      "stars": 4,
+      "pos": "C",
+      "height": "6'10",
+      "weight": 220,
+      "school": "Archbishop Wood",
+      "location": "Warminster, PA",
+      "warm": [],
+      "visits": [
+        {
+          "school": "Michigan State",
+          "date": "Aug. 12"
+        },
+        {
+          "school": "Ohio State",
+          "date": "Aug. 26"
+        },
+        {
+          "school": "Xavier",
+          "date": "Aug. 29"
+        },
+        {
+          "school": "Pittsburgh",
+          "date": "Sept. 4"
+        },
+        {
+          "school": "NC State",
+          "date": "Oct. 2"
+        }
+      ],
+      "others": [
+        "Georgia",
+        "Mississippi State",
+        "Oklahoma State",
+        "Penn State",
+        "Virginia Tech",
+        "West Virginia",
+        "East Carolina",
+        "Temple",
+        "Old Dominion",
+        "Duke",
+        "Albany",
+        "Bryant",
+        "Towson",
+        "Georgetown",
+        "Pepperdine",
+        "Saint Joseph's",
+        "Seton Hall",
+        "St. Bonaventure",
+        "Villanova"
+      ]
+    },
+    {
+      "rank": 50,
+      "name": "Jack Kohnen",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'6",
+      "weight": 215,
+      "school": "Slinger",
+      "location": "Slinger, WI",
+      "committed": "Iowa State",
+      "commitDate": "Jun. 13, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 51,
+      "name": "Kam Mercer",
+      "stars": 4,
+      "pos": "SG",
+      "height": "6'5",
+      "weight": 200,
+      "school": "Princeton",
+      "location": "Cincinnati, OH",
+      "committed": "Cincinnati",
+      "commitDate": "May 21, 2026",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 52,
+      "name": "Josiah Harrington",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'6",
+      "weight": 190,
+      "school": "North Scott",
+      "location": "Eldridge, IA",
+      "committed": "Iowa State",
+      "commitDate": "Sept. 26, 2024",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 53,
+      "name": "Zion Green",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'9",
+      "weight": 190,
+      "school": "Compass Prep",
+      "location": "Chandler, AZ",
+      "warm": [],
+      "others": [
+        "Kansas",
+        "Kansas State",
+        "Maryland",
+        "Michigan",
+        "Mississippi State",
+        "Oklahoma State",
+        "Penn State",
+        "Syracuse",
+        "Wake Forest",
+        "Washington",
+        "Seton Hall",
+        "Villanova"
+      ]
+    },
+    {
+      "rank": 54,
+      "name": "Joshua Tyson",
+      "stars": 4,
+      "pos": "CG",
+      "height": "6'1",
+      "weight": 170,
+      "school": "La Lumiere School",
+      "location": "La Porte, IN",
+      "warm": [
+        "Xavier",
+        "Ohio State",
+        "Virginia Tech",
+        "Cincinnati",
+        "Clemson"
+      ],
+      "visits": [
+        {
+          "school": "Xavier",
+          "date": "Jul. 21"
+        },
+        {
+          "school": "Ohio State",
+          "date": "Aug. 28"
+        },
+        {
+          "school": "Virginia Tech",
+          "date": "Sept. 5"
+        },
+        {
+          "school": "Cincinnati",
+          "date": "Sept. 19"
+        }
+      ],
+      "others": [
+        "Arizona State",
+        "Michigan State",
+        "Penn State",
+        "West Virginia",
+        "Akron",
+        "Kent State",
+        "New Mexico",
+        "Dayton",
+        "Detroit Mercy",
+        "Duquesne"
+      ]
+    },
+    {
+      "rank": 55,
+      "name": "Justin Wise",
+      "stars": 4,
+      "pos": "SG",
+      "height": "6'4",
+      "weight": 175,
+      "school": "North Oconee",
+      "location": "Bogart, GA",
+      "warm": [
+        "Georgia",
+        "Texas",
+        "Clemson",
+        "Miami",
+        "Tennessee",
+        "Vanderbilt"
+      ],
+      "visits": [
+        {
+          "school": "Georgia",
+          "date": "Feb. 21"
+        },
+        {
+          "school": "Texas",
+          "date": "Sept. 5"
+        }
+      ],
+      "others": [
+        "Auburn",
+        "California",
+        "Cincinnati",
+        "Florida State",
+        "Georgia Tech",
+        "Virginia Tech",
+        "SMU",
+        "Stetson",
+        "Villanova"
+      ]
+    },
+    {
+      "rank": 56,
+      "name": "Carson Crawford",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'6",
+      "weight": 180,
+      "school": "Fleming Island",
+      "location": "Orange Park, FL",
+      "warm": [
+        "Arizona State",
+        "Providence",
+        "Florida State",
+        "Ole Miss",
+        "Syracuse"
+      ],
+      "visits": [
+        {
+          "school": "Arizona State",
+          "date": "Aug. 29"
+        },
+        {
+          "school": "Providence",
+          "date": "Oct. 19"
+        }
+      ],
+      "others": [
+        "Cincinnati",
+        "Georgia",
+        "Texas A&M",
+        "Virginia Tech",
+        "South Florida",
+        "Florida A&M",
+        "Jacksonville",
+        "Le Moyne"
+      ]
+    },
+    {
+      "rank": 57,
+      "name": "Jahari Miller",
+      "stars": 4,
+      "pos": "CG",
+      "height": "6'2",
+      "weight": 190,
+      "school": "Pike",
+      "location": "Indianapolis, IN",
+      "warm": [],
+      "others": [
+        "Alabama",
+        "Florida State",
+        "Mississippi State",
+        "Ohio State",
+        "Oklahoma State",
+        "Ole Miss",
+        "TCU",
+        "Virginia Tech",
+        "Wake Forest",
+        "Appalachian State",
+        "FIU",
+        "Toledo",
+        "Le Moyne",
+        "Radford",
+        "Dayton",
+        "DePaul",
+        "Georgetown",
+        "IU Indy",
+        "Saint Louis"
+      ]
+    },
+    {
+      "rank": 58,
+      "name": "Kellen Brewer",
+      "stars": 4,
+      "pos": "SG",
+      "height": "6'4",
+      "weight": 180,
+      "school": "Metairie Park Country Day",
+      "location": "Metairie, LA",
+      "warm": [],
+      "others": []
+    },
+    {
+      "rank": 59,
+      "name": "Kamsi Awaka",
+      "stars": 4,
+      "pos": "C",
+      "height": "6'8",
+      "weight": 235,
+      "school": "Blair Academy",
+      "location": "Blairstown, NJ",
+      "warm": [
+        "Arizona",
+        "UConn"
+      ],
+      "others": [
+        "Georgia Tech",
+        "Maryland",
+        "High Point",
+        "Fordham",
+        "Iona",
+        "Rhode Island"
+      ]
+    },
+    {
+      "rank": 60,
+      "name": "Gene Roebuck",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'5",
+      "weight": 180,
+      "school": "La Mirada",
+      "location": "La Mirada, CA",
+      "warm": [
+        "California",
+        "Virginia",
+        "Gonzaga"
+      ],
+      "visits": [
+        {
+          "school": "Virginia",
+          "date": "Aug. 29"
+        }
+      ],
+      "others": [
+        "Arizona State",
+        "Baylor",
+        "Boston College",
+        "Kansas",
+        "Ole Miss",
+        "UCLA",
+        "USC",
+        "Boise State",
+        "Grand Canyon",
+        "UNLV",
+        "San Francisco"
+      ]
+    },
+    {
+      "rank": 61,
+      "name": "Josh Leonard",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'6",
+      "weight": 205,
+      "school": "IMG Academy",
+      "location": "Bradenton, FL",
+      "warm": [],
+      "others": [
+        "Boston College",
+        "California",
+        "Cincinnati",
+        "Clemson",
+        "Michigan",
+        "Mississippi State",
+        "NC State",
+        "Ole Miss",
+        "Pittsburgh",
+        "South Carolina",
+        "Tennessee",
+        "UCF",
+        "Wake Forest",
+        "College of Charleston",
+        "Jacksonville"
+      ]
+    },
+    {
+      "rank": 62,
+      "name": "Ian Condon",
+      "stars": 4,
+      "pos": "PF",
+      "height": "6'7",
+      "weight": 220,
+      "school": "Sidwell Friends School",
+      "location": "Washington, DC",
+      "warm": [],
+      "visits": [
+        {
+          "school": "Syracuse",
+          "date": "Sept. 1"
+        },
+        {
+          "school": "Boston College",
+          "date": "Sept. 11"
+        },
+        {
+          "school": "Notre Dame",
+          "date": "Sept. 18"
+        },
+        {
+          "school": "Northwestern",
+          "date": "Oct. 2"
+        }
+      ],
+      "others": [
+        "California",
+        "Georgia Tech",
+        "NC State",
+        "UCF",
+        "Virginia Tech",
+        "American",
+        "Saint Joseph's",
+        "Siena",
+        "Villanova"
+      ]
+    },
+    {
+      "rank": 63,
+      "name": "Patrick Otey",
+      "stars": 4,
+      "pos": "SG",
+      "height": "6'4",
+      "weight": 170,
+      "school": "St. Thomas More",
+      "location": "Oakdale, CT",
+      "warm": [],
+      "others": [
+        "Florida State",
+        "Syracuse",
+        "Washington",
+        "Eastern Washington",
+        "Creighton",
+        "Providence",
+        "Saint Louis",
+        "Villanova",
+        "Xavier"
+      ]
+    },
+    {
+      "rank": 64,
+      "name": "Howard Williams",
+      "stars": 4,
+      "pos": "SF",
+      "height": "6'6",
+      "weight": 215,
+      "school": "Dynamic Prep",
+      "location": "Dallas, TX",
+      "warm": [],
+      "visits": [
+        {
+          "school": "Washington",
+          "date": "Jun. 16"
+        }
+      ],
+      "others": [
+        "California",
+        "Florida State",
+        "Illinois",
+        "Mississippi State",
+        "South Carolina",
+        "Northern Illinois",
+        "Michigan",
+        "Missouri"
+      ]
+    },
+    {
+      "rank": 65,
+      "name": "Jamaal McKnight",
+      "stars": 4,
+      "pos": "PG",
+      "height": "5'10",
+      "weight": 180,
+      "school": "Long Island Lutheran",
+      "location": "Glen Head, NY",
+      "warm": [],
+      "others": [
+        "California",
+        "Penn State",
+        "TCU",
+        "Tennessee",
+        "Virginia Tech",
+        "Maryland",
+        "College of Charleston",
+        "Seton Hall"
+      ]
+    },
+    {
+      "rank": 66,
+      "name": "Jason Gardner Jr.",
+      "stars": 4,
+      "pos": "CG",
+      "height": "6'1",
+      "weight": 185,
+      "school": "Fishers",
+      "location": "Fishers, IN",
+      "warm": [
+        "Auburn",
+        "Ohio State"
+      ],
+      "visits": [
+        {
+          "school": "Auburn",
+          "date": "Sept. 19"
+        },
+        {
+          "school": "Ohio State",
+          "date": "Oct. 3"
+        }
+      ],
+      "others": [
+        "Arizona",
+        "Cincinnati",
+        "Florida",
+        "Indiana",
+        "Iowa",
+        "Mississippi State",
+        "Notre Dame",
+        "Oklahoma State",
+        "Purdue",
+        "Stanford",
+        "Texas",
+        "UCLA",
+        "UNLV",
+        "Morehead State",
+        "Creighton",
+        "DePaul",
+        "IU Indy",
+        "Providence"
+      ]
+    },
+    {
+      "rank": 67,
+      "name": "King Kendrick",
+      "stars": 4,
+      "pos": "PG",
+      "height": "6'0",
+      "weight": 160,
+      "school": "Caldwell Academy",
+      "location": "Greensboro, NC",
+      "warm": [
+        "Arizona State",
+        "Texas A&M",
+        "Kent State",
+        "Ohio",
+        "Dayton"
+      ],
+      "others": [
+        "Mississippi State",
+        "Appalachian State",
+        "South Florida",
+        "Providence"
+      ]
+    },
+    {
+      "rank": 68,
+      "name": "Troy Fason",
+      "stars": 4,
+      "pos": "PG",
+      "height": "5'11",
+      "weight": 165,
+      "school": "DME Academy",
+      "location": "Daytona Beach, FL",
+      "warm": [],
+      "others": []
     }
   ]
 }
