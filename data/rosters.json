@@ -37,16 +37,6 @@
           "notes": "247 #11, 5-star"
         },
         {
-          "name": "Pharrel Payne",
-          "pos": "F/C",
-          "height": "6-9",
-          "year": "Sr.",
-          "ppg": 17.5,
-          "rpg": 7.2,
-          "apg": 1.4,
-          "notes": "Medical redshirt likely"
-        },
-        {
           "name": "Tomislav Buljan",
           "pos": "F/C",
           "height": "6-9",
@@ -55,6 +45,16 @@
           "rpg": 10.4,
           "apg": 1.5,
           "notes": "New Mexico transfer"
+        },
+        {
+          "name": "Pharrel Payne",
+          "pos": "F/C",
+          "height": "6-9",
+          "year": "R-Sr.",
+          "ppg": 17.5,
+          "rpg": 7.2,
+          "apg": 1.4,
+          "notes": ""
         },
         {
           "name": "Bishop Boswell",
@@ -70,7 +70,7 @@
           "name": "Michael McNair",
           "pos": "G",
           "height": "6-5",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 16.9,
           "rpg": 5.1,
           "apg": 2.1,
@@ -90,7 +90,7 @@
           "name": "Robert Jennings",
           "pos": "F",
           "height": "6-7",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 3.7,
           "rpg": 4.0,
           "apg": 0.0,
@@ -127,6 +127,16 @@
           "notes": "Queens transfer"
         },
         {
+          "name": "Guillermo Del Pino",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Spain"
+        },
+        {
           "name": "Austin Brown",
           "pos": "F",
           "height": "6-8",
@@ -135,6 +145,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #214, 3-star"
+        },
+        {
+          "name": "Alex K'Medehouto",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "JUCO transfer"
         }
       ]
     },
@@ -252,7 +272,7 @@
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "German, 2007-born"
+          "notes": "Germany"
         },
         {
           "name": "Justin Monden",
@@ -333,16 +353,6 @@
           "notes": "LSU transfer"
         },
         {
-          "name": "L.J. Cason",
-          "pos": "G",
-          "height": "6-2",
-          "year": "Jr.",
-          "ppg": 8.4,
-          "rpg": 1.9,
-          "apg": 2.4,
-          "notes": "Torn ACL"
-        },
-        {
           "name": "Quinn Costello",
           "pos": "F",
           "height": "6-10",
@@ -391,6 +401,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #169, 3-star"
+        },
+        {
+          "name": "Marcus Moller",
+          "pos": "C",
+          "height": "7-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Denmark"
         }
       ]
     },
@@ -404,11 +424,11 @@
           "name": "Owen Foxwell",
           "pos": "G",
           "height": "6-2",
-          "year": "Fr.",
+          "year": "Sr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "Australian"
+          "notes": "Australia"
         },
         {
           "name": "Trey Autry",
@@ -464,7 +484,7 @@
           "name": "Victory Onuetu",
           "pos": "C",
           "height": "6-11",
-          "year": "So.",
+          "year": "Sr.",
           "ppg": 4.7,
           "rpg": 6.9,
           "apg": 0.4,
@@ -473,7 +493,7 @@
         {
           "name": "Hayden Jones",
           "pos": "F",
-          "height": "6-7",
+          "height": "6-6",
           "year": "So.",
           "ppg": 1.7,
           "rpg": 1.0,
@@ -503,12 +523,22 @@
         {
           "name": "LaTrevion Fenderson",
           "pos": "F",
-          "height": "6-5",
+          "height": "6-3",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
           "notes": "247 #182, 3-star"
+        },
+        {
+          "name": "Jackson Ball",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "New Zealand"
         },
         {
           "name": "Isaac Riddle",
@@ -518,7 +548,7 @@
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "Australian, 2008-born"
+          "notes": "Australia"
         }
       ]
     },
@@ -609,6 +639,16 @@
           "notes": "Memphis transfer"
         },
         {
+          "name": "LJ Smith",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #53, 4-star"
+        },
+        {
           "name": "Ivan Njegovan",
           "pos": "C",
           "height": "7-2",
@@ -636,7 +676,7 @@
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "Serbian"
+          "notes": "Serbia"
         }
       ]
     },
@@ -654,7 +694,7 @@
           "ppg": 15.3,
           "rpg": 2.4,
           "apg": 9.4,
-          "notes": "Returning from NBA Draft"
+          "notes": ""
         },
         {
           "name": "Jordan Scott",
@@ -725,6 +765,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #28, 4-star"
+        },
+        {
+          "name": "Kaleb Glenn",
+          "pos": "F",
+          "height": "6-7",
+          "year": "R-Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Florida Atlantic transfer"
         },
         {
           "name": "Jasiah Jervis",
@@ -943,6 +993,16 @@
           "notes": ""
         },
         {
+          "name": "Enzo Shahrvin",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "France"
+        },
+        {
           "name": "Jacob Webber",
           "pos": "F",
           "height": "6-6",
@@ -1031,6 +1091,16 @@
           "notes": "Boston College transfer"
         },
         {
+          "name": "Connor Essegian",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Sr.",
+          "ppg": 5.4,
+          "rpg": 1.3,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
           "name": "Cale Jacobsen",
           "pos": "G",
           "height": "6-4",
@@ -1099,6 +1169,16 @@
           "rpg": 1.1,
           "apg": 0.2,
           "notes": "Montana transfer"
+        },
+        {
+          "name": "Will Cooper",
+          "pos": "F",
+          "height": "6-7",
+          "year": "R-So.",
+          "ppg": 5.3,
+          "rpg": 1.8,
+          "apg": 0.4,
+          "notes": "Air Force transfer"
         }
       ]
     },
@@ -1287,14 +1367,14 @@
           "notes": "Villanova transfer"
         },
         {
-          "name": "Kai Shinholster",
+          "name": "Nolan Groves",
           "pos": "G",
           "height": "6-5",
           "year": "So.",
-          "ppg": 1.8,
+          "ppg": 0.9,
           "rpg": 1.2,
-          "apg": 1.1,
-          "notes": ""
+          "apg": 0.2,
+          "notes": "Texas Tech transfer"
         },
         {
           "name": "Winters Grady",
@@ -1325,6 +1405,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #116, 4-star"
+        },
+        {
+          "name": "Kai Shinholster",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 1.8,
+          "rpg": 1.2,
+          "apg": 1.1,
+          "notes": ""
         },
         {
           "name": "Chadrack Mpoyi",
@@ -1358,7 +1448,7 @@
           "name": "LA Pratt",
           "pos": "G",
           "height": "6-5",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 17.0,
           "rpg": 1.7,
           "apg": 3.3,
@@ -1368,7 +1458,7 @@
           "name": "Jack Karasinski",
           "pos": "F",
           "height": "6-7",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 21.7,
           "rpg": 4.7,
           "apg": 1.2,
@@ -1388,7 +1478,7 @@
           "name": "Luke McEldon",
           "pos": "F/C",
           "height": "6-10",
-          "year": "R-Sr.",
+          "year": "Gr.",
           "ppg": 11.7,
           "rpg": 6.2,
           "apg": 1.3,
@@ -1427,7 +1517,7 @@
         {
           "name": "Jayden Hodge",
           "pos": "F",
-          "height": "6-6",
+          "height": "6-7",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -1438,7 +1528,7 @@
           "name": "Ryan Soulis",
           "pos": "F",
           "height": "6-10",
-          "year": "Jr.",
+          "year": "R-Jr.",
           "ppg": 5.8,
           "rpg": 4.6,
           "apg": 1.5,
@@ -1453,14 +1543,14 @@
       "espnId": "213",
       "players": [
         {
-          "name": "Dasonte Bowen",
+          "name": "Jay Rodgers",
           "pos": "G",
-          "height": "6-2",
+          "height": "6-3",
           "year": "Sr.",
-          "ppg": 10.9,
-          "rpg": 3.0,
-          "apg": 4.8,
-          "notes": "St. Bonaventure transfer"
+          "ppg": 11.0,
+          "rpg": 2.2,
+          "apg": 6.9,
+          "notes": "Central Connecticut transfer"
         },
         {
           "name": "Roberts Blums",
@@ -1483,6 +1573,16 @@
           "notes": "Miami OH transfer"
         },
         {
+          "name": "Roko Prkacin",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Croatia"
+        },
+        {
           "name": "Ivan Juric",
           "pos": "F/C",
           "height": "7-0",
@@ -1493,14 +1593,34 @@
           "notes": ""
         },
         {
-          "name": "Jay Rodgers",
+          "name": "Dasonte Bowen",
           "pos": "G",
-          "height": "6-3",
+          "height": "6-2",
           "year": "Sr.",
-          "ppg": 11.0,
-          "rpg": 2.2,
-          "apg": 6.9,
-          "notes": "Central Connecticut transfer"
+          "ppg": 10.9,
+          "rpg": 3.0,
+          "apg": 4.8,
+          "notes": "St. Bonaventure transfer"
+        },
+        {
+          "name": "Aleksandar Zecevic",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Serbia"
+        },
+        {
+          "name": "Francois Wibaut",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "France"
         },
         {
           "name": "Tim Oboh",
@@ -1520,17 +1640,7 @@
           "ppg": 13.7,
           "rpg": 4.9,
           "apg": 3.5,
-          "notes": "Alabama Huntsville transfer"
-        },
-        {
-          "name": "Aleksandar Zecevic",
-          "pos": "F",
-          "height": "6-9",
-          "year": "Fr.",
-          "ppg": 0,
-          "rpg": 0,
-          "apg": 0,
-          "notes": "Serbian, 2006-born"
+          "notes": "JUCO transfer"
         }
       ]
     },
@@ -1561,14 +1671,14 @@
           "notes": ""
         },
         {
-          "name": "Kaden Powers",
-          "pos": "G",
-          "height": "6-4",
-          "year": "So.",
-          "ppg": 6.1,
-          "rpg": 1.8,
-          "apg": 1.5,
-          "notes": ""
+          "name": "Rasheed Jones",
+          "pos": "F",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 14.8,
+          "rpg": 4.6,
+          "apg": 2.9,
+          "notes": "Coastal Carolina transfer"
         },
         {
           "name": "Darren Buchanan Jr.",
@@ -1583,42 +1693,12 @@
         {
           "name": "Christian Gurdak",
           "pos": "F/C",
-          "height": "6-9",
+          "height": "6-10",
           "year": "So.",
           "ppg": 5.6,
           "rpg": 4.4,
           "apg": 0.3,
           "notes": "Virginia Tech transfer"
-        },
-        {
-          "name": "Darin Smith Jr.",
-          "pos": "F",
-          "height": "6-7",
-          "year": "R-Jr.",
-          "ppg": 20.7,
-          "rpg": 5.4,
-          "apg": 1.2,
-          "notes": "Central Connecticut transfer"
-        },
-        {
-          "name": "Rasheed Jones",
-          "pos": "F",
-          "height": "6-6",
-          "year": "R-Sr.",
-          "ppg": 14.8,
-          "rpg": 4.6,
-          "apg": 2.9,
-          "notes": "Coastal Carolina transfer"
-        },
-        {
-          "name": "Will Sydnor",
-          "pos": "F",
-          "height": "6-8",
-          "year": "Jr.",
-          "ppg": 13.9,
-          "rpg": 6.8,
-          "apg": 1.5,
-          "notes": "Manhattan transfer"
         },
         {
           "name": "Angelino Mark",
@@ -1631,6 +1711,46 @@
           "notes": ""
         },
         {
+          "name": "Will Sydnor",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 13.9,
+          "rpg": 6.8,
+          "apg": 1.5,
+          "notes": "Manhattan transfer"
+        },
+        {
+          "name": "Darin Smith Jr.",
+          "pos": "F",
+          "height": "6-7",
+          "year": "R-Jr.",
+          "ppg": 20.7,
+          "rpg": 5.4,
+          "apg": 1.2,
+          "notes": "Central Connecticut transfer"
+        },
+        {
+          "name": "Kaden Powers",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 6.1,
+          "rpg": 1.8,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Diego Garavaglia",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Italy"
+        },
+        {
           "name": "Dorin Buca",
           "pos": "C",
           "height": "7-2",
@@ -1641,7 +1761,7 @@
           "notes": "Kansas St. transfer"
         },
         {
-          "name": "Imwhari Wooten",
+          "name": "Imahri Wooten",
           "pos": "F",
           "height": "6-5",
           "year": "Fr.",
@@ -1649,6 +1769,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #205, 3-star"
+        },
+        {
+          "name": "Martin Tonejc",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Slovenia"
         }
       ]
     },
@@ -1709,10 +1839,40 @@
           "notes": ""
         },
         {
+          "name": "Wini Braga",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Brazil"
+        },
+        {
+          "name": "Boris Tisma",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Croatia"
+        },
+        {
+          "name": "Tristan Devers",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Australia"
+        },
+        {
           "name": "Steele Venters",
           "pos": "F",
           "height": "6-7",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 5.0,
           "rpg": 1.3,
           "apg": 1.0,
@@ -1729,6 +1889,16 @@
           "notes": "Davidson transfer"
         },
         {
+          "name": "Mady Traore",
+          "pos": "C",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "JUCO transfer"
+        },
+        {
           "name": "Jasir Rencher",
           "pos": "F",
           "height": "6-5",
@@ -1737,6 +1907,16 @@
           "rpg": 1.8,
           "apg": 0.1,
           "notes": ""
+        },
+        {
+          "name": "Lattimore Ford",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 3-star"
         }
       ]
     },
@@ -1955,6 +2135,16 @@
           "notes": "Alabama transfer"
         },
         {
+          "name": "Wei Lin",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 6.6,
+          "rpg": 0.9,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
           "name": "Jerry Easter II",
           "pos": "F",
           "height": "6-5",
@@ -1993,6 +2183,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #154, 4-star"
+        },
+        {
+          "name": "Seven Spurlock",
+          "pos": "F",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #200, 3-star"
         }
       ]
     },
@@ -2023,6 +2223,16 @@
           "notes": "Texas Tech transfer"
         },
         {
+          "name": "Nikola Kusturica",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Serbia (Top 2028 NBA Draft Prospect)"
+        },
+        {
           "name": "Eric Dailey Jr.",
           "pos": "F",
           "height": "6-8",
@@ -2030,6 +2240,16 @@
           "ppg": 11.6,
           "rpg": 5.8,
           "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Xavier Booker",
+          "pos": "F",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 7.3,
+          "rpg": 3.5,
+          "apg": 0.8,
           "notes": ""
         },
         {
@@ -2041,16 +2261,6 @@
           "rpg": 4.1,
           "apg": 0.5,
           "notes": "Auburn transfer"
-        },
-        {
-          "name": "Xavier Booker",
-          "pos": "F",
-          "height": "6-11",
-          "year": "Sr.",
-          "ppg": 7.3,
-          "rpg": 3.5,
-          "apg": 0.8,
-          "notes": ""
         },
         {
           "name": "Brandon Williams",
@@ -2073,16 +2283,6 @@
           "notes": "Butler transfer"
         },
         {
-          "name": "Sergej Macura",
-          "pos": "F",
-          "height": "6-9",
-          "year": "Jr.",
-          "ppg": 5.0,
-          "rpg": 4.8,
-          "apg": 0.8,
-          "notes": "Mississippi St. transfer"
-        },
-        {
           "name": "Joe Philon",
           "pos": "F",
           "height": "6-8",
@@ -2093,6 +2293,16 @@
           "notes": "247 #71, 4-star"
         },
         {
+          "name": "Sergej Macura",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 5.0,
+          "rpg": 4.8,
+          "apg": 0.8,
+          "notes": "Mississippi St. transfer"
+        },
+        {
           "name": "Javonte Floyd",
           "pos": "F",
           "height": "6-9",
@@ -2101,6 +2311,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #193, 3-star"
+        },
+        {
+          "name": "Gunars Grinvalds",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Latvia"
         }
       ]
     },
@@ -2158,7 +2378,7 @@
           "ppg": 1.2,
           "rpg": 1.4,
           "apg": 0.0,
-          "notes": "Returned from portal"
+          "notes": ""
         },
         {
           "name": "Taylen Kinney",
@@ -2199,6 +2419,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #70, 4-star"
+        },
+        {
+          "name": "Trent Perry",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #94, 4-star"
         },
         {
           "name": "Luke Barnett",
@@ -2261,7 +2491,7 @@
         {
           "name": "Jayden Hastings",
           "pos": "F/C",
-          "height": "6-9",
+          "height": "6-10",
           "year": "R-Jr.",
           "ppg": 6.7,
           "rpg": 5.6,
@@ -2279,6 +2509,16 @@
           "notes": "Towson transfer"
         },
         {
+          "name": "Trevian Carson",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 11.9,
+          "rpg": 6.5,
+          "apg": 2.9,
+          "notes": "North Dakota St. transfer"
+        },
+        {
           "name": "Akai Fleming",
           "pos": "G",
           "height": "6-4",
@@ -2287,16 +2527,6 @@
           "rpg": 3.2,
           "apg": 1.3,
           "notes": "Georgia Tech transfer"
-        },
-        {
-          "name": "Trevian Carson",
-          "pos": "F",
-          "height": "6-4",
-          "year": "Sr.",
-          "ppg": 11.9,
-          "rpg": 6.5,
-          "apg": 2.9,
-          "notes": "North Dakota St. transfer"
         },
         {
           "name": "Riley Allenspach",
@@ -2311,11 +2541,41 @@
         {
           "name": "Elijah Perryman",
           "pos": "G",
-          "height": "6-1",
+          "height": "6-2",
           "year": "So.",
           "ppg": 4.4,
           "rpg": 1.6,
           "apg": 3.1,
+          "notes": "Utah St. transfer"
+        },
+        {
+          "name": "Lucas Atauri",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Brazil"
+        },
+        {
+          "name": "Deshaun Vaden",
+          "pos": "C",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 4.9,
+          "rpg": 4.4,
+          "apg": 0.6,
+          "notes": "Utah St. transfer"
+        },
+        {
+          "name": "MJ Collins",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 17.5,
+          "rpg": 2.5,
+          "apg": 1.6,
           "notes": "Utah St. transfer"
         }
       ]
@@ -2348,8 +2608,8 @@
         },
         {
           "name": "Chase McCarty",
-          "pos": "G",
-          "height": "6-6",
+          "pos": "F",
+          "height": "6-5",
           "year": "R-So.",
           "ppg": 4.0,
           "rpg": 2.5,
@@ -2374,7 +2634,7 @@
           "ppg": 8.5,
           "rpg": 5.3,
           "apg": 1.2,
-          "notes": "Returning"
+          "notes": ""
         },
         {
           "name": "Arafan Diane",
@@ -2389,7 +2649,7 @@
         {
           "name": "Corey Hadnot II",
           "pos": "G",
-          "height": "6-3",
+          "height": "6-2",
           "year": "Sr.",
           "ppg": 20.4,
           "rpg": 4.0,
@@ -2486,8 +2746,8 @@
         },
         {
           "name": "Ryan Prather Jr.",
-          "pos": "F",
-          "height": "6-5",
+          "pos": "G",
+          "height": "6-4",
           "year": "R-Sr.",
           "ppg": 15.7,
           "rpg": 3.9,
@@ -2497,7 +2757,7 @@
         {
           "name": "Dominykas Pleta",
           "pos": "F",
-          "height": "6-9",
+          "height": "6-11",
           "year": "So.",
           "ppg": 4.5,
           "rpg": 2.3,
@@ -2517,7 +2777,7 @@
         {
           "name": "Dorian Rinaldo-Komlan",
           "pos": "C",
-          "height": "6-10",
+          "height": "6-9",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -2527,7 +2787,7 @@
         {
           "name": "Christian Wiggins",
           "pos": "G",
-          "height": "6-4",
+          "height": "6-5",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -2545,7 +2805,7 @@
         {
           "name": "Kayden Mingo",
           "pos": "G",
-          "height": "6-2",
+          "height": "6-3",
           "year": "So.",
           "ppg": 13.7,
           "rpg": 3.5,
@@ -2586,7 +2846,7 @@
           "name": "Juslin Bodo Bodo",
           "pos": "F/C",
           "height": "6-11",
-          "year": "Sr.",
+          "year": "R-Jr.",
           "ppg": 5.3,
           "rpg": 8.4,
           "apg": 0.2,
@@ -2605,7 +2865,7 @@
         {
           "name": "Brett Decker Jr.",
           "pos": "G",
-          "height": "6-2",
+          "height": "6-3",
           "year": "Jr.",
           "ppg": 16.9,
           "rpg": 2.6,
@@ -2633,7 +2893,7 @@
         {
           "name": "Miles Sadler",
           "pos": "G",
-          "height": "5-10",
+          "height": "6-0",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -2662,8 +2922,8 @@
         },
         {
           "name": "Seydou Traore",
-          "pos": "F",
-          "height": "6-7",
+          "pos": "G/F",
+          "height": "6-6",
           "year": "Sr.",
           "ppg": 9.0,
           "rpg": 3.4,
@@ -2729,6 +2989,16 @@
           "notes": ""
         },
         {
+          "name": "Trent Lincoln",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 19.4,
+          "rpg": 4.5,
+          "apg": 6.1,
+          "notes": "JUCO transfer"
+        },
+        {
           "name": "Micah Robinson",
           "pos": "G",
           "height": "6-6",
@@ -2762,7 +3032,7 @@
           "name": "Tanner Toolson",
           "pos": "F",
           "height": "6-5",
-          "year": "R-Sr.",
+          "year": "Sr.",
           "ppg": 7.7,
           "rpg": 3.2,
           "apg": 0.9,
@@ -2787,6 +3057,46 @@
           "rpg": 2.1,
           "apg": 0.5,
           "notes": "West Virginia transfer"
+        },
+        {
+          "name": "Ricards Aizpurs",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Latvia"
+        },
+        {
+          "name": "Milos Sojic",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Serbia"
+        },
+        {
+          "name": "Ryan Hunt",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Jr.",
+          "ppg": 14.9,
+          "rpg": 11.9,
+          "apg": 0.0,
+          "notes": "JUCO transfer"
+        },
+        {
+          "name": "Gavin Murphy",
+          "pos": "G",
+          "height": "5-11",
+          "year": "R-Jr.",
+          "ppg": 10.8,
+          "rpg": 1.2,
+          "apg": 1.5,
+          "notes": "JUCO transfer"
         }
       ]
     },
@@ -2837,6 +3147,16 @@
           "notes": ""
         },
         {
+          "name": "Momo Faye",
+          "pos": "F",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Senegal"
+        },
+        {
           "name": "Damarion Dennis",
           "pos": "G",
           "height": "6-1",
@@ -2864,7 +3184,7 @@
           "ppg": 21.8,
           "rpg": 10.8,
           "apg": 2.1,
-          "notes": "Torn ACL - status TBD"
+          "notes": ""
         }
       ]
     },
@@ -2888,7 +3208,7 @@
           "name": "Jaden Schutt",
           "pos": "G",
           "height": "6-5",
-          "year": "R-Sr.",
+          "year": "Sr.",
           "ppg": 7.7,
           "rpg": 1.6,
           "apg": 0.9,
@@ -2897,7 +3217,7 @@
         {
           "name": "Dezdrick Lindsay",
           "pos": "G",
-          "height": "6-5",
+          "height": "6-6",
           "year": "Sr.",
           "ppg": 5.3,
           "rpg": 2.8,
@@ -2928,7 +3248,7 @@
           "name": "Timotej Malovec",
           "pos": "F",
           "height": "6-8",
-          "year": "So.",
+          "year": "Jr.",
           "ppg": 4.2,
           "rpg": 1.3,
           "apg": 0.9,
@@ -2965,6 +3285,16 @@
           "notes": "Xavier transfer"
         },
         {
+          "name": "Matt Gilhool",
+          "pos": "C",
+          "height": "6-11",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "LSU transfer"
+        },
+        {
           "name": "Brock Vice",
           "pos": "C",
           "height": "6-10",
@@ -2995,8 +3325,8 @@
         {
           "name": "Luka Bogavac",
           "pos": "G",
-          "height": "6-5",
-          "year": "So.",
+          "height": "6-6",
+          "year": "Sr.",
           "ppg": 9.8,
           "rpg": 2.5,
           "apg": 2.2,
@@ -3065,7 +3395,7 @@
         {
           "name": "Andrija Grbovic",
           "pos": "C",
-          "height": "6-10",
+          "height": "6-11",
           "year": "Sr.",
           "ppg": 6.8,
           "rpg": 2.9,
@@ -3091,16 +3421,6 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #144, 4-star"
-        },
-        {
-          "name": "Kashie Natt",
-          "pos": "G",
-          "height": "6-3",
-          "year": "Gr.",
-          "ppg": 10.8,
-          "rpg": 8.2,
-          "apg": 2.4,
-          "notes": "Sam Houston St. transfer"
         }
       ]
     },
@@ -3110,6 +3430,16 @@
       "coach": "Alex Jensen",
       "espnId": "254",
       "players": [
+        {
+          "name": "TJ Burch",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Jr.",
+          "ppg": 12.4,
+          "rpg": 2.4,
+          "apg": 3.6,
+          "notes": "Wright St. transfer"
+        },
         {
           "name": "Jackson Holcombe",
           "pos": "G/F",
@@ -3121,6 +3451,16 @@
           "notes": "Utah Valley transfer"
         },
         {
+          "name": "Babacar Faye",
+          "pos": "F",
+          "height": "6-8",
+          "year": "6th",
+          "ppg": 15.2,
+          "rpg": 7.8,
+          "apg": 0.7,
+          "notes": "Western Kentucky transfer"
+        },
+        {
           "name": "Lucas Langarita",
           "pos": "G",
           "height": "6-5",
@@ -3129,16 +3469,6 @@
           "rpg": 1.2,
           "apg": 0.6,
           "notes": ""
-        },
-        {
-          "name": "TJ Burch",
-          "pos": "G",
-          "height": "6-1",
-          "year": "Jr.",
-          "ppg": 12.4,
-          "rpg": 2.4,
-          "apg": 3.6,
-          "notes": "Wright St. transfer"
         },
         {
           "name": "Malek Gomma",
@@ -3159,6 +3489,46 @@
           "rpg": 1.2,
           "apg": 0.8,
           "notes": "Ohio St. transfer"
+        },
+        {
+          "name": "Zati Loubaki",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 11.4,
+          "rpg": 5.2,
+          "apg": 0.0,
+          "notes": "JUCO transfer"
+        },
+        {
+          "name": "Noam Yaacov",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Israel"
+        },
+        {
+          "name": "Fynn Schott",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Austria"
+        },
+        {
+          "name": "Alec Anigbata",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Germany"
         }
       ]
     },
@@ -3229,6 +3599,16 @@
           "notes": "Washington transfer"
         },
         {
+          "name": "Endurance Aiyamenkhue",
+          "pos": "C",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Netherlands"
+        },
+        {
           "name": "Evan Otten",
           "pos": "C",
           "height": "6-11",
@@ -3237,6 +3617,16 @@
           "rpg": 3.8,
           "apg": 0.3,
           "notes": "Idaho St. transfer"
+        },
+        {
+          "name": "Maksim Brnovic",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Montenegro"
         }
       ]
     },
@@ -3307,6 +3697,16 @@
           "notes": "Cal Baptist transfer"
         },
         {
+          "name": "JRob Croy",
+          "pos": "F",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #124, 4-star"
+        },
+        {
           "name": "Nathaniel Garcia",
           "pos": "C",
           "height": "7-0",
@@ -3317,14 +3717,24 @@
           "notes": "Cal Baptist transfer"
         },
         {
-          "name": "JRob Croy",
-          "pos": "F",
-          "height": "6-5",
+          "name": "Filip Malesevic",
+          "pos": "C",
+          "height": "7-4",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "247 #124, 4-star"
+          "notes": "Serbia"
+        },
+        {
+          "name": "Marcus Vaughns",
+          "pos": "F",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "LSU transfer"
         }
       ]
     },
@@ -3368,7 +3778,7 @@
           "name": "Justin Neely",
           "pos": "F",
           "height": "6-6",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 17.9,
           "rpg": 11.5,
           "apg": 2.4,
@@ -3376,7 +3786,7 @@
         },
         {
           "name": "Noah Feddersen",
-          "pos": "F",
+          "pos": "C",
           "height": "6-10",
           "year": "Sr.",
           "ppg": 9.3,
@@ -3407,12 +3817,22 @@
         {
           "name": "David Gomez",
           "pos": "F",
-          "height": "6-9",
+          "height": "6-8",
           "year": "So.",
           "ppg": 5.0,
           "rpg": 3.5,
           "apg": 0.5,
           "notes": "Charlotte transfer"
+        },
+        {
+          "name": "Goc Malual",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Australia"
         }
       ]
     },
@@ -3430,7 +3850,7 @@
           "ppg": 18.1,
           "rpg": 3.5,
           "apg": 4.6,
-          "notes": "Returning from portal"
+          "notes": ""
         },
         {
           "name": "Collin Chandler",
@@ -3491,6 +3911,26 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #77, 4-star"
+        },
+        {
+          "name": "Jakub Urbaniak",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Poland"
+        },
+        {
+          "name": "Dovydas Buika",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Lithuania"
         }
       ]
     },
@@ -3528,7 +3968,7 @@
           "ppg": 10.3,
           "rpg": 3.7,
           "apg": 3.0,
-          "notes": "Charleston transfer - torn ACL"
+          "notes": "Charleston transfer"
         },
         {
           "name": "Isaiah Malone",
@@ -3571,6 +4011,16 @@
           "notes": "247 #128, 4-star"
         },
         {
+          "name": "Jason Asemota",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 3.1,
+          "rpg": 2.1,
+          "apg": 0.1,
+          "notes": "Boston College transfer"
+        },
+        {
           "name": "Lewis Walker",
           "pos": "F",
           "height": "6-6",
@@ -3611,7 +4061,7 @@
         {
           "name": "Zoom Diallo",
           "pos": "G",
-          "height": "6-4",
+          "height": "6-6",
           "year": "Jr.",
           "ppg": 15.7,
           "rpg": 3.9,
@@ -3621,7 +4071,7 @@
         {
           "name": "Alex Wilkins",
           "pos": "G",
-          "height": "6-5",
+          "height": "6-6",
           "year": "So.",
           "ppg": 17.8,
           "rpg": 2.0,
@@ -3631,7 +4081,7 @@
         {
           "name": "Kam Williams",
           "pos": "G",
-          "height": "6-8",
+          "height": "6-7",
           "year": "Jr.",
           "ppg": 6.0,
           "rpg": 2.1,
@@ -3641,7 +4091,7 @@
         {
           "name": "Milan Momcilovic",
           "pos": "F",
-          "height": "6-8",
+          "height": "6-9",
           "year": "Sr.",
           "ppg": 17.2,
           "rpg": 3.2,
@@ -3651,18 +4101,18 @@
         {
           "name": "Malachi Moreno",
           "pos": "C",
-          "height": "6-11",
+          "height": "7-0",
           "year": "So.",
           "ppg": 7.8,
           "rpg": 6.3,
           "apg": 1.8,
-          "notes": "Testing NBA Draft"
+          "notes": ""
         },
         {
           "name": "Franck Kepnang",
           "pos": "C",
-          "height": "6-11",
-          "year": "Sr.",
+          "height": "7-0",
+          "year": "Gr.",
           "ppg": 6.2,
           "rpg": 6.3,
           "apg": 0.2,
@@ -3671,12 +4121,22 @@
         {
           "name": "Justin McBride",
           "pos": "F",
-          "height": "6-7",
+          "height": "6-8",
           "year": "Sr.",
           "ppg": 15.3,
           "rpg": 5.6,
           "apg": 1.5,
           "notes": "James Madison transfer"
+        },
+        {
+          "name": "Ousmane N'Diaye",
+          "pos": "F",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Senegal"
         },
         {
           "name": "Trent Noah",
@@ -3701,7 +4161,7 @@
         {
           "name": "Mason Williams",
           "pos": "G",
-          "height": "6-2",
+          "height": "6-3",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -3716,7 +4176,7 @@
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "247 #33, 4-star - redshirted"
+          "notes": ""
         }
       ]
     },
@@ -3727,16 +4187,6 @@
       "espnId": "2633",
       "players": [
         {
-          "name": "Terrence Hill Jr.",
-          "pos": "G",
-          "height": "6-3",
-          "year": "Jr.",
-          "ppg": 15.0,
-          "rpg": 2.7,
-          "apg": 2.8,
-          "notes": "VCU transfer"
-        },
-        {
           "name": "Dai Dai Ames",
           "pos": "G",
           "height": "6-2",
@@ -3745,6 +4195,16 @@
           "rpg": 2.0,
           "apg": 2.2,
           "notes": "California transfer"
+        },
+        {
+          "name": "Terrence Hill Jr.",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 15.0,
+          "rpg": 2.7,
+          "apg": 2.8,
+          "notes": "VCU transfer"
         },
         {
           "name": "Juke Harris",
@@ -3758,13 +4218,23 @@
         },
         {
           "name": "Jalen Haralson",
-          "pos": "G",
+          "pos": "G/F",
           "height": "6-7",
           "year": "So.",
           "ppg": 16.2,
           "rpg": 4.0,
           "apg": 2.6,
           "notes": "Notre Dame transfer"
+        },
+        {
+          "name": "DeWayne Brown II",
+          "pos": "F",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 4.8,
+          "rpg": 3.7,
+          "apg": 0.9,
+          "notes": ""
         },
         {
           "name": "Miles Rubin",
@@ -3777,20 +4247,10 @@
           "notes": "Loyola Chicago transfer"
         },
         {
-          "name": "DeWayne Brown II",
-          "pos": "F",
-          "height": "6-9",
-          "year": "So.",
-          "ppg": 4.8,
-          "rpg": 3.7,
-          "apg": 0.9,
-          "notes": ""
-        },
-        {
           "name": "Tyler Lundblade",
           "pos": "G",
           "height": "6-5",
-          "year": "Sr.",
+          "year": "R-Sr.",
           "ppg": 15.6,
           "rpg": 2.7,
           "apg": 1.8,
@@ -3817,7 +4277,7 @@
           "notes": "247 #54, 4-star"
         },
         {
-          "name": "Christopher Washington",
+          "name": "Chris Washington Jr.",
           "pos": "F",
           "height": "6-9",
           "year": "Fr.",
@@ -3829,7 +4289,7 @@
         {
           "name": "Manny Green",
           "pos": "F",
-          "height": "6-6",
+          "height": "6-7",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -3872,7 +4332,7 @@
           "ppg": 17.1,
           "rpg": 6.1,
           "apg": 2.1,
-          "notes": "Returning from NBA Draft"
+          "notes": ""
         },
         {
           "name": "Alex Condon",
@@ -3882,7 +4342,7 @@
           "ppg": 15.1,
           "rpg": 7.5,
           "apg": 3.6,
-          "notes": "Returning from NBA Draft"
+          "notes": ""
         },
         {
           "name": "Rueben Chinyelu",
@@ -3892,7 +4352,7 @@
           "ppg": 10.9,
           "rpg": 11.2,
           "apg": 0.7,
-          "notes": "Returning from NBA Draft"
+          "notes": ""
         },
         {
           "name": "Urban Klavzar",
@@ -3912,6 +4372,46 @@
           "ppg": 5.5,
           "rpg": 2.5,
           "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "CJ Ingram II",
+          "pos": "F",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 2.2,
+          "rpg": 0.9,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Domen Petrovic",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Slovenia"
+        },
+        {
+          "name": "Arturas Butajevas",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Lithuania"
+        },
+        {
+          "name": "Jones Lay",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
           "notes": ""
         }
       ]
@@ -3940,7 +4440,7 @@
           "ppg": 11.6,
           "rpg": 7.0,
           "apg": 3.1,
-          "notes": "Returning from NBA Draft"
+          "notes": ""
         },
         {
           "name": "London Jemison",
@@ -4013,6 +4513,26 @@
           "notes": "247 #21, 4-star"
         },
         {
+          "name": "Cole Cloer",
+          "pos": "F",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "NC State transfer"
+        },
+        {
+          "name": "Anderson Diaz",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #53, 4-star (reclass)"
+        },
+        {
           "name": "Tarris Bouie",
           "pos": "F",
           "height": "6-6",
@@ -4021,16 +4541,6 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #40, 4-star"
-        },
-        {
-          "name": "Cole Cloer",
-          "pos": "F",
-          "height": "6-8",
-          "year": "R-Fr.",
-          "ppg": 0,
-          "rpg": 0,
-          "apg": 0,
-          "notes": "NC State transfer - DNP"
         }
       ]
     },
@@ -4062,13 +4572,23 @@
         },
         {
           "name": "Billy Richmond III",
-          "pos": "G",
-          "height": "6-5",
+          "pos": "G/F",
+          "height": "6-7",
           "year": "Jr.",
           "ppg": 11.1,
           "rpg": 4.3,
           "apg": 2.0,
-          "notes": "Returning from NBA Draft"
+          "notes": ""
+        },
+        {
+          "name": "Miikka Muurinen",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 5-star"
         },
         {
           "name": "Cooper Bowser",
@@ -4101,6 +4621,36 @@
           "notes": "247 #26, 4-star"
         },
         {
+          "name": "Ilia Frolov",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Russia"
+        },
+        {
+          "name": "Davion Thompson",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "2027 reclass, 247 #20, 4-star"
+        },
+        {
+          "name": "Caleb Ourigou",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "2027 reclass, 247 #53, 4-star"
+        },
+        {
           "name": "Isaiah Sealy",
           "pos": "F",
           "height": "6-7",
@@ -4109,6 +4659,16 @@
           "rpg": 1.3,
           "apg": 0.6,
           "notes": ""
+        },
+        {
+          "name": "Maper Maker",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Australia"
         }
       ]
     },
@@ -4119,9 +4679,19 @@
       "espnId": "99",
       "players": [
         {
+          "name": "Saliou Niang",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Italy"
+        },
+        {
           "name": "Abdi Bashir Jr.",
           "pos": "G",
-          "height": "6-6",
+          "height": "6-7",
           "year": "Sr.",
           "ppg": 13.2,
           "rpg": 2.2,
@@ -4137,6 +4707,36 @@
           "rpg": 5.5,
           "apg": 1.0,
           "notes": "Kentucky transfer"
+        },
+        {
+          "name": "Brice Dessert",
+          "pos": "F/C",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "France"
+        },
+        {
+          "name": "Michael Ruzic",
+          "pos": "C",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Croatia"
+        },
+        {
+          "name": "Marcio Santos",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Brazil"
         },
         {
           "name": "Divine Ugochukwu",
@@ -4179,8 +4779,8 @@
         {
           "name": "PJ Haggerty",
           "pos": "G",
-          "height": "6-3",
-          "year": "R-Sr.",
+          "height": "6-4",
+          "year": "Gr.",
           "ppg": 23.4,
           "rpg": 5.3,
           "apg": 3.8,
@@ -4189,18 +4789,28 @@
         {
           "name": "Mackenzie Mgbako",
           "pos": "F",
-          "height": "6-8",
-          "year": "Sr.",
+          "height": "6-9",
+          "year": "R-Jr.",
           "ppg": 10.4,
           "rpg": 4.9,
           "apg": 1.3,
           "notes": ""
         },
         {
+          "name": "Zach Clemence",
+          "pos": "F",
+          "height": "6-11",
+          "year": "Gr.",
+          "ppg": 6.9,
+          "rpg": 3.2,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
           "name": "Cade Phillips",
           "pos": "F",
           "height": "6-9",
-          "year": "Sr.",
+          "year": "R-Jr.",
           "ppg": 3.8,
           "rpg": 4.0,
           "apg": 0.4,
@@ -4217,9 +4827,19 @@
           "notes": "Loyola Marymount transfer"
         },
         {
+          "name": "Josh Irving",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #60, 4-star"
+        },
+        {
           "name": "Tyshawn Archie",
           "pos": "G",
-          "height": "6-0",
+          "height": "6-1",
           "year": "Sr.",
           "ppg": 14.3,
           "rpg": 1.9,
@@ -4237,14 +4857,14 @@
           "notes": "Radford transfer"
         },
         {
-          "name": "Josh Irving",
-          "pos": "F",
-          "height": "6-10",
-          "year": "Fr.",
-          "ppg": 0,
-          "rpg": 0,
-          "apg": 0,
-          "notes": "247 #60, 4-star"
+          "name": "Jamie Vinson",
+          "pos": "C",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 3.5,
+          "rpg": 2.3,
+          "apg": 0.4,
+          "notes": ""
         }
       ]
     },
@@ -4297,7 +4917,7 @@
         {
           "name": "James Scott",
           "pos": "F/C",
-          "height": "6-10",
+          "height": "6-11",
           "year": "Sr.",
           "ppg": 3.9,
           "rpg": 4.6,
@@ -4333,6 +4953,26 @@
           "rpg": 2.8,
           "apg": 0.2,
           "notes": "St. Bonaventure transfer"
+        },
+        {
+          "name": "Kemo Millender",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Jr.",
+          "ppg": 9.5,
+          "rpg": 1.9,
+          "apg": 1.9,
+          "notes": "JUCO transfer"
+        },
+        {
+          "name": "Mading Kuany",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Australia"
         }
       ]
     },
@@ -4413,16 +5053,6 @@
           "notes": "247 #27, 4-star"
         },
         {
-          "name": "Annor Boateng",
-          "pos": "F",
-          "height": "6-6",
-          "year": "Jr.",
-          "ppg": 2.7,
-          "rpg": 1.8,
-          "apg": 0.3,
-          "notes": ""
-        },
-        {
           "name": "Jordan Crawford",
           "pos": "G",
           "height": "6-3",
@@ -4441,6 +5071,26 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #72, 4-star"
+        },
+        {
+          "name": "Cord Stansberry",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Sr.",
+          "ppg": 14.1,
+          "rpg": 4.0,
+          "apg": 2.1,
+          "notes": "Western Carolina transfer"
+        },
+        {
+          "name": "Trent Burns",
+          "pos": "C",
+          "height": "7-5",
+          "year": "R-So.",
+          "ppg": 2.0,
+          "rpg": 1.8,
+          "apg": 0.1,
+          "notes": ""
         }
       ]
     },
@@ -4458,7 +5108,7 @@
           "ppg": 19.5,
           "rpg": 3.6,
           "apg": 5.1,
-          "notes": "Returning from NBA Draft"
+          "notes": ""
         },
         {
           "name": "Ace Glass III",
@@ -4471,20 +5121,20 @@
           "notes": "Washington St. transfer"
         },
         {
-          "name": "Sebastian Williams-Adams",
+          "name": "Gabe Nesmith",
           "pos": "F",
-          "height": "6-8",
-          "year": "So.",
-          "ppg": 6.8,
-          "rpg": 3.5,
-          "apg": 1.5,
-          "notes": "Auburn transfer"
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #33, 4-star (2027 reclass)"
         },
         {
           "name": "Berke Buyuktuncel",
           "pos": "F",
           "height": "6-10",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 6.7,
           "rpg": 5.4,
           "apg": 1.8,
@@ -4501,7 +5151,7 @@
           "notes": "Colorado transfer"
         },
         {
-          "name": "TO Barrett",
+          "name": "T.O. Barrett",
           "pos": "G",
           "height": "6-4",
           "year": "Jr.",
@@ -4509,6 +5159,16 @@
           "rpg": 2.7,
           "apg": 3.0,
           "notes": "Missouri transfer"
+        },
+        {
+          "name": "Sebastian Williams-Adams",
+          "pos": "F",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 6.8,
+          "rpg": 3.5,
+          "apg": 1.5,
+          "notes": "Auburn transfer"
         },
         {
           "name": "Chandler Bing",
@@ -4531,7 +5191,7 @@
           "notes": "247 #67, 4-star"
         },
         {
-          "name": "Anthony Brown",
+          "name": "Ant Brown Jr.",
           "pos": "G",
           "height": "6-1",
           "year": "Fr.",
@@ -4561,7 +5221,7 @@
         {
           "name": "Kory Mincy",
           "pos": "G",
-          "height": "6-2",
+          "height": "6-1",
           "year": "Sr.",
           "ppg": 14.3,
           "rpg": 3.6,
@@ -4572,7 +5232,7 @@
           "name": "Shane Blakeney",
           "pos": "G",
           "height": "6-5",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 14.2,
           "rpg": 5.1,
           "apg": 2.5,
@@ -4589,9 +5249,19 @@
           "notes": "Texas transfer"
         },
         {
+          "name": "Juan Fernandez",
+          "pos": "F",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Argentina"
+        },
+        {
           "name": "Aleksas Bieliauskas",
           "pos": "F",
-          "height": "6-10",
+          "height": "6-11",
           "year": "So.",
           "ppg": 4.9,
           "rpg": 4.4,
@@ -4621,7 +5291,7 @@
         {
           "name": "Jakub Necas",
           "pos": "F",
-          "height": "6-8",
+          "height": "6-10",
           "year": "Sr.",
           "ppg": 6.9,
           "rpg": 5.1,
@@ -4637,6 +5307,16 @@
           "rpg": 1.1,
           "apg": 0.1,
           "notes": ""
+        },
+        {
+          "name": "Hugo Lopez",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Spain"
         }
       ]
     },
@@ -4695,6 +5375,16 @@
           "rpg": 2.6,
           "apg": 0.3,
           "notes": "Pepperdine transfer"
+        },
+        {
+          "name": "Ben Henshall",
+          "pos": "F",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Australia"
         },
         {
           "name": "Christian Brown",
@@ -4843,6 +5533,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #127, 4-star"
+        },
+        {
+          "name": "Ashton Magee",
+          "pos": "F",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 3.0,
+          "rpg": 1.7,
+          "apg": 0.2,
+          "notes": "Southern transfer"
         }
       ]
     },
@@ -4871,6 +5571,16 @@
           "rpg": 3.4,
           "apg": 1.2,
           "notes": ""
+        },
+        {
+          "name": "Mantas Rubstavicius",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Lithuania"
         },
         {
           "name": "Thomas Dowd",
@@ -4915,7 +5625,7 @@
         {
           "name": "George Kimble III",
           "pos": "G",
-          "height": "6-2",
+          "height": "6-1",
           "year": "R-Jr.",
           "ppg": 18.0,
           "rpg": 3.7,
@@ -4923,19 +5633,19 @@
           "notes": "Vanderbilt transfer"
         },
         {
-          "name": "Caleb Williams",
-          "pos": "F",
-          "height": "6-5",
+          "name": "Narcisse Ngoy",
+          "pos": "C",
+          "height": "7-0",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "247 #195, 3-star"
+          "notes": "France"
         },
         {
           "name": "Simon Walker",
           "pos": "G",
-          "height": "6-4",
+          "height": "6-5",
           "year": "So.",
           "ppg": 2.8,
           "rpg": 0.5,
@@ -4989,6 +5699,16 @@
           "rpg": 4.3,
           "apg": 1.0,
           "notes": "Louisville transfer"
+        },
+        {
+          "name": "Kai Rogers",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 1.3,
+          "rpg": 1.5,
+          "apg": 0.4,
+          "notes": ""
         },
         {
           "name": "Tyler Hendricks",
@@ -5069,6 +5789,16 @@
           "notes": ""
         },
         {
+          "name": "Joaquim Boumtje-Boumtje",
+          "pos": "F",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Spain (Top 2028 NBA Draft Prospect)"
+        },
+        {
           "name": "Patrick Ngongba",
           "pos": "C",
           "height": "6-11",
@@ -5076,7 +5806,7 @@
           "ppg": 10.5,
           "rpg": 6.0,
           "apg": 2.0,
-          "notes": "Returning"
+          "notes": ""
         },
         {
           "name": "Caleb Foster",
@@ -5207,14 +5937,14 @@
           "notes": ""
         },
         {
-          "name": "Jaydon Young",
-          "pos": "G",
-          "height": "6-4",
-          "year": "Sr.",
-          "ppg": 1.8,
-          "rpg": 0.9,
-          "apg": 0.4,
-          "notes": "Returned from portal"
+          "name": "Alex Samodurov",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Greece"
         },
         {
           "name": "Maximo Adams",
@@ -5227,6 +5957,16 @@
           "notes": "247 #25, 4-star"
         },
         {
+          "name": "Sayon Keita",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Mali"
+        },
+        {
           "name": "Kevin Thomas",
           "pos": "F",
           "height": "6-6",
@@ -5235,6 +5975,26 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #79, 4-star"
+        },
+        {
+          "name": "Jaydon Young",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 1.8,
+          "rpg": 0.9,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Angelo Brizzi",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 14.5,
+          "rpg": 2.8,
+          "apg": 1.8,
+          "notes": "Buffalo transfer"
         }
       ]
     },
@@ -5247,7 +6007,7 @@
         {
           "name": "Jackson Shelstad",
           "pos": "G",
-          "height": "6-0",
+          "height": "6-1",
           "year": "Sr.",
           "ppg": 15.6,
           "rpg": 2.9,
@@ -5257,7 +6017,7 @@
         {
           "name": "Adrian Wooley",
           "pos": "G",
-          "height": "6-5",
+          "height": "6-4",
           "year": "Jr.",
           "ppg": 8.7,
           "rpg": 3.9,
@@ -5277,7 +6037,7 @@
         {
           "name": "Alvaro Folgueiras",
           "pos": "F",
-          "height": "6-9",
+          "height": "6-10",
           "year": "Sr.",
           "ppg": 8.5,
           "rpg": 3.8,
@@ -5286,7 +6046,7 @@
         },
         {
           "name": "Flory Bidunga",
-          "pos": "C",
+          "pos": "F/C",
           "height": "6-9",
           "year": "Jr.",
           "ppg": 13.3,
@@ -5307,12 +6067,22 @@
         {
           "name": "Obinna Ekezie Jr.",
           "pos": "C",
-          "height": "7-1",
+          "height": "7-2",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
           "notes": "247 #16, 5-star"
+        },
+        {
+          "name": "Boyuan Zhang",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #77, 4-star"
         },
         {
           "name": "Gabe Dynes",
@@ -5335,7 +6105,7 @@
         {
           "name": "Chance Mallory",
           "pos": "G",
-          "height": "5-9",
+          "height": "5-10",
           "year": "So.",
           "ppg": 9.3,
           "rpg": 3.7,
@@ -5355,7 +6125,7 @@
         {
           "name": "Sam Lewis",
           "pos": "G",
-          "height": "6-6",
+          "height": "6-7",
           "year": "Sr.",
           "ppg": 10.6,
           "rpg": 3.6,
@@ -5365,7 +6135,7 @@
         {
           "name": "Thijs de Ridder",
           "pos": "F",
-          "height": "6-8",
+          "height": "6-9",
           "year": "So.",
           "ppg": 15.6,
           "rpg": 6.2,
@@ -5386,21 +6156,31 @@
           "name": "Christian Harmon",
           "pos": "F",
           "height": "6-6",
-          "year": "Jr.",
+          "year": "Sr.",
           "ppg": 12.8,
           "rpg": 3.7,
           "apg": 2.5,
           "notes": "Arkansas St. transfer"
         },
         {
-          "name": "Jan Vide",
+          "name": "Kalu Anya",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Gr.",
+          "ppg": 6.5,
+          "rpg": 7.5,
+          "apg": 2.5,
+          "notes": "Saint Louis transfer"
+        },
+        {
+          "name": "Nolan Adekunle",
           "pos": "G",
-          "height": "6-6",
-          "year": "Sr.",
-          "ppg": 12.1,
-          "rpg": 3.0,
-          "apg": 4.0,
-          "notes": "Loyola Marymount transfer"
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Germany"
         },
         {
           "name": "Favour Ibe",
@@ -5415,12 +6195,22 @@
         {
           "name": "Silas Barksdale",
           "pos": "F",
-          "height": "6-8",
+          "height": "6-9",
           "year": "R-Fr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
           "notes": "247 #88, 4-star"
+        },
+        {
+          "name": "Jan Vide",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 12.1,
+          "rpg": 3.0,
+          "apg": 4.0,
+          "notes": "Loyola Marymount transfer"
         }
       ]
     },
@@ -5461,14 +6251,14 @@
           "notes": ""
         },
         {
-          "name": "DeSean Goode",
+          "name": "Caleb Gaskins",
           "pos": "F",
           "height": "6-8",
-          "year": "Jr.",
-          "ppg": 15.2,
-          "rpg": 8.7,
-          "apg": 1.4,
-          "notes": "Robert Morris transfer"
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "247 #15, 5-star"
         },
         {
           "name": "Somto Cyril",
@@ -5481,14 +6271,14 @@
           "notes": "Georgia transfer"
         },
         {
-          "name": "Caleb Gaskins",
+          "name": "DeSean Goode",
           "pos": "F",
           "height": "6-8",
-          "year": "Fr.",
-          "ppg": 0,
-          "rpg": 0,
-          "apg": 0,
-          "notes": "247 #20, 4-star"
+          "year": "Jr.",
+          "ppg": 15.2,
+          "rpg": 8.7,
+          "apg": 1.4,
+          "notes": "Robert Morris transfer"
         },
         {
           "name": "Nick Dorn",
@@ -5504,11 +6294,21 @@
           "name": "Brent Bland",
           "pos": "G",
           "height": "6-3",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 13.9,
           "rpg": 5.0,
           "apg": 1.5,
           "notes": "Saint Peter's transfer"
+        },
+        {
+          "name": "Egor Ryzhov",
+          "pos": "C",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Russia"
         }
       ]
     },
@@ -5541,12 +6341,12 @@
         {
           "name": "Paul McNeil Jr.",
           "pos": "G",
-          "height": "6-5",
+          "height": "6-6",
           "year": "Jr.",
           "ppg": 13.8,
           "rpg": 3.6,
           "apg": 0.8,
-          "notes": "Staying"
+          "notes": ""
         },
         {
           "name": "Eemeli Yalaho",
@@ -5562,11 +6362,21 @@
           "name": "Kyle Evans",
           "pos": "F/C",
           "height": "6-10",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 12.1,
           "rpg": 8.7,
           "apg": 0.9,
           "notes": "UC Irvine transfer"
+        },
+        {
+          "name": "RJ Keene",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 2.6,
+          "rpg": 4.6,
+          "apg": 1.9,
+          "notes": "Boise St. transfer"
         },
         {
           "name": "Darius Adams",
@@ -5579,14 +6389,14 @@
           "notes": "Maryland transfer"
         },
         {
-          "name": "Comeh Emuobor",
+          "name": "Robert Jurkovic",
           "pos": "F",
-          "height": "6-5",
+          "height": "6-9",
           "year": "Sr.",
-          "ppg": 9.0,
-          "rpg": 4.3,
-          "apg": 0.6,
-          "notes": "New Hampshire transfer"
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Slovenia"
         },
         {
           "name": "Zymicah Wilkins",
@@ -5597,6 +6407,36 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #120, 4-star"
+        },
+        {
+          "name": "Shah Hall",
+          "pos": "C",
+          "height": "6-11",
+          "year": "R-Jr.",
+          "ppg": 9.4,
+          "rpg": 7.8,
+          "apg": 0.0,
+          "notes": "JUCO transfer"
+        },
+        {
+          "name": "Comeh Emuobor",
+          "pos": "F",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 9.0,
+          "rpg": 4.3,
+          "apg": 0.6,
+          "notes": "New Hampshire transfer"
+        },
+        {
+          "name": "Jacari Brim",
+          "pos": "G",
+          "height": "6-2",
+          "year": "So.",
+          "ppg": 1.2,
+          "rpg": 0.7,
+          "apg": 0.7,
+          "notes": "Appalachian St. transfer"
         }
       ]
     },
@@ -5647,6 +6487,16 @@
           "notes": ""
         },
         {
+          "name": "Abdramane Siby",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Mali/Croatia"
+        },
+        {
           "name": "Kiyan Anthony",
           "pos": "G",
           "height": "6-5",
@@ -5654,7 +6504,7 @@
           "ppg": 8.0,
           "rpg": 1.4,
           "apg": 0.9,
-          "notes": "Staying"
+          "notes": ""
         },
         {
           "name": "Francis Folefac",
@@ -5689,7 +6539,7 @@
         {
           "name": "Ryan Moesch",
           "pos": "G",
-          "height": "6-0",
+          "height": "6-1",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -5704,16 +6554,6 @@
       "coach": "Scott Cross",
       "espnId": "59",
       "players": [
-        {
-          "name": "Victor Valdes",
-          "pos": "G",
-          "height": "6-7",
-          "year": "Sr.",
-          "ppg": 14.8,
-          "rpg": 4.0,
-          "apg": 4.5,
-          "notes": "Troy transfer"
-        },
         {
           "name": "Colby Garland",
           "pos": "G",
@@ -5735,14 +6575,24 @@
           "notes": "Washington transfer"
         },
         {
-          "name": "Nasir Whitlock",
-          "pos": "G",
-          "height": "6-2",
+          "name": "Kam Craft",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 7.3,
+          "rpg": 2.1,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Victor Valdes",
+          "pos": "G/F",
+          "height": "6-7",
           "year": "Sr.",
-          "ppg": 20.5,
-          "rpg": 3.5,
-          "apg": 3.3,
-          "notes": "Lehigh transfer"
+          "ppg": 14.8,
+          "rpg": 4.0,
+          "apg": 4.5,
+          "notes": "Troy transfer"
         },
         {
           "name": "Cole Kirouac",
@@ -5755,14 +6605,24 @@
           "notes": ""
         },
         {
-          "name": "Kam Craft",
+          "name": "Jackson Fields",
           "pos": "F",
-          "height": "6-6",
-          "year": "R-Sr.",
-          "ppg": 7.3,
-          "rpg": 2.1,
-          "apg": 0.9,
-          "notes": ""
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 4.3,
+          "rpg": 3.4,
+          "apg": 1.1,
+          "notes": "West Virginia transfer"
+        },
+        {
+          "name": "Nasir Whitlock",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 20.5,
+          "rpg": 3.5,
+          "apg": 3.3,
+          "notes": "Lehigh transfer"
         },
         {
           "name": "Tylis Jordan",
@@ -5777,7 +6637,7 @@
         {
           "name": "Kayden Allen",
           "pos": "F",
-          "height": "6-5",
+          "height": "6-6",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -5813,24 +6673,24 @@
           "notes": "Syracuse transfer"
         },
         {
-          "name": "Jonathan Powell",
-          "pos": "F",
-          "height": "6-6",
-          "year": "Jr.",
-          "ppg": 4.8,
-          "rpg": 2.4,
-          "apg": 0.7,
-          "notes": "North Carolina transfer"
-        },
-        {
           "name": "Jalil Bethea",
-          "pos": "F",
+          "pos": "G",
           "height": "6-5",
           "year": "Jr.",
           "ppg": 4.0,
           "rpg": 1.7,
           "apg": 0.6,
           "notes": "Alabama transfer"
+        },
+        {
+          "name": "Jonathan Powell",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 4.8,
+          "rpg": 2.4,
+          "apg": 0.7,
+          "notes": "North Carolina transfer"
         },
         {
           "name": "Baye Ndongo",
@@ -5863,24 +6723,14 @@
           "notes": "Charleston Southern transfer"
         },
         {
-          "name": "Timofei Rudovskii",
+          "name": "Dominique Diomande",
           "pos": "F",
-          "height": "6-9",
-          "year": "So.",
-          "ppg": 12.9,
-          "rpg": 4.7,
-          "apg": 1.8,
-          "notes": "Bryant transfer"
-        },
-        {
-          "name": "Colin Hawkins",
-          "pos": "G",
-          "height": "6-3",
-          "year": "Jr.",
-          "ppg": 8.2,
-          "rpg": 1.8,
-          "apg": 2.1,
-          "notes": "Gardner Webb transfer"
+          "height": "6-7",
+          "year": "R-So.",
+          "ppg": 1.9,
+          "rpg": 1.3,
+          "apg": 0.1,
+          "notes": "BYU transfer"
         },
         {
           "name": "Chase Foster",
@@ -5893,6 +6743,16 @@
           "notes": "247 #37, 4-star"
         },
         {
+          "name": "Timofei Rudovskii",
+          "pos": "F",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 12.9,
+          "rpg": 4.7,
+          "apg": 1.8,
+          "notes": "Bryant transfer"
+        },
+        {
           "name": "Jermal Jones",
           "pos": "G",
           "height": "6-4",
@@ -5901,6 +6761,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #111, 4-star"
+        },
+        {
+          "name": "Colin Hawkins",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 8.2,
+          "rpg": 1.8,
+          "apg": 2.1,
+          "notes": "Gardner Webb transfer"
         }
       ]
     },
@@ -5921,14 +6791,14 @@
           "notes": "Missouri transfer"
         },
         {
-          "name": "AJ Swinton",
-          "pos": "G",
-          "height": "6-6",
+          "name": "Kameron Taylor",
+          "pos": "F",
+          "height": "6-7",
           "year": "Jr.",
-          "ppg": 4.5,
-          "rpg": 1.8,
-          "apg": 0.4,
-          "notes": ""
+          "ppg": 18.9,
+          "rpg": 5.0,
+          "apg": 3.0,
+          "notes": "UNC Asheville transfer"
         },
         {
           "name": "Shon Abaev",
@@ -5961,14 +6831,14 @@
           "notes": "Wake Forest transfer"
         },
         {
-          "name": "Kameron Taylor",
-          "pos": "F",
-          "height": "6-7",
+          "name": "AJ Swinton",
+          "pos": "G",
+          "height": "6-6",
           "year": "Jr.",
-          "ppg": 18.9,
-          "rpg": 5.0,
-          "apg": 3.0,
-          "notes": "UNC Asheville transfer"
+          "ppg": 4.5,
+          "rpg": 1.8,
+          "apg": 0.4,
+          "notes": ""
         },
         {
           "name": "Marcis Ponder",
@@ -5993,7 +6863,7 @@
         {
           "name": "Brandon Bass Jr.",
           "pos": "G",
-          "height": "6-4",
+          "height": "6-5",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -6009,6 +6879,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #108, 4-star"
+        },
+        {
+          "name": "Elisee Assui",
+          "pos": "F",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Italy"
         }
       ]
     },
@@ -6021,7 +6901,7 @@
         {
           "name": "Ace Buckner",
           "pos": "G",
-          "height": "6-2",
+          "height": "6-3",
           "year": "R-So.",
           "ppg": 8.3,
           "rpg": 2.9,
@@ -6039,9 +6919,19 @@
           "notes": "TCU transfer"
         },
         {
-          "name": "Dylan Faulkner",
+          "name": "David Fuchs",
           "pos": "F",
           "height": "6-9",
+          "year": "Sr.",
+          "ppg": 12.7,
+          "rpg": 7.8,
+          "apg": 1.4,
+          "notes": "San Francisco transfer"
+        },
+        {
+          "name": "Dylan Faulkner",
+          "pos": "F",
+          "height": "6-10",
           "year": "Sr.",
           "ppg": 17.2,
           "rpg": 8.6,
@@ -6059,19 +6949,19 @@
           "notes": "Notre Dame transfer"
         },
         {
-          "name": "David Fuchs",
+          "name": "Chase Thompson",
           "pos": "F",
-          "height": "6-9",
-          "year": "Sr.",
-          "ppg": 12.7,
-          "rpg": 7.8,
-          "apg": 1.4,
-          "notes": "San Francisco transfer"
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 2.3,
+          "rpg": 1.1,
+          "apg": 0.3,
+          "notes": ""
         },
         {
           "name": "Harris Reynolds",
           "pos": "G",
-          "height": "6-4",
+          "height": "6-5",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -6091,12 +6981,12 @@
         {
           "name": "Carter Welling",
           "pos": "C",
-          "height": "6-10",
+          "height": "6-11",
           "year": "Sr.",
           "ppg": 10.2,
           "rpg": 5.4,
           "apg": 1.1,
-          "notes": "Torn ACL - status TBD"
+          "notes": ""
         }
       ]
     },
@@ -6195,6 +7085,16 @@
           "rpg": 2.8,
           "apg": 0.2,
           "notes": "NC State transfer"
+        },
+        {
+          "name": "Ned Hull",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Jr.",
+          "ppg": 4.5,
+          "rpg": 1.8,
+          "apg": 0.9,
+          "notes": "Elon transfer"
         }
       ]
     },
@@ -6227,7 +7127,7 @@
         {
           "name": "Jamari McDowell",
           "pos": "G",
-          "height": "6-4",
+          "height": "6-5",
           "year": "R-Jr.",
           "ppg": 3.3,
           "rpg": 1.6,
@@ -6243,6 +7143,16 @@
           "rpg": 3.7,
           "apg": 0.7,
           "notes": "Florida Atlantic transfer"
+        },
+        {
+          "name": "Antonio Dorn",
+          "pos": "C",
+          "height": "7-0",
+          "year": "So.",
+          "ppg": 2.6,
+          "rpg": 1.8,
+          "apg": 0.4,
+          "notes": "Virginia Tech transfer"
         },
         {
           "name": "Gavin Placide",
@@ -6305,7 +7215,7 @@
         {
           "name": "Jacob Furphy",
           "pos": "F",
-          "height": "6-6",
+          "height": "6-5",
           "year": "So.",
           "ppg": 0.4,
           "rpg": 0.1,
@@ -6323,14 +7233,24 @@
           "notes": "Fairfield transfer"
         },
         {
-          "name": "Armoni Zeigler",
-          "pos": "G",
-          "height": "6-4",
-          "year": "Sr.",
-          "ppg": 12.5,
+          "name": "Luke Hunger",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Gr.",
+          "ppg": 8.4,
           "rpg": 5.1,
-          "apg": 3.3,
-          "notes": "Ball St. transfer"
+          "apg": 0.9,
+          "notes": "George Washington transfer"
+        },
+        {
+          "name": "Zak Smrekar",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Slovenia"
         },
         {
           "name": "Andrija Bukumirovic",
@@ -6341,6 +7261,16 @@
           "rpg": 7.8,
           "apg": 1.0,
           "notes": "Tennessee Martin transfer"
+        },
+        {
+          "name": "Armoni Zeigler",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 12.5,
+          "rpg": 5.1,
+          "apg": 3.3,
+          "notes": "Ball St. transfer"
         },
         {
           "name": "Aly Tounkara",
@@ -6366,7 +7296,7 @@
           "name": "JB Frankel",
           "pos": "G",
           "height": "6-3",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 5.9,
           "rpg": 2.0,
           "apg": 1.9,
@@ -6383,7 +7313,7 @@
         {
           "name": "Silas Demary Jr.",
           "pos": "G",
-          "height": "6-5",
+          "height": "6-4",
           "year": "Sr.",
           "ppg": 10.6,
           "rpg": 4.5,
@@ -6402,7 +7332,7 @@
         },
         {
           "name": "Jayden Ross",
-          "pos": "G/F",
+          "pos": "F",
           "height": "6-7",
           "year": "Sr.",
           "ppg": 4.8,
@@ -6429,16 +7359,6 @@
           "rpg": 5.5,
           "apg": 0.6,
           "notes": "Seton Hall transfer"
-        },
-        {
-          "name": "Nils Machowski",
-          "pos": "G",
-          "height": "6-3",
-          "year": "Sr.",
-          "ppg": 17.2,
-          "rpg": 5.7,
-          "apg": 2.6,
-          "notes": "Wofford transfer"
         },
         {
           "name": "Colben Landrew",
@@ -6471,6 +7391,16 @@
           "notes": "Stanford transfer"
         },
         {
+          "name": "Nils Machowski",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 17.2,
+          "rpg": 5.7,
+          "apg": 2.6,
+          "notes": "Wofford transfer"
+        },
+        {
           "name": "Jaye Nash",
           "pos": "G",
           "height": "6-3",
@@ -6493,7 +7423,7 @@
         {
           "name": "Elmir Dzafic",
           "pos": "C",
-          "height": "7-1",
+          "height": "7-0",
           "year": "So.",
           "ppg": 0.4,
           "rpg": 0.1,
@@ -6541,7 +7471,7 @@
         {
           "name": "Royce Parham",
           "pos": "F",
-          "height": "6-8",
+          "height": "6-9",
           "year": "Jr.",
           "ppg": 12.5,
           "rpg": 4.9,
@@ -6550,7 +7480,7 @@
         },
         {
           "name": "Sananda Fru",
-          "pos": "C",
+          "pos": "F/C",
           "height": "6-11",
           "year": "Sr.",
           "ppg": 9.0,
@@ -6579,9 +7509,19 @@
           "notes": ""
         },
         {
-          "name": "Alex Egbuonu",
+          "name": "Michael Phillips II",
           "pos": "F",
           "height": "6-6",
+          "year": "So.",
+          "ppg": 2.1,
+          "rpg": 1.3,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Alex Egbuonu",
+          "pos": "F",
+          "height": "6-7",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
@@ -6591,12 +7531,22 @@
         {
           "name": "Ethan Johnston",
           "pos": "F",
-          "height": "6-6",
+          "height": "6-7",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
           "notes": "247 #151, 4-star"
+        },
+        {
+          "name": "Nash Walker",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Australia"
         }
       ]
     },
@@ -6606,6 +7556,16 @@
       "coach": "Rick Pitino",
       "espnId": "2599",
       "players": [
+        {
+          "name": "Quinn Ellis",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "England"
+        },
         {
           "name": "Ian Jackson",
           "pos": "G",
@@ -6627,14 +7587,14 @@
           "notes": "Baylor transfer"
         },
         {
-          "name": "Donnie Freeman",
+          "name": "Babacar Sane",
           "pos": "F",
-          "height": "6-9",
-          "year": "Jr.",
-          "ppg": 16.5,
-          "rpg": 7.2,
-          "apg": 1.3,
-          "notes": "Syracuse transfer"
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Senegal"
         },
         {
           "name": "Ruben Prey",
@@ -6654,7 +7614,7 @@
           "ppg": 3.0,
           "rpg": 0.9,
           "apg": 0.4,
-          "notes": "Returned from portal"
+          "notes": ""
         },
         {
           "name": "Theo Edema",
@@ -6664,7 +7624,27 @@
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "247 #50, 4-star"
+          "notes": "247 #50, 4-star (2027 reclass)"
+        },
+        {
+          "name": "Donnie Freeman",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 16.5,
+          "rpg": 7.2,
+          "apg": 1.3,
+          "notes": "Syracuse transfer \u2014 out for season"
+        },
+        {
+          "name": "Kyle Cuffe Jr.",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 7.3,
+          "rpg": 1.8,
+          "apg": 0.4,
+          "notes": "Mercer transfer"
         }
       ]
     },
@@ -6783,6 +7763,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #106, 4-star"
+        },
+        {
+          "name": "Wesly Rosa",
+          "pos": "C",
+          "height": "7-2",
+          "year": "Jr.",
+          "ppg": 8.0,
+          "rpg": 9.6,
+          "apg": 0.0,
+          "notes": "JUCO transfer"
         }
       ]
     },
@@ -6933,17 +7923,37 @@
         {
           "name": "Miles Byrd",
           "pos": "G/F",
-          "height": "6-7",
-          "year": "Sr.",
+          "height": "6-6",
+          "year": "Gr.",
           "ppg": 10.4,
           "rpg": 4.7,
           "apg": 2.6,
           "notes": "San Diego St. transfer"
         },
         {
+          "name": "Dink Pate",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 16.0,
+          "rpg": 6.6,
+          "apg": 3.7,
+          "notes": "G League"
+        },
+        {
+          "name": "Arrinten Page",
+          "pos": "F/C",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 10.2,
+          "rpg": 4.5,
+          "apg": 1.8,
+          "notes": "Northwestern transfer"
+        },
+        {
           "name": "Ryan Mela",
           "pos": "F",
-          "height": "6-6",
+          "height": "6-7",
           "year": "Jr.",
           "ppg": 9.9,
           "rpg": 5.3,
@@ -6971,16 +7981,6 @@
           "notes": "Yale transfer"
         },
         {
-          "name": "Gavin Hightower",
-          "pos": "G",
-          "height": "6-1",
-          "year": "So.",
-          "ppg": 4.1,
-          "rpg": 1.7,
-          "apg": 1.7,
-          "notes": "South Florida transfer"
-        },
-        {
           "name": "Jacob Bannarbie",
           "pos": "C",
           "height": "6-9",
@@ -6991,14 +7991,24 @@
           "notes": "UNLV transfer"
         },
         {
-          "name": "Arrinten Page",
-          "pos": "C",
-          "height": "6-11",
-          "year": "Sr.",
-          "ppg": 10.2,
-          "rpg": 4.5,
-          "apg": 1.8,
-          "notes": "Northwestern transfer"
+          "name": "Gavin Hightower",
+          "pos": "G",
+          "height": "6-1",
+          "year": "So.",
+          "ppg": 4.1,
+          "rpg": 1.7,
+          "apg": 1.7,
+          "notes": "South Florida transfer"
+        },
+        {
+          "name": "Leonardo Marangon",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Italy"
         }
       ]
     },
@@ -7050,13 +8060,23 @@
         },
         {
           "name": "Michael Nwoko",
-          "pos": "F",
+          "pos": "F/C",
           "height": "6-10",
           "year": "Sr.",
           "ppg": 13.4,
           "rpg": 5.9,
           "apg": 0.8,
           "notes": "LSU transfer"
+        },
+        {
+          "name": "Gabriel Pozzato",
+          "pos": "F",
+          "height": "6-7",
+          "year": "R-So.",
+          "ppg": 14.9,
+          "rpg": 4.4,
+          "apg": 1.3,
+          "notes": "Evansville transfer"
         },
         {
           "name": "Nikolaos Chitikoudis",
@@ -7069,16 +8089,6 @@
           "notes": "Robert Morris transfer"
         },
         {
-          "name": "Rolyns Aligbe",
-          "pos": "F",
-          "height": "6-9",
-          "year": "Jr.",
-          "ppg": 9.5,
-          "rpg": 7.4,
-          "apg": 0.7,
-          "notes": "Southern Illinois transfer"
-        },
-        {
           "name": "Kalek House",
           "pos": "G",
           "height": "6-3",
@@ -7087,6 +8097,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #99, 4-star"
+        },
+        {
+          "name": "Rolyns Aligbe",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 9.5,
+          "rpg": 7.4,
+          "apg": 0.7,
+          "notes": "Southern Illinois transfer"
         },
         {
           "name": "Braden Appelhans",
@@ -7167,6 +8187,16 @@
           "notes": "Florida Atlantic transfer"
         },
         {
+          "name": "Luka Scuka",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Slovenia"
+        },
+        {
           "name": "Kayvaun Mulready",
           "pos": "G",
           "height": "6-4",
@@ -7185,6 +8215,26 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #137, 4-star"
+        },
+        {
+          "name": "Gabriel Landeira",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Brazil"
+        },
+        {
+          "name": "Pedro Pastre",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Brazil"
         }
       ]
     },
@@ -7198,11 +8248,11 @@
           "name": "Jalen Jackson",
           "pos": "G",
           "height": "6-2",
-          "year": "Sr.",
+          "year": "Gr.",
           "ppg": 9.5,
           "rpg": 3.5,
           "apg": 3.8,
-          "notes": "Injured most of 25-26"
+          "notes": ""
         },
         {
           "name": "Jordan Ellerbee",
@@ -7215,9 +8265,19 @@
           "notes": "Florida Gulf Coast transfer"
         },
         {
+          "name": "Asim Djulovic",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Serbia"
+        },
+        {
           "name": "Treyson Anderson",
           "pos": "F",
-          "height": "6-10",
+          "height": "6-9",
           "year": "Jr.",
           "ppg": 10.4,
           "rpg": 5.3,
@@ -7238,7 +8298,7 @@
           "name": "Christian Moore",
           "pos": "F",
           "height": "6-6",
-          "year": "R-Jr.",
+          "year": "Gr.",
           "ppg": 11.2,
           "rpg": 3.1,
           "apg": 1.0,
@@ -7255,14 +8315,34 @@
           "notes": "Mississippi transfer"
         },
         {
+          "name": "Samu Adler",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Finland"
+        },
+        {
           "name": "Herly Brutus",
           "pos": "F",
-          "height": "6-5",
+          "height": "6-7",
           "year": "Fr.",
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
           "notes": "247 #139, 4-star"
+        },
+        {
+          "name": "Marko Maric",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Croatia"
         }
       ]
     },
@@ -7421,6 +8501,26 @@
           "notes": "Oregon transfer"
         },
         {
+          "name": "Luigi Suigo",
+          "pos": "C",
+          "height": "7-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Italy"
+        },
+        {
+          "name": "Matthew Hodge",
+          "pos": "F",
+          "height": "6-8",
+          "year": "R-So.",
+          "ppg": 9.2,
+          "rpg": 3.6,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
           "name": "Darryl Simmons II",
           "pos": "G",
           "height": "5-11",
@@ -7441,16 +8541,6 @@
           "notes": "Cornell transfer"
         },
         {
-          "name": "Matthew Hodge",
-          "pos": "F",
-          "height": "6-8",
-          "year": "R-So.",
-          "ppg": 9.2,
-          "rpg": 3.6,
-          "apg": 0.7,
-          "notes": "Coming off ACL"
-        },
-        {
           "name": "Adam Oumiddoch",
           "pos": "F",
           "height": "6-5",
@@ -7459,6 +8549,16 @@
           "rpg": 0,
           "apg": 0,
           "notes": "247 #53, 4-star"
+        },
+        {
+          "name": "Abdou Samb",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0.9,
+          "rpg": 0.7,
+          "apg": 0.4,
+          "notes": "Towson transfer"
         }
       ]
     },
@@ -7722,17 +8822,7 @@
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "Polish, 2005-born"
-        },
-        {
-          "name": "Niccolo Kalischer-Stork",
-          "pos": "G",
-          "height": "6-3",
-          "year": "R-So.",
-          "ppg": 0.0,
-          "rpg": 0.0,
-          "apg": 0.0,
-          "notes": ""
+          "notes": "Poland"
         }
       ]
     },
@@ -7851,16 +8941,6 @@
           "rpg": 8.0,
           "apg": 3.3,
           "notes": "Virginia-Wise transfer"
-        },
-        {
-          "name": "Brady Stevens",
-          "pos": "G",
-          "height": "6-4",
-          "year": "R-So.",
-          "ppg": 0.6,
-          "rpg": 0.4,
-          "apg": 0.2,
-          "notes": ""
         }
       ]
     },
@@ -7870,6 +8950,16 @@
       "coach": "Mark Madsen",
       "espnId": "25",
       "players": [
+        {
+          "name": "Semetri Carr",
+          "pos": "G",
+          "height": "6-0",
+          "year": "So.",
+          "ppg": 3.8,
+          "rpg": 2.6,
+          "apg": 2.2,
+          "notes": ""
+        },
         {
           "name": "Jordan Ross",
           "pos": "G",
@@ -7891,16 +8981,6 @@
           "notes": "Wright St. transfer"
         },
         {
-          "name": "Nojus Indrusaitis",
-          "pos": "G",
-          "height": "6-5",
-          "year": "Jr.",
-          "ppg": 9.1,
-          "rpg": 3.1,
-          "apg": 1.7,
-          "notes": "Pittsburgh transfer"
-        },
-        {
           "name": "Jake Wilkins",
           "pos": "F",
           "height": "6-9",
@@ -7918,17 +8998,17 @@
           "ppg": 8.1,
           "rpg": 7.8,
           "apg": 0.9,
-          "notes": ""
+          "notes": "Medical year likely"
         },
         {
-          "name": "Semetri Carr",
+          "name": "Nojus Indrusaitis",
           "pos": "G",
-          "height": "6-0",
-          "year": "So.",
-          "ppg": 3.8,
-          "rpg": 2.6,
-          "apg": 2.2,
-          "notes": ""
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 9.1,
+          "rpg": 3.1,
+          "apg": 1.7,
+          "notes": "Pittsburgh transfer"
         },
         {
           "name": "Nicolas Mitrovic",
@@ -7951,6 +9031,16 @@
           "notes": "Mississippi St. transfer"
         },
         {
+          "name": "Dominykas Daubaris",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Lithuania"
+        },
+        {
           "name": "Mantas Kocanas",
           "pos": "C",
           "height": "6-11",
@@ -7968,16 +9058,6 @@
           "ppg": 1.1,
           "rpg": 1.0,
           "apg": 0.2,
-          "notes": ""
-        },
-        {
-          "name": "Dhiaukuei Manyiel Dut",
-          "pos": "C",
-          "height": "7-0",
-          "year": "R-Jr.",
-          "ppg": 0.4,
-          "rpg": 1.0,
-          "apg": 0.1,
           "notes": ""
         },
         {
@@ -8066,7 +9146,7 @@
           "ppg": 0,
           "rpg": 0,
           "apg": 0,
-          "notes": "2027 reclass - #1, 5-star"
+          "notes": "2027 reclass \u2014 #1, 5-star"
         },
         {
           "name": "Amari Evans",
@@ -8109,14 +9189,24 @@
           "notes": "247 #74, 4-star"
         },
         {
-          "name": "Anthon McDermott",
+          "name": "Lewis Obiorah",
+          "pos": "C",
+          "height": "7-0",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "England"
+        },
+        {
+          "name": "Mantas Laurencikas",
           "pos": "G",
-          "height": "6-4",
-          "year": "R-So.",
-          "ppg": 0.9,
-          "rpg": 0.6,
-          "apg": 0.3,
-          "notes": ""
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "Lithuania"
         }
       ]
     }
