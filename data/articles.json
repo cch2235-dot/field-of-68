@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "id": "r1",
+      "title": "Golden Finish",
+      "url": "https://fieldof68.beehiiv.com/p/golden-finish",
+      "category": "Daily",
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2f13dd2f-306d-42f2-ba6e-2446ebbe8234/1200x630.png?t=1785237685",
+      "excerpt": "Indiana wrapped up its FISU foreign tour with a gold medal. Plus: the SEC conference schedule was released, UConn's Silas Demary joined the show, Saint Louis added a 4-star point guard, and more.",
+      "author": "Tristan Freeman",
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "r2",
+      "title": "Four-star 2027 prospect Carson Crawford breaks down top five schools",
+      "url": "https://fieldof68.beehiiv.com/p/four-star-2027-prospect-carson-crawford-breaks-down-top-five-schools",
+      "category": "Grassroots",
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a4e0ebc4-2285-4487-a715-f6263152fdc4/1200x630.png?t=1785178595",
+      "excerpt": "The 6-7 wing is fresh off a Peach Jam title and has cut his list to five schools. He breaks down each of his finalists to The Field of 68.",
+      "author": "Sam Lance",
+      "publishedAt": "2026-07-27T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "r3",
+      "title": "Class of 2027 big man Precious Sam adds two fall official visits",
+      "url": "https://fieldof68.beehiiv.com/p/class-of-2027-big-man-precious-sam-adds-two-fall-official-visits",
+      "category": "Grassroots",
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5c9c7d5d-d12f-4dd8-ab15-d9066e1eb8b6/Untitled_design__23_.png?t=1785176090",
+      "excerpt": "The 6-11 big man shined this summer for Paul George Elite on the EYBL circuit, and he now has two official visits set up for the fall.",
+      "author": "Sam Lance",
+      "publishedAt": "2026-07-27T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "r4",
+      "title": "Baylor's next guard",
+      "url": "https://fieldof68.beehiiv.com/p/baylor-s-next-guard",
+      "category": "Daily",
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0d0d344c-585a-4684-ae90-1655f97d5c02/ON3_COVERS__25_.png?t=1785118737",
+      "excerpt": "Baylor landed its first 2027 commitment in Tyrone Jamison. What will he bring? Plus: Texas Tech added fifth-year seeking Jamichael Stillwell, Mark Pope discussed Kentucky's offseason and more.",
+      "author": "Sam Lance",
+      "publishedAt": "2026-07-27T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "q1",
       "title": "Eligibility Chaos",
       "url": "https://fieldof68.beehiiv.com/p/eligibility-chaos",
