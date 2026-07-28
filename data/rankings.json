@@ -21,7 +21,7 @@
         { "rank": 13, "prev": 11, "team": "Iowa State", "conference": "Big 12", "movement": -2 },
         { "rank": 14, "prev": 12, "team": "Miami FL", "conference": "ACC", "movement": -2 },
         { "rank": 15, "prev": 13, "team": "Louisville", "conference": "ACC", "movement": -2 },
-        { "rank": 16, "prev": 15, "team": "Gonzaga", "conference": "WCC", "movement": -1 },
+        { "rank": 16, "prev": 15, "team": "Gonzaga", "conference": "Pac-12", "movement": -1 },
         { "rank": 17, "prev": null, "team": "Kentucky", "conference": "SEC", "movement": null },
         { "rank": 18, "prev": null, "team": "Alabama", "conference": "SEC", "movement": 0 },
         { "rank": 19, "prev": null, "team": "Vanderbilt", "conference": "SEC", "movement": null },
