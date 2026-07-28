@@ -18,7 +18,7 @@ export default async function ArticlesPage() {
           <p className="text-[#8A8A8A] font-condensed text-lg">The latest from The Field of 68 Daily newsletter.</p>
           <a href="https://fieldof68.beehiiv.com/upgrade" target="_blank" rel="noopener noreferrer"
             className="bg-[#F5A623] text-black font-condensed font-bold text-sm tracking-widest uppercase px-5 py-2.5 rounded-lg">
-            Subscribe — $50/mo
+            Subscribe — $50/yr
           </a>
         </div>
       </div>
