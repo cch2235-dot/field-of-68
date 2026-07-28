@@ -19,7 +19,7 @@ const ESPN_IDS: Record<string,string> = {
   'Oregon':'2483','Penn State':'213','Pittsburgh':'221','Portland':'2501',
   'Providence':'2507','Purdue':'2509','Robert Morris':'2543','Rutgers':'164',
   "Saint Mary's":'2608','Sam Houston State':'2534','San Diego State':'21',
-  'San Francisco':'2650','Santa Clara':'2616','Seton Hall':'238','Siena':'2561',
+  'San Francisco':'2650','Santa Clara':'2616','Seton Hall':'2550','Siena':'2561',
   'SMU':'2567','South Carolina':'2579','South Florida':'58','Stanford':'24',
   'Syracuse':'183','TCU':'2628','Tennessee':'2633','Texas':'251','Texas A&M':'245',
   'Texas Tech':'2641','Toledo':'2649','Towson':'2657','Tulane':'2655','UAB':'5',
