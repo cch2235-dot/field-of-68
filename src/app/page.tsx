@@ -75,7 +75,7 @@ export default async function HomePage() {
           <p className="text-[#8A8A8A] font-condensed text-lg mb-6 max-w-lg mx-auto">Get Jeff Goodman and Rob Dauster's daily takes, breaking news, and insider analysis.</p>
           <a href="https://fieldof68.beehiiv.com/upgrade" target="_blank" rel="noopener noreferrer"
             className="inline-flex bg-[#F5A623] hover:bg-[#FFBE4D] text-black font-display text-xl tracking-widest uppercase px-10 py-4 rounded-lg transition-colors">
-            Subscribe — $4.99/mo
+            Subscribe — $50/yr
           </a>
         </div>
       </section>
