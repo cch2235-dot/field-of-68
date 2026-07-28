@@ -5,7 +5,7 @@ export const metadata: Metadata = { title: 'About | Field of 68', description: '
 
 const TEAM = [
   { name: 'Jeff Goodman', role: 'Co-Founder', bio: 'One of the most respected reporters and analysts in college basketball. Jeff co-founded The Field of 68 and brings unmatched access and insider knowledge to every show.', twitter: 'GoodmanHoops' },
-  { name: 'Rob Dauster', role: 'Co-Founder', bio: 'Co-Founder of The Field of 68 Media Network and host of After Dark built one of college basketball\'s premier media destinations and brings the insight and energy that makes the network what it is.', twitter: 'RobDauster' },
+  { name: 'Rob Dauster', role: 'Co-Founder', bio: 'Co-Founder of The Field of 68 Media Network and host of After Dark, he helped build one of college basketball’s premier media destinations and brings the insight, personality, and energy that define the network.', twitter: 'RobDauster' },
 ];
 
 // All photos — no labels shown
