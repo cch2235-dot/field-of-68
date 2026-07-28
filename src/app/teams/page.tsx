@@ -4,6 +4,7 @@ import { useSearchParams } from 'next/navigation';
 import rostersData from '../../../data/rosters.json';
 
 const CONFERENCES = ['ACC', 'Big East', 'Big Ten', 'Big 12', 'SEC'];
+const WHITE_BG_TEAMS = ['Cincinnati', 'Penn State', 'Iowa', 'Wake Forest', 'California'];
 
 function TeamsContent() {
   const sp = useSearchParams();
@@ -45,7 +46,12 @@ function TeamsContent() {
           <button key={team.name} onClick={() => setActiveTeam(activeTeam === team.name ? null : team.name)}
             className={`flex flex-col items-center gap-2 p-4 rounded-xl border transition-all ${activeTeam === team.name ? 'bg-[#F5A623]/10 border-[#F5A623]' : 'bg-[#111] border-[#1A1A1A] hover:border-[#333]'}`}>
             {team.espnId && (
-              <img src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${team.espnId}.png`} alt={team.name} className="w-12 h-12 object-contain" />
+              <img
+                src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${team.espnId}.png`}
+                alt={team.name}
+                className="w-12 h-12 object-contain"
+                style={WHITE_BG_TEAMS.includes(team.name) ? {background:'white',borderRadius:'6px',padding:'3px'} : {}}
+              />
             )}
             <span className="font-condensed font-bold text-white text-xs text-center leading-tight">{team.name}</span>
           </button>
@@ -58,7 +64,12 @@ function TeamsContent() {
           {/* Team header */}
           <div className="flex items-center gap-4 p-6 border-b border-[#1A1A1A] bg-[#0A0A0A]">
             {selectedTeam.espnId && (
-              <img src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${selectedTeam.espnId}.png`} alt={selectedTeam.name} className="w-16 h-16 object-contain" />
+              <img
+                src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${selectedTeam.espnId}.png`}
+                alt={selectedTeam.name}
+                className="w-16 h-16 object-contain"
+                style={WHITE_BG_TEAMS.includes(selectedTeam.name) ? {background:'white',borderRadius:'6px',padding:'4px'} : {}}
+              />
             )}
             <div>
               <h2 className="font-display text-white text-3xl tracking-wider">{selectedTeam.name}</h2>
