@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
-
 const NAV = [
   { href:'/', label:'Home' },
   { href:'/videos', label:'Videos' },
@@ -15,9 +14,9 @@ const NAV = [
   { href:'/rankings/hs', label:'HS Rankings' },
   { href:'https://fieldof68.shop/', label:'Shop', external:true },
   { href:'/about', label:'About' },
+  { href:'/eligibility', label:'Eligibility Tracker' },
   { href:'/contact', label:'Advertise' },
 ];
-
 export default function Header() {
   const [open, setOpen] = useState(false);
   const path = usePathname();
