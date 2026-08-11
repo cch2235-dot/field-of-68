@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a23",
+      "title": "Time to Marathon",
+      "url": "https://fieldof68.beehiiv.com/p/time-to-marathon",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/d133153d-1f52-42af-a407-2e6af01ffa8d/ON3_COVERS__25_.png",
+      "excerpt": "The full schedule for our Field of 68 Open Day Marathon has been announced. Plus: The latest court update for fifth-year prospects, NC State's landed its first 2027 commit, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-11T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a22",
       "title": "THE FIELD OF 68 BRINGING BACK THE 24-HOUR COLLEGE BASKETBALL MARATHON",
       "url": "https://fieldof68.beehiiv.com/p/the-field-of-68-bringing-back-the-24-hour-college-basketball-marathon",
