@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "id": "a24",
-      "title": "Marathon mode",
-      "url": "https://fieldof68.beehiiv.com/p/marathon-mode",
+      "id": "a26",
+      "title": "Back with pack",
+      "url": "https://fieldof68.beehiiv.com/p/back-with-pack",
       "category": "Daily",
-      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/0a84e644-4f7c-4b88-a3e6-75b2dc3ab2a2/ON3_COVERS__25_.png",
-      "excerpt": "The schedule for The Field of 68 24-Hour Opening Day Marathon is set, but what do you need to know about each team? Plus: the NCAA will hold firm against fifth-year lawsuits, Robert Morris landed top-155 2027 prospect Peyton Kemp, and more.",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/6dc35a8f-2a8d-4eb9-b5a9-3e499939ad73/ON3_COVERS__25_.png",
+      "excerpt": "Fifth-year forward Ven-Allen Lubin announced a return to NC State. Plus: more fifth-year commits, Saint Mary's and others played exhibitions overseas, Kentucky and Wichita State are set to play, and more.",
       "author": "Field of 68",
-      "publishedAt": "2026-08-12T00:00:00Z",
+      "publishedAt": "2026-08-17T00:00:00Z",
       "tags": [],
       "readTime": "5 min read"
     },
@@ -25,14 +25,14 @@
       "readTime": "5 min read"
     },
     {
-      "id": "a26",
-      "title": "Back with pack",
-      "url": "https://fieldof68.beehiiv.com/p/back-with-pack",
+      "id": "a24",
+      "title": "Marathon mode",
+      "url": "https://fieldof68.beehiiv.com/p/marathon-mode",
       "category": "Daily",
-      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/6dc35a8f-2a8d-4eb9-b5a9-3e499939ad73/ON3_COVERS__25_.png",
-      "excerpt": "Fifth-year forward Ven-Allen Lubin announced a return to NC State. Plus: more fifth-year commits, Saint Mary's and others played exhibitions overseas, Kentucky and Wichita State are set to play, and more.",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/0a84e644-4f7c-4b88-a3e6-75b2dc3ab2a2/ON3_COVERS__25_.png",
+      "excerpt": "The schedule for The Field of 68 24-Hour Opening Day Marathon is set, but what do you need to know about each team? Plus: the NCAA will hold firm against fifth-year lawsuits, Robert Morris landed top-155 2027 prospect Peyton Kemp, and more.",
       "author": "Field of 68",
-      "publishedAt": "2026-08-17T00:00:00Z",
+      "publishedAt": "2026-08-12T00:00:00Z",
       "tags": [],
       "readTime": "5 min read"
     },
@@ -901,18 +901,6 @@
       "readTime": "5 min read"
     },
     {
-      "id": "n16",
-      "title": "Four-star guard Jamaal McKnight Jr. discusses Team Durant success, recruitment",
-      "url": "https://fieldof68.beehiiv.com/p/four-star-guard-jamaal-mcknight-jr-discusses-team-durant-success-recruitment",
-      "category": "Grassroots",
-      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8a70b406-5006-48a8-b871-fc3735b5ea69/Photo_Blank__73_.png?t=1782241554",
-      "excerpt": "The 6-0 guard from Long Island Lutheran breaks down his summer with Team Durant and his growing recruitment.",
-      "author": "Sam Lance",
-      "publishedAt": "2026-06-23T00:00:00Z",
-      "tags": [],
-      "readTime": "5 min read"
-    },
-    {
       "id": "n17",
       "title": "Draft Debrief",
       "url": "https://fieldof68.beehiiv.com/p/draft-debrief",
@@ -933,6 +921,18 @@
       "excerpt": "The first round of the NBA Draft has come and gone. What was notable? Plus: Five-for-five eligibility is here, Mike Boynton was named Michigan's interim head coach, and more.",
       "author": "Sean Paul",
       "publishedAt": "2026-06-24T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "n16",
+      "title": "Four-star guard Jamaal McKnight Jr. discusses Team Durant success, recruitment",
+      "url": "https://fieldof68.beehiiv.com/p/four-star-guard-jamaal-mcknight-jr-discusses-team-durant-success-recruitment",
+      "category": "Grassroots",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8a70b406-5006-48a8-b871-fc3735b5ea69/Photo_Blank__73_.png?t=1782241554",
+      "excerpt": "The 6-0 guard from Long Island Lutheran breaks down his summer with Team Durant and his growing recruitment.",
+      "author": "Sam Lance",
+      "publishedAt": "2026-06-23T00:00:00Z",
       "tags": [],
       "readTime": "5 min read"
     },
@@ -1213,18 +1213,6 @@
       "readTime": "5 min read"
     },
     {
-      "id": "24",
-      "title": "Top 50 returning players",
-      "url": "https://fieldof68.beehiiv.com/p/top-50-returning-players",
-      "category": "Daily",
-      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c0aff015-2ba9-4e7b-b990-91c70092552d/Screenshot_2026-05-29_060813.png?t=1780053059",
-      "excerpt": "We rank the players who'll be at the same programs they were in 2025-26.",
-      "author": "Tristan Freeman",
-      "publishedAt": "2026-05-29T00:00:00Z",
-      "tags": [],
-      "readTime": "5 min read"
-    },
-    {
       "id": "25",
       "title": "Decisions are in",
       "url": "https://fieldof68.beehiiv.com/p/decisions-are-in",
@@ -1233,6 +1221,18 @@
       "excerpt": "The remaining NBA Draft stay-go decisions have been made.",
       "author": "Samuel Lance",
       "publishedAt": "2026-05-30T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "24",
+      "title": "Top 50 returning players",
+      "url": "https://fieldof68.beehiiv.com/p/top-50-returning-players",
+      "category": "Daily",
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c0aff015-2ba9-4e7b-b990-91c70092552d/Screenshot_2026-05-29_060813.png?t=1780053059",
+      "excerpt": "We rank the players who'll be at the same programs they were in 2025-26.",
+      "author": "Tristan Freeman",
+      "publishedAt": "2026-05-29T00:00:00Z",
       "tags": [],
       "readTime": "5 min read"
     },
