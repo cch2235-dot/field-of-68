@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "a24",
+      "title": "Marathon mode",
+      "url": "https://fieldof68.beehiiv.com/p/marathon-mode",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/0a84e644-4f7c-4b88-a3e6-75b2dc3ab2a2/ON3_COVERS__25_.png",
+      "excerpt": "The schedule for The Field of 68 24-Hour Opening Day Marathon is set, but what do you need to know about each team? Plus: the NCAA will hold firm against fifth-year lawsuits, Robert Morris landed top-155 2027 prospect Peyton Kemp, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-12T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a25",
+      "title": "Trimble twist",
+      "url": "https://fieldof68.beehiiv.com/p/trimble-twist",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/38c6905b-5a20-42e5-8b27-a586cae09167/ON3_COVERS__25_.png",
+      "excerpt": "North Carolina fifth-year transfer guard Seth Trimble committed to Louisville. How much does he elevate the Cardinals? Plus: More fifth-year commits and news, Kansas loses a five-star commit, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-13T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a26",
+      "title": "Back with pack",
+      "url": "https://fieldof68.beehiiv.com/p/back-with-pack",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/6dc35a8f-2a8d-4eb9-b5a9-3e499939ad73/ON3_COVERS__25_.png",
+      "excerpt": "Fifth-year forward Ven-Allen Lubin announced a return to NC State. Plus: more fifth-year commits, Saint Mary's and others played exhibitions overseas, Kentucky and Wichita State are set to play, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-17T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a23",
       "title": "Time to Marathon",
       "url": "https://fieldof68.beehiiv.com/p/time-to-marathon",
