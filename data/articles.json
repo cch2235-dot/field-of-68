@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a27",
+      "title": "Fifth-year flood",
+      "url": "https://fieldof68.beehiiv.com/p/fifth-year-flood",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/bbc0ff0a-a087-4613-aaa5-7ddacef7f3a0/ON3_COVERS__25_.png",
+      "excerpt": "The fifth-year commits keep coming, including Donovan Atwell back to Texas Tech, Jaden Henley back to Grand Canyon, Jordan Pope to Texas A&M, and more. We break down all the fifth-year news, plus highlight some mid-major MTEs.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-18T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a26",
       "title": "Back with pack",
       "url": "https://fieldof68.beehiiv.com/p/back-with-pack",
