@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a28",
+      "title": "A true five-for-five",
+      "url": "https://fieldof68.beehiiv.com/p/a-true-five-for-five",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/ef558bd6-1316-4ea4-832f-a4e73e33f3ee/ON3_COVERS__25_.png",
+      "excerpt": "AJ Storr is headed to his fifth school in five years, committing to UNLV. Plus: St. John's added a big in Reed Bailey, more fifth-year players earned court protection, Texas Southern students protested a potential coaching hire, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-19T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a27",
       "title": "Fifth-year flood",
       "url": "https://fieldof68.beehiiv.com/p/fifth-year-flood",
