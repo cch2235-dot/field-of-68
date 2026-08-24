@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "a29",
+      "title": "Sooner surge",
+      "url": "https://fieldof68.beehiiv.com/p/sooner-surge",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/fea42329-7e83-4e3a-91fd-86234b7ed79c/ON3_COVERS__25_.png",
+      "excerpt": "Oklahoma continued to bolster its roster by adding fifth-year transfer Duke Brennan. Plus: More fifth-year commits, Kenyon Giles will return to Wichita State, Arizona lost its foreign tour opener, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-20T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a30",
+      "title": "Kohler country",
+      "url": "https://fieldof68.beehiiv.com/p/kohler-country",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/e8f00176-6088-47b3-bb4f-f530a0e15163/ON3_COVERS__25_.png",
+      "excerpt": "BYU added fifth-year transfer big man Jaxon Kohler. How does he change things for the Cougars? Plus: Arizona was in action again overseas, The Baha Mar Championship bracket was released, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-21T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a31",
+      "title": "Colorado chaos",
+      "url": "https://fieldof68.beehiiv.com/p/colorado-chaos",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/61fa7912-5cc4-463d-b800-65e5ae8026a0/ON3_COVERS__25_.png",
+      "excerpt": "The national Colorado five-for-five eligibility case was stayed. What's next? Plus: Kentucky added Mark Mitchell, LSU grabbed Donovan Dent, Xavier landed a 2027 four-star, Arizona/Michigan played overseas exhibitions, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-24T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a28",
       "title": "A true five-for-five",
       "url": "https://fieldof68.beehiiv.com/p/a-true-five-for-five",
