@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a32",
+      "title": "Back to school",
+      "url": "https://fieldof68.beehiiv.com/p/back-to-school-3959",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/45310df9-5d2f-4dea-98af-edec7072da26/ON3_COVERS__25_.png",
+      "excerpt": "RJ Luis won an injunction to become immediately eligible for LSU. Where does Will Wade's roster stand now? Plus: Michigan fell to 0-2 overseas, we graded Illinois' offseason, and more!",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-25T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a31",
       "title": "Colorado chaos",
       "url": "https://fieldof68.beehiiv.com/p/colorado-chaos",
