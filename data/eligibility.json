@@ -1076,7 +1076,7 @@
       "players_list": [
         {
           "name": "Cade Tyson",
-          "committedTo": "Minnesota",
+          "committedTo": null,
           "pos": "G",
           "seasons": [
             {
@@ -1321,7 +1321,7 @@
         },
         {
           "name": "Louie Jordan",
-          "committedTo": "Radford",
+          "committedTo": null,
           "pos": "G",
           "seasons": [
             {
@@ -1479,7 +1479,7 @@
         },
         {
           "name": "Isaiah Jones",
-          "committedTo": "South Florida",
+          "committedTo": null,
           "pos": "F",
           "seasons": [
             {
@@ -1582,7 +1582,7 @@
         },
         {
           "name": "Aidan Shaw",
-          "committedTo": "Boston College",
+          "committedTo": null,
           "pos": "C",
           "seasons": [
             {
@@ -1765,7 +1765,7 @@
         },
         {
           "name": "Chendall Weaver",
-          "committedTo": "Texas",
+          "committedTo": "Houston",
           "pos": "F",
           "seasons": [
             {
@@ -1939,7 +1939,7 @@
         },
         {
           "name": "Jason Edwards",
-          "committedTo": "Providence",
+          "committedTo": null,
           "pos": "G",
           "seasons": [
             {
@@ -2010,7 +2010,7 @@
         },
         {
           "name": "Zach Davis",
-          "committedTo": "Memphis",
+          "committedTo": null,
           "pos": "F",
           "seasons": [
             {
@@ -2097,7 +2097,7 @@
         },
         {
           "name": "Brody Robinson",
-          "committedTo": "Oakland",
+          "committedTo": "Creighton",
           "pos": "G",
           "seasons": [
             {
@@ -2255,7 +2255,7 @@
         },
         {
           "name": "Daniel Egbuniwe",
-          "committedTo": "St. Bonaventure",
+          "committedTo": null,
           "pos": "F",
           "seasons": [
             {
@@ -2342,7 +2342,7 @@
         },
         {
           "name": "Cameron Fens",
-          "committedTo": "South Dakota",
+          "committedTo": "North Carolina",
           "pos": "C",
           "seasons": [
             {
@@ -2492,8 +2492,8 @@
       "attorney": "Heitner",
       "players_list": [
         {
-          "name": "PJ Godfrey",
-          "committedTo": "Clemson",
+          "name": "RJ Godfrey",
+          "committedTo": "Arizona",
           "pos": "F",
           "seasons": [
             {
@@ -2722,7 +2722,7 @@
         },
         {
           "name": "Chauncey Wiggins",
-          "committedTo": "Florida State",
+          "committedTo": "Gonzaga",
           "pos": "G",
           "seasons": [
             {
@@ -2809,7 +2809,7 @@
         },
         {
           "name": "Kaleb Banks",
-          "committedTo": "DePaul",
+          "committedTo": null,
           "pos": "F",
           "seasons": [
             {
@@ -2896,7 +2896,7 @@
         },
         {
           "name": "Stephon Payne",
-          "committedTo": "Seton Hall",
+          "committedTo": null,
           "pos": "C",
           "seasons": [
             {
@@ -2983,7 +2983,7 @@
         },
         {
           "name": "Chas Kelley",
-          "committedTo": "Georgia Tech",
+          "committedTo": null,
           "pos": "G",
           "seasons": [
             {
@@ -3070,7 +3070,7 @@
         },
         {
           "name": "Devin Ree",
-          "committedTo": "Jackson State",
+          "committedTo": null,
           "pos": "G",
           "seasons": [
             {
@@ -3157,7 +3157,7 @@
         },
         {
           "name": "Devon Ellis",
-          "committedTo": "Norfolk State",
+          "committedTo": null,
           "pos": "F",
           "seasons": [
             {
@@ -3283,7 +3283,7 @@
         },
         {
           "name": "Perry Smith Jr.",
-          "committedTo": "Kennesaw State",
+          "committedTo": null,
           "pos": "C",
           "seasons": [
             {
@@ -3370,7 +3370,7 @@
         },
         {
           "name": "Jaquan Sanders",
-          "committedTo": "Florida A&M",
+          "committedTo": null,
           "pos": "G",
           "seasons": [
             {
@@ -3457,7 +3457,7 @@
         },
         {
           "name": "Rickey Ballard",
-          "committedTo": "Grambling State",
+          "committedTo": null,
           "pos": "F",
           "seasons": [
             {
@@ -3727,7 +3727,7 @@
         },
         {
           "name": "Skyy Clark",
-          "committedTo": null,
+          "committedTo": "LSU",
           "pos": "G",
           "seasons": [
             {
@@ -3869,7 +3869,7 @@
         },
         {
           "name": "Benny Gealer",
-          "committedTo": null,
+          "committedTo": "UIC",
           "pos": "G",
           "seasons": [
             {
@@ -4217,7 +4217,7 @@
         },
         {
           "name": "Parsa Fallah",
-          "committedTo": null,
+          "committedTo": "Oklahoma State",
           "pos": "C",
           "seasons": [
             {
@@ -4478,7 +4478,7 @@
         },
         {
           "name": "Langston Reynolds",
-          "committedTo": null,
+          "committedTo": "Northern Colorado",
           "pos": "F",
           "seasons": [
             {
@@ -4739,7 +4739,7 @@
         },
         {
           "name": "Jevon Porter",
-          "committedTo": null,
+          "committedTo": "LMU",
           "pos": "F",
           "seasons": [
             {
@@ -4826,7 +4826,7 @@
         },
         {
           "name": "Nick Townsend",
-          "committedTo": null,
+          "committedTo": ":Stanford",
           "pos": "C",
           "seasons": [
             {
@@ -5142,7 +5142,7 @@
         },
         {
           "name": "Braeden Carrington",
-          "committedTo": null,
+          "committedTo": "Wisconsin",
           "pos": "G",
           "seasons": [
             {
@@ -5316,7 +5316,7 @@
         },
         {
           "name": "Corey Stephenson",
-          "committedTo": null,
+          "committedTo": "Ole Miss",
           "pos": "F",
           "seasons": [
             {
