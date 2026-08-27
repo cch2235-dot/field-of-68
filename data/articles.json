@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "a34",
+      "title": "Lee way",
+      "url": "https://fieldof68.beehiiv.com/p/lee-way",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/1ee5b7c1-e506-4ebd-9048-4214a171eca6/ON3_COVERS__25_.png",
+      "excerpt": "Gonzaga landed Xaivian Lee to fill its point guard need. Plus: another five-for-five case was stayed, more leagues pushed back against pros returning to college, the leader for Cayden Daughtry, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-27T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a33",
+      "title": "Conference crackdown",
+      "url": "https://fieldof68.beehiiv.com/p/conference-crackdown",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/fc4c1167-fe59-4be5-80d0-617d6f62d1f0/ON3_COVERS__25_.png",
+      "excerpt": "The SEC and Big Ten created their own fifth-year, former professional eligibility rules. Plus: Keyshawn Hall landed at St. John's, Butler grabbed its highest-rated recruit ever, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a32",
       "title": "Back to school",
       "url": "https://fieldof68.beehiiv.com/p/back-to-school-3959",
