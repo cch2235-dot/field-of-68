@@ -9,40 +9,40 @@
       "weight": 155,
       "school": "Calvary Christian Academy",
       "location": "Fort Lauderdale, FL",
-      "warm": [
-        "Iowa",
-        "Florida State",
-        "Miami",
-        "Michigan",
-        "Arizona State"
-      ],
-      "others": [
+      "offers": [
+        "Arizona State",
         "BYU",
         "Cincinnati",
+        "Dayton",
         "Florida",
+        "Florida Atlantic",
+        "Florida State",
         "Georgia",
         "Illinois",
+        "Iowa",
         "Kentucky",
         "LSU",
         "Louisville",
+        "Miami",
+        "Michigan",
         "Mississippi State",
         "Ohio State",
         "Ole Miss",
         "Penn State",
         "Pittsburgh",
+        "Providence",
         "Rutgers",
+        "Sacramento State",
+        "South Florida",
         "Texas",
         "Texas A&M",
-        "Virginia",
-        "West Virginia",
-        "South Florida",
-        "Florida Atlantic",
-        "Dayton",
-        "Providence",
         "UConn",
         "Villanova",
-        "Sacramento State"
-      ]
+        "Virginia",
+        "West Virginia"
+      ],
+      "aau": "Florida Rebels",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/five-star-2027-prospect-cayden-daughtry-updates-recruitment-amid-generational-peach-jam-run"
     },
     {
       "rank": 2,
@@ -53,38 +53,38 @@
       "weight": 190,
       "school": "Compass Prep",
       "location": "Chandler, AZ",
-      "warm": [
-        "BYU",
-        "Arkansas",
-        "Kansas",
-        "Kentucky",
-        "Louisville",
-        "North Carolina",
-        "Ohio State",
-        "UConn"
-      ],
-      "others": [
+      "offers": [
         "Alabama",
         "Arizona State",
+        "Arkansas",
+        "BYU",
         "Cincinnati",
+        "Gonzaga",
+        "Grand Canyon",
         "Illinois",
+        "Kansas",
+        "Kentucky",
         "LSU",
+        "Louisville",
         "Mississippi State",
+        "North Carolina",
+        "Ohio State",
         "Oklahoma State",
         "Oregon",
         "Stanford",
         "Tennessee",
         "Texas A&M",
+        "UConn",
+        "UNLV",
         "USC",
         "Vanderbilt",
         "Virginia",
         "Washington",
         "West Virginia",
-        "Gonzaga",
-        "Grand Canyon",
-        "UNLV",
         "Xavier"
-      ]
+      ],
+      "aau": "Vegas Elite",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/class-of-2027-five-star-wing-demarcus-henry-breaks-down-top-eight-schools"
     },
     {
       "rank": 3,
@@ -95,11 +95,6 @@
       "weight": 180,
       "school": "Southeastern Prep",
       "location": "Orlando, FL",
-      "warm": [
-        "Georgetown",
-        "Texas",
-        "Arkansas"
-      ],
       "visits": [
         {
           "school": "Georgetown",
@@ -110,11 +105,15 @@
           "date": "Sept. 9"
         }
       ],
-      "others": [
+      "offers": [
+        "Arkansas",
         "Auburn",
         "California",
         "Cincinnati",
+        "Creighton",
         "Duke",
+        "Florida A&M",
+        "Georgetown",
         "Kansas",
         "Kentucky",
         "Miami",
@@ -123,16 +122,17 @@
         "North Carolina",
         "Oklahoma",
         "Oklahoma State",
+        "SMU",
         "TCU",
+        "Texas",
         "Texas A&M",
         "Texas Tech",
         "USC",
-        "Virginia",
-        "SMU",
-        "Creighton",
         "Villanova",
-        "Florida A&M"
-      ]
+        "Virginia"
+      ],
+      "aau": "AB Elite",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/no-1-2027-prospect-beckham-black-sets-first-two-visits-breaks-down-recruitment"
     },
     {
       "rank": 4,
@@ -143,8 +143,7 @@
       "weight": 225,
       "school": "Prolific Prep",
       "location": "Fort Lauderdale, FL",
-      "warm": [],
-      "others": [
+      "offers": [
         "Alabama",
         "Arkansas",
         "BYU",
@@ -167,15 +166,17 @@
         "Ohio State",
         "Oklahoma",
         "Ole Miss",
+        "Providence",
+        "Seton Hall",
         "Syracuse",
         "Texas",
         "Texas A&M",
         "UCLA",
-        "USC",
-        "Providence",
-        "Seton Hall",
-        "UMBC"
-      ]
+        "UMBC",
+        "USC"
+      ],
+      "aau": "Nightrydas",
+      "articleUrl": null
     },
     {
       "rank": 5,
@@ -186,13 +187,13 @@
       "weight": 180,
       "school": "Millennium",
       "location": "Goodyear, AZ",
-      "warm": [],
-      "others": [
+      "offers": [
         "Alabama",
         "Arizona",
         "Arizona State",
         "BYU",
         "California",
+        "Creighton",
         "Duke",
         "Houston",
         "Kansas",
@@ -201,21 +202,22 @@
         "Maryland",
         "North Carolina",
         "Oregon",
+        "Providence",
         "Stanford",
         "Texas",
         "Texas A&M",
         "UCLA",
-        "USC",
-        "Utah",
-        "Virginia",
-        "Washington",
-        "West Virginia",
         "UMass",
         "UNLV",
-        "Creighton",
-        "Providence",
-        "Villanova"
-      ]
+        "USC",
+        "Utah",
+        "Villanova",
+        "Virginia",
+        "Washington",
+        "West Virginia"
+      ],
+      "aau": "Vegas Elite",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/top-five-2027-prospect-adan-diggs-updates-recruitment"
     },
     {
       "rank": 6,
@@ -226,13 +228,6 @@
       "weight": 175,
       "school": "Houston Second Baptist",
       "location": "Houston, TX",
-      "warm": [
-        "Louisville",
-        "Wichita State",
-        "Kentucky",
-        "LSU",
-        "Tennessee"
-      ],
       "visits": [
         {
           "school": "Louisville",
@@ -247,38 +242,45 @@
           "date": "Jan. 24"
         }
       ],
-      "others": [
+      "offers": [
         "Arizona State",
         "Florida State",
         "Houston",
         "Illinois",
         "Kansas",
+        "Kentucky",
+        "LSU",
+        "Louisville",
+        "Manhattan",
         "Maryland",
         "NC State",
+        "Nevada",
+        "Nicholls",
+        "Norfolk State",
         "Ole Miss",
         "Pittsburgh",
+        "Rhode Island",
+        "SMU",
+        "Sam Houston",
+        "Seton Hall",
         "Stanford",
         "TCU",
+        "Tennessee",
         "Texas",
         "Texas A&M",
         "Texas Tech",
         "UCF",
         "USC",
+        "UT Arlington",
+        "UTSA",
         "Vanderbilt",
+        "Villanova",
         "Virginia",
         "Washington",
-        "SMU",
-        "UTSA",
-        "Nevada",
-        "Sam Houston",
-        "UT Arlington",
-        "Nicholls",
-        "Norfolk State",
-        "Manhattan",
-        "Rhode Island",
-        "Seton Hall",
-        "Villanova"
-      ]
+        "Wichita State"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 7,
@@ -289,13 +291,14 @@
       "weight": 239,
       "school": "Ruston",
       "location": "Ruston, LA",
-      "warm": [],
-      "others": [
+      "offers": [
+        "Grambling State",
         "LSU",
-        "Miami",
         "Louisiana Tech",
-        "Grambling State"
-      ]
+        "Miami"
+      ],
+      "aau": "JL3 Elite",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/a-new-school-has-emerged-for-five-star-multi-sport-athlete-ahmad-hudson"
     },
     {
       "rank": 8,
@@ -306,14 +309,6 @@
       "weight": 245,
       "school": "Sunnyslope",
       "location": "Phoenix, AZ",
-      "warm": [
-        "Arizona",
-        "Indiana",
-        "Louisville",
-        "Texas",
-        "North Carolina",
-        "Kentucky"
-      ],
       "visits": [
         {
           "school": "Arizona",
@@ -340,24 +335,32 @@
           "date": "Oct. 24"
         }
       ],
-      "others": [
+      "offers": [
         "Alabama",
+        "Arizona",
         "Arizona State",
         "Baylor",
+        "Cal State Northridge",
         "California",
+        "Indiana",
+        "Kentucky",
         "LSU",
+        "Louisville",
         "Maryland",
+        "North Carolina",
         "Oregon",
+        "Providence",
         "Purdue",
+        "Sacramento State",
         "Stanford",
+        "Texas",
         "Texas A&M",
         "Texas Tech",
         "USC",
-        "Sacramento State",
-        "Cal State Northridge",
-        "Providence",
         "Villanova"
-      ]
+      ],
+      "aau": "Compton",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/five-star-big-man-darius-wabbington-evaluates-summer-breaks-down-top-six"
     },
     {
       "rank": 9,
@@ -368,11 +371,7 @@
       "weight": 195,
       "school": "Southeastern Prep",
       "location": "Orlando, FL",
-      "warm": [
-        "Kentucky",
-        "North Carolina"
-      ],
-      "others": [
+      "offers": [
         "Alabama",
         "Arkansas",
         "Auburn",
@@ -380,24 +379,28 @@
         "Cincinnati",
         "Florida State",
         "Georgia Tech",
+        "High Point",
         "Kansas",
+        "Kentucky",
         "Louisville",
         "Maryland",
         "Miami",
         "Michigan",
         "Mississippi State",
         "NC State",
+        "North Carolina",
+        "Presbyterian",
         "Syracuse",
         "TCU",
         "Texas A&M",
         "UCF",
         "USC",
+        "Villanova",
         "Virginia Tech",
-        "Wake Forest",
-        "High Point",
-        "Presbyterian",
-        "Villanova"
-      ]
+        "Wake Forest"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 10,
@@ -408,36 +411,36 @@
       "weight": 180,
       "school": "Notre Dame",
       "location": "Sherman Oaks, CA",
-      "warm": [
-        "Arizona",
-        "Illinois",
-        "Texas",
-        "UConn"
-      ],
-      "others": [
+      "offers": [
         "Alabama",
+        "Arizona",
         "Arkansas",
         "Baylor",
         "California",
+        "Illinois",
         "Indiana",
         "Kansas",
         "Kentucky",
         "Maryland",
         "Miami",
+        "New Mexico",
         "North Carolina",
         "Penn State",
+        "Saint Louis",
         "Stanford",
         "TCU",
         "Tennessee",
+        "Texas",
         "UCLA",
-        "USC",
-        "Washington",
-        "UTSA",
-        "New Mexico",
+        "UConn",
         "UNLV",
-        "Saint Louis",
-        "Villanova"
-      ]
+        "USC",
+        "UTSA",
+        "Villanova",
+        "Washington"
+      ],
+      "aau": "Team WhyNot",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/five-star-point-guard-navorro-bowman-jr-names-five-schools-he-ll-visit-in-the-fall"
     },
     {
       "rank": 11,
@@ -448,28 +451,29 @@
       "weight": 180,
       "school": "Long Island Lutheran",
       "location": "Glen Head, NY",
-      "warm": [],
-      "others": [
+      "offers": [
         "Alabama",
         "BYU",
         "Cincinnati",
+        "Fordham",
         "Illinois",
         "Kentucky",
         "Louisville",
+        "Marist",
         "NC State",
+        "NJIT",
         "Oklahoma State",
         "Penn State",
-        "Syracuse",
-        "Virginia",
-        "NJIT",
-        "Sacred Heart",
-        "Fordham",
-        "Marist",
         "Providence",
         "Rhode Island",
+        "Sacred Heart",
+        "Syracuse",
         "UConn",
+        "Virginia",
         "Youngstown State"
-      ]
+      ],
+      "aau": "PSA Cardinals",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/five-star-2027-prospect-moussa-kamissoko-discusses-recruitment-psa-summer"
     },
     {
       "rank": 12,
@@ -480,18 +484,18 @@
       "weight": 220,
       "school": "Bella Vista Prep",
       "location": "Scottsdale, AZ",
-      "warm": [
-        "West Virginia"
-      ],
-      "others": [
+      "offers": [
+        "Arizona State",
         "Arkansas",
         "BYU",
+        "Cal State Northridge",
         "Cincinnati",
         "Georgia Tech",
         "Houston",
         "Illinois",
         "Indiana",
         "Kansas",
+        "Kansas State",
         "Kentucky",
         "Mississippi State",
         "North Carolina",
@@ -505,10 +509,10 @@
         "Utah",
         "Virginia",
         "Washington",
-        "Cal State Northridge",
-        "Arizona State",
-        "Kansas State"
-      ]
+        "West Virginia"
+      ],
+      "aau": "Arizona Unity",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/five-star-big-man-paul-osaruyi-names-three-fall-visits-talks-recruitment-timelines"
     },
     {
       "rank": 13,
@@ -519,14 +523,11 @@
       "weight": 180,
       "school": "IMG Academy",
       "location": "Bradenton, FL",
-      "warm": [
-        "NC State",
-        "North Carolina"
-      ],
-      "others": [
+      "offers": [
         "Baylor",
         "California",
         "Florida State",
+        "Georgetown",
         "Georgia Tech",
         "Houston",
         "Indiana",
@@ -535,18 +536,21 @@
         "Miami",
         "Michigan",
         "Minnesota",
+        "NC State",
+        "North Carolina",
         "Oklahoma State",
+        "Providence",
+        "Seton Hall",
         "South Carolina",
         "Tennessee",
         "Texas A&M",
         "Texas Tech",
         "UCLA",
-        "Virginia",
-        "Georgetown",
-        "Providence",
-        "Seton Hall",
-        "UConn"
-      ]
+        "UConn",
+        "Virginia"
+      ],
+      "aau": "Garner Road",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/top-10-2027-prospect-jordan-page-updates-recruitment-chats-summer"
     },
     {
       "rank": 14,
@@ -557,33 +561,33 @@
       "weight": 195,
       "school": "Hillgrove",
       "location": "Powder Springs, GA",
-      "warm": [
-        "Auburn",
-        "Georgia"
-      ],
-      "others": [
+      "offers": [
         "Alabama",
         "Arizona",
+        "Auburn",
         "Florida",
         "Florida State",
+        "Georgia",
+        "Georgia State",
         "Georgia Tech",
         "Houston",
+        "Kennesaw State",
         "LSU",
         "Louisville",
         "Maryland",
         "Michigan State",
         "North Carolina",
         "Ole Miss",
+        "Providence",
         "Rutgers",
+        "Seton Hall",
         "Texas A&M",
         "Texas Tech",
-        "Georgia State",
-        "Kennesaw State",
-        "Providence",
-        "Seton Hall",
         "UConn",
         "Xavier"
-      ]
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 15,
@@ -594,40 +598,41 @@
       "weight": 165,
       "school": "Bremerton",
       "location": "Bremerton, WA",
-      "warm": [],
-      "others": [
+      "offers": [
         "Alabama",
         "BYU",
         "California",
+        "Gonzaga",
         "Houston",
         "Iowa",
         "Kansas",
+        "Loyola Marymount",
         "Mississippi State",
+        "Montana",
+        "New Mexico",
         "Oklahoma",
         "Ole Miss",
         "Oregon",
+        "Oregon State",
+        "SMU",
+        "San Diego State",
+        "San Francisco",
+        "Seattle",
         "Stanford",
         "TCU",
         "Texas Tech",
         "UCLA",
+        "UNLV",
         "USC",
         "Vanderbilt",
         "Washington",
-        "West Virginia",
-        "SMU",
-        "Gonzaga",
-        "Oregon State",
         "Washington State",
-        "New Mexico",
-        "San Diego State",
-        "UNLV",
-        "Montana",
-        "Seattle",
         "Weber State",
-        "Loyola Marymount",
-        "San Francisco",
+        "West Virginia",
         "Xavier"
-      ]
+      ],
+      "aau": "Slow Grind Elite",
+      "articleUrl": null
     },
     {
       "rank": 16,
@@ -640,8 +645,9 @@
       "location": "Milwaukee, WI",
       "committed": "Gonzaga",
       "commitDate": "Oct. 29, 2025",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Team Herro",
+      "articleUrl": null
     },
     {
       "rank": 17,
@@ -652,44 +658,45 @@
       "weight": 185,
       "school": "SPIRE Academy",
       "location": "Geneva, OH",
-      "warm": [],
-      "others": [
+      "offers": [
         "Alabama",
         "Arkansas",
         "Auburn",
+        "Cal State Bakersfield",
+        "Charlotte",
         "Cincinnati",
+        "College of Charleston",
         "Florida State",
+        "Georgetown",
         "Georgia",
+        "High Point",
         "Houston",
+        "Howard",
         "Indiana",
         "Kentucky",
         "LSU",
         "Michigan",
         "Mississippi State",
         "Missouri",
+        "Morehead State",
         "NC State",
+        "New Orleans",
         "North Carolina",
+        "North Carolina A&T",
         "Notre Dame",
         "Penn State",
+        "Providence",
+        "Seton Hall",
         "South Carolina",
         "Syracuse",
         "Texas A&M",
+        "UConn",
         "Virginia Tech",
         "Wake Forest",
-        "West Virginia",
-        "Charlotte",
-        "Cal State Bakersfield",
-        "College of Charleston",
-        "High Point",
-        "Howard",
-        "Morehead State",
-        "New Orleans",
-        "North Carolina A&T",
-        "Georgetown",
-        "Providence",
-        "Seton Hall",
-        "UConn"
-      ]
+        "West Virginia"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 18,
@@ -700,23 +707,24 @@
       "weight": 205,
       "school": "Prolific Prep",
       "location": "Fort Lauderdale, FL",
-      "warm": [
-        "Auburn",
-        "Georgia"
-      ],
-      "others": [
+      "offers": [
         "Alabama",
+        "Auburn",
         "Baylor",
         "California",
         "Cincinnati",
         "Florida",
+        "Georgia",
+        "Georgia State",
         "Georgia Tech",
         "Houston",
         "Illinois",
         "Indiana",
+        "Jacksonville",
         "Kansas",
         "Kentucky",
         "LSU",
+        "Louisiana",
         "Louisville",
         "Maryland",
         "Mississippi State",
@@ -725,18 +733,17 @@
         "North Carolina",
         "Ole Miss",
         "Oregon",
+        "Providence",
+        "Seton Hall",
+        "South Florida",
         "Syracuse",
         "UCLA",
         "USC",
         "Virginia",
-        "Virginia Tech",
-        "Georgia State",
-        "South Florida",
-        "Louisiana",
-        "Jacksonville",
-        "Providence",
-        "Seton Hall"
-      ]
+        "Virginia Tech"
+      ],
+      "aau": "Atlanta Celtics",
+      "articleUrl": null
     },
     {
       "rank": 19,
@@ -749,8 +756,9 @@
       "location": "Atlanta, GA",
       "committed": "Kansas",
       "commitDate": "Oct. 3, 2025",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 20,
@@ -761,11 +769,6 @@
       "weight": 165,
       "school": "The Master's Academy International",
       "location": "Hanover, MA",
-      "warm": [
-        "Utah",
-        "Marquette",
-        "Boston College"
-      ],
       "visits": [
         {
           "school": "Utah",
@@ -776,12 +779,17 @@
           "date": "Dec. 29"
         }
       ],
-      "others": [
+      "offers": [
+        "Albany",
         "Auburn",
+        "Boston College",
+        "Bryant",
         "Florida State",
+        "Georgetown",
         "Georgia Tech",
         "Iowa",
         "Kansas",
+        "Marquette",
         "Maryland",
         "Michigan",
         "Michigan State",
@@ -793,12 +801,12 @@
         "South Carolina",
         "Tennessee",
         "UCLA",
+        "Utah",
         "Washington",
-        "Albany",
-        "Bryant",
-        "Georgetown",
         "Xavier"
-      ]
+      ],
+      "aau": "Mass Rivals",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/class-of-2027-five-star-guard-antonio-pemberton-talks-summer-rise-recruitment"
     },
     {
       "rank": 21,
@@ -809,37 +817,37 @@
       "weight": 170,
       "school": "McEachern",
       "location": "Powder Springs, GA",
-      "warm": [
+      "offers": [
         "Alabama",
-        "Kentucky",
-        "Louisville"
-      ],
-      "others": [
         "Arizona State",
         "Auburn",
         "California",
         "Cincinnati",
+        "East Carolina",
         "Florida State",
         "Georgia",
+        "Georgia State",
         "Georgia Tech",
         "Indiana",
         "Iowa",
+        "Kentucky",
+        "Louisville",
         "Maryland",
         "Miami",
         "Michigan",
         "Ole Miss",
         "Oregon",
+        "Providence",
         "Rutgers",
+        "SMU",
+        "San Diego",
         "Tennessee",
         "UCLA",
         "USC",
-        "Utah",
-        "SMU",
-        "East Carolina",
-        "Georgia State",
-        "Providence",
-        "San Diego"
-      ]
+        "Utah"
+      ],
+      "aau": "Jet Academy",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-guard-chase-lumpkin-dishes-on-recruitment-summer"
     },
     {
       "rank": 22,
@@ -852,8 +860,9 @@
       "location": "Kaukauna, WI",
       "committed": "Iowa State",
       "commitDate": "May 6, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Team Herro",
+      "articleUrl": null
     },
     {
       "rank": 23,
@@ -866,8 +875,9 @@
       "location": "Milwaukee, WI",
       "committed": "Duke",
       "commitDate": "Jun. 29, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Team Herro",
+      "articleUrl": null
     },
     {
       "rank": 24,
@@ -878,14 +888,6 @@
       "weight": 225,
       "school": "Prolific Prep",
       "location": "Fort Lauderdale, FL",
-      "warm": [
-        "USC",
-        "Vanderbilt",
-        "Tennessee",
-        "Alabama",
-        "Kansas",
-        "Missouri"
-      ],
       "visits": [
         {
           "school": "USC",
@@ -904,23 +906,31 @@
           "date": "Oct. 9"
         }
       ],
-      "others": [
+      "offers": [
+        "Alabama",
+        "Alabama A&M",
         "Arizona State",
         "Auburn",
         "BYU",
         "Baylor",
         "Indiana",
-        "Miami",
-        "Ohio State",
-        "Texas Tech",
-        "Washington",
-        "West Virginia",
-        "Memphis",
+        "Kansas",
         "Louisiana",
+        "Memphis",
+        "Miami",
+        "Missouri",
+        "Ohio State",
+        "Tennessee",
+        "Tennessee State",
+        "Texas Tech",
         "UConn",
-        "Alabama A&M",
-        "Tennessee State"
-      ]
+        "USC",
+        "Vanderbilt",
+        "Washington",
+        "West Virginia"
+      ],
+      "aau": "Arizona Unity",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/five-star-malachi-jordan-breaks-down-recruitment-will-move-aau-teams"
     },
     {
       "rank": 25,
@@ -931,8 +941,7 @@
       "weight": 210,
       "school": "St. Francis",
       "location": "La Canada Flintridge, CA",
-      "warm": [],
-      "others": [
+      "offers": [
         "Alabama",
         "Arizona",
         "BYU",
@@ -943,7 +952,9 @@
         "TCU",
         "USC",
         "Vanderbilt"
-      ]
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 26,
@@ -954,9 +965,6 @@
       "weight": 190,
       "school": "Bella Vista Prep",
       "location": "Scottsdale, AZ",
-      "warm": [
-        "Ole Miss"
-      ],
       "visits": [
         {
           "school": "Ole Miss",
@@ -975,7 +983,7 @@
           "date": "Sept. 6"
         }
       ],
-      "others": [
+      "offers": [
         "Alabama",
         "Arizona State",
         "BYU",
@@ -984,22 +992,25 @@
         "Georgia Tech",
         "Indiana",
         "Kansas",
+        "Marquette",
         "Miami",
         "Minnesota",
         "Mississippi State",
+        "Ole Miss",
         "Penn State",
+        "Providence",
         "Rutgers",
-        "Texas",
-        "Wake Forest",
-        "West Virginia",
         "SMU",
         "San Diego State",
+        "Texas",
         "UNLV",
         "Utah State",
-        "Marquette",
-        "Providence",
+        "Wake Forest",
+        "West Virginia",
         "Xavier"
-      ]
+      ],
+      "aau": "Power 5",
+      "articleUrl": null
     },
     {
       "rank": 27,
@@ -1010,12 +1021,6 @@
       "weight": 210,
       "school": "St. Mark's",
       "location": "Dallas, TX",
-      "warm": [
-        "Stanford",
-        "Nebraska",
-        "Virginia",
-        "SMU"
-      ],
       "visits": [
         {
           "school": "Stanford",
@@ -1026,7 +1031,7 @@
           "date": "Oct. 9"
         }
       ],
-      "others": [
+      "offers": [
         "Auburn",
         "California",
         "Houston",
@@ -1034,16 +1039,22 @@
         "LSU",
         "Maryland",
         "Missouri",
+        "Nebraska",
         "Oklahoma State",
         "Ole Miss",
+        "Portland",
+        "SMU",
+        "Stanford",
         "TCU",
+        "Temple",
         "Texas",
         "Texas A&M",
         "Texas Tech",
-        "Temple",
-        "Wichita State",
-        "Portland"
-      ]
+        "Virginia",
+        "Wichita State"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 28,
@@ -1056,8 +1067,9 @@
       "location": "Kansas City, KS",
       "committed": "Illinois",
       "commitDate": "Nov. 27, 2025",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Meanstreets",
+      "articleUrl": null
     },
     {
       "rank": 29,
@@ -1068,26 +1080,27 @@
       "weight": 190,
       "school": "Forsyth Country Day School",
       "location": "Lewisville, NC",
-      "warm": [],
-      "others": [
+      "offers": [
+        "Ball State",
+        "Charlotte",
+        "Coastal Carolina",
         "Georgia Tech",
         "Houston",
         "Illinois",
         "Michigan State",
-        "Tennessee",
-        "Texas A&M",
-        "USC",
-        "Virginia Tech",
-        "Wake Forest",
-        "Ball State",
-        "Charlotte",
-        "Coastal Carolina",
         "Ohio",
         "Presbyterian",
-        "UNC Greensboro",
         "Providence",
-        "UConn"
-      ]
+        "Tennessee",
+        "Texas A&M",
+        "UConn",
+        "UNC Greensboro",
+        "USC",
+        "Virginia Tech",
+        "Wake Forest"
+      ],
+      "aau": "Team CP3",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/class-of-2027-wing-jayon-connor-shines-at-peach-jam-updates-recruitment"
     },
     {
       "rank": 30,
@@ -1100,8 +1113,9 @@
       "location": "Daytona Beach, FL",
       "committed": "Kentucky",
       "commitDate": "Jun. 7, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Nightrydas",
+      "articleUrl": null
     },
     {
       "rank": 31,
@@ -1112,33 +1126,33 @@
       "weight": 175,
       "school": "Woodward Academy",
       "location": "Atlanta, GA",
-      "warm": [
-        "Georgia",
-        "Florida State",
-        "Clemson",
-        "Vanderbilt"
-      ],
       "visits": [
         {
           "school": "Florida State",
           "date": "Aug. 27"
         }
       ],
-      "others": [
+      "offers": [
         "Auburn",
         "Cincinnati",
+        "Clemson",
+        "Florida State",
+        "Georgia",
+        "Georgia State",
         "Georgia Tech",
         "Miami",
         "Missouri",
+        "Morehead State",
         "Ole Miss",
         "Oregon",
-        "Wake Forest",
-        "Georgia State",
-        "Tulane",
-        "Morehead State",
         "South Carolina State",
+        "Tulane",
+        "Vanderbilt",
+        "Wake Forest",
         "Xavier"
-      ]
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 32,
@@ -1149,36 +1163,37 @@
       "weight": 200,
       "school": "Fort Erie International Academy",
       "location": "Fort Erie, ON",
-      "warm": [],
       "visits": [
         {
           "school": "St. Bonaventure",
           "date": "Nov. 16"
         }
       ],
-      "others": [
+      "offers": [
         "Auburn",
-        "Florida State",
-        "Georgia Tech",
-        "Ohio State",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "East Carolina",
         "Ball State",
-        "Colorado State",
-        "Grand Canyon",
-        "New Mexico",
-        "UNLV",
-        "UT Arlington",
-        "LIU",
         "Butler",
+        "Colorado State",
+        "East Carolina",
+        "Florida State",
         "George Mason",
         "George Washington",
+        "Georgia Tech",
+        "Grand Canyon",
+        "LIU",
         "Marquette",
+        "New Mexico",
+        "Ohio State",
         "Saint Joseph's",
-        "San Diego"
-      ]
+        "San Diego",
+        "UNLV",
+        "UT Arlington",
+        "Virginia",
+        "Washington",
+        "West Virginia"
+      ],
+      "aau": null,
+      "articleUrl": "https://fieldof68.beehiiv.com/p/canadian-prospect-deng-ngor-talks-fiba-gold-medal-recruitment"
     },
     {
       "rank": 33,
@@ -1189,7 +1204,6 @@
       "weight": 165,
       "school": "Monarch Academy",
       "location": "Kansas City, KS",
-      "warm": [],
       "visits": [
         {
           "school": "Iowa",
@@ -1200,21 +1214,23 @@
           "date": "Oct. 1"
         }
       ],
-      "others": [
+      "offers": [
         "Arizona State",
+        "DePaul",
+        "Eastern Illinois",
         "Illinois",
         "Indiana",
         "Kentucky",
+        "Marquette",
         "Michigan",
         "Minnesota",
         "Missouri",
-        "Purdue",
         "Northwestern",
-        "Eastern Illinois",
-        "Western Illinois",
-        "DePaul",
-        "Marquette"
-      ]
+        "Purdue",
+        "Western Illinois"
+      ],
+      "aau": "Meanstreets",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-2027-point-guard-jaxson-davis-chats-top-six-schools"
     },
     {
       "rank": 34,
@@ -1227,8 +1243,9 @@
       "location": "St. Louis, MO",
       "committed": "Missouri",
       "commitDate": "Jul. 1, 2025",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Mokan",
+      "articleUrl": null
     },
     {
       "rank": 35,
@@ -1241,8 +1258,9 @@
       "location": "Indianapolis, IN",
       "committed": "Purdue",
       "commitDate": "May 15, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Indy Heat",
+      "articleUrl": null
     },
     {
       "rank": 36,
@@ -1255,8 +1273,9 @@
       "location": "Shreveport, LA",
       "committed": "Baylor",
       "commitDate": "Jul. 25, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "JL3 Elite",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-point-guard-tyrone-jamison-dives-into-recruitment-summer-with-jl3-elite"
     },
     {
       "rank": 37,
@@ -1267,12 +1286,6 @@
       "weight": 180,
       "school": "Bartlett",
       "location": "Bartlett, TN",
-      "warm": [
-        "Memphis",
-        "Texas A&M",
-        "Ole Miss",
-        "Providence"
-      ],
       "visits": [
         {
           "school": "Memphis",
@@ -1291,27 +1304,33 @@
           "date": "Sept. 25"
         }
       ],
-      "others": [
+      "offers": [
         "Alabama",
-        "Mississippi State",
-        "Oklahoma State",
-        "Tennessee",
-        "UCF",
+        "Alabama A&M",
         "Arkansas State",
+        "Georgetown",
+        "Jacksonville",
+        "La Salle",
         "Louisiana-Monroe",
+        "Memphis",
         "Middle Tennessee",
+        "Mississippi State",
         "New Mexico",
         "New Mexico State",
+        "Oklahoma State",
+        "Ole Miss",
+        "Providence",
         "Sam Houston",
-        "UAB",
-        "Alabama A&M",
-        "Jacksonville",
         "Southern Illinois",
+        "Tennessee",
         "Tennessee State",
-        "UT Martin",
-        "Georgetown",
-        "La Salle"
-      ]
+        "Texas A&M",
+        "UAB",
+        "UCF",
+        "UT Martin"
+      ],
+      "aau": "Team Thad",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-2027-wing-dylan-jones-schedules-four-fall-visits-chats-summer"
     },
     {
       "rank": 38,
@@ -1322,35 +1341,36 @@
       "weight": 180,
       "school": "SPIRE Academy",
       "location": "Geneva, OH",
-      "warm": [],
-      "others": [
+      "offers": [
+        "Arizona State",
         "Auburn",
+        "Binghamton",
+        "Creighton",
+        "Georgetown",
+        "Hampton",
+        "High Point",
+        "La Salle",
+        "Marquette",
         "Maryland",
         "Mississippi State",
+        "NC State",
+        "Northwestern",
         "Oklahoma State",
+        "Providence",
+        "Quinnipiac",
         "Rutgers",
+        "Seton Hall",
+        "South Florida",
         "TCU",
         "Tennessee",
         "UCLA",
-        "West Virginia",
-        "Northwestern",
-        "South Florida",
-        "Binghamton",
-        "Hampton",
-        "High Point",
-        "Creighton",
-        "Georgetown",
-        "La Salle",
-        "Marquette",
-        "Providence",
-        "Quinnipiac",
-        "Seton Hall",
         "UConn",
         "VCU",
         "Villanova",
-        "Arizona State",
-        "NC State"
-      ]
+        "West Virginia"
+      ],
+      "aau": "PSA Cardinals",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-point-guard-micah-gordon-sets-two-visits-chats-overall-recruitment"
     },
     {
       "rank": 39,
@@ -1363,8 +1383,9 @@
       "location": "Marietta, GA",
       "committed": "Purdue",
       "commitDate": "Jul. 5, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 40,
@@ -1377,8 +1398,9 @@
       "location": "La Porte, IN",
       "committed": "Indiana",
       "commitDate": "Sept. 20, 2025",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 41,
@@ -1389,15 +1411,6 @@
       "weight": 210,
       "school": "Seven Lakes",
       "location": "Katy, TX",
-      "warm": [
-        "Butler",
-        "Colorado",
-        "Minnesota",
-        "Texas Tech",
-        "Houston",
-        "Illinois",
-        "Vanderbilt"
-      ],
       "visits": [
         {
           "school": "Butler",
@@ -1416,19 +1429,28 @@
           "date": "Jul. 24"
         }
       ],
-      "others": [
+      "offers": [
+        "Butler",
+        "Colorado",
+        "Houston",
+        "Illinois",
+        "Minnesota",
         "Mississippi State",
-        "UCF",
-        "Virginia Tech",
-        "UTSA",
         "Ohio",
         "Sam Houston",
-        "Texas State",
-        "UTEP",
-        "Utah State",
         "Stephen F. Austin",
-        "UC San Diego"
-      ]
+        "Texas State",
+        "Texas Tech",
+        "UC San Diego",
+        "UCF",
+        "UTEP",
+        "UTSA",
+        "Utah State",
+        "Vanderbilt",
+        "Virginia Tech"
+      ],
+      "aau": "AB Elite",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-isaiah-santos-schedules-multiple-officials-breaks-down-summer"
     },
     {
       "rank": 42,
@@ -1439,18 +1461,19 @@
       "weight": 155,
       "school": "Montverde Academy",
       "location": "Montverde, FL",
-      "warm": [],
-      "others": [
-        "West Virginia",
-        "East Carolina",
+      "offers": [
         "Bowling Green",
+        "East Carolina",
         "Ohio",
-        "UNLV",
-        "Stephen F. Austin",
         "Providence",
         "Richmond",
-        "St. Bonaventure"
-      ]
+        "St. Bonaventure",
+        "Stephen F. Austin",
+        "UNLV",
+        "West Virginia"
+      ],
+      "aau": "UPlay",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/fiba-mvp-javion-tyndale-breaks-down-standout-summer-recruitment"
     },
     {
       "rank": 43,
@@ -1461,22 +1484,22 @@
       "weight": 165,
       "school": "La Lumiere School",
       "location": "La Porte, IN",
-      "warm": [
-        "Arkansas",
-        "Michigan",
-        "Marquette"
-      ],
-      "others": [
+      "offers": [
         "Arizona State",
-        "Illinois",
-        "Missouri",
-        "Syracuse",
-        "Northern Illinois",
+        "Arkansas",
+        "DePaul",
         "Hampton",
+        "Illinois",
         "Illinois State",
-        "Western Illinois",
-        "DePaul"
-      ]
+        "Marquette",
+        "Michigan",
+        "Missouri",
+        "Northern Illinois",
+        "Syracuse",
+        "Western Illinois"
+      ],
+      "aau": "Brad Beal Elite",
+      "articleUrl": null
     },
     {
       "rank": 44,
@@ -1487,18 +1510,19 @@
       "weight": 205,
       "school": "Southeastern Prep",
       "location": "Orlando, FL",
-      "warm": [],
-      "others": [
+      "offers": [
+        "Cal State Bakersfield",
         "Cincinnati",
+        "Georgetown",
+        "Grambling State",
         "Mississippi State",
         "Oklahoma",
-        "TCU",
-        "USC",
         "SMU",
-        "Georgetown",
-        "Cal State Bakersfield",
-        "Grambling State"
-      ]
+        "TCU",
+        "USC"
+      ],
+      "aau": "AB Elite",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-2027-wing-marri-wesley-updates-recruitment-with-list-cut-visits-pending"
     },
     {
       "rank": 45,
@@ -1509,30 +1533,30 @@
       "weight": 190,
       "school": "Ambassador Christian School",
       "location": "Huntersville, NC",
-      "warm": [
-        "Rutgers"
-      ],
       "visits": [
         {
           "school": "Rutgers",
           "date": "Sept. 3"
         }
       ],
-      "others": [
+      "offers": [
+        "Appalachian State",
+        "Charlotte",
+        "East Carolina",
         "Florida State",
         "Georgia",
         "Georgia Tech",
+        "High Point",
         "Mississippi State",
+        "North Carolina A&T",
+        "Rutgers",
         "Syracuse",
         "Utah",
         "Virginia",
-        "Wake Forest",
-        "Appalachian State",
-        "East Carolina",
-        "Charlotte",
-        "High Point",
-        "North Carolina A&T"
-      ]
+        "Wake Forest"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 46,
@@ -1545,8 +1569,9 @@
       "location": "Montverde, FL",
       "committed": "Houston",
       "commitDate": "Jul. 22, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Florida Rebels",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/one-school-is-trending-for-class-of-2027-four-star-guard-oneal-delancy"
     },
     {
       "rank": 47,
@@ -1557,16 +1582,17 @@
       "weight": 210,
       "school": "The Principia School",
       "location": "St. Louis, MO",
-      "warm": [],
-      "others": [
+      "offers": [
+        "Creighton",
+        "Louisiana",
         "Miami",
         "Missouri",
+        "Saint Louis",
         "Texas A&M",
-        "Louisiana",
-        "Wichita State",
-        "Creighton",
-        "Saint Louis"
-      ]
+        "Wichita State"
+      ],
+      "aau": "Brad Beal Elite",
+      "articleUrl": null
     },
     {
       "rank": 48,
@@ -1577,25 +1603,26 @@
       "weight": 190,
       "school": "Bishop McNamara",
       "location": "Lanham, MD",
-      "warm": [],
       "visits": [
         {
           "school": "Rutgers",
           "date": "Sept. 18"
         }
       ],
-      "others": [
+      "offers": [
         "Florida State",
-        "Maryland",
-        "Miami",
-        "Oklahoma State",
-        "Virginia Tech",
-        "West Virginia",
-        "Memphis",
-        "Morehead State",
         "Georgetown",
-        "Villanova"
-      ]
+        "Maryland",
+        "Memphis",
+        "Miami",
+        "Morehead State",
+        "Oklahoma State",
+        "Villanova",
+        "Virginia Tech",
+        "West Virginia"
+      ],
+      "aau": "Team Durant",
+      "articleUrl": null
     },
     {
       "rank": 49,
@@ -1606,7 +1633,6 @@
       "weight": 220,
       "school": "Archbishop Wood",
       "location": "Warminster, PA",
-      "warm": [],
       "visits": [
         {
           "school": "Michigan State",
@@ -1629,27 +1655,29 @@
           "date": "Oct. 2"
         }
       ],
-      "others": [
+      "offers": [
+        "Albany",
+        "Bryant",
+        "Duke",
+        "East Carolina",
+        "Georgetown",
         "Georgia",
         "Mississippi State",
         "Oklahoma State",
-        "Penn State",
-        "Virginia Tech",
-        "West Virginia",
-        "East Carolina",
-        "Temple",
         "Old Dominion",
-        "Duke",
-        "Albany",
-        "Bryant",
-        "Towson",
-        "Georgetown",
+        "Penn State",
         "Pepperdine",
         "Saint Joseph's",
         "Seton Hall",
         "St. Bonaventure",
-        "Villanova"
-      ]
+        "Temple",
+        "Towson",
+        "Villanova",
+        "Virginia Tech",
+        "West Virginia"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 50,
@@ -1662,8 +1690,9 @@
       "location": "Slinger, WI",
       "committed": "Iowa State",
       "commitDate": "Jun. 13, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Team Herro",
+      "articleUrl": null
     },
     {
       "rank": 51,
@@ -1676,8 +1705,9 @@
       "location": "Cincinnati, OH",
       "committed": "Cincinnati",
       "commitDate": "May 21, 2026",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Indy Heat",
+      "articleUrl": null
     },
     {
       "rank": 52,
@@ -1690,8 +1720,9 @@
       "location": "Eldridge, IA",
       "committed": "Iowa State",
       "commitDate": "Sept. 26, 2024",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "Brad Beal Elite",
+      "articleUrl": null
     },
     {
       "rank": 53,
@@ -1702,8 +1733,7 @@
       "weight": 190,
       "school": "Compass Prep",
       "location": "Chandler, AZ",
-      "warm": [],
-      "others": [
+      "offers": [
         "Kansas",
         "Kansas State",
         "Maryland",
@@ -1711,12 +1741,14 @@
         "Mississippi State",
         "Oklahoma State",
         "Penn State",
-        "Syracuse",
-        "Wake Forest",
-        "Washington",
         "Seton Hall",
-        "Villanova"
-      ]
+        "Syracuse",
+        "Villanova",
+        "Wake Forest",
+        "Washington"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 54,
@@ -1727,13 +1759,6 @@
       "weight": 170,
       "school": "La Lumiere School",
       "location": "La Porte, IN",
-      "warm": [
-        "Xavier",
-        "Ohio State",
-        "Virginia Tech",
-        "Cincinnati",
-        "Clemson"
-      ],
       "visits": [
         {
           "school": "Xavier",
@@ -1752,18 +1777,25 @@
           "date": "Sept. 19"
         }
       ],
-      "others": [
-        "Arizona State",
-        "Michigan State",
-        "Penn State",
-        "West Virginia",
+      "offers": [
         "Akron",
-        "Kent State",
-        "New Mexico",
+        "Arizona State",
+        "Cincinnati",
+        "Clemson",
         "Dayton",
         "Detroit Mercy",
-        "Duquesne"
-      ]
+        "Duquesne",
+        "Kent State",
+        "Michigan State",
+        "New Mexico",
+        "Ohio State",
+        "Penn State",
+        "Virginia Tech",
+        "West Virginia",
+        "Xavier"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 55,
@@ -1774,14 +1806,6 @@
       "weight": 175,
       "school": "North Oconee",
       "location": "Bogart, GA",
-      "warm": [
-        "Georgia",
-        "Texas",
-        "Clemson",
-        "Miami",
-        "Tennessee",
-        "Vanderbilt"
-      ],
       "visits": [
         {
           "school": "Georgia",
@@ -1792,17 +1816,25 @@
           "date": "Sept. 5"
         }
       ],
-      "others": [
+      "offers": [
         "Auburn",
         "California",
         "Cincinnati",
+        "Clemson",
         "Florida State",
+        "Georgia",
         "Georgia Tech",
-        "Virginia Tech",
+        "Miami",
         "SMU",
         "Stetson",
-        "Villanova"
-      ]
+        "Tennessee",
+        "Texas",
+        "Vanderbilt",
+        "Villanova",
+        "Virginia Tech"
+      ],
+      "aau": "Jet Academy",
+      "articleUrl": null
     },
     {
       "rank": 56,
@@ -1813,13 +1845,6 @@
       "weight": 180,
       "school": "Fleming Island",
       "location": "Orange Park, FL",
-      "warm": [
-        "Arizona State",
-        "Providence",
-        "Florida State",
-        "Ole Miss",
-        "Syracuse"
-      ],
       "visits": [
         {
           "school": "Arizona State",
@@ -1830,16 +1855,23 @@
           "date": "Oct. 19"
         }
       ],
-      "others": [
+      "offers": [
+        "Arizona State",
         "Cincinnati",
-        "Georgia",
-        "Texas A&M",
-        "Virginia Tech",
-        "South Florida",
         "Florida A&M",
+        "Florida State",
+        "Georgia",
         "Jacksonville",
-        "Le Moyne"
-      ]
+        "Le Moyne",
+        "Ole Miss",
+        "Providence",
+        "South Florida",
+        "Syracuse",
+        "Texas A&M",
+        "Virginia Tech"
+      ],
+      "aau": "Florida Rebels",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-2027-prospect-carson-crawford-breaks-down-top-five-schools"
     },
     {
       "rank": 57,
@@ -1850,28 +1882,29 @@
       "weight": 190,
       "school": "Pike",
       "location": "Indianapolis, IN",
-      "warm": [],
-      "others": [
+      "offers": [
         "Alabama",
+        "Appalachian State",
+        "Dayton",
+        "DePaul",
+        "FIU",
         "Florida State",
+        "Georgetown",
+        "IU Indy",
+        "Le Moyne",
         "Mississippi State",
         "Ohio State",
         "Oklahoma State",
         "Ole Miss",
-        "TCU",
-        "Virginia Tech",
-        "Wake Forest",
-        "Appalachian State",
-        "FIU",
-        "Toledo",
-        "Le Moyne",
         "Radford",
-        "Dayton",
-        "DePaul",
-        "Georgetown",
-        "IU Indy",
-        "Saint Louis"
-      ]
+        "Saint Louis",
+        "TCU",
+        "Toledo",
+        "Virginia Tech",
+        "Wake Forest"
+      ],
+      "aau": "Indy Heat",
+      "articleUrl": null
     },
     {
       "rank": 58,
@@ -1882,8 +1915,9 @@
       "weight": 180,
       "school": "Metairie Park Country Day",
       "location": "Metairie, LA",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "LivOn",
+      "articleUrl": null
     },
     {
       "rank": 59,
@@ -1894,18 +1928,18 @@
       "weight": 235,
       "school": "Blair Academy",
       "location": "Blairstown, NJ",
-      "warm": [
+      "offers": [
         "Arizona",
+        "Fordham",
+        "Georgia Tech",
+        "High Point",
+        "Iona",
+        "Maryland",
+        "Rhode Island",
         "UConn"
       ],
-      "others": [
-        "Georgia Tech",
-        "Maryland",
-        "High Point",
-        "Fordham",
-        "Iona",
-        "Rhode Island"
-      ]
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 60,
@@ -1916,30 +1950,30 @@
       "weight": 180,
       "school": "La Mirada",
       "location": "La Mirada, CA",
-      "warm": [
-        "California",
-        "Virginia",
-        "Gonzaga"
-      ],
       "visits": [
         {
           "school": "Virginia",
           "date": "Aug. 29"
         }
       ],
-      "others": [
+      "offers": [
         "Arizona State",
         "Baylor",
+        "Boise State",
         "Boston College",
+        "California",
+        "Gonzaga",
+        "Grand Canyon",
         "Kansas",
         "Ole Miss",
+        "San Francisco",
         "UCLA",
-        "USC",
-        "Boise State",
-        "Grand Canyon",
         "UNLV",
-        "San Francisco"
-      ]
+        "USC",
+        "Virginia"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 61,
@@ -1950,12 +1984,13 @@
       "weight": 205,
       "school": "IMG Academy",
       "location": "Bradenton, FL",
-      "warm": [],
-      "others": [
+      "offers": [
         "Boston College",
         "California",
         "Cincinnati",
         "Clemson",
+        "College of Charleston",
+        "Jacksonville",
         "Michigan",
         "Mississippi State",
         "NC State",
@@ -1964,10 +1999,10 @@
         "South Carolina",
         "Tennessee",
         "UCF",
-        "Wake Forest",
-        "College of Charleston",
-        "Jacksonville"
-      ]
+        "Wake Forest"
+      ],
+      "aau": "Upward Stars",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-2027-wing-josh-leonard-names-four-schools-in-contact-most"
     },
     {
       "rank": 62,
@@ -1978,7 +2013,6 @@
       "weight": 220,
       "school": "Sidwell Friends School",
       "location": "Washington, DC",
-      "warm": [],
       "visits": [
         {
           "school": "Syracuse",
@@ -1997,17 +2031,19 @@
           "date": "Oct. 2"
         }
       ],
-      "others": [
+      "offers": [
+        "American",
         "California",
         "Georgia Tech",
         "NC State",
-        "UCF",
-        "Virginia Tech",
-        "American",
         "Saint Joseph's",
         "Siena",
-        "Villanova"
-      ]
+        "UCF",
+        "Villanova",
+        "Virginia Tech"
+      ],
+      "aau": "Team Melo",
+      "articleUrl": null
     },
     {
       "rank": 63,
@@ -2018,18 +2054,19 @@
       "weight": 170,
       "school": "St. Thomas More",
       "location": "Oakdale, CT",
-      "warm": [],
-      "others": [
-        "Florida State",
-        "Syracuse",
-        "Washington",
-        "Eastern Washington",
+      "offers": [
         "Creighton",
+        "Eastern Washington",
+        "Florida State",
         "Providence",
         "Saint Louis",
+        "Syracuse",
         "Villanova",
+        "Washington",
         "Xavier"
-      ]
+      ],
+      "aau": "Expressions",
+      "articleUrl": null
     },
     {
       "rank": 64,
@@ -2040,23 +2077,24 @@
       "weight": 215,
       "school": "Dynamic Prep",
       "location": "Dallas, TX",
-      "warm": [],
       "visits": [
         {
           "school": "Washington",
           "date": "Jun. 16"
         }
       ],
-      "others": [
+      "offers": [
         "California",
         "Florida State",
         "Illinois",
-        "Mississippi State",
-        "South Carolina",
-        "Northern Illinois",
         "Michigan",
-        "Missouri"
-      ]
+        "Mississippi State",
+        "Missouri",
+        "Northern Illinois",
+        "South Carolina"
+      ],
+      "aau": null,
+      "articleUrl": null
     },
     {
       "rank": 65,
@@ -2067,17 +2105,18 @@
       "weight": 180,
       "school": "Long Island Lutheran",
       "location": "Glen Head, NY",
-      "warm": [],
-      "others": [
+      "offers": [
         "California",
+        "College of Charleston",
+        "Maryland",
         "Penn State",
+        "Seton Hall",
         "TCU",
         "Tennessee",
-        "Virginia Tech",
-        "Maryland",
-        "College of Charleston",
-        "Seton Hall"
-      ]
+        "Virginia Tech"
+      ],
+      "aau": "Team Durant",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-guard-jamaal-mcknight-discusses-team-durant-success-recruitment"
     },
     {
       "rank": 66,
@@ -2088,10 +2127,6 @@
       "weight": 185,
       "school": "Fishers",
       "location": "Fishers, IN",
-      "warm": [
-        "Auburn",
-        "Ohio State"
-      ],
       "visits": [
         {
           "school": "Auburn",
@@ -2102,26 +2137,30 @@
           "date": "Oct. 3"
         }
       ],
-      "others": [
+      "offers": [
         "Arizona",
+        "Auburn",
         "Cincinnati",
+        "Creighton",
+        "DePaul",
         "Florida",
+        "IU Indy",
         "Indiana",
         "Iowa",
         "Mississippi State",
+        "Morehead State",
         "Notre Dame",
+        "Ohio State",
         "Oklahoma State",
+        "Providence",
         "Purdue",
         "Stanford",
         "Texas",
         "UCLA",
-        "UNLV",
-        "Morehead State",
-        "Creighton",
-        "DePaul",
-        "IU Indy",
-        "Providence"
-      ]
+        "UNLV"
+      ],
+      "aau": "Indy Elite",
+      "articleUrl": null
     },
     {
       "rank": 67,
@@ -2132,19 +2171,19 @@
       "weight": 160,
       "school": "Caldwell Academy",
       "location": "Greensboro, NC",
-      "warm": [
-        "Arizona State",
-        "Texas A&M",
-        "Kent State",
-        "Ohio",
-        "Dayton"
-      ],
-      "others": [
-        "Mississippi State",
+      "offers": [
         "Appalachian State",
+        "Arizona State",
+        "Dayton",
+        "Kent State",
+        "Mississippi State",
+        "Ohio",
+        "Providence",
         "South Florida",
-        "Providence"
-      ]
+        "Texas A&M"
+      ],
+      "aau": "Team CP3",
+      "articleUrl": "https://fieldof68.beehiiv.com/p/four-star-2027-point-guard-king-kendrick"
     },
     {
       "rank": 68,
@@ -2155,8 +2194,9 @@
       "weight": 165,
       "school": "DME Academy",
       "location": "Daytona Beach, FL",
-      "warm": [],
-      "others": []
+      "offers": [],
+      "aau": "NY Rens",
+      "articleUrl": null
     }
   ]
 }
