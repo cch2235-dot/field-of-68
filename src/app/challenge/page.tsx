@@ -50,11 +50,10 @@ function PlayerCard({player, team, slot, onRemove, draggable, onDragStart}: {pla
               </div>
             ))}
           </div>
-          <div style={{display:"grid",gridTemplateColumns:"1fr 1fr 1fr",gap:10}}>
+          <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:10}}>
             <StatBar label="FG%" value={player.fgp} max={75}/>
             <StatBar label="3P%" value={player.tpp} max={55} color="#60a5fa"/>
-            <StatBar label="FT%" value={player.ftp||0} max={100} color="#a78bfa"/>
-          </div>
+            </div>
         </>
       ) : (
         <div style={{background:"#0D0D0D",borderRadius:8,padding:"10px",textAlign:"center",color:"#333",fontSize:12,letterSpacing:1}}>
@@ -89,11 +88,10 @@ function PickCard({player, onClick}: {player:any, onClick:()=>void}) {
         )}
       </div>
       {player.hasStats && (
-        <div style={{display:"grid",gridTemplateColumns:"1fr 1fr 1fr",gap:8,marginTop:10}}>
+        <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:8,marginTop:10}}>
           <StatBar label="FG%" value={player.fgp} max={75}/>
           <StatBar label="3P%" value={player.tpp} max={55} color="#60a5fa"/>
-          <StatBar label="FT%" value={player.ftp||0} max={100} color="#a78bfa"/>
-        </div>
+          </div>
       )}
     </button>
   );
@@ -239,7 +237,7 @@ export default function App() {
   };
 
   return (
-    <div style={{minHeight:"100vh",background:"#0A0A0A",fontFamily:"'Barlow Condensed',sans-serif",color:"white"}}>
+    <div style={{minHeight:"100vh",background:"#0A0A0A",fontFamily:"'Barlow Condensed',sans-serif",color:"white",paddingBottom:"80px"}}>
       <div style={{maxWidth:720,margin:"0 auto",padding:"2rem 1rem"}}>
         <div style={{textAlign:"center",marginBottom:"1.8rem"}}>
           <div style={{display:"inline-block",background:"#F5A623",borderRadius:6,padding:"2px 10px",marginBottom:8}}>
