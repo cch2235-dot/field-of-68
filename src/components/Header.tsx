@@ -10,7 +10,7 @@ const NAV = [
   { href:'/shows', label:'Shows' },
   { href:'/teams', label:'Teams' },
   { href:'/portal', label:'Portal' },
-  { href:'/rankings', label:'Rankings' },
+  { href:'/rankings', label:'Top 25' },
   { href:'/rankings/hs', label:'HS Rankings' },
   { href:'https://fieldof68.shop/', label:'Shop', external:true },
   { href:'/about', label:'About' },
