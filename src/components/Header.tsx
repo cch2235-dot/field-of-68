@@ -15,6 +15,7 @@ const NAV = [
   { href:'https://fieldof68.shop/', label:'Shop', external:true },
   { href:'/about', label:'About' },
   { href:'/eligibility', label:'Eligibility Tracker' },
+  { href:'/challenge', label:'40-0 Challenge' },
   { href:'/contact', label:'Advertise' },
 ];
 export default function Header() {
