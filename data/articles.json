@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "a36",
+      "title": "SEC surrender",
+      "url": "https://fieldof68.beehiiv.com/p/sec-surrender",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/7cdd186d-5f5d-486f-b825-6bbbead68e91/ON3_COVERS__25_.png",
+      "excerpt": "The SEC said it will comply with the courts and allow former pro athletes to sign with member schools. Plus: Ole Miss landed fifth-year center Micah Handlogten, Providence added a five-star wing, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-31T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a35",
+      "title": "Big East boost",
+      "url": "https://fieldof68.beehiiv.com/p/big-east-boost",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/1a196d17-bb1a-46de-aa98-4bf505c397b3/ON3_COVERS__25_.png",
+      "excerpt": "Marquette landed Colin Porter and Vince Iwuchukwu returned to Georgetown, strengthening the Big East. Plus: another TRO granted players eligibility, Brandon McCoy Jr. was carried off the court in Michigan's final overseas game, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-08-28T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a34",
       "title": "Lee way",
       "url": "https://fieldof68.beehiiv.com/p/lee-way",
