@@ -23,7 +23,7 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 function espnLogo(id: number) {
-  return `https://a2.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/${id}.png&w=200&h=200&cquality=40&scale=crop`;
+  return `https://a.espncdn.com/i/teamlogos/ncaa/500/${id}.png`;
 }
 
 // Squad rating system
@@ -180,7 +180,7 @@ export default function App() {
     setWheelPx(0);
 
     // Slower spin: 4.5 seconds, very gradual deceleration
-    const targetPx = LAND_IDX * CARD_W;
+    const targetPx = 8 + LAND_IDX * (CARD_W + 8);  // account for gap and padding
     const duration = 4500;
     const start = performance.now();
     cancelAnimationFrame(animRef.current);
