@@ -16,6 +16,7 @@ const NAV = [
   { href:'/about', label:'About' },
   { href:'/eligibility', label:'Eligibility Tracker' },
   { href:'/challenge', label:'40-0 Challenge' },
+  { href:'/mock-draft', label:'Mock Draft' },
   { href:'/contact', label:'Advertise' },
 ];
 export default function Header() {
