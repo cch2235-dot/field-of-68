@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "a38",
+      "title": "Summer setback",
+      "url": "https://fieldof68.beehiiv.com/p/summer-setback",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/965c0535-9497-4689-a7ee-2a8e4a449e77/ON3_COVERS__25_.png",
+      "excerpt": "Michigan's five-star freshman Brandon McCoy Jr. will miss the season with a torn ACL. What does it mean for the Wolverines? Plus: the NCAA picked up positive news in court, Missouri added CJ Gunn, several mid-majors landed 2027 commitments, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a37",
+      "title": "Switch up",
+      "url": "https://fieldof68.beehiiv.com/p/switch-up",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/c98e67e1-6bc2-4f1d-80b1-f4c91ca3fc4d/ON3_COVERS__25_.png",
+      "excerpt": "Mark Mitchell decommitted from Kentucky and elected to return to Missouri for his fifth season. Plus: the latest in the SEC's fight against former pros, the Battle 4 Atlantis bracket was released, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a36",
       "title": "SEC surrender",
       "url": "https://fieldof68.beehiiv.com/p/sec-surrender",
