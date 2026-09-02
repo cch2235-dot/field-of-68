@@ -150,6 +150,7 @@ export default function App() {
   const [dragOver, setDragOver] = useState<number | null>(null);
   const [rating, setRating] = useState<any>(null);
   const animRef = useRef<number>(0);
+  const pickedRef = useRef<any>(null);
 
   const filledCount = squad.filter(Boolean).length;
   const nextSlotIdx = squad.findIndex(s => !s);
@@ -171,6 +172,7 @@ export default function App() {
     if (spinning || teamPool.length === 0) return;
     setSpinning(true);
     const picked = teamPool[0];
+    pickedRef.current = picked;
     const items: any[] = Array.from({ length: 36 }, (_, i) =>
       i === LAND_IDX ? picked : ALL_TEAMS[Math.floor(Math.random() * ALL_TEAMS.length)]
     );
@@ -196,8 +198,8 @@ export default function App() {
       } else {
         setWheelPx(targetPx);
         setSpinning(false);
-        setCurrentTeam(picked);
-        setTeamPool(prev => { const next = prev.slice(1); return next.length === 0 ? shuffle(ALL_TEAMS) : next; });
+        setCurrentTeam(pickedRef.current);
+        setTeamPool(prev => { const next = prev.filter((t: any) => t.name !== pickedRef.current?.name); return next.length === 0 ? shuffle(ALL_TEAMS) : next; });
         setPhase("picking");
       }
     };
@@ -366,7 +368,7 @@ export default function App() {
                 ["2","Pick","any player from their full roster.",""],
                 ["3","Build:","G · G · F · F · C · Bench.","Pick anyone — drag to rearrange."],
                 ["4","Your squad gets a","Squad Rating (0-100)","based on star power, scoring depth, efficiency, and balance."],
-                ["5","We simulate the full season then","March Madness.","Need 85+ to have a shot at 40-0."],
+                ["5","We simulate the full season then","March Madness.","Can you go 40-0?"],
               ].map(([n, a, b, c]) => (
                 <div key={n} style={{ display: "flex", gap: 12, marginBottom: 14, alignItems: "flex-start" }}>
                   <div style={{ background: "#F5A623", color: "#0A0A0A", borderRadius: "50%", width: 22, height: 22, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "'Bebas Neue',sans-serif", fontSize: 13, flexShrink: 0 }}>{n}</div>
