@@ -1,0 +1,6227 @@
+{
+  "Boston College": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Wagner",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "UMass",
+        "location": "neutral",
+        "venue": "Boston"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Maryland Eastern Shore",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "New Hampshire",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Harvard",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "NJIT",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "UCF",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Cincinnati",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Georgia (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "UMass Lowell",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Northeastern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "George Washington",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "New Haven",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Stonehill",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "California": {
+    "games": [
+      {
+        "date": "Nov. 4",
+        "opponent": "Radford",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Houston",
+        "location": "neutral",
+        "venue": "Lake Tahoe"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "USC",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Utah Tech",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "East Texas A&M",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Alabama State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "Minnesota",
+        "location": "neutral",
+        "venue": "Sioux Falls"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Utah",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 10",
+        "opponent": "SE Louisiana",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "UC Riverside",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Southern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Northeastern",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Clemson": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Stetson",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "American",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "North Dakota",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Georgetown",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "The Citadel",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Ole Miss",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Washington",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Auburn",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Le Moyne",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "TCU",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "South Carolina",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Cincinnati",
+        "location": "neutral",
+        "venue": "Cincinnati"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Colgate",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Duke": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Army",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Coastal Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Michigan State",
+        "location": "neutral",
+        "venue": "Champions"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "SIU Edwardsville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Washington State",
+        "location": "neutral",
+        "venue": "Acrisure"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "UConn",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Florida (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 4",
+        "opponent": "Harvard",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Georgia",
+        "location": "neutral",
+        "venue": "Jimmy V Classic"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Campbell",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 17",
+        "opponent": "Grambling State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Texas Tech",
+        "location": "neutral",
+        "venue": "New York City"
+      },
+      {
+        "date": "Feb. 20",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Detroit"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Florida State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Florida A&M",
+        "location": "neutral",
+        "venue": "Tampa"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Troy",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Florida",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Texas A&M CC",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Ball State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Green Bay",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "UNC Asheville",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Tennessee (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Dayton",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Texas A&M",
+        "location": "neutral",
+        "venue": "Houston"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Jacksonville",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Houston",
+        "location": "neutral",
+        "venue": "Jacksonville"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Bethune-Cookman",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Georgia Tech": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Hampton",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Georgia Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Eastern Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "UNC Asheville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Norfolk State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Georgia",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Samford",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Mississippi State (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Murray State",
+        "location": "neutral",
+        "venue": "Nashville"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "The Citadel",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Florida",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Butler",
+        "location": "neutral",
+        "venue": "Indianapolis"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Longwood",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Louisville": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Chattanooga",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Morehead State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Memphis",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Stetson",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Texas Tech",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Oregon",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Texas",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Michigan",
+        "location": "neutral",
+        "venue": "Detroit"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Kentucky",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "LIU",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Eastern Michigan",
+        "location": "home"
+      },
+      {
+        "date": "Jan. 23",
+        "opponent": "Baylor",
+        "location": "neutral",
+        "venue": "Indianapolis"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Miami (FL)": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Florida",
+        "location": "neutral",
+        "venue": "Tampa"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Wagner",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "North Florida",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "North Alabama",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Rider",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Manhattan",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "TCU",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Michigan",
+        "location": "neutral",
+        "venue": "Vegas"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Alabama",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Stetson",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Texas",
+        "location": "neutral",
+        "venue": "Houston"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "USC Upstate",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "NC State": {
+    "games": [
+      {
+        "date": "Nov. 6",
+        "opponent": "East Tennessee State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Murray State",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Seton Hall",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Norfolk State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "Elon",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "South Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Tennessee",
+        "location": "neutral",
+        "venue": "Nashville"
+      },
+      {
+        "date": "Dec. 11",
+        "opponent": "UNC Greensboro",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "North Carolina",
+        "location": "neutral",
+        "venue": "Greensboro"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Ole Miss",
+        "location": "neutral",
+        "venue": "Tupelo, MS"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "North Carolina": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Western Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Wofford",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Wyoming",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Georgia",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Marshall",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Monmouth",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "West Virginia",
+        "location": "neutral",
+        "venue": "Charlotte"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Butler",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Georgetown",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "NC State",
+        "location": "neutral",
+        "venue": "Greensboro"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Kentucky",
+        "location": "neutral",
+        "venue": "New York City"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "The Citadel",
+        "location": "home"
+      },
+      {
+        "date": "Jan. 30",
+        "opponent": "Illinois",
+        "location": "neutral",
+        "venue": "Nashville"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Notre Dame": {
+    "games": [
+      {
+        "date": "Nov. 1",
+        "opponent": "Villanova",
+        "location": "neutral",
+        "venue": "Rome"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Mercyhurst",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Florida",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Rutgers",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Central Michigan",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "Stonehill",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "TCU",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "LIU",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Ohio State",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Pittsburgh": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Rider",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Buffalo",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Penn State",
+        "location": "neutral",
+        "venue": "Philadelphia"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Butler",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Villanova",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Central Michigan",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Oklahoma",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "DePaul",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Missouri (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Tarleton State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "West Virginia",
+        "location": "neutral",
+        "venue": "PPG Paints"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Drexel",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "Georgia State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Cleveland State",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "SMU": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "VMI",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Prairie View A&M",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Ball State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Oral Roberts",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Utah State",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "LSU",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Stephen F. Austin",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "DePaul",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Minnesota",
+        "location": "neutral",
+        "venue": "Frisco"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "UNLV",
+        "location": "neutral",
+        "venue": "Phoenix"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Oklahoma",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Stanford": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Eastern Washington",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Rice",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "UNLV",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "UC Irvine",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Sacramento State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Colorado",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "GCU",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "Portland",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Texas A&M (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Pacific",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 14",
+        "opponent": "Northern Colorado",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "San Jose State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "St. Thomas",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Syracuse": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "New Haven",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Central Connecticut",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Indiana",
+        "location": "neutral",
+        "venue": "Indianapolis"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Cornell",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Lafayette",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "UAlbany",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Oklahoma (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Colgate",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Mercyhurst",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Canisius",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Providence",
+        "location": "neutral",
+        "venue": "Boston"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Binghamton",
+        "location": "home"
+      },
+      {
+        "date": "Feb. 6",
+        "opponent": "Rutgers",
+        "location": "neutral",
+        "venue": "Brooklyn"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Virginia": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Drexel",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Northeastern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Arkansas",
+        "location": "neutral",
+        "venue": "DC"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Bucknell",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Maryland",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Old Dominion",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Loyola-MD",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Marquette",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Xavier",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Bethune-Cookman",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Western Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "UConn",
+        "location": "neutral",
+        "venue": "MSG"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Virginia Tech": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Coppin State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Mercer",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Iowa",
+        "location": "neutral",
+        "venue": "Sioux City"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Mount St. Mary's",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Richmond",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Northwestern",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Oklahoma St",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Old Dominion",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Ole Miss",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "West Virginia",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 10",
+        "opponent": "UMES",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Radford",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "UCF",
+        "location": "neutral",
+        "venue": "Fort Lauderdale"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "VMI",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Wake Forest": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "UMES",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Charleston Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Southern Utah",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Monmouth",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Western Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Miss State",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Memphis",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "LSU (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "UMass",
+        "location": "neutral",
+        "venue": "Springfield, MA"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Hampton",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Gardner-Webb",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "West Virginia",
+        "location": "neutral",
+        "venue": "Greensboro"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Presbyterian",
+        "location": "home"
+      }
+    ],
+    "conference": "ACC"
+  },
+  "Illinois": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Fairleigh Dickinson",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Penn",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Texas Tech",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Sam Houston",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Duke",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Eastern Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Winthrop",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Western Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 4",
+        "opponent": "UConn",
+        "location": "neutral",
+        "venue": "Chicago"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Missouri",
+        "location": "neutral",
+        "venue": "St. Louis"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Seattle",
+        "location": "home"
+      },
+      {
+        "date": "Jan. 30",
+        "opponent": "North Carolina",
+        "location": "neutral",
+        "venue": "Nashville"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Indiana": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Eastern Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Bellarmine",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Syracuse",
+        "location": "neutral",
+        "venue": "Indianapolis"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Tenessee Tech",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Arkansas",
+        "location": "neutral",
+        "venue": "MSG"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Kentucky",
+        "location": "neutral",
+        "venue": "Indianapolis"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Jacksonville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Bowling Green",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 3",
+        "opponent": "Western Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "UCF",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Missouri",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Fairleigh Dickinson",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Iowa": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Lipscomb",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Eastern Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Virginia Tech",
+        "location": "neutral",
+        "venue": "Sioux City"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Creighton",
+        "location": "neutral",
+        "venue": "Des Moines"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Xavier",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "UMBC",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "Prairie View A&M",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 10",
+        "opponent": "Iowa State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Western Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 17",
+        "opponent": "Bethune-Cookman",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Alabama",
+        "location": "neutral",
+        "venue": "Des Moines"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "South Dakota",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Maryland": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Bucknell",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Georgetown",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Virginia",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Wagner",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Tennessee",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "SDSU",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "American",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Morgan State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "South Carolina",
+        "location": "neutral",
+        "venue": "Baltimore"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Radford",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Michigan State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Quinnipiac",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Toledo",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Duke",
+        "location": "neutral",
+        "venue": "Champions Classic"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Tennessee",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Detroit Mercy",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Arkansas",
+        "location": "neutral",
+        "venue": "Detroit"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Penn",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Michigan": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "UConn",
+        "location": "neutral",
+        "venue": "Boston"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "Marquette",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "William & Mary",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Villanova",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Creighton",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Miami",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Mississippi Valley St",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Louisville",
+        "location": "neutral",
+        "venue": "Detroit"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Detroit Mercy",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 30",
+        "opponent": "Toledo",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Minnesota": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "North Dakota",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "St. Thomas",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Cincinnati",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Western Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Oklahoma St",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Utah",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "California",
+        "location": "neutral",
+        "venue": "Sioux Falls"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "SMU",
+        "location": "neutral",
+        "venue": "Frisco"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Texas Southern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "UTSA",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Nebraska": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Le Moyne",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Providence",
+        "location": "neutral",
+        "venue": "Uncasville, CT"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "Lindenwood",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Boise State",
+        "location": "neutral",
+        "venue": "Sioux Falls"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "South Dakota",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Butler",
+        "location": "neutral",
+        "venue": "Chicago"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Southern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Creighton",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Missouri",
+        "location": "neutral",
+        "venue": "Kansas City"
+      },
+      {
+        "date": "Dec. 17",
+        "opponent": "Mount St. Mary's",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Fairleigh Dickinson",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 30",
+        "opponent": "New Haven",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Northwestern": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Binghamton",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Stony Brook",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Boston University",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "DePaul",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Columbia",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Virginia Tech",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Dayton",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Northeastern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "BYU",
+        "location": "neutral",
+        "venue": "Salt Lake City"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Mercyhurst",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Oklahoma State",
+        "location": "neutral",
+        "venue": "Oklahoma City"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Chicago State",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Ohio State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "BYU",
+        "location": "neutral",
+        "venue": "Salt Lake City"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Youngstown State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Marshall",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "UConn",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Prairie View A&M",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "UMBC",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "Lipscomb",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Notre Dame",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Stony Brook",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Kansas",
+        "location": "neutral",
+        "venue": "New York City"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Mississippi Valley State",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Oregon": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Montana",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Eastern Washington",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Pepperdine",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Oregon State",
+        "location": "neutral",
+        "venue": "Portland"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "St. John's",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Louisville",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Indiana State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Portland State",
+        "location": "home"
+      },
+      {
+        "date": "Jan. 30",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Seattle"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Penn State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Canisius",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Chattanooga",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Pittsburgh",
+        "location": "neutral",
+        "venue": "Philadelphia"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Mercyhurst",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "New Haven",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "IU Indianapolis",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Memphis",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Wake",
+        "location": "neutral",
+        "venue": "Atlantis"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Albany",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "UT Martin",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Lafayette",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Saint Joseph's",
+        "location": "neutral",
+        "venue": "Hershey"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Purdue": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Valparaiso",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Illinois State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Ohio",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Lipscomb",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "DePaul",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Oklahoma",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Iowa State",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 11",
+        "opponent": "Tennessee",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Colorado",
+        "location": "neutral",
+        "venue": "Indy Classic"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Cal Baptist",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Rutgers": {
+    "games": [
+      {
+        "date": "Nov. 6",
+        "opponent": "New Haven",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "NJIT",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Bryant",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Houston",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Florida",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Sacred Heart",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Seton Hall",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Saint Peter's",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Army",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Delaware State",
+        "location": "home"
+      },
+      {
+        "date": "Feb. 6",
+        "opponent": "Syracuse",
+        "location": "neutral",
+        "venue": "Brooklyn"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "UCLA": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Arizona",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "North Florida",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Long Beach State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "CS Fullerton",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Delaware",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Saint Mary's",
+        "location": "neutral",
+        "venue": "San Diego"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Texas",
+        "location": "neutral",
+        "venue": "San Diego"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Anaheim"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Quinnipiac",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "UC Riverside",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "USC": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Milwaukee",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Wichita St",
+        "location": "neutral",
+        "venue": "Tahoe Classic"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "California",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Arkansas Pine-Bluff",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Tarleton State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Louisiana",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "S. Carolina",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Utah State",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "San Diego",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Texas Tech",
+        "location": "neutral",
+        "venue": "Fort Worth"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Jacksonville",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Western Michigan",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Washington": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Colgate",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Mississippi Valley State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Utah",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Utah Tech",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "BYU",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Clemson",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "Norfolk State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Southern Utah",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Baylor",
+        "location": "neutral",
+        "venue": "Seattle"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Cornell",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Wisconsin": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Denver",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Delaware",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Fairfield",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Coastal Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Seton Hall",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "NCST",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Northeastern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Marquette",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Villanova",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Auburn",
+        "location": "neutral",
+        "venue": "Nashville"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Purdue Fort-Wayne",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 30",
+        "opponent": "Colorado State",
+        "location": "home"
+      }
+    ],
+    "conference": "Big Ten"
+  },
+  "Butler": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Lafayette",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 4",
+        "opponent": "Fairleigh Dickinson",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Boise State",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Pittsburgh",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Western Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Northeastern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Nebraska",
+        "location": "neutral",
+        "venue": "Chicago"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Bellarmine",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Presbyterian",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "North Carolina",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "USC Upstate",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Georgia Tech",
+        "location": "neutral",
+        "venue": "Indy Classic"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "Creighton": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Kansas City",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Le Moyne",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Kansas State",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Iowa",
+        "location": "neutral",
+        "venue": "Des Moines"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Bethune-Cookman",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Michigan",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "TCU",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Oral Roberts",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Nebraska",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Gonzaga",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Mount St. Mary's",
+        "location": "home"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "DePaul": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "West Georgia",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "USF",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Alabama A&M",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Northwestern",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "UMES",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Purdue",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Pittsburgh",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "North Alabama",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "SMU",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Maine",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Saint Louis",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Canisius",
+        "location": "home"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "Georgetown": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Loyola",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Maryland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Delaware State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Clemson",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Navy",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Coppin State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Texas",
+        "location": "neutral",
+        "venue": "San Diego"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "UCLA",
+        "location": "neutral",
+        "venue": "San Diego"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "UMass Lowell",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Rider",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "North Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Sacred Heart",
+        "location": "home"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "Marquette": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Mercyhurst",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Detroit Mercy",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "Michigan",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Missouri",
+        "location": "neutral",
+        "venue": "Chicago"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Northern Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Chicago State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Virginia",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Texas A&M",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Wagner",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Wisconsin",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "New Hampshire",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Mississippi State",
+        "location": "home"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "Providence": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Maine",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Nebraska",
+        "location": "neutral",
+        "venue": "Uncasville, CT"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Bryant",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Colorado",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Sacred Heart",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "VCU",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Arizona",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Stonehill",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Rhode Island",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Fairfield",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Syracuse",
+        "location": "neutral",
+        "venue": "Boston"
+      },
+      {
+        "date": "Nov. 2",
+        "opponent": "Mount Saint Mary's",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Eastern Michigan",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Detroit Mercy",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Mississippi State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Cleveland State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Iowa",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Texas A&M",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Virginia",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Texas Southern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Cincinnati",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Purdue Fort Wayne",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "FIU",
+        "location": "home"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "Seton Hall": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Saint Peter's",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "LIU",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Charlotte",
+        "location": "neutral",
+        "venue": "Philadelphia"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Alabama",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Wisconsin",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "NCST",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "New Hampshire",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "Siena",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 4",
+        "opponent": "Kansas State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 7",
+        "opponent": "NJIT",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Rutgers",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "UNC Greensboro",
+        "location": "home"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "St. John's": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Monmouth",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "Colgate",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Syracuse",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Siena",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Oregon",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Louisville",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Columbia",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Arizona",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Wagner",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Alabama",
+        "location": "neutral",
+        "venue": "Birmingham"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "UConn": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Gardner-Webb",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Michigan",
+        "location": "neutral",
+        "venue": "Boston"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Ohio State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Arizona",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Duke",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 30",
+        "opponent": "Rider",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 4",
+        "opponent": "Illinois",
+        "location": "neutral",
+        "venue": "Chicago"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Kansas",
+        "location": "neutral"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Virginia",
+        "location": "neutral",
+        "venue": "MSG"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "Villanova": {
+    "games": [
+      {
+        "date": "Nov. 1",
+        "opponent": "Notre Dame",
+        "location": "neutral",
+        "venue": "Rome"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Holy Cross",
+        "location": "neutral"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "La Salle",
+        "location": "neutral"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Rider",
+        "location": "neutral"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Pittsburgh",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Michigan",
+        "location": "neutral"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Coppin State",
+        "location": "neutral"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Kansas",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Temple",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Fairleigh Dickinson",
+        "location": "neutral"
+      }
+    ],
+    "conference": "Big East"
+  },
+  "Arizona State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "East Tennessee State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Northern Colorado",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Hofstra",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "UL Monroe",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "LSU",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "S. Carolina",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 30",
+        "opponent": "Montana",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Oklahoma",
+        "location": "neutral",
+        "venue": "Tulsa"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Mercer",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 14",
+        "opponent": "Oregon State",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "San Diego",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 23",
+        "opponent": "Idaho",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Southern Illinois",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Arizona": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "UCLA",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Cal Poly",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Northern Arizona",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Auburn",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "UConn",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Colorado State",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Providence",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "LSU-New Orleans",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "St. John's (MSG)",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Tennessee Tech",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Arkansas",
+        "location": "neutral",
+        "venue": "Phoenix"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Northern Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Incarnate Word",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "BYU": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Ohio State",
+        "location": "neutral",
+        "venue": "Salt Lake City"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Omaha",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Queens",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Montana State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Northern Colorado",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Washington",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Clemson",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Northwestern",
+        "location": "neutral",
+        "venue": "Salt Lake City"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Utah State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Cal State Fullerton",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Weber State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "San Diego State",
+        "location": "neutral",
+        "venue": "Palm Springs"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "La Salle",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Baylor": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Northwestern State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Arkansas-Pine Bluff",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Yale",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Texas",
+        "location": "neutral",
+        "venue": "San Antonio"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Alabama",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Memphis",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Queens",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Washington",
+        "location": "neutral",
+        "venue": "Seattle"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "College of the Ozarks",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Mississippi Valley State",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Cincinnati": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "American",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Green Bay",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Minnesota",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Dayton",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Youngstown State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "UMass-Lowell",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Georgia",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Georgia",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Monmouth",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Xavier",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 14",
+        "opponent": "Stetson",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Clemson",
+        "location": "neutral",
+        "venue": "Cincinnati"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Marist",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Bethune-Cookman",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Colorado": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Abilene Christian",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "San Diego State",
+        "location": "neutral",
+        "venue": "San Diego"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "San Diego",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Providence",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Portland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Stanford",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "SLU",
+        "location": "neutral",
+        "venue": "Palm Desert"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "UTEP",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Colorado State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Central Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Cal Poly",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Purdue",
+        "location": "neutral",
+        "venue": "Indy Classic"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "North Dakota",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Denver",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Houston": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "La Salle",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Cal",
+        "location": "neutral",
+        "venue": "Lake Tahoe"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "Jacksonville State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Rutgers",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Florida",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "Queens",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Central Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Texas State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Alabama",
+        "location": "neutral",
+        "venue": "Jimmy V Classic"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "LSU",
+        "location": "neutral",
+        "venue": "Houston"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Florida State",
+        "location": "neutral",
+        "venue": "Jacksonville"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Texas A&M-CC",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Iowa State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Memphis",
+        "location": "neutral",
+        "venue": "Sioux Falls"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Southern Miss",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Niagara",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "San Diego State",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Tennessee",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Purdue",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 10",
+        "opponent": "Iowa",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "NC Central",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "Missouri State",
+        "location": "neutral",
+        "venue": "Kansas City"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Northern Arizona",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "New Hampshire",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Kansas": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Fordham",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Middle Tennessee",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Kentucky",
+        "location": "neutral",
+        "venue": "Champions"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "UNLV",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Auburn",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Denver",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Villanova",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Northern Iowa",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Missouri",
+        "location": "neutral",
+        "venue": "Kansas City"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "UConn",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Ohio State",
+        "location": "neutral",
+        "venue": "New York City"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Indiana State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "New Orleans",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Kansas State": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "South Dakota State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "CSUN",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Creighton",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Montana",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Campbell",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Baylor",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Dec. 4",
+        "opponent": "Seton Hall",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "IU Indianapolis",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 11",
+        "opponent": "Wichita State",
+        "location": "neutral",
+        "venue": "Kansas City"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "Little Rock",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Lindenwood",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Omaha",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Oklahoma State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Incarnate Word",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Queens",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Texas A&M",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Central Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Minnesota",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Virginia Tech",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "Tennessee State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Grand Canyon",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Saint Mary's",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Oklahoma",
+        "location": "neutral",
+        "venue": "Oklahoma City"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Oral Roberts",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Northwestern",
+        "location": "neutral",
+        "venue": "Oklahoma City"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Houston Christian",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 2",
+        "opponent": "Niagara",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Auburn",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Kansas",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "North Carolina",
+        "location": "neutral",
+        "venue": "Charlotte"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Mercyhurst",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Virginia Tech",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Pittsburgh",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Coppin State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Wake Forest",
+        "location": "neutral",
+        "venue": "Greensboro"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "South Carolina State",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "TCU": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Lindenwood",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "UL Monroe",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Milwaukee",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Texas A&M",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Miami FL",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Mich",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Notre Dame",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Alabama State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Clemson",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Holy Cross",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Houston Christian",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Oral Roberts",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Texas Tech": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Bethune-Cookman",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Stonehill",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "LSU-New Orleans",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Louisville",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Oregon",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Omaha",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "USC",
+        "location": "neutral",
+        "venue": "Fort Worth"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Incarnate Word",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Duke",
+        "location": "neutral",
+        "venue": "New York City"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Mississippi Valley State",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "UCF": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "FGCU",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Yale",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "South Alabama",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Georgia Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Mississippi State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Boston College",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Georgia",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Jacksonville",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "American",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Indiana",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "FIU",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Virginia Tech",
+        "location": "neutral",
+        "venue": "Fort Lauderdale"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Towson",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Utah": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Long Beach State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Towson",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Weber State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Washington",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Eastern Washington",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Dayton",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Minnesota",
+        "location": "neutral",
+        "venue": "Charleston"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "California",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 9",
+        "opponent": "Cal Baptist",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Abilene Christian",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Portland",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Sam Houston",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Southern Utah",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Air Force",
+        "location": "home"
+      }
+    ],
+    "conference": "Big 12"
+  },
+  "Alabama": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Sam Houston",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Arkansas State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Seton Hall",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Kennesaw State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Baylor",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Miami (FL) (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Houston",
+        "location": "neutral",
+        "venue": "Jimmy V Classic"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "St. John's",
+        "location": "neutral",
+        "venue": "Birmingham"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "USF",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Iowa",
+        "location": "neutral",
+        "venue": "Des Moines"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Samford",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Arkansas": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Arkansas-Pine Bluff",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Virginia",
+        "location": "neutral",
+        "venue": "DC"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Robert Morris",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Central Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Indiana",
+        "location": "neutral",
+        "venue": "MSG"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Michigan State",
+        "location": "neutral",
+        "venue": "Detroit"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "North Carolina (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Oral Roberts",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Arizona",
+        "location": "neutral",
+        "venue": "Phoenix"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Central Michigan",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "UTRGV",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Auburn": {
+    "games": [
+      {
+        "date": "Nov. 4",
+        "opponent": "SE Louisiana",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Appalachian State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Arizona",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "West Virginia",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Kansas",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Lipscomb",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Clemson (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Eastern Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Alabama State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Middle Tennessee",
+        "location": "neutral",
+        "venue": "Huntsville"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Wisconsin",
+        "location": "neutral",
+        "venue": "Nashville"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Lehigh",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Morgan State",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Florida": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Miami",
+        "location": "neutral",
+        "venue": "FL"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Jacksonville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Florida State",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Merrimack",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Notre Dame",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Houston",
+        "location": "neutral",
+        "venue": "Players Era"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Milwaukee",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Duke",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Vermont",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Georgia Tech",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "Grand Canyon",
+        "location": "neutral",
+        "venue": "Jacksonville"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Florida A&M",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "LIU",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Georgia": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "NC Central",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Presbyterian",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Florida Gulf Coast",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "North Carolina",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Jacksonville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Georgia Tech",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "UCF",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Cincinnati",
+        "location": "neutral",
+        "venue": "Orlando"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Boston College",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Duke",
+        "location": "neutral",
+        "venue": "Jimmy V Classic"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Alabama A&M",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "West Georgia",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Gardner-Webb",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "North Florida",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Kentucky": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Manhattan",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "James Madison",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Kansas",
+        "location": "neutral",
+        "venue": "Champions Classic"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Northern Arizona",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Grambling",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Indiana",
+        "location": "neutral",
+        "venue": "Indianapolis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Wichita State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Virginia (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Appalachian State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Bryant",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Louisville",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "North Carolina",
+        "location": "neutral",
+        "venue": "New York City"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Sacred Heart",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Gardner-Webb",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "LSU": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "LSU-New Orleans",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Texas Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Louisiana Tech",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Gonzaga",
+        "location": "neutral",
+        "venue": "Spokane"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "UL Monroe",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "Queens",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Arizona St",
+        "location": "neutral",
+        "venue": "Palm Springs"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "SMU",
+        "location": "neutral",
+        "venue": "Palm Springs"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Wake Forest",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Hofstra",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 13",
+        "opponent": "Houston",
+        "location": "neutral",
+        "venue": "Houston"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "High Point",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Louisiana",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Washington State",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Mississippi State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Tennessee Tech",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Northwestern State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Xavier",
+        "location": "neutral",
+        "venue": "Greenbrier"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "UCF",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Tulsa",
+        "location": "neutral",
+        "venue": "Jackson, MS"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Wake Forest",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Penn State",
+        "location": "neutral",
+        "venue": "Atlantis"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Georgia Tech",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 7",
+        "opponent": "Alabama A&M",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Marquette",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Mississippi Valley State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Campbell",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Missouri": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Cleveland State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Saint Louis",
+        "location": "neutral",
+        "venue": "St. Louis"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "SIUE",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Marquette",
+        "location": "neutral",
+        "venue": "Chicago"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Le Moyne",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Evansville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Arkansas-Pine Bluff",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Pittsburgh",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Kansas",
+        "location": "neutral",
+        "venue": "Kansas City"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Nebraska",
+        "location": "neutral",
+        "venue": "Kansas City"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "Indiana",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Illinois",
+        "location": "neutral",
+        "venue": "St. Louis"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Chicago State",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Oklahoma": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "East Texas A&M",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Mississippi Valley State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "North Alabama",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Fairleigh Dickinson",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Campbell",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Pittsburgh",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Purdue",
+        "location": "neutral",
+        "venue": "Fort Myers"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Syracuse",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Arizona State",
+        "location": "neutral",
+        "venue": "Tulsa"
+      },
+      {
+        "date": "Dec. 7",
+        "opponent": "Alabama State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Oklahoma State",
+        "location": "neutral",
+        "venue": "Oklahoma City"
+      },
+      {
+        "date": "Dec. 17",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "SMU",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "UL Monroe",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Ole Miss": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Central Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "SE Louisiana",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Nicholls",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Clemson",
+        "location": "neutral",
+        "venue": "Maui"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Washington",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Virginia Tech (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 7",
+        "opponent": "William & Mary",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "UL Monroe",
+        "location": "neutral",
+        "venue": "Southaven, MS"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Youngstown State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "NC State",
+        "location": "neutral",
+        "venue": "Tupleo, MS"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Southern Miss",
+        "location": "neutral",
+        "venue": "Biloxi, MS"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 2",
+        "opponent": "Bellarmine",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Wake Forest",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Memphis",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Prairie View A&M",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Eastern Illinois",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "UCF",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Ohio State",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Southern",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Notre Dame (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "California",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "West Georgia",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "Southern Indiana",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Milwaukee",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Alcorn State",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "South Carolina": {
+    "games": [
+      {
+        "date": "Nov. 8",
+        "opponent": "SEMO",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Gardner-Webb",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Elon",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "USC",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Arizona St",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "NC State (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Clemson",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Maryland",
+        "location": "neutral",
+        "venue": "Baltimore"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Tennessee": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Wofford",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Radford",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Tennessee State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Michigan State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Coastal Carolina",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Maryland",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Iowa State",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Florida State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "NC State",
+        "location": "neutral",
+        "venue": "Nashville"
+      },
+      {
+        "date": "Dec. 11",
+        "opponent": "Purdue",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Morehead State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Marist",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Norfolk State",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Texas A&M": {
+    "games": [
+      {
+        "date": "Nov. 3",
+        "opponent": "Alabama State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Northern Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "UL Monroe",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Oklahoma State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "SE Louisiana",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "TCU",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Xavier",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Marquette",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Stanford",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Arkansas-Pine Bluff",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Florida State",
+        "location": "neutral",
+        "venue": "Houston"
+      },
+      {
+        "date": "Dec. 17",
+        "opponent": "Holy Cross",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "North Florida",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Prairie View A&M",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Texas": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Chicago State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 5",
+        "opponent": "Gardner-Webb",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "Grambling",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Baylor",
+        "location": "neutral",
+        "venue": "San Antonio"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Southern Utah",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Southern Indiana",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Georgetown",
+        "location": "neutral",
+        "venue": "San Diego"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "UCLA",
+        "location": "neutral",
+        "venue": "San Diego"
+      },
+      {
+        "date": "Dec. 1",
+        "opponent": "Louisville (ACC",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Miami",
+        "location": "neutral",
+        "venue": "FL"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Memphis",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Prairie View A&M",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "East Texas A&M",
+        "location": "home"
+      }
+    ],
+    "conference": "SEC"
+  },
+  "Gonzaga": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Purdue",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "New Mexico State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "LSU",
+        "location": "neutral",
+        "venue": "Spokane"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Kansas State",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Nov. 26",
+        "opponent": "Alabama",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "UCLA",
+        "location": "neutral",
+        "venue": "Anaheim"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Creighton",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Michigan State",
+        "location": "neutral",
+        "venue": "Palm Springs"
+      },
+      {
+        "date": "Dec. 31",
+        "opponent": "Cornell",
+        "location": "home"
+      },
+      {
+        "date": "Jan. 30",
+        "opponent": "Oregon",
+        "location": "neutral",
+        "venue": "Seattle"
+      },
+      {
+        "date": "Feb. 20",
+        "opponent": "Duke",
+        "location": "neutral",
+        "venue": "Detroit"
+      }
+    ],
+    "conference": "Other"
+  },
+  "Boise State": {
+    "games": [
+      {
+        "date": "Nov. 4",
+        "opponent": "West Coast Baptist",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "Butler",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "Oakland",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Nebraska",
+        "location": "neutral",
+        "venue": "Sioux Falls"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Sam Houston State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Idaho State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Drake",
+        "location": "neutral",
+        "venue": "Snake River"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "North Texas",
+        "location": "neutral",
+        "venue": "Snake River"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "NDSU",
+        "location": "neutral",
+        "venue": "Snake River"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Wichita State",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Texas A&M-CC",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Utah Valley",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Santa Clara",
+        "location": "neutral",
+        "venue": "SoCal Challenge"
+      },
+      {
+        "date": "Dec. 23",
+        "opponent": "New Mexico",
+        "location": "neutral",
+        "venue": "SoCal Challenge"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Lamar",
+        "location": "home"
+      }
+    ],
+    "conference": "Other"
+  },
+  "Grand Canyon": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Texas Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Bethune-Cookman",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 11",
+        "opponent": "Cal Poly",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "UL Monroe",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Saint Louis",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Stanford",
+        "location": "neutral",
+        "venue": "Acrisure"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "Incarnate Word",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Oklahoma State",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Santa Clara",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Northwestern State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 11",
+        "opponent": "Memphis",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "Florida",
+        "location": "neutral",
+        "venue": "Jacksonville"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "UMBC",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 29",
+        "opponent": "Justice U",
+        "location": "home"
+      }
+    ],
+    "conference": "Other"
+  },
+  "Hawai'i": {
+    "games": [
+      {
+        "date": "Nov. 6",
+        "opponent": "TBD Rainbow Classic",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 8",
+        "opponent": "TBD Rainbow Classic",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 9",
+        "opponent": "TBD Rainbow Classic",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Wash State",
+        "location": "neutral",
+        "venue": "Palm Desert"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Green Bay",
+        "location": "home"
+      }
+    ],
+    "conference": "Other"
+  },
+  "Saint Louis": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Lehigh",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 6",
+        "opponent": "Missouri",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Northern Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "High Point",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Saint Mary's",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Grand Canyon",
+        "location": "neutral",
+        "venue": "Acrisure"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Colorado",
+        "location": "neutral",
+        "venue": "Acrisure"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "USF",
+        "location": "neutral",
+        "venue": "Columbus"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Arkansas Pine-Bluff",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "SEMO",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "DePaul",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "Florida A&M",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 20",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 27",
+        "opponent": "Missouri Baptist",
+        "location": "home"
+      }
+    ],
+    "conference": "Other"
+  },
+  "George Mason": {
+    "games": [
+      {
+        "date": "Nov. 6",
+        "opponent": "Coppin State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Kansas City",
+        "location": "neutral",
+        "venue": "St. Petersburg"
+      },
+      {
+        "date": "Nov. 14",
+        "opponent": "Bradley",
+        "location": "neutral",
+        "venue": "St. Petersburg"
+      },
+      {
+        "date": "Nov. 21",
+        "opponent": "USF",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "High Point",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 8",
+        "opponent": "Morgan State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Old Dominion",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Towson",
+        "location": "neutral",
+        "venue": "Baltimore"
+      }
+    ],
+    "conference": "Other"
+  },
+  "Memphis": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Iowa State",
+        "location": "neutral",
+        "venue": "Sioux Falls"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "VCU",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Louisville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 22",
+        "opponent": "Evansville",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 25",
+        "opponent": "Penn State",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 27",
+        "opponent": "Wake",
+        "location": "neutral",
+        "venue": "Battle 4 Atlantis"
+      },
+      {
+        "date": "Nov. 29",
+        "opponent": "Dayton",
+        "location": "neutral",
+        "venue": "Columbus"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Jackson State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 5",
+        "opponent": "Baylor",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 11",
+        "opponent": "Grand Canyon",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 16",
+        "opponent": "Texas",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 22",
+        "opponent": "Little Rock",
+        "location": "home"
+      },
+      {
+        "date": "Feb. 20",
+        "opponent": "Utah State",
+        "location": "home"
+      }
+    ],
+    "conference": "Other"
+  },
+  "Tulsa": {
+    "games": [
+      {
+        "date": "Nov. 11",
+        "opponent": "Oral Roberts",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 16",
+        "opponent": "Western Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Mississippi State",
+        "location": "neutral",
+        "venue": "Jackson, MS"
+      },
+      {
+        "date": "Nov. 23",
+        "opponent": "Oregon State",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Illinois State",
+        "location": "neutral",
+        "venue": "Acrisure Series"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Florida A&M",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 19",
+        "opponent": "Utah State",
+        "location": "neutral",
+        "venue": "Frisco"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "San Francisco",
+        "location": "neutral",
+        "venue": "Frisco"
+      }
+    ],
+    "conference": "Other"
+  },
+  "High Point": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Liberty",
+        "location": "neutral",
+        "venue": "Rock Hill"
+      },
+      {
+        "date": "Nov. 4",
+        "opponent": "UMES",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Washington State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 12",
+        "opponent": "Southern Utah",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 15",
+        "opponent": "Saint Louis",
+        "location": "away"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "Montana State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 24",
+        "opponent": "Duquesne",
+        "location": "neutral",
+        "venue": "Daytona Beach"
+      },
+      {
+        "date": "Nov. 28",
+        "opponent": "The Citadel",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "George Mason",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 4",
+        "opponent": "Wagner",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "William Peace",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Miami",
+        "location": "neutral",
+        "venue": "OH"
+      },
+      {
+        "date": "Dec. 15",
+        "opponent": "NC Central",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 18",
+        "opponent": "LSU",
+        "location": "away"
+      },
+      {
+        "date": "Dec. 21",
+        "opponent": "Loyola MD",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 28",
+        "opponent": "Pfeiffer",
+        "location": "home"
+      }
+    ],
+    "conference": "Other"
+  },
+  "Murray State": {
+    "games": [
+      {
+        "date": "Nov. 2",
+        "opponent": "Tennessee State",
+        "location": "neutral",
+        "venue": "Sioux Falls"
+      },
+      {
+        "date": "Nov. 7",
+        "opponent": "Northwestern State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 10",
+        "opponent": "Alcorn State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 13",
+        "opponent": "Texas Southern",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 17",
+        "opponent": "Hofstra",
+        "location": "neutral",
+        "venue": "Memphis"
+      },
+      {
+        "date": "Nov. 18",
+        "opponent": "Morehead State",
+        "location": "home"
+      },
+      {
+        "date": "Nov. 19",
+        "opponent": "NC State",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 20",
+        "opponent": "Wisc",
+        "location": "neutral",
+        "venue": "Baha Mar"
+      },
+      {
+        "date": "Nov. 30",
+        "opponent": "Washington State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 2",
+        "opponent": "Chicago State",
+        "location": "home"
+      },
+      {
+        "date": "Dec. 6",
+        "opponent": "Georgia Tech",
+        "location": "neutral",
+        "venue": "Nashville"
+      },
+      {
+        "date": "Dec. 12",
+        "opponent": "Santa Clara",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      },
+      {
+        "date": "Dec. 14",
+        "opponent": "Cal State Bakersfield",
+        "location": "neutral",
+        "venue": "Las Vegas"
+      }
+    ],
+    "conference": "Other"
+  }
+}
