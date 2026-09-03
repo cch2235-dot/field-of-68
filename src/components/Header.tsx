@@ -9,6 +9,7 @@ const NAV = [
   { href:'/articles', label:'Articles' },
   { href:'/shows', label:'Shows' },
   { href:'/rankings', label:'Top 25' },
+  { href:'/teams', label:'Teams' },
   { href:'/rankings/hs', label:'HS Rankings' },
   { href:'/portal', label:'Portal' },
   { href:'/eligibility', label:'Eligibility Tracker' },
