@@ -19702,7 +19702,7 @@
     },
     {
       "name": "Gonzaga",
-      "conference": "Pac-12",
+      "conference": "WCC",
       "espnId": 2250,
       "coach": "",
       "players": [
@@ -20923,6 +20923,13 @@
           "notes": ""
         }
       ]
+    },
+    {
+      "name": "Miami",
+      "conference": "ACC",
+      "espnId": 2390,
+      "coach": "",
+      "players": []
     }
   ]
 }
