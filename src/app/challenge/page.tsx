@@ -451,6 +451,7 @@ export default function App() {
                   </div>
                 ))}
               </div>
+            </div>
             <button onClick={simulate} style={{ width: "100%", background: "#F5A623", color: "#0A0A0A", border: "none", borderRadius: 10, padding: "15px", fontFamily: "'Bebas Neue',sans-serif", fontSize: 24, letterSpacing: 3, cursor: "pointer" }}>🏆 SIMULATE THE SEASON</button>
           </div>
         )}
