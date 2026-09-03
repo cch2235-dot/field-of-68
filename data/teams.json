@@ -22604,7 +22604,7 @@
   },
   {
     "name": "Gonzaga",
-    "conf": "Pac-12",
+    "conf": "WCC",
     "players": [
       {
         "name": "Nathan De Sousa",
@@ -23987,5 +23987,11 @@
       }
     ],
     "espnId": 278
+  },
+  {
+    "name": "Miami",
+    "conf": "ACC",
+    "espnId": 2390,
+    "players": []
   }
 ]
