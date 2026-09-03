@@ -278,7 +278,7 @@ export default function App() {
         method: "POST", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           model: "claude-sonnet-4-6", max_tokens: 1200,
-          messages: [{ role: "user", content: `You are a sharp college basketball analyst. Simulate this squad's season. Squad rating: ${r.score}/100 (${r.verdict}). Combined: ${r.breakdown.totalPpg} PPG / ${r.breakdown.totalRpg} RPG / ${r.breakdown.totalApg} APG (40-0 requires 110 PPG / 35 RPG / 20 APG).\\n\\nSquad:\\n${squadStr}\\n\\nBase the RECORD directly on how close they hit the parameters. Perfect thresholds = 40-0. Well below = .500 or worse. Include realistic scores for every tournament game. Mention players by name.\\n\\nRespond ONLY in JSON (no markdown):\\n{"record":"24-11","madetournament":true,"seed":7,"tournamentRun":[{"round":"Round of 64","opponent":"Duke Blue Devils","result":"W","score":"82-74"},{"round":"Round of 32","opponent":"Kansas Jayhawks","result":"L","score":"68-71"}],"exitRound":"Round of 32","mvp":"Player Name","headline":"ALL CAPS HEADLINE","analysis":"3-4 sentences...","grade":"B+"}}` }]
+          messages: [{ role: "user", content: `You are a sharp college basketball analyst. Simulate this squad's season. Squad rating: ${r.score}/100 (${r.verdict}). Combined: ${r.breakdown.totalPpg} PPG / ${r.breakdown.totalRpg} RPG / ${r.breakdown.totalApg} APG (40-0 requires 110 PPG / 35 RPG / 20 APG).\\n\\nSquad:\\n${squadStr}\\n\\nBase the RECORD directly on how close they hit the parameters. Perfect thresholds = 40-0. Well below = .500 or worse. Include realistic scores for every tournament game. Mention players by name. When assigning tournament opponents use this top 68 ranking — higher seeds face lower seeds: 1.Florida 2.Duke 3.Illinois 4.Texas 5.Texas Tech 6.UConn 7.Michigan 8.Tennessee 9.Michigan St. 10.Arizona 11.St. John's 12.Arkansas 13.Miami 14.Gonzaga 15.Louisville 16.Vanderbilt 17.Virginia 18.Houston 19.Kentucky 20.Alabama 21.Missouri 22.Kansas 23.BYU 24.Iowa State 25.UCLA 26.USC 27.Saint Louis 28.Creighton 29.Ohio State 30.Villanova 31.Marquette 32.Indiana 33.Purdue 34.North Carolina 35.Baylor 36.Texas A&M 37.West Virginia 38.Oklahoma 39.Oklahoma State 40.Iowa 41.Providence 42.LSU 43.NC State 44.Nebraska 45.Maryland 46.Xavier 47.VCU 48.Oregon 49.Cincinnati 50.Grand Canyon 51.Wisconsin 52.DePaul 53.Arizona State 54.TCU 55.Ole Miss 56.Florida State 57.Auburn 58.Syracuse 59.Georgetown 60.Minnesota 61.Murray State 62.New Mexico 63.Wichita State 64.Colorado State 65.San Diego State 66.Boise State 67.High Point 68.SMU\\n\\nRespond ONLY in JSON (no markdown):\\n{"record":"24-11","madetournament":true,"seed":7,"tournamentRun":[{"round":"Round of 64","opponent":"Duke Blue Devils","result":"W","score":"82-74"},{"round":"Round of 32","opponent":"Kansas Jayhawks","result":"L","score":"68-71"}],"exitRound":"Round of 32","mvp":"Player Name","headline":"ALL CAPS HEADLINE","analysis":"3-4 sentences...","grade":"B+"}}` }]
         })
       });
       clearInterval(iv);
@@ -451,8 +451,6 @@ export default function App() {
                   </div>
                 ))}
               </div>
-              </div>
-            </div>
             <button onClick={simulate} style={{ width: "100%", background: "#F5A623", color: "#0A0A0A", border: "none", borderRadius: 10, padding: "15px", fontFamily: "'Bebas Neue',sans-serif", fontSize: 24, letterSpacing: 3, cursor: "pointer" }}>🏆 SIMULATE THE SEASON</button>
           </div>
         )}
