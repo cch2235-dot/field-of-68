@@ -3,7 +3,7 @@
     {
       "name": "Maryland",
       "conference": "Big Ten",
-      "espnId": 97,
+      "espnId": 120,
       "coach": "",
       "players": [
         {
@@ -663,9 +663,9 @@
       ]
     },
     {
-      "name": "Ohio St.",
+      "name": "Ohio State",
       "conference": "Big Ten",
-      "espnId": null,
+      "espnId": 194,
       "coach": "",
       "players": [
         {
@@ -821,9 +821,9 @@
       ]
     },
     {
-      "name": "Michigan St.",
+      "name": "Michigan State",
       "conference": "Big Ten",
-      "espnId": null,
+      "espnId": 127,
       "coach": "",
       "players": [
         {
@@ -3625,9 +3625,9 @@
       ]
     },
     {
-      "name": "Iowa St.",
+      "name": "Iowa State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 66,
       "coach": "",
       "players": [
         {
@@ -4395,9 +4395,9 @@
       ]
     },
     {
-      "name": "Kansas St.",
+      "name": "Kansas State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 2306,
       "coach": "",
       "players": [
         {
@@ -4543,9 +4543,9 @@
       ]
     },
     {
-      "name": "Oklahoma St.",
+      "name": "Oklahoma State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 197,
       "coach": "",
       "players": [
         {
@@ -5037,9 +5037,9 @@
       ]
     },
     {
-      "name": "Arizona St.",
+      "name": "Arizona State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 9,
       "coach": "",
       "players": [
         {
@@ -6429,9 +6429,9 @@
       ]
     },
     {
-      "name": "Mizzou",
+      "name": "Missouri",
       "conference": "SEC",
-      "espnId": null,
+      "espnId": 142,
       "coach": "",
       "players": [
         {
@@ -6913,9 +6913,9 @@
       ]
     },
     {
-      "name": "Mississippi St.",
+      "name": "Mississippi State",
       "conference": "SEC",
-      "espnId": null,
+      "espnId": 344,
       "coach": "",
       "players": [
         {
@@ -9157,7 +9157,7 @@
     {
       "name": "Seton Hall",
       "conference": "Big East",
-      "espnId": 2571,
+      "espnId": 2550,
       "coach": "",
       "players": [
         {
@@ -10321,154 +10321,6 @@
       ]
     },
     {
-      "name": "GONE",
-      "conference": "ACC",
-      "espnId": null,
-      "coach": "",
-      "players": [
-        {
-          "name": "Acaden Lewis",
-          "pos": "G",
-          "height": "6-2",
-          "year": "So.",
-          "ppg": 12.2,
-          "rpg": 3.0,
-          "apg": 5.3,
-          "notes": ""
-        },
-        {
-          "name": "Dante Allen",
-          "pos": "G",
-          "height": "6-4",
-          "year": "So.",
-          "ppg": 6.6,
-          "rpg": 2.8,
-          "apg": 2.2,
-          "notes": ""
-        },
-        {
-          "name": "Shelton Henderson",
-          "pos": "F",
-          "height": "6-6",
-          "year": "So.",
-          "ppg": 13.8,
-          "rpg": 4.9,
-          "apg": 2.1,
-          "notes": ""
-        },
-        {
-          "name": "Caleb Gaskins",
-          "pos": "F",
-          "height": "6-8",
-          "year": "Fr.",
-          "ppg": 0,
-          "rpg": 0,
-          "apg": 0,
-          "notes": ""
-        },
-        {
-          "name": "Somto Cyril",
-          "pos": "C",
-          "height": "6-11",
-          "year": "Jr.",
-          "ppg": 9.3,
-          "rpg": 5.4,
-          "apg": 0.6,
-          "notes": ""
-        },
-        {
-          "name": "DeSean Goode",
-          "pos": "G",
-          "height": "6-8",
-          "year": "Jr.",
-          "ppg": 15.2,
-          "rpg": 8.7,
-          "apg": 1.4,
-          "notes": ""
-        },
-        {
-          "name": "Robert Miller III",
-          "pos": "G",
-          "height": "6-10",
-          "year": "Jr.",
-          "ppg": 6.1,
-          "rpg": 3.9,
-          "apg": 0.7,
-          "notes": ""
-        },
-        {
-          "name": "Nick Dorn",
-          "pos": "G",
-          "height": "6-7",
-          "year": "Sr.",
-          "ppg": 8.1,
-          "rpg": 2.3,
-          "apg": 0.3,
-          "notes": ""
-        },
-        {
-          "name": "Brent Bland",
-          "pos": "G",
-          "height": "6-3",
-          "year": "Gr.",
-          "ppg": 13.9,
-          "rpg": 5.0,
-          "apg": 1.5,
-          "notes": ""
-        },
-        {
-          "name": "Quin Berger",
-          "pos": "G",
-          "height": "6-2",
-          "year": "Sr.",
-          "ppg": 3.1,
-          "rpg": 1.4,
-          "apg": 0.7,
-          "notes": ""
-        },
-        {
-          "name": "Egor Ryzhov",
-          "pos": "G",
-          "height": "6-11",
-          "year": "Sr.",
-          "ppg": 0,
-          "rpg": 0,
-          "apg": 0,
-          "notes": ""
-        },
-        {
-          "name": "Christopher Birden",
-          "pos": "G",
-          "height": "6-10",
-          "year": "Fr.",
-          "ppg": 0,
-          "rpg": 0,
-          "apg": 0,
-          "notes": ""
-        },
-        {
-          "name": "Marcus Allen",
-          "pos": "G",
-          "height": "6-7",
-          "year": "Jr.",
-          "ppg": 5.3,
-          "rpg": 3.1,
-          "apg": 1.6,
-          "notes": ""
-        },
-        {
-          "name": "L.J. Cason",
-          "pos": "G",
-          "height": "6-2",
-          "year": "Jr.",
-          "ppg": 8.4,
-          "rpg": 1.9,
-          "apg": 2.4,
-          "notes": ""
-        }
-      ]
-    },
-    {
       "name": "NC State",
       "conference": "ACC",
       "espnId": 152,
@@ -10787,7 +10639,7 @@
     {
       "name": "Louisville",
       "conference": "ACC",
-      "espnId": 2350,
+      "espnId": 97,
       "coach": "",
       "players": [
         {
@@ -10913,9 +10765,9 @@
       ]
     },
     {
-      "name": "Florida St.",
+      "name": "Florida State",
       "conference": "ACC",
-      "espnId": null,
+      "espnId": 52,
       "coach": "",
       "players": [
         {
