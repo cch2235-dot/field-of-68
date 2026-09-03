@@ -8,7 +8,7 @@ const SLOTS = [
   { id: "G1",  label: "G",     color: "#3b82f6" },
   { id: "G2",  label: "G",     color: "#3b82f6" },
   { id: "F1",  label: "F",     color: "#22c55e" },
-  { id: "F2",  label: "F",     color: "#22c55e" },h
+  { id: "F2",  label: "F",     color: "#22c55e" },
   { id: "C",   label: "C",     color: "#a855f7" },
   { id: "BEN", label: "BENCH", color: "#F5A623" },
 ];
