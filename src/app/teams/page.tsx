@@ -3,7 +3,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import rostersData from '../../../data/rosters.json';
 
-const CONFERENCES = ['ACC', 'Big East', 'Big Ten', 'Big 12', 'SEC'];
+const CONFERENCES = ['ACC', 'American', 'Atlantic 10', 'Big 12', 'Big East', 'Big Ten', 'MWC', 'Pac-12', 'SEC', 'WCC'];
 const WHITE_BG_TEAMS = ['Cincinnati', 'Penn State', 'Iowa', 'Wake Forest', 'California'];
 
 function TeamsContent() {
