@@ -729,7 +729,7 @@
     "espnId": 275
   },
   {
-    "name": "Ohio St.",
+    "name": "Ohio State",
     "conf": "Big Ten",
     "players": [
       {
@@ -901,10 +901,10 @@
         "tpp": 0.0
       }
     ],
-    "espnId": null
+    "espnId": 194
   },
   {
-    "name": "Michigan St.",
+    "name": "Michigan State",
     "conf": "Big Ten",
     "players": [
       {
@@ -1069,7 +1069,7 @@
         "tpp": 100.0
       }
     ],
-    "espnId": null
+    "espnId": 127
   },
   {
     "name": "Iowa",
@@ -4115,7 +4115,7 @@
     "espnId": 252
   },
   {
-    "name": "Iowa St.",
+    "name": "Iowa State",
     "conf": "Big 12",
     "players": [
       {
@@ -4294,7 +4294,7 @@
         "tpp": 0.0
       }
     ],
-    "espnId": null
+    "espnId": 66
   },
   {
     "name": "Baylor",
@@ -4987,7 +4987,7 @@
     "espnId": 2641
   },
   {
-    "name": "Kansas St.",
+    "name": "Kansas State",
     "conf": "Big 12",
     "players": [
       {
@@ -5159,10 +5159,10 @@
         "hasStats": false
       }
     ],
-    "espnId": null
+    "espnId": 2306
   },
   {
-    "name": "Oklahoma St.",
+    "name": "Oklahoma State",
     "conf": "Big 12",
     "players": [
       {
@@ -5335,7 +5335,7 @@
         "tpp": 38.3
       }
     ],
-    "espnId": null
+    "espnId": 197
   },
   {
     "name": "Utah",
@@ -5711,7 +5711,7 @@
     "espnId": 12
   },
   {
-    "name": "Arizona St.",
+    "name": "Arizona State",
     "conf": "Big 12",
     "players": [
       {
@@ -5855,7 +5855,7 @@
         "tpp": 31.4
       }
     ],
-    "espnId": null
+    "espnId": 9
   },
   {
     "name": "Colorado",
@@ -7291,7 +7291,7 @@
     "espnId": 61
   },
   {
-    "name": "Mizzou",
+    "name": "Missouri",
     "conf": "SEC",
     "players": [
       {
@@ -7477,7 +7477,7 @@
         "tpp": 25.0
       }
     ],
-    "espnId": null
+    "espnId": 142
   },
   {
     "name": "Vanderbilt",
@@ -7837,7 +7837,7 @@
     "espnId": 333
   },
   {
-    "name": "Mississippi St.",
+    "name": "Mississippi State",
     "conf": "SEC",
     "players": [
       {
@@ -7995,7 +7995,7 @@
         "tpp": 20.0
       }
     ],
-    "espnId": null
+    "espnId": 344
   },
   {
     "name": "South Carolina",
@@ -12491,7 +12491,7 @@
     "espnId": 97
   },
   {
-    "name": "Florida St.",
+    "name": "Florida State",
     "conf": "ACC",
     "players": [
       {
@@ -12649,7 +12649,7 @@
         "tpp": 33.3
       }
     ],
-    "espnId": null
+    "espnId": 52
   },
   {
     "name": "Georgia Tech",
@@ -17869,7 +17869,7 @@
     "espnId": 2440
   },
   {
-    "name": "Wichita St.",
+    "name": "Wichita State",
     "conf": "American",
     "players": [
       {
@@ -18070,7 +18070,7 @@
         "tpp": 37.8
       }
     ],
-    "espnId": null
+    "espnId": 2724
   },
   {
     "name": "Temple",
@@ -22843,7 +22843,7 @@
     "espnId": 2184
   },
   {
-    "name": "San Diego St.",
+    "name": "San Diego State",
     "conf": "Pac-12",
     "players": [
       {
@@ -23001,7 +23001,7 @@
         "tpp": 40.0
       }
     ],
-    "espnId": null
+    "espnId": 21
   },
   {
     "name": "Gonzaga",
@@ -23161,7 +23161,7 @@
     "espnId": 2250
   },
   {
-    "name": "Boise St.",
+    "name": "Boise State",
     "conf": "Pac-12",
     "players": [
       {
@@ -23369,10 +23369,10 @@
         "tpp": 28.8
       }
     ],
-    "espnId": null
+    "espnId": 68
   },
   {
-    "name": "Oregon St.",
+    "name": "Oregon State",
     "conf": "Pac-12",
     "players": [
       {
@@ -23537,10 +23537,10 @@
         "tpp": 0.0
       }
     ],
-    "espnId": null
+    "espnId": 204
   },
   {
-    "name": "Utah St.",
+    "name": "Utah State",
     "conf": "Pac-12",
     "players": [
       {
@@ -23706,10 +23706,10 @@
         "hasStats": false
       }
     ],
-    "espnId": null
+    "espnId": 328
   },
   {
-    "name": "Colorado St.",
+    "name": "Colorado State",
     "conf": "Pac-12",
     "players": [
       {
@@ -23881,10 +23881,10 @@
         "tpp": 0.0
       }
     ],
-    "espnId": null
+    "espnId": 36
   },
   {
-    "name": "Washington St.",
+    "name": "Washington State",
     "conf": "Pac-12",
     "players": [
       {
@@ -24070,7 +24070,7 @@
         "hasStats": false
       }
     ],
-    "espnId": null
+    "espnId": 265
   },
   {
     "name": "Texas St.",
@@ -24248,7 +24248,7 @@
     "espnId": 326
   },
   {
-    "name": "Fresno St.",
+    "name": "Fresno State",
     "conf": "Pac-12",
     "players": [
       {
@@ -24392,7 +24392,7 @@
         "hasStats": false
       }
     ],
-    "espnId": null
+    "espnId": 278
   },
   {
     "name": "Miami",
