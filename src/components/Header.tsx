@@ -8,16 +8,15 @@ const NAV = [
   { href:'/videos', label:'Videos' },
   { href:'/articles', label:'Articles' },
   { href:'/shows', label:'Shows' },
-  { href:'/teams', label:'Teams' },
-  { href:'/portal', label:'Portal' },
   { href:'/rankings', label:'Top 25' },
   { href:'/rankings/hs', label:'HS Rankings' },
-  { href:'https://fieldof68.shop/', label:'Shop', external:true },
-  { href:'/about', label:'About' },
+  { href:'/portal', label:'Portal' },
   { href:'/eligibility', label:'Eligibility Tracker' },
+  { href:'/mock-draft', label:'NBA Mock Draft' },
   { href:'/challenge', label:'40-0 Challenge' },
-  { href:'/mock-draft', label:'Mock Draft' },
+  { href:'https://fieldof68.shop/', label:'Shop', external:true },
   { href:'/contact', label:'Advertise' },
+  { href:'/about', label:'About' },
 ];
 export default function Header() {
   const [open, setOpen] = useState(false);
