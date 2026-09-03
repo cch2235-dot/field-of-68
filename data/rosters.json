@@ -664,9 +664,9 @@
       ]
     },
     {
-      "name": "Ohio St.",
+      "name": "Ohio State",
       "conference": "Big Ten",
-      "espnId": null,
+      "espnId": 194,
       "coach": "",
       "players": [
         {
@@ -822,9 +822,9 @@
       ]
     },
     {
-      "name": "Michigan St.",
+      "name": "Michigan State",
       "conference": "Big Ten",
-      "espnId": null,
+      "espnId": 127,
       "coach": "",
       "players": [
         {
@@ -3631,9 +3631,9 @@
       ]
     },
     {
-      "name": "Iowa St.",
+      "name": "Iowa State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 66,
       "coach": "",
       "players": [
         {
@@ -4405,9 +4405,9 @@
       ]
     },
     {
-      "name": "Kansas St.",
+      "name": "Kansas State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 2306,
       "coach": "",
       "players": [
         {
@@ -4553,9 +4553,9 @@
       ]
     },
     {
-      "name": "Oklahoma St.",
+      "name": "Oklahoma State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 197,
       "coach": "",
       "players": [
         {
@@ -5050,9 +5050,9 @@
       ]
     },
     {
-      "name": "Arizona St.",
+      "name": "Arizona State",
       "conference": "Big 12",
-      "espnId": null,
+      "espnId": 9,
       "coach": "",
       "players": [
         {
@@ -6447,9 +6447,9 @@
       ]
     },
     {
-      "name": "Mizzou",
+      "name": "Missouri",
       "conference": "SEC",
-      "espnId": null,
+      "espnId": 142,
       "coach": "",
       "players": [
         {
@@ -6931,9 +6931,9 @@
       ]
     },
     {
-      "name": "Mississippi St.",
+      "name": "Mississippi State",
       "conference": "SEC",
-      "espnId": null,
+      "espnId": 344,
       "coach": "",
       "players": [
         {
@@ -10944,9 +10944,9 @@
       ]
     },
     {
-      "name": "Florida St.",
+      "name": "Florida State",
       "conference": "ACC",
-      "espnId": null,
+      "espnId": 52,
       "coach": "",
       "players": [
         {
@@ -15633,9 +15633,9 @@
       ]
     },
     {
-      "name": "Wichita St.",
+      "name": "Wichita State",
       "conference": "American",
-      "espnId": null,
+      "espnId": 2724,
       "coach": "",
       "players": [
         {
@@ -19903,9 +19903,9 @@
       ]
     },
     {
-      "name": "San Diego St.",
+      "name": "San Diego State",
       "conference": "Pac-12",
-      "espnId": null,
+      "espnId": 21,
       "coach": "",
       "players": [
         {
@@ -20192,9 +20192,9 @@
       ]
     },
     {
-      "name": "Boise St.",
+      "name": "Boise State",
       "conference": "Pac-12",
-      "espnId": null,
+      "espnId": 68,
       "coach": "",
       "players": [
         {
@@ -20361,9 +20361,9 @@
       ]
     },
     {
-      "name": "Oregon St.",
+      "name": "Oregon State",
       "conference": "Pac-12",
-      "espnId": null,
+      "espnId": 204,
       "coach": "",
       "players": [
         {
@@ -20499,9 +20499,9 @@
       ]
     },
     {
-      "name": "Utah St.",
+      "name": "Utah State",
       "conference": "Pac-12",
-      "espnId": null,
+      "espnId": 328,
       "coach": "",
       "players": [
         {
@@ -20658,9 +20658,9 @@
       ]
     },
     {
-      "name": "Colorado St.",
+      "name": "Colorado State",
       "conference": "Pac-12",
-      "espnId": null,
+      "espnId": 36,
       "coach": "",
       "players": [
         {
@@ -20816,9 +20816,9 @@
       ]
     },
     {
-      "name": "Washington St.",
+      "name": "Washington State",
       "conference": "Pac-12",
-      "espnId": null,
+      "espnId": 265,
       "coach": "",
       "players": [
         {
@@ -21122,9 +21122,9 @@
       ]
     },
     {
-      "name": "Fresno St.",
+      "name": "Fresno State",
       "conference": "Pac-12",
-      "espnId": null,
+      "espnId": 278,
       "coach": "",
       "players": [
         {
