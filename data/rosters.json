@@ -12333,6 +12333,8596 @@
           "notes": ""
         }
       ]
+    },
+    {
+      "name": "Saint Mary's",
+      "conference": "WCC",
+      "espnId": 2608,
+      "coach": "",
+      "players": [
+        {
+          "name": "Joshua Dent",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 13.2,
+          "rpg": 2.5,
+          "apg": 5.6,
+          "notes": ""
+        },
+        {
+          "name": "Myles Che",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Jr.",
+          "ppg": 12.1,
+          "rpg": 2.4,
+          "apg": 2.8,
+          "notes": ""
+        },
+        {
+          "name": "Mantas Juzenas",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 2.1,
+          "rpg": 1.4,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Vangelis Zougris",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 2.6,
+          "rpg": 2.4,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Salih Altuntas",
+          "pos": "C",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 1.6,
+          "rpg": 1.9,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Darius Bivins",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Thomas Ndong",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Sr.",
+          "ppg": 4.9,
+          "rpg": 6.5,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Rory Hawke",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-So.",
+          "ppg": 2.4,
+          "rpg": 1.2,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Luke Fennell",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 1.1,
+          "rpg": 0.6,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Kevin Gad",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 1.4,
+          "rpg": 1.3,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Jazz Gardner",
+          "pos": "G",
+          "height": "7-0",
+          "year": "R-Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Trent MacLean",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Flynn Pavely",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cooper Lewis",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Sam Curvy",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Pepperdine",
+      "conference": "WCC",
+      "espnId": 2492,
+      "coach": "",
+      "players": [
+        {
+          "name": "Oren Sahar",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Will McClendon",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Gr.",
+          "ppg": 13.0,
+          "rpg": 4.0,
+          "apg": 2.5,
+          "notes": ""
+        },
+        {
+          "name": "Evan Haywood",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 7.2,
+          "rpg": 1.9,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Petar Majstorovic",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 14.4,
+          "rpg": 6.4,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Youri Fritz",
+          "pos": "F/C",
+          "height": "6-9",
+          "year": "Gr.",
+          "ppg": 9.8,
+          "rpg": 5.4,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Jahari Williamson",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 10.3,
+          "rpg": 1.9,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Anthony Robinson",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Jr.",
+          "ppg": 2.3,
+          "rpg": 2.4,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Dontae Russo-Nance",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Alex Constanza",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Oliver Kanden",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ethan Meuser",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Gr.",
+          "ppg": 6.1,
+          "rpg": 5.2,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "David Mager",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Sr.",
+          "ppg": 4.4,
+          "rpg": 0.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Anto Balian",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Faruk Biberovic",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Colin Chou",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Santa Clara",
+      "conference": "WCC",
+      "espnId": 2557,
+      "coach": "",
+      "players": [
+        {
+          "name": "David Castillo",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Jr.",
+          "ppg": 10.3,
+          "rpg": 1.9,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Aleksandar Gavalyugov",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 9.0,
+          "rpg": 1.9,
+          "apg": 2.7,
+          "notes": ""
+        },
+        {
+          "name": "Jake Ensminger",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Gr.",
+          "ppg": 6.5,
+          "rpg": 5.5,
+          "apg": 2.9,
+          "notes": ""
+        },
+        {
+          "name": "Thierry Darlan",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 6.1,
+          "rpg": 3.6,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Chris Tadjo",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 1.7,
+          "rpg": 1.2,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Sidi Gueye",
+          "pos": "G",
+          "height": "6-11",
+          "year": "So.",
+          "ppg": 1.3,
+          "rpg": 0.8,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "KJ Cochran",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 4.7,
+          "rpg": 1.4,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Francis Chukwudebelu",
+          "pos": "G",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 1.4,
+          "rpg": 1.3,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Brad Longcor III",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Noah Badibanga",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Eli Jolin",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Brayde Kuykendall",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Alex Ensor",
+          "pos": "G",
+          "height": "7-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Elijah Mahi",
+          "pos": "G",
+          "height": "6-7",
+          "year": "GONE",
+          "ppg": 14.1,
+          "rpg": 4.7,
+          "apg": 2.6,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Denver",
+      "conference": "WCC",
+      "espnId": 2172,
+      "coach": "",
+      "players": [
+        {
+          "name": "Carson Johnson",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Jr.",
+          "ppg": 20.1,
+          "rpg": 1.8,
+          "apg": 3.0,
+          "notes": ""
+        },
+        {
+          "name": "Kam Martin",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 5.7,
+          "rpg": 2.1,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Jordan Rogers",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 5.8,
+          "rpg": 5.2,
+          "apg": 2.2,
+          "notes": ""
+        },
+        {
+          "name": "Shaun Wysocki",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 7.5,
+          "rpg": 3.3,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Babacar Mbengue",
+          "pos": "F",
+          "height": "7-0",
+          "year": "Sr.",
+          "ppg": 1.2,
+          "rpg": 1.5,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Logan Threatt",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 16.6,
+          "rpg": 3.7,
+          "apg": 2.6,
+          "notes": ""
+        },
+        {
+          "name": "CJ Hyland",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 6.2,
+          "rpg": 1.2,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Spencer Mahoney",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 0.2,
+          "rpg": 0.4,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Jaelen Nelson",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 11.2,
+          "rpg": 3.8,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Trey Cady",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 6.1,
+          "rpg": 2.2,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Oskar Wickstrom Stumer",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Charlie Dimmock",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Harry Bates",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Will Kirsch",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Loch Cunningham",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 0.2,
+          "rpg": 0.6,
+          "apg": 0.4,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "conference": "WCC",
+      "espnId": 2563,
+      "coach": "",
+      "players": [
+        {
+          "name": "Tyler Boston",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Jr.",
+          "ppg": 14.2,
+          "rpg": 3.7,
+          "apg": 3.6,
+          "notes": ""
+        },
+        {
+          "name": "Mason Williams",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 13.9,
+          "rpg": 3.2,
+          "apg": 2.4,
+          "notes": ""
+        },
+        {
+          "name": "Jun Seok Yeo",
+          "pos": "F",
+          "height": "6-8",
+          "year": "5th",
+          "ppg": 12.0,
+          "rpg": 4.0,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Will Heimbrodt",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 12.3,
+          "rpg": 5.2,
+          "apg": 2.2,
+          "notes": ""
+        },
+        {
+          "name": "Halvine Dzellat",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Jr.",
+          "ppg": 2.1,
+          "rpg": 2.0,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Tomas Thrastarson",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 8.8,
+          "rpg": 4.1,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Kaden Hansen",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Jr.",
+          "ppg": 18.6,
+          "rpg": 2.7,
+          "apg": 2.7,
+          "notes": ""
+        },
+        {
+          "name": "Miles Amos",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 1.8,
+          "rpg": 1.6,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Ray Adams",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 3.2,
+          "rpg": 2.2,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Ladji Coulibaly",
+          "pos": "G",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Yuto Kawashima",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 5.0,
+          "rpg": 2.8,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Jaden Bailes",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Amare Larane",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jeremiah Harshman",
+          "pos": "G",
+          "height": "6-1",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "JT White",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Loyola Marymount",
+      "conference": "WCC",
+      "espnId": 2380,
+      "coach": "",
+      "players": [
+        {
+          "name": "All Wright",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 7.5,
+          "rpg": 1.6,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Jasai Miles",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 1.6,
+          "rpg": 1.9,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Aaron McBride",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 7.6,
+          "rpg": 5.6,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Zion Sensley",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 10.9,
+          "rpg": 7.6,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Andy Sigiscar",
+          "pos": "F",
+          "height": "6-9",
+          "year": "R-So.",
+          "ppg": 7.2,
+          "rpg": 2.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Mazi Mosley",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 1.8,
+          "rpg": 0.6,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Donovan Rivers",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 8.6,
+          "rpg": 4.6,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "AJ Thomas",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 5.2,
+          "rpg": 1.4,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Christian Humphrey-Rembert",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 7.7,
+          "rpg": 6.6,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "JJ Harris",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Donovan Miller",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Zamir Paschall",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Abdoul Bare",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Aaron Banks",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cooper Smith",
+          "pos": "G",
+          "height": "6-2",
+          "year": "So.",
+          "ppg": 0.7,
+          "rpg": 0.3,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "George Tupy",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 0.5,
+          "rpg": 0.5,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Jevon Porter",
+          "pos": "G",
+          "height": "6-11",
+          "year": "GONE",
+          "ppg": 6.2,
+          "rpg": 4.0,
+          "apg": 1.6,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "conference": "WCC",
+      "espnId": 2539,
+      "coach": "",
+      "players": [
+        {
+          "name": "Yoav Vitlem",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ben Oosterbaan",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Jr.",
+          "ppg": 7.6,
+          "rpg": 4.2,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Abdullahi Bashir",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 2.0,
+          "rpg": 0.5,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Ndewedo Newbury",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 8.4,
+          "rpg": 4.3,
+          "apg": 2.6,
+          "notes": ""
+        },
+        {
+          "name": "Ismaila Diagne",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Jr.",
+          "ppg": 1.1,
+          "rpg": 2.4,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Gustav Knudsen",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dylan Bordon",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Mason Magee",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Andrew Hilman",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaroslav Pihtovs",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Adam Tyson",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Wisdom Fode",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dashel Wiley",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Aidan Braccia",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 0.8,
+          "rpg": 0.6,
+          "apg": 0.3,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Portland",
+      "conference": "WCC",
+      "espnId": 2501,
+      "coach": "",
+      "players": [
+        {
+          "name": "RJ Nance",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Riley Parker",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Gr.",
+          "ppg": 4.0,
+          "rpg": 1.0,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Hunter Adam",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Sr.",
+          "ppg": 5.7,
+          "rpg": 2.4,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Timo George",
+          "pos": "F",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 12.5,
+          "rpg": 4.9,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "James O'Donnell",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Jr.",
+          "ppg": 10.0,
+          "rpg": 4.4,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Dante Censori-Hercules",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 3.2,
+          "rpg": 3.5,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Jaxon Olvera",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 13.7,
+          "rpg": 4.5,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Kaia Isaac",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 5.6,
+          "rpg": 2.0,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Austin Foxwell",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Omer Sukur",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Henry Sewell",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Vito Perkovic",
+          "pos": "G",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 2.3,
+          "rpg": 1.5,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Carlin Briggs",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dylan Moran",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Marchelo Moreira",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "conference": "WCC",
+      "espnId": 301,
+      "coach": "",
+      "players": [
+        {
+          "name": "Braylon Roman",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Marqui Worthy",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 16.4,
+          "rpg": 4.7,
+          "apg": 3.0,
+          "notes": ""
+        },
+        {
+          "name": "Dusty Stromer",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 6.4,
+          "rpg": 2.7,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Terry McMorris",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 7.6,
+          "rpg": 5.8,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Jose Roberto Tanchyn",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Sr.",
+          "ppg": 6.5,
+          "rpg": 5.7,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Davion Hill",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Jr.",
+          "ppg": 14.0,
+          "rpg": 4.4,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Alejandro Aviles",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 2.6,
+          "rpg": 1.7,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Jevon Hill",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 14.6,
+          "rpg": 5.6,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Sekou Konneh",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-So.",
+          "ppg": 6.4,
+          "rpg": 4.7,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Antonio Munoz",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 12.5,
+          "rpg": 3.5,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Brannon Martinsen",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Chace Holley",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Boden Grant",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Caleb Versher",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Fr.",
+          "ppg": 1.7,
+          "rpg": 1.7,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Nick Del Bosque",
+          "pos": "G",
+          "height": "6-0",
+          "year": "R-Jr.",
+          "ppg": 0.0,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Pacific",
+      "conference": "WCC",
+      "espnId": 279,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jaden Winston",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Sr.",
+          "ppg": 15.3,
+          "rpg": 3.1,
+          "apg": 3.8,
+          "notes": ""
+        },
+        {
+          "name": "Damarion Vann-Kelly",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaylen Thompson",
+          "pos": "F",
+          "height": "6-7",
+          "year": "R-Sr.",
+          "ppg": 2.3,
+          "rpg": 1.1,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Jaion Pitt",
+          "pos": "F",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 4.7,
+          "rpg": 3.7,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Jacob McFarland",
+          "pos": "C",
+          "height": "6-11",
+          "year": "R-Jr.",
+          "ppg": 0.0,
+          "rpg": 0.8,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Dominick Harris",
+          "pos": "G",
+          "height": "6-3",
+          "year": "??",
+          "ppg": 1.4,
+          "rpg": 0.6,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Adriel Nyorha",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 3.7,
+          "rpg": 1.7,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Connor Amundsen",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Jr.",
+          "ppg": 9.5,
+          "rpg": 2.0,
+          "apg": 3.7,
+          "notes": ""
+        },
+        {
+          "name": "Gavin Ripp",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-So.",
+          "ppg": 4.1,
+          "rpg": 2.5,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Andrej Mitrevski",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Vincent Osazee",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ivan Matlekovic",
+          "pos": "G",
+          "height": "7-0",
+          "year": "Jr.",
+          "ppg": 0.5,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Nishayne Sharpe",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jorge Carot",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Christian Jones",
+          "pos": "G",
+          "height": "6-5",
+          "year": "GONE",
+          "ppg": 3.6,
+          "rpg": 1.8,
+          "apg": 1.3,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Grand Canyon",
+      "conference": "MWC",
+      "espnId": 2253,
+      "coach": "",
+      "players": [
+        {
+          "name": "Dylan Darling",
+          "pos": "G",
+          "height": "6-1",
+          "year": "R-Sr.",
+          "ppg": 6.9,
+          "rpg": 2.5,
+          "apg": 2.6,
+          "notes": ""
+        },
+        {
+          "name": "Makaih Williams",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 14.0,
+          "rpg": 2.7,
+          "apg": 2.5,
+          "notes": ""
+        },
+        {
+          "name": "Amarion Dickerson",
+          "pos": "G/F",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 4.6,
+          "rpg": 3.4,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Omaha Biliew",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 6.3,
+          "rpg": 2.4,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Efe Demirel",
+          "pos": "C",
+          "height": "7-1",
+          "year": "So.",
+          "ppg": 8.5,
+          "rpg": 5.3,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Caleb Shaw",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 7.8,
+          "rpg": 3.8,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Tyler Behrend",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Sr.",
+          "ppg": 6.4,
+          "rpg": 5.2,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Blake Barkley",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Jr.",
+          "ppg": 14.6,
+          "rpg": 5.8,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Jaden Zimmerman",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 15.1,
+          "rpg": 2.5,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Micah Tucker",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 13.5,
+          "rpg": 2.1,
+          "apg": 3.0,
+          "notes": ""
+        },
+        {
+          "name": "Jaqari Miles",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "John Whorton",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jack Sawyer",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Luke Shaw",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Daniel Skillings Jr.",
+          "pos": "G",
+          "height": "6-6",
+          "year": "GONE",
+          "ppg": 9.6,
+          "rpg": 5.9,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Jaden Henley",
+          "pos": "G",
+          "height": "6-7",
+          "year": "GONE",
+          "ppg": 17.7,
+          "rpg": 5.7,
+          "apg": 2.9,
+          "notes": ""
+        },
+        {
+          "name": "Tre Holloman",
+          "pos": "G",
+          "height": "6-2",
+          "year": "GONE",
+          "ppg": 9.2,
+          "rpg": 1.8,
+          "apg": 2.1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "conference": "MWC",
+      "espnId": 2229,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jaden Matingou",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 11.9,
+          "rpg": 4.1,
+          "apg": 4.3,
+          "notes": ""
+        },
+        {
+          "name": "Chance Trujillo",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Jr.",
+          "ppg": 12.3,
+          "rpg": 3.4,
+          "apg": 2.7,
+          "notes": ""
+        },
+        {
+          "name": "Tanner Cuff",
+          "pos": "G/F",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 8.8,
+          "rpg": 6.2,
+          "apg": 3.2,
+          "notes": ""
+        },
+        {
+          "name": "Marcus Adams Jr.",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 3.6,
+          "rpg": 2.4,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Houran Dan",
+          "pos": "C",
+          "height": "6-10",
+          "year": "Jr.",
+          "ppg": 5.7,
+          "rpg": 2.5,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Bol Dengdit",
+          "pos": "G",
+          "height": "6-11",
+          "year": "R-Sr.",
+          "ppg": 10.7,
+          "rpg": 5.2,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Isaiah Kerr",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 6.4,
+          "rpg": 2.4,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Zack Davidson",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Jr.",
+          "ppg": 14.0,
+          "rpg": 4.8,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Manie Joses",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 1.8,
+          "rpg": 2.2,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Kellen Hampton",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Fr.",
+          "ppg": 0.0,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Alois Leyrolles",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Scotty Belnap",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Tiger Cuff",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "UC Davis",
+      "conference": "MWC",
+      "espnId": 2115,
+      "coach": "",
+      "players": [
+        {
+          "name": "Brayden Fagbemi",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Sr.",
+          "ppg": 7.0,
+          "rpg": 3.5,
+          "apg": 4.3,
+          "notes": ""
+        },
+        {
+          "name": "Connor Sevilla",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 13.3,
+          "rpg": 1.7,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Clarence Massamba",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 0.4,
+          "rpg": 0.2,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Veniamin Abosi",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 5.0,
+          "rpg": 4.1,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Isaiah Chappell",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 8.5,
+          "rpg": 4.6,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Omer Suljanovic",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 5.6,
+          "rpg": 3.0,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Jalen Stokes",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 4.7,
+          "rpg": 2.5,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Chase Rawlins",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 1.6,
+          "rpg": 0.4,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Ylan Esso Essis",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Caspian Jones",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Koby Moir",
+          "pos": "G",
+          "height": "",
+          "year": "",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Julian Dabrowski",
+          "pos": "G",
+          "height": "",
+          "year": "",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Julian Margrave",
+          "pos": "G",
+          "height": "6-10",
+          "year": "??",
+          "ppg": 3.7,
+          "rpg": 0.7,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Aleksander Szymczyk",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Sr.",
+          "ppg": 2.9,
+          "rpg": 2.8,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Nnadalu Noble",
+          "pos": "G",
+          "height": "",
+          "year": "",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "UNLV",
+      "conference": "MWC",
+      "espnId": 2439,
+      "coach": "",
+      "players": [
+        {
+          "name": "Terrance Ford Jr.",
+          "pos": "G",
+          "height": "6-1",
+          "year": "R-Jr.",
+          "ppg": 9.0,
+          "rpg": 2.9,
+          "apg": 4.9,
+          "notes": ""
+        },
+        {
+          "name": "Sebastian Mack",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 7.0,
+          "rpg": 1.3,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Tyler Harris",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 5.5,
+          "rpg": 2.3,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Tyrin Jones",
+          "pos": "F",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 11.9,
+          "rpg": 5.0,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Jeremy Foumena",
+          "pos": "C",
+          "height": "6-11",
+          "year": "R-Sr.",
+          "ppg": 3.5,
+          "rpg": 2.3,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Issac Williamson",
+          "pos": "G",
+          "height": "6-1",
+          "year": "So.",
+          "ppg": 8.6,
+          "rpg": 1.8,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Jackson Kiss",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cam Miles",
+          "pos": "G",
+          "height": "6-2",
+          "year": "So.",
+          "ppg": 5.4,
+          "rpg": 1.0,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Dontrez Williams",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 15.2,
+          "rpg": 5.1,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "MJ Thomas",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 10.8,
+          "rpg": 8.0,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Jalen Cunningham",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 0.4,
+          "rpg": 0.1,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Kota Suttle Jr.",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Moustapha Loum",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 2.4,
+          "rpg": 2.0,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "AJ Storr",
+          "pos": "G",
+          "height": "6-5",
+          "year": "GONE",
+          "ppg": 15.5,
+          "rpg": 3.1,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Alyn Breed",
+          "pos": "G",
+          "height": "6-3",
+          "year": "??",
+          "ppg": 4.5,
+          "rpg": 1.9,
+          "apg": 1.3,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "UTEP",
+      "conference": "MWC",
+      "espnId": 2638,
+      "coach": "",
+      "players": [
+        {
+          "name": "Leif Moeller",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 10.8,
+          "rpg": 3.8,
+          "apg": 4.0,
+          "notes": ""
+        },
+        {
+          "name": "Jace Whiting",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Sr.",
+          "ppg": 11.2,
+          "rpg": 3.5,
+          "apg": 2.7,
+          "notes": ""
+        },
+        {
+          "name": "Reese Miller",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Sr.",
+          "ppg": 12.1,
+          "rpg": 2.5,
+          "apg": 2.4,
+          "notes": ""
+        },
+        {
+          "name": "Augusto Cassia",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 2.2,
+          "rpg": 1.6,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Reid Cason",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Jr.",
+          "ppg": 3.9,
+          "rpg": 3.3,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Cam McDaniels",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ryan Jackson Jr.",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 7.0,
+          "rpg": 3.0,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Janusz Ratowski",
+          "pos": "G",
+          "height": "6-11",
+          "year": "R-So.",
+          "ppg": 2.2,
+          "rpg": 1.7,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Delano Tarpley",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Isaiah Ward",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Donovan Criss",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Mikey Kelvin II",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Sr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kaleb Jackson",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "New Mexico",
+      "conference": "MWC",
+      "espnId": 2443,
+      "coach": "",
+      "players": [
+        {
+          "name": "Uriah Tenette",
+          "pos": "G",
+          "height": "5-11",
+          "year": "So.",
+          "ppg": 10.7,
+          "rpg": 2.8,
+          "apg": 2.9,
+          "notes": ""
+        },
+        {
+          "name": "Jake Hall",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 16.3,
+          "rpg": 3.3,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Hudson Mayes",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 11.1,
+          "rpg": 5.7,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Rytis Petraitis",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 5.3,
+          "rpg": 4.0,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Fynn Lastring",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Chris Howell",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Gr.",
+          "ppg": 5.5,
+          "rpg": 3.0,
+          "apg": 3.4,
+          "notes": ""
+        },
+        {
+          "name": "Tunde Vahlberg Fasasi",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 11.9,
+          "rpg": 4.1,
+          "apg": 2.5,
+          "notes": ""
+        },
+        {
+          "name": "Imran Suljanovic",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Benjamin Schuch",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Federico Grani",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "AJ Pierre-Jerome",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dax Hall",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Nate Muriithi",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "San Jose St.",
+      "conference": "MWC",
+      "espnId": 23,
+      "coach": "",
+      "players": [
+        {
+          "name": "Joey Chammaa",
+          "pos": "G",
+          "height": "5-11",
+          "year": "R-Jr.",
+          "ppg": 9.9,
+          "rpg": 2.2,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Pasha Goodarzi",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Jr.",
+          "ppg": 8.2,
+          "rpg": 1.9,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Scotty Middleton",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 6.9,
+          "rpg": 4.0,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Zinou Eddine Bedri",
+          "pos": "F",
+          "height": "6-9",
+          "year": "R-Sr.",
+          "ppg": 12.8,
+          "rpg": 7.4,
+          "apg": 2.2,
+          "notes": ""
+        },
+        {
+          "name": "Robert Vaihola",
+          "pos": "F",
+          "height": "6-8",
+          "year": "R-Sr.",
+          "ppg": 5.0,
+          "rpg": 7.6,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Mookie Cook",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Jr.",
+          "ppg": 7.6,
+          "rpg": 4.2,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "JaVaughn Hannah",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Sr.",
+          "ppg": 7.5,
+          "rpg": 1.0,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Luke Howard",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Sr.",
+          "ppg": 16.7,
+          "rpg": 6.1,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "KJ Martin Jr.",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 1.8,
+          "rpg": 1.6,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Cade Krueger",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Rokiem Green",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Brayden Barrett",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Aurele Brena-Chemille",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Oliver Kullamae",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Wyoming",
+      "conference": "MWC",
+      "espnId": 2751,
+      "coach": "",
+      "players": [
+        {
+          "name": "Khaden Bennett",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 10.2,
+          "rpg": 4.9,
+          "apg": 2.8,
+          "notes": ""
+        },
+        {
+          "name": "Uriyah Rojas",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 6.2,
+          "rpg": 1.9,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Nasir Meyer",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 12.9,
+          "rpg": 4.9,
+          "apg": 2.4,
+          "notes": ""
+        },
+        {
+          "name": "Renars Sondors",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 10.7,
+          "rpg": 4.2,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Gavin Gores",
+          "pos": "F",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 7.3,
+          "rpg": 3.4,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Canin Jefferson",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 12.4,
+          "rpg": 1.8,
+          "apg": 2.6,
+          "notes": ""
+        },
+        {
+          "name": "Mike Mora",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 17.2,
+          "rpg": 6.2,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Parker Gerrits",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Jr.",
+          "ppg": 1.8,
+          "rpg": 1.3,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Micah Curtis",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 8.3,
+          "rpg": 2.3,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Linus Ruf",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Mattia De Martin",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Neil Summers",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Chris Pohl",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Madden Smiley",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kelan Gruver",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Air Force",
+      "conference": "MWC",
+      "espnId": 2005,
+      "coach": "",
+      "players": [
+        {
+          "name": "Kam Sanders",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 12.5,
+          "rpg": 4.2,
+          "apg": 3.8,
+          "notes": ""
+        },
+        {
+          "name": "Ethan Greenberg",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 6.6,
+          "rpg": 2.3,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Eli Robinson",
+          "pos": "F",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 7.8,
+          "rpg": 5.2,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Lucas Hobin",
+          "pos": "F",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 11.4,
+          "rpg": 2.0,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Wesley Celichowski",
+          "pos": "C",
+          "height": "7-0",
+          "year": "Sr.",
+          "ppg": 4.8,
+          "rpg": 2.4,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Caleb Walker",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 10.4,
+          "rpg": 5.0,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Kolby Gilles",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 3.2,
+          "rpg": 1.7,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "AJ Patterson",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 2.2,
+          "rpg": 1.9,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Justin Hinds",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 1.4,
+          "rpg": 1.4,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Brendan Martin",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 1.8,
+          "rpg": 0.4,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Josh Gatete",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 0.3,
+          "rpg": 0.4,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Chris Catchings",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 0.0,
+          "rpg": 0.4,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Elliott Taite",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 1.5,
+          "rpg": 0.2,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Sam Imade",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Keaton Frisch",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 0.0,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Riley Dering",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "conference": "MWC",
+      "espnId": 2440,
+      "coach": "",
+      "players": [
+        {
+          "name": "Styles Phipps",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 13.4,
+          "rpg": 5.9,
+          "apg": 5.2,
+          "notes": ""
+        },
+        {
+          "name": "Peter Bandelj",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 13.0,
+          "rpg": 4.0,
+          "apg": 3.3,
+          "notes": ""
+        },
+        {
+          "name": "Vaughn Weems",
+          "pos": "G/F",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 10.1,
+          "rpg": 4.2,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Keyon Kensie",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 10.9,
+          "rpg": 6.9,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Elijah Price",
+          "pos": "C",
+          "height": "6-9",
+          "year": "R-Jr.",
+          "ppg": 12.8,
+          "rpg": 8.5,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Peyton White",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 4.6,
+          "rpg": 1.7,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Simon Majok",
+          "pos": "G",
+          "height": "7-1",
+          "year": "So.",
+          "ppg": 2.9,
+          "rpg": 2.4,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "TJ Coulter",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cedric Lath",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Sr.",
+          "ppg": 0.5,
+          "rpg": 0.7,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Myles Walker",
+          "pos": "G",
+          "height": "5-10",
+          "year": "So.",
+          "ppg": 1.3,
+          "rpg": 0.6,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "SJ Madison",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "John Mattingly",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Hudson Lucas",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kade Snyder",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Wichita State",
+      "conference": "American",
+      "espnId": 2724,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jordan Frison",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Sr.",
+          "ppg": 16.4,
+          "rpg": 3.3,
+          "apg": 4.0,
+          "notes": ""
+        },
+        {
+          "name": "Mike Gray Jr.",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Gr.",
+          "ppg": 8.2,
+          "rpg": 3.3,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Jahari Long",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Gr.",
+          "ppg": 12.2,
+          "rpg": 3.3,
+          "apg": 4.0,
+          "notes": ""
+        },
+        {
+          "name": "Dillon Battie",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 7.6,
+          "rpg": 4.7,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Will Berg",
+          "pos": "C",
+          "height": "7-2",
+          "year": "R-Sr.",
+          "ppg": 8.8,
+          "rpg": 8.1,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Bryce Heard",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 6.6,
+          "rpg": 2.4,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "TJ Williams",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-So.",
+          "ppg": 8.7,
+          "rpg": 5.0,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Jaret Valencia",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Sr.",
+          "ppg": 2.8,
+          "rpg": 1.8,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Cyr Malonga",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 3.7,
+          "rpg": 2.5,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Tyrus Rathan-Mayes",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Desmeon Jones",
+          "pos": "G",
+          "height": "5-11",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Noah Hill",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 1.4,
+          "rpg": 2.2,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Joy Ighovodja",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Pierre Cousinard",
+          "pos": "G",
+          "height": "6-1",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Henry Thengvall",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Sr.",
+          "ppg": 0.3,
+          "rpg": 0.1,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Kenyon Giles",
+          "pos": "G",
+          "height": "5-10",
+          "year": "GONE",
+          "ppg": 19.1,
+          "rpg": 2.6,
+          "apg": 1.4,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Temple",
+      "conference": "American",
+      "espnId": 218,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jordan Marsh",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Sr.",
+          "ppg": 7.3,
+          "rpg": 2.0,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Dez White",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 9.7,
+          "rpg": 2.7,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Cam Scott",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Gavin Griffiths",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 10.1,
+          "rpg": 4.9,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Sir Issac Herron",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Gr.",
+          "ppg": 4.6,
+          "rpg": 2.4,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Jason Drake",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dallis Dillard",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Gr.",
+          "ppg": 20.6,
+          "rpg": 5.8,
+          "apg": 4.7,
+          "notes": ""
+        },
+        {
+          "name": "Baboucarr Njie",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 9.4,
+          "rpg": 5.2,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Christian Beam",
+          "pos": "G",
+          "height": "7-1",
+          "year": "Jr.",
+          "ppg": 3.2,
+          "rpg": 3.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Derrick Morton-Rivera",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Edwin Suarez Jr.",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 9.2,
+          "rpg": 6.0,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Cam Wallace",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 2.1,
+          "rpg": 0.7,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Mohamed Keita",
+          "pos": "G",
+          "height": "7-1",
+          "year": "R-Sr.",
+          "ppg": 0.7,
+          "rpg": 0.9,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Olin Chamberlain Jr.",
+          "pos": "G",
+          "height": "6-0",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Memphis",
+      "conference": "American",
+      "espnId": 235,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jayden Reid",
+          "pos": "G",
+          "height": "5-10",
+          "year": "Sr.",
+          "ppg": 10.1,
+          "rpg": 1.4,
+          "apg": 5.0,
+          "notes": ""
+        },
+        {
+          "name": "Brandin Cummings",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 12.5,
+          "rpg": 1.5,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Julius Thedford",
+          "pos": "F",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 8.4,
+          "rpg": 5.0,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Tylik Weeks",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 19.7,
+          "rpg": 5.4,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "William Whorton",
+          "pos": "F/C",
+          "height": "6-8",
+          "year": "R-Jr.",
+          "ppg": 1.8,
+          "rpg": 1.5,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Rihards Vavers",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 11.5,
+          "rpg": 4.0,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Nemanja Popovic",
+          "pos": "G",
+          "height": "",
+          "year": "",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Luke Almodovar",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 14.1,
+          "rpg": 3.7,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Josh Holloway",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 4.6,
+          "rpg": 1.7,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Corneilous Williams",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Sr.",
+          "ppg": 12.2,
+          "rpg": 9.3,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Maxim Logue",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 4.8,
+          "rpg": 3.1,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Jerry Deng",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 6.1,
+          "rpg": 2.1,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Fred Smith Jr.",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cello Jackson",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Parker Pounds",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Tulane",
+      "conference": "American",
+      "espnId": 2655,
+      "coach": "",
+      "players": [
+        {
+          "name": "Krystian Lewis",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 18.4,
+          "rpg": 4.5,
+          "apg": 3.2,
+          "notes": ""
+        },
+        {
+          "name": "TJ Nadeau",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 13.8,
+          "rpg": 3.2,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Ryan Blount",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 21.0,
+          "rpg": 5.9,
+          "apg": 3.1,
+          "notes": ""
+        },
+        {
+          "name": "Tyler Ringgold",
+          "pos": "F",
+          "height": "6-8",
+          "year": "R-Jr.",
+          "ppg": 9.4,
+          "rpg": 3.9,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Dame Salane",
+          "pos": "F",
+          "height": "7-1",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Carson Schwieger",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Jr.",
+          "ppg": 10.1,
+          "rpg": 3.1,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Jordann Dumont",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Jr.",
+          "ppg": 0.9,
+          "rpg": 0.1,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Joah Chappelle",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 7.3,
+          "rpg": 5.3,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "KJ Greene",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 4.4,
+          "rpg": 1.3,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "JoJo Moore",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 3.7,
+          "rpg": 1.9,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Tobias Brinkley",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Robert Moore",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 1.6,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Ryan Meltzer",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Noah Mister",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Luke Cronin",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 0.0,
+          "rpg": 0.5,
+          "apg": 0.0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Tulsa",
+      "conference": "American",
+      "espnId": 202,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jaylen Lawal",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 7.3,
+          "rpg": 2.2,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Mike Williams III",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 7.0,
+          "rpg": 2.6,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Kobi Williams",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 14.4,
+          "rpg": 2.6,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Brent Moss",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 9.6,
+          "rpg": 4.7,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Chris Loofe",
+          "pos": "F/C",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 7.3,
+          "rpg": 6.3,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Jeremiah Johnson",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 15.2,
+          "rpg": 3.5,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Myles Rigsby",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 6.5,
+          "rpg": 2.0,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Ilay Dolinski",
+          "pos": "G",
+          "height": "6-9",
+          "year": "??",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Macon Emory",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 11.3,
+          "rpg": 6.6,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Aleksa Dimitrijevic",
+          "pos": "G",
+          "height": "7-0",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Denton Forsythe",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Leon Sifferlin",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 2.2,
+          "rpg": 0.7,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Derelle Desire",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Carter Benton",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cal Conroy",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 0.4,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Kaleb Banks",
+          "pos": "G",
+          "height": "6-8",
+          "year": "GONE",
+          "ppg": 5.6,
+          "rpg": 2.5,
+          "apg": 0.4,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "USF",
+      "conference": "American",
+      "espnId": 2539,
+      "coach": "",
+      "players": [
+        {
+          "name": "Sonny Wilson",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 17.0,
+          "rpg": 3.7,
+          "apg": 4.6,
+          "notes": ""
+        },
+        {
+          "name": "AJ Dancler",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 15.6,
+          "rpg": 5.5,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Michael James",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Gr.",
+          "ppg": 1.5,
+          "rpg": 2.0,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Garrett Johnson",
+          "pos": "G/F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 11.4,
+          "rpg": 3.4,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Zayden High",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "Jr.",
+          "ppg": 3.4,
+          "rpg": 2.8,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Chris Davis Jr.",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 7.6,
+          "rpg": 2.7,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Andrej Shoshkikj",
+          "pos": "G",
+          "height": "6-2",
+          "year": "So.",
+          "ppg": 10.7,
+          "rpg": 2.6,
+          "apg": 2.4,
+          "notes": ""
+        },
+        {
+          "name": "Richard Goods",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 7.7,
+          "rpg": 5.9,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Joshua Lewis",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 8.1,
+          "rpg": 3.8,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Jayden Johnson",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jake Feldhaus",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Tiefing Diawara",
+          "pos": "G",
+          "height": "7-0",
+          "year": "R-Fr.",
+          "ppg": 0.5,
+          "rpg": 0.8,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Reph Stevenson",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 14.3,
+          "rpg": 8.7,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Dennis Waleskowski",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 15.0,
+          "rpg": 4.8,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Darren Moore",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "East Carolina",
+      "conference": "American",
+      "espnId": 2210,
+      "coach": "",
+      "players": [
+        {
+          "name": "Cian Medley",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Sr.",
+          "ppg": 10.5,
+          "rpg": 2.3,
+          "apg": 6.4,
+          "notes": ""
+        },
+        {
+          "name": "Brycen Blaine",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Sr.",
+          "ppg": 17.2,
+          "rpg": 7.2,
+          "apg": 3.1,
+          "notes": ""
+        },
+        {
+          "name": "Kaden Cooper",
+          "pos": "G/F",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 9.7,
+          "rpg": 7.7,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Kaseem Watson",
+          "pos": "F",
+          "height": "6-8",
+          "year": "R-Sr.",
+          "ppg": 12.5,
+          "rpg": 5.0,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Eli DeLaurier",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "R-Jr.",
+          "ppg": 4.8,
+          "rpg": 2.8,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Jordyn Buchanan",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 15.3,
+          "rpg": 4.7,
+          "apg": 2.2,
+          "notes": ""
+        },
+        {
+          "name": "Jayshayne Woodard",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 3.2,
+          "rpg": 1.4,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Trevor Best",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 1.3,
+          "rpg": 0.6,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Dreylan Creasy-Quirindoongo",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Matthew Hinton",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Maxim Klitschko",
+          "pos": "G",
+          "height": "7-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ashton McCullough",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Mason Pandov",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Daithi Quinn",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Bryan Little",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "UAB",
+      "conference": "American",
+      "espnId": 373,
+      "coach": "",
+      "players": [
+        {
+          "name": "Deuce Jones",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 15.8,
+          "rpg": 4.3,
+          "apg": 3.3,
+          "notes": ""
+        },
+        {
+          "name": "Elijah Duval",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 15.3,
+          "rpg": 4.0,
+          "apg": 3.6,
+          "notes": ""
+        },
+        {
+          "name": "Justyn Fernandez",
+          "pos": "G",
+          "height": "6-5",
+          "year": "??",
+          "ppg": 16.6,
+          "rpg": 4.6,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Antallah Sandlin'El",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Matt Mbole",
+          "pos": "F",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Salim London",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 4.9,
+          "rpg": 2.3,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Jeremy Elyzee",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 11.1,
+          "rpg": 4.5,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "TJ Caldwell",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 9.4,
+          "rpg": 2.7,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Aleks Alston",
+          "pos": "G",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 1.4,
+          "rpg": 1.7,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Tim Holliday",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Korie Corbett",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kaleb Davis",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Charlotte",
+      "conference": "American",
+      "espnId": 2429,
+      "coach": "",
+      "players": [
+        {
+          "name": "Keyshuan Tillery",
+          "pos": "G",
+          "height": "6-0",
+          "year": "So.",
+          "ppg": 3.8,
+          "rpg": 1.2,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Jizzle James",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 10.9,
+          "rpg": 2.2,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Arden Conyers",
+          "pos": "F",
+          "height": "6-7",
+          "year": "R-Jr.",
+          "ppg": 7.5,
+          "rpg": 1.6,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Dylan Grant",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 9.8,
+          "rpg": 4.3,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Jayden Fort",
+          "pos": "F",
+          "height": "6-9",
+          "year": "R-So.",
+          "ppg": 3.3,
+          "rpg": 3.2,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Dorian Finister",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Sr.",
+          "ppg": 14.9,
+          "rpg": 4.6,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Tyler McKinley",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-So.",
+          "ppg": 1.8,
+          "rpg": 2.2,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Jordi Rodriguez",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 2.3,
+          "rpg": 1.1,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Peyton Marshall",
+          "pos": "G",
+          "height": "7-0",
+          "year": "Jr.",
+          "ppg": 3.3,
+          "rpg": 2.9,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Miguel Allen",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Frank Oguche",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Lance Barnes",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ryan Evans",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Michael Walz",
+          "pos": "G",
+          "height": "6-11",
+          "year": "GONE",
+          "ppg": 7.9,
+          "rpg": 6.4,
+          "apg": 2.3,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "North Texas",
+      "conference": "American",
+      "espnId": 249,
+      "coach": "",
+      "players": [
+        {
+          "name": "Casmir Chavis",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 10.5,
+          "rpg": 2.6,
+          "apg": 3.5,
+          "notes": ""
+        },
+        {
+          "name": "Je'Shawn Stevenson",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 17.3,
+          "rpg": 3.5,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Cole Franklin",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 6.2,
+          "rpg": 4.3,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Reece Robinson",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 7.5,
+          "rpg": 4.5,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Mitchell Holmes",
+          "pos": "F/C",
+          "height": "6-11",
+          "year": "R-So.",
+          "ppg": 1.7,
+          "rpg": 0.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Amar Amkou",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-So.",
+          "ppg": 5.5,
+          "rpg": 2.2,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Braylon Barnes",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "EJ Horton",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 2.9,
+          "rpg": 1.2,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Ousmane Ndour",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "TJ Crumble",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Aeneas Alexander",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Marcus Zelee",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Rashid Kuta",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Florida Atlantic",
+      "conference": "American",
+      "espnId": 2226,
+      "coach": "",
+      "players": [
+        {
+          "name": "Braeden Speed",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 15.3,
+          "rpg": 4.4,
+          "apg": 3.8,
+          "notes": ""
+        },
+        {
+          "name": "Kanaan Carlyle",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 14.3,
+          "rpg": 3.8,
+          "apg": 2.9,
+          "notes": ""
+        },
+        {
+          "name": "Jelani Hamilton",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Jr.",
+          "ppg": 17.8,
+          "rpg": 4.6,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Josh Harris",
+          "pos": "F",
+          "height": "6-8",
+          "year": "R-So.",
+          "ppg": 13.4,
+          "rpg": 7.1,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Fawaz Ifaola",
+          "pos": "C",
+          "height": "7-0",
+          "year": "So.",
+          "ppg": 0.7,
+          "rpg": 2.1,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "David Musis",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Felipe Quinones",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kieran Mullen",
+          "pos": "G",
+          "height": "7-0",
+          "year": "So.",
+          "ppg": 0.8,
+          "rpg": 1.1,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Mason Porter-Brown",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 7.8,
+          "rpg": 3.2,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Zion Sampaio",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Franck Belibi Jr.",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Matas Puodziukaitis",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 6.4,
+          "rpg": 5.2,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Lachlan Smith",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 1.0,
+          "rpg": 0.5,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Liam Dayco-Green",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-So.",
+          "ppg": 2.0,
+          "rpg": 0.4,
+          "apg": 0.0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "UTSA",
+      "conference": "American",
+      "espnId": 2659,
+      "coach": "",
+      "players": [
+        {
+          "name": "KJ Tenner",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Jr.",
+          "ppg": 6.0,
+          "rpg": 1.5,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Isaiah Watts",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 4.3,
+          "rpg": 1.8,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Isaiah Coleman",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 6.4,
+          "rpg": 3.8,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "JJ Kelly",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 8.6,
+          "rpg": 3.8,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Ashton Smith",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Gr.",
+          "ppg": 0.5,
+          "rpg": 0.7,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Dorian Hayes",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 8.8,
+          "rpg": 1.8,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Josiah LeGree",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Jr.",
+          "ppg": 7.5,
+          "rpg": 1.7,
+          "apg": 3.3,
+          "notes": ""
+        },
+        {
+          "name": "Preston Turner",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 7.7,
+          "rpg": 1.7,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Shey Eberwein",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Jr.",
+          "ppg": 7.7,
+          "rpg": 1.8,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Naz Price",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Demari Williams",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Gr.",
+          "ppg": 9.7,
+          "rpg": 3.2,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Kanyon Taylor",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Chinedum Okpukpara",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Sr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jayson Peterson",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Mike Broxton Jr.",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "conference": "American",
+      "espnId": 242,
+      "coach": "",
+      "players": [
+        {
+          "name": "Cam Carroll",
+          "pos": "G",
+          "height": "6-2",
+          "year": "So.",
+          "ppg": 6.8,
+          "rpg": 2.5,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Carmelo Adkins",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 13.5,
+          "rpg": 4.9,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Jacob Dar",
+          "pos": "G/F",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 3.2,
+          "rpg": 1.9,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Jimmy Oladokun Jr.",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 4.3,
+          "rpg": 4.9,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Jarne Elouna Eyenga",
+          "pos": "F",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 3.5,
+          "rpg": 3.0,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Dallas Hobbs",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 5.4,
+          "rpg": 1.4,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Eternity Eguagie",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 6.0,
+          "rpg": 2.8,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Tristan Vukotic",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kaiden Myers",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaxson Thompson",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Zalan Flasar",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Bodey Howell",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 3.4,
+          "rpg": 0.6,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Evan Cochran",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 0.4,
+          "rpg": 1.4,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Alexander Leeth",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cole Andrews-Heitz",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 1.0,
+          "rpg": 0.0,
+          "apg": 0.5,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Davidson",
+      "conference": "Atlantic 10",
+      "espnId": 2196,
+      "coach": "",
+      "players": [
+        {
+          "name": "Sam Brown",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 8.0,
+          "rpg": 1.9,
+          "apg": 2.2,
+          "notes": ""
+        },
+        {
+          "name": "Nick Janowski",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-So.",
+          "ppg": 16.1,
+          "rpg": 5.1,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Josh Scovens",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 11.1,
+          "rpg": 4.3,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "JaQualon \"JQ\" Roberts",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 2.7,
+          "rpg": 2.4,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Ian Platteeuw",
+          "pos": "F",
+          "height": "7-0",
+          "year": "So.",
+          "ppg": 4.1,
+          "rpg": 3.8,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "John Carter Jr.",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 13.3,
+          "rpg": 4.4,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Tom Stoiber",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Nick Coval",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-So.",
+          "ppg": 6.4,
+          "rpg": 1.6,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Jackson Keith",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 2.0,
+          "rpg": 1.7,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Eetu Heinonen",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Malik Davis",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Quadri Bashiru",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "John Nowland",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 0.6,
+          "rpg": 0.2,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Phillip Kavu",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-So.",
+          "ppg": 0.4,
+          "rpg": 0.2,
+          "apg": 0.2,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Dayton",
+      "conference": "Atlantic 10",
+      "espnId": 2191,
+      "coach": "",
+      "players": [
+        {
+          "name": "Landen Joseph",
+          "pos": "G",
+          "height": "6-2",
+          "year": "So.",
+          "ppg": 7.9,
+          "rpg": 2.5,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Travis Perry",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Jr.",
+          "ppg": 5.3,
+          "rpg": 1.6,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Zaide Lowery",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 8.1,
+          "rpg": 2.9,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Jalen Haynes",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Gr.",
+          "ppg": 14.1,
+          "rpg": 6.9,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Amael L'Etang",
+          "pos": "F",
+          "height": "7-1",
+          "year": "Jr.",
+          "ppg": 11.9,
+          "rpg": 5.9,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Jaiun Simon",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Jr.",
+          "ppg": 5.6,
+          "rpg": 3.3,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Aiden Derkack",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Grant Randall",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 11.4,
+          "rpg": 6.6,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Malcolm Thomas",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-So.",
+          "ppg": 4.0,
+          "rpg": 1.5,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Julian Washington",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cody Peck",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Tristian Ford",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaron McKie",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Damon Friery",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 1.8,
+          "rpg": 1.2,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Evan Dickey",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 0.5,
+          "rpg": 0.3,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Will Maxwell",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 0.0,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Makai Grant",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Sr.",
+          "ppg": 0.4,
+          "rpg": 0.0,
+          "apg": 0.1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Richmond",
+      "conference": "Atlantic 10",
+      "espnId": 257,
+      "coach": "",
+      "players": [
+        {
+          "name": "Aiden Argabright",
+          "pos": "G",
+          "height": "5-11",
+          "year": "So.",
+          "ppg": 10.8,
+          "rpg": 2.0,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Dominick Stewart",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 6.6,
+          "rpg": 2.2,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Jamie Kaiser",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "R-Jr.",
+          "ppg": 9.5,
+          "rpg": 4.3,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Jack McCaffery",
+          "pos": "F",
+          "height": "6-9",
+          "year": "R-Fr.",
+          "ppg": 2.8,
+          "rpg": 1.6,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Amon D\u00f6rries",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 16.2,
+          "rpg": 4.4,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Derin Saran",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Jr.",
+          "ppg": 11.5,
+          "rpg": 5.3,
+          "apg": 3.4,
+          "notes": ""
+        },
+        {
+          "name": "Andrew Ball",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Gr.",
+          "ppg": 7.9,
+          "rpg": 3.9,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Collin Tanner",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 5.9,
+          "rpg": 3.2,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Will Harper III",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 3.4,
+          "rpg": 1.6,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Dane Caldwell",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Chad Cook",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaden Shoultz",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Sam Simmons",
+          "pos": "G",
+          "height": "5-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dylan Homenick",
+          "pos": "G",
+          "height": "6-11",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Donovan Richardson",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kirby Mooney",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-So.",
+          "ppg": 0.7,
+          "rpg": 0.7,
+          "apg": 0.3,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Rhode Island",
+      "conference": "Atlantic 10",
+      "espnId": 227,
+      "coach": "",
+      "players": [
+        {
+          "name": "Dylan Williamson",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Gr.",
+          "ppg": 14.6,
+          "rpg": 2.5,
+          "apg": 3.4,
+          "notes": ""
+        },
+        {
+          "name": "Jonah Hinton",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Gr.",
+          "ppg": 12.6,
+          "rpg": 3.0,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Jahmere Tripp",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 12.0,
+          "rpg": 4.3,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Matas Deniusas",
+          "pos": "F",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 12.5,
+          "rpg": 5.2,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Mouhamed Sow",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Gr.",
+          "ppg": 6.4,
+          "rpg": 5.6,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Nedas Raupelis",
+          "pos": "G",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Javon Perry",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jalen Harper",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 2.6,
+          "rpg": 1.8,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Jason Fontenet II",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 6.6,
+          "rpg": 5.0,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Barrett Loer",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 1.4,
+          "rpg": 0.6,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Tim Martin II",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaen Chatman",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Steven Sherman",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaymien Aponte",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "George Washington",
+      "conference": "Atlantic 10",
+      "espnId": 2247,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jean Aranguren",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 8.2,
+          "rpg": 4.2,
+          "apg": 3.4,
+          "notes": ""
+        },
+        {
+          "name": "Omari Witherspoon",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 7.5,
+          "rpg": 3.0,
+          "apg": 2.5,
+          "notes": ""
+        },
+        {
+          "name": "Felix Kossaras",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 4.2,
+          "rpg": 1.4,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Terrance Arceneaux",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "Gr.",
+          "ppg": 3.8,
+          "rpg": 2.6,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Dylan James",
+          "pos": "F/C",
+          "height": "6-9",
+          "year": "Gr.",
+          "ppg": 4.5,
+          "rpg": 3.8,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Lovro Urbiha",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Gr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Andrija Vukovic",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 5.3,
+          "rpg": 3.4,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Andrew Phillips",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 13.9,
+          "rpg": 4.6,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Ryder Frost",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 2.7,
+          "rpg": 0.8,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Malachi Arrington",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 3.9,
+          "rpg": 3.7,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Deng Manyang",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Promis N'Landu",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jalen Rougier-Roane",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jayvon Rampersant",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Amir Arrington",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Sr.",
+          "ppg": 1.5,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "VCU",
+      "conference": "Atlantic 10",
+      "espnId": 2670,
+      "coach": "",
+      "players": [
+        {
+          "name": "Brandon Jennings",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 8.5,
+          "rpg": 3.6,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Nyk Lewis",
+          "pos": "G",
+          "height": "6-1",
+          "year": "So.",
+          "ppg": 8.7,
+          "rpg": 4.5,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Blake Harper",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 7.8,
+          "rpg": 3.7,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Michael Belle",
+          "pos": "G/F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 7.3,
+          "rpg": 5.0,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Lazar Djokovic",
+          "pos": "F",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 13.2,
+          "rpg": 5.2,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Torey Alston",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Jr.",
+          "ppg": 13.1,
+          "rpg": 7.9,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Tyrell Ward",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 5.7,
+          "rpg": 2.2,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Ahmad Nowell",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Jr.",
+          "ppg": 4.5,
+          "rpg": 1.2,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "Nyle Ralph-Beyer",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 14.2,
+          "rpg": 3.8,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Jordan Tillery",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 4.3,
+          "rpg": 1.4,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Stefan Plisnic",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Sammy Jackson",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Collin Ross",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Joshua Wyche",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Jr.",
+          "ppg": 0.6,
+          "rpg": 1.6,
+          "apg": 0.3,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "George Mason",
+      "conference": "Atlantic 10",
+      "espnId": 2244,
+      "coach": "",
+      "players": [
+        {
+          "name": "Baraka Okojie",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 19.7,
+          "rpg": 3.1,
+          "apg": 5.3,
+          "notes": ""
+        },
+        {
+          "name": "Brayden O'Connor",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Gr.",
+          "ppg": 4.0,
+          "rpg": 3.0,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Efeosa Oliogu-Elabor",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 5.0,
+          "rpg": 2.2,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Elijah Jones (UTEP)",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 13.1,
+          "rpg": 5.4,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Emmanuel Kanga",
+          "pos": "F",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 4.6,
+          "rpg": 5.3,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Malik Presley",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Sr.",
+          "ppg": 3.2,
+          "rpg": 1.5,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Makhai Valentine",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 13.3,
+          "rpg": 5.3,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Lilian Marville",
+          "pos": "G",
+          "height": "6-1",
+          "year": "So.",
+          "ppg": 9.5,
+          "rpg": 2.0,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Michael Marcus Jr.",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 7.8,
+          "rpg": 6.0,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Emmett Adair",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 14.6,
+          "rpg": 5.4,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "James Nnaji",
+          "pos": "G",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 1.5,
+          "rpg": 2.2,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Ryan-Preston Mendy",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Peyton Miller",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Shane Pendergrass",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Bryton Barrett",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ben Woodward",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 0.0,
+          "rpg": 0.2,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "T.J. Prosise",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 0.3,
+          "rpg": 0.2,
+          "apg": 0.2,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Fordham",
+      "conference": "Atlantic 10",
+      "espnId": 2210,
+      "coach": "",
+      "players": [
+        {
+          "name": "Amir Lindsey",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Jr.",
+          "ppg": 17.9,
+          "rpg": 3.3,
+          "apg": 4.9,
+          "notes": ""
+        },
+        {
+          "name": "Lateef Patrick Jr.",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 15.2,
+          "rpg": 3.1,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Akira Jacobs",
+          "pos": "F",
+          "height": "6-10",
+          "year": "Sr.",
+          "ppg": 7.2,
+          "rpg": 4.8,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Rikus Schulte",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Sr.",
+          "ppg": 10.7,
+          "rpg": 9.1,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Jack Whitbourn",
+          "pos": "C",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 8.4,
+          "rpg": 8.4,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Kelvin Odih",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 1.5,
+          "rpg": 1.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Vito Kucic",
+          "pos": "G",
+          "height": "6-4",
+          "year": "??",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Abass Bodija",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-So.",
+          "ppg": 7.3,
+          "rpg": 5.0,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Roor Akhuar",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 6.1,
+          "rpg": 3.5,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "John Laboy II",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 1.2,
+          "rpg": 0.2,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Desmont Bellot",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Hassan Koureissi",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Frank Siaca Bey",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kingston Price",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 1.7,
+          "rpg": 0.4,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Aidan Crotty",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Jr.",
+          "ppg": 1.6,
+          "rpg": 0.2,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Max Miller",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Jr.",
+          "ppg": 0.0,
+          "rpg": 0.2,
+          "apg": 0.2,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "La Salle",
+      "conference": "Atlantic 10",
+      "espnId": 2352,
+      "coach": "",
+      "players": [
+        {
+          "name": "Jaden Johnson",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 6.3,
+          "rpg": 2.4,
+          "apg": 4.1,
+          "notes": ""
+        },
+        {
+          "name": "Trey Moss",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Sr.",
+          "ppg": 4.7,
+          "rpg": 1.9,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Rob Dockery",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Jr.",
+          "ppg": 12.5,
+          "rpg": 6.1,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Jerome Brewer Jr.",
+          "pos": "F",
+          "height": "6-9",
+          "year": "R-Sr.",
+          "ppg": 11.2,
+          "rpg": 4.2,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Bowyn Beatty",
+          "pos": "F",
+          "height": "7-0",
+          "year": "Sr.",
+          "ppg": 0.8,
+          "rpg": 2.5,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Anthony Finkley",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 5.4,
+          "rpg": 3.3,
+          "apg": 1.6,
+          "notes": ""
+        },
+        {
+          "name": "Devin Booker",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 1.8,
+          "rpg": 0.7,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Kam Burton",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 7.9,
+          "rpg": 1.8,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Vice Zanki",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 8.1,
+          "rpg": 2.4,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Noah Collier",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Gr.",
+          "ppg": 3.7,
+          "rpg": 2.3,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Eunique Rink",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Jr.",
+          "ppg": 1.9,
+          "rpg": 1.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "RJ Smith",
+          "pos": "G",
+          "height": "5-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Breylon Webb",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Francois Nkoy-Eale",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jay Nelson Mboudjika",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Max Lipacis",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 0.0,
+          "rpg": 0.2,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Arlan Masharaliyev",
+          "pos": "G",
+          "height": "6-0",
+          "year": "So.",
+          "ppg": 0.2,
+          "rpg": 0.8,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Jamison Lynam",
+          "pos": "G",
+          "height": "5-10",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph's",
+      "conference": "Atlantic 10",
+      "espnId": 2603,
+      "coach": "",
+      "players": [
+        {
+          "name": "Khaafiq Myers",
+          "pos": "G",
+          "height": "5-10",
+          "year": "R-So.",
+          "ppg": 5.1,
+          "rpg": 2.9,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Jaiden Glover",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 15.7,
+          "rpg": 4.8,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Austin Williford",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 7.8,
+          "rpg": 4.7,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Donovan Flamer",
+          "pos": "F",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 11.1,
+          "rpg": 5.3,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Sean Logan",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "Gr.",
+          "ppg": 3.7,
+          "rpg": 3.4,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Gavin Marrs",
+          "pos": "G",
+          "height": "7-0",
+          "year": "R-Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Logan Carey",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 9.7,
+          "rpg": 2.8,
+          "apg": 2.4,
+          "notes": ""
+        },
+        {
+          "name": "BJ Ranson",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Davis Kemper",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Owen Verna",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Mekai Johnson",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 1.2,
+          "rpg": 0.4,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Keoni Sacco",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Will Lange",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 0.8,
+          "rpg": 0.6,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Billy Rayer",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Jr.",
+          "ppg": 0.5,
+          "rpg": 0.2,
+          "apg": 0.2,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Saint Louis",
+      "conference": "Atlantic 10",
+      "espnId": 139,
+      "coach": "",
+      "players": [
+        {
+          "name": "Trey Green",
+          "pos": "G",
+          "height": "6-0",
+          "year": "R-Jr.",
+          "ppg": 10.7,
+          "rpg": 2.9,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Quentin Jones",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 9.1,
+          "rpg": 3.9,
+          "apg": 3.0,
+          "notes": ""
+        },
+        {
+          "name": "Kellen Thames",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 9.7,
+          "rpg": 4.7,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Amari McCottry",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 10.5,
+          "rpg": 5.3,
+          "apg": 2.9,
+          "notes": ""
+        },
+        {
+          "name": "Alon Michaeli",
+          "pos": "F",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 6.7,
+          "rpg": 3.9,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Ishan Sharma",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 9.1,
+          "rpg": 2.7,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Elijah Strong",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 10.0,
+          "rpg": 2.3,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Jermel Thomas",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Yousaf Ahmad",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Luke Laczkowski",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jax Kerr",
+          "pos": "G",
+          "height": "6-11",
+          "year": "So.",
+          "ppg": 2.8,
+          "rpg": 1.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Sheek Pearson",
+          "pos": "G",
+          "height": "6-11",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jamison White",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cam Hutson",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 1.8,
+          "rpg": 0.9,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Badara Diakite",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Isaac Holmes",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Jr.",
+          "ppg": 0.8,
+          "rpg": 0.6,
+          "apg": 0.3,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "St. Bonaventure",
+      "conference": "Atlantic 10",
+      "espnId": 2607,
+      "coach": "",
+      "players": [
+        {
+          "name": "Taj Au-Duke",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Zach Philiposki",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 17.8,
+          "rpg": 7.1,
+          "apg": 3.8,
+          "notes": ""
+        },
+        {
+          "name": "Akbar Waheed III",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Mason Blackwood",
+          "pos": "F",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 2.6,
+          "rpg": 1.8,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Benjamin Bill",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "R-Sr.",
+          "ppg": 17.0,
+          "rpg": 7.7,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Ryan Kalambay",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 4.1,
+          "rpg": 5.3,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Joseph Grahovac",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Jr.",
+          "ppg": 4.5,
+          "rpg": 3.0,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Ryan Heath",
+          "pos": "G",
+          "height": "5-11",
+          "year": "Sr.",
+          "ppg": 9.8,
+          "rpg": 3.1,
+          "apg": 2.8,
+          "notes": ""
+        },
+        {
+          "name": "Ilia Ermakov",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 2.9,
+          "rpg": 1.1,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Ari Fulton",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 10.9,
+          "rpg": 6.2,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Achille Lonati",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 2.5,
+          "rpg": 0.8,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "John Ikpotokin",
+          "pos": "G",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Cameron Blankenberg",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Leo Kirk",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jack DeRose",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Sr.",
+          "ppg": 1.0,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Chiek Diallo",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Duquesne",
+      "conference": "Atlantic 10",
+      "espnId": 2197,
+      "coach": "",
+      "players": [
+        {
+          "name": "Izaiah Pasha",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 2.0,
+          "rpg": 0.8,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Josh Smith (West Georgia)",
+          "pos": "G",
+          "height": "6-3",
+          "year": "??",
+          "ppg": 16.2,
+          "rpg": 2.1,
+          "apg": 2.1,
+          "notes": ""
+        },
+        {
+          "name": "Yoav Berman",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Jr.",
+          "ppg": 12.3,
+          "rpg": 3.9,
+          "apg": 3.6,
+          "notes": ""
+        },
+        {
+          "name": "Kerem Konan",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 2.7,
+          "rpg": 1.9,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "Ege Demir",
+          "pos": "F/C",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 2.2,
+          "rpg": 3.5,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Brandon Hall",
+          "pos": "G",
+          "height": "6-4",
+          "year": "R-Sr.",
+          "ppg": 3.3,
+          "rpg": 1.3,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Jake DiMichele",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Sr.",
+          "ppg": 3.8,
+          "rpg": 1.1,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Stephen Olowoniyi",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 1.4,
+          "rpg": 0.5,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Jackson Williams",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dimitrios Ntapsis",
+          "pos": "G",
+          "height": "7-0",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Arness Lawson",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Frederik Jellum",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ethan Anish",
+          "pos": "G",
+          "height": "6-1",
+          "year": "R-Jr.",
+          "ppg": 1.3,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Lucas Prolla",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 1.0,
+          "rpg": 0.5,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Tarence Guinyard",
+          "pos": "G",
+          "height": "6-2",
+          "year": "GONE",
+          "ppg": 16.6,
+          "rpg": 3.3,
+          "apg": 4.7,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "San Diego State",
+      "conference": "Pac-12",
+      "espnId": 21,
+      "coach": "",
+      "players": [
+        {
+          "name": "Chance Gladden",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 14.4,
+          "rpg": 3.2,
+          "apg": 4.5,
+          "notes": ""
+        },
+        {
+          "name": "Latrell Davis",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Jr.",
+          "ppg": 11.1,
+          "rpg": 3.1,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Elzie Harrington",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 8.0,
+          "rpg": 1.6,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Tae Simmons",
+          "pos": "F",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 5.8,
+          "rpg": 3.4,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Jeremiah Cherry",
+          "pos": "C",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 15.5,
+          "rpg": 8.2,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Luca Vincini",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "David Torresani",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Isaiah Sy",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 10.0,
+          "rpg": 4.6,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Zach White",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Thokbor Majak",
+          "pos": "G",
+          "height": "7-1",
+          "year": "R-So.",
+          "ppg": 0.3,
+          "rpg": 1.6,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Luka Skoric",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Raymar Gonzales",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-So.",
+          "ppg": 0.5,
+          "rpg": 0.3,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Nick Anderson",
+          "pos": "G",
+          "height": "6-3",
+          "year": "5th",
+          "ppg": 15.5,
+          "rpg": 4.3,
+          "apg": 1.2,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Gonzaga",
+      "conference": "Pac-12",
+      "espnId": 2250,
+      "coach": "",
+      "players": [
+        {
+          "name": "Nathan De Sousa",
+          "pos": "G",
+          "height": "6-2",
+          "year": "??",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Isiah Harwell",
+          "pos": "G",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 3.6,
+          "rpg": 2.0,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Davis Fogle",
+          "pos": "F",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 8.6,
+          "rpg": 3.1,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Braden Huff",
+          "pos": "F",
+          "height": "6-10",
+          "year": "R-Sr.",
+          "ppg": 17.8,
+          "rpg": 5.6,
+          "apg": 1.5,
+          "notes": ""
+        },
+        {
+          "name": "Massamba Diop",
+          "pos": "F/C",
+          "height": "7-1",
+          "year": "So.",
+          "ppg": 13.6,
+          "rpg": 5.8,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Izan Almansa",
+          "pos": "G",
+          "height": "6-10",
+          "year": "??",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Luca Foster",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Juwan Ekanga-Ehawa",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Sam Funches",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Parker Jefferson",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Javon Bennett",
+          "pos": "G",
+          "height": "5-10",
+          "year": "GONE",
+          "ppg": 15.8,
+          "rpg": 2.2,
+          "apg": 2.9,
+          "notes": ""
+        },
+        {
+          "name": "Chauncey Wiggins",
+          "pos": "G",
+          "height": "6-10",
+          "year": "GONE",
+          "ppg": 13.3,
+          "rpg": 3.9,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Xaivian Lee",
+          "pos": "G",
+          "height": "6-4",
+          "year": "GONE",
+          "ppg": 11.6,
+          "rpg": 3.7,
+          "apg": 4.2,
+          "notes": ""
+        },
+        {
+          "name": "Alonzo Metz",
+          "pos": "G",
+          "height": "5-11",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Boise State",
+      "conference": "Pac-12",
+      "espnId": 68,
+      "coach": "",
+      "players": [
+        {
+          "name": "Damari Wheeler-Thomas",
+          "pos": "G",
+          "height": "6-0",
+          "year": "5th",
+          "ppg": 14.5,
+          "rpg": 3.5,
+          "apg": 2.8,
+          "notes": ""
+        },
+        {
+          "name": "Pearson Carmichael",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 7.9,
+          "rpg": 3.1,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Ty Rodgers",
+          "pos": "F",
+          "height": "6-6",
+          "year": "5th",
+          "ppg": 6.2,
+          "rpg": 5.3,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Dovydas Butka",
+          "pos": "F",
+          "height": "6-9",
+          "year": "5th",
+          "ppg": 13.9,
+          "rpg": 8.5,
+          "apg": 2.6,
+          "notes": ""
+        },
+        {
+          "name": "Spencer Ahrens",
+          "pos": "F",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 4.9,
+          "rpg": 2.3,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Aginaldo Neto",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 4.3,
+          "rpg": 1.4,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Jerquarius Stanback",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-So.",
+          "ppg": 8.8,
+          "rpg": 5.8,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Jikany Deang",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Bhan Buom",
+          "pos": "G",
+          "height": "6-8",
+          "year": "So.",
+          "ppg": 1.6,
+          "rpg": 0.5,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Julian Bowie",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 1.0,
+          "rpg": 0.1,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Kaur Tomann",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Ethan Lathan",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-So.",
+          "ppg": 1.8,
+          "rpg": 1.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Brady Hennig",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Rayzhon Bergersen",
+          "pos": "G",
+          "height": "6-2",
+          "year": "5th",
+          "ppg": 0.3,
+          "rpg": 0.2,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Brennan Ramirez",
+          "pos": "G",
+          "height": "6-2",
+          "year": "5th",
+          "ppg": 1.5,
+          "rpg": 0.0,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Lamar Washington",
+          "pos": "G",
+          "height": "6-4",
+          "year": "GONE",
+          "ppg": 9.6,
+          "rpg": 4.7,
+          "apg": 5.1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Oregon State",
+      "conference": "Pac-12",
+      "espnId": 235,
+      "coach": "",
+      "players": [
+        {
+          "name": "Daniel Freitag",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 19.8,
+          "rpg": 4.3,
+          "apg": 3.8,
+          "notes": ""
+        },
+        {
+          "name": "Josiah Lake II",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 13.1,
+          "rpg": 4.1,
+          "apg": 4.2,
+          "notes": ""
+        },
+        {
+          "name": "Legend Smiley",
+          "pos": "G/F",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 8.1,
+          "rpg": 1.9,
+          "apg": 0.6,
+          "notes": ""
+        },
+        {
+          "name": "DeShawn Gory",
+          "pos": "F",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 13.7,
+          "rpg": 6.2,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "Xavion Staton",
+          "pos": "C",
+          "height": "6-11",
+          "year": "So.",
+          "ppg": 0.6,
+          "rpg": 0.4,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Chris Johnson",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Sr.",
+          "ppg": 6.2,
+          "rpg": 1.4,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Jackson Rasmussen",
+          "pos": "G",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 13.6,
+          "rpg": 4.7,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Kahu Treacher",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dennis Evans",
+          "pos": "G",
+          "height": "7-1",
+          "year": "R-Jr.",
+          "ppg": 2.6,
+          "rpg": 1.9,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Yabi Aklog",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jemai Lake",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Peteris Pinnis",
+          "pos": "G",
+          "height": "7-0",
+          "year": "So.",
+          "ppg": 0.8,
+          "rpg": 1.2,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Sean Blakely",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 0.4,
+          "rpg": 0.4,
+          "apg": 0.0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Utah State",
+      "conference": "Pac-12",
+      "espnId": 328,
+      "coach": "",
+      "players": [
+        {
+          "name": "AJ Bates",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 12.1,
+          "rpg": 2.8,
+          "apg": 5.9,
+          "notes": ""
+        },
+        {
+          "name": "Solomon Callaghan",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Jr.",
+          "ppg": 10.2,
+          "rpg": 1.9,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Mason Falslev",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 16.0,
+          "rpg": 5.7,
+          "apg": 3.1,
+          "notes": ""
+        },
+        {
+          "name": "Karson Templin",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 8.8,
+          "rpg": 4.2,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Will Hornseth",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Jr.",
+          "ppg": 11.1,
+          "rpg": 4.6,
+          "apg": 2.2,
+          "notes": ""
+        },
+        {
+          "name": "Collin Mulholland",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Jr.",
+          "ppg": 7.6,
+          "rpg": 3.4,
+          "apg": 1.7,
+          "notes": ""
+        },
+        {
+          "name": "Connor Turnbull",
+          "pos": "G",
+          "height": "6-10",
+          "year": "5th",
+          "ppg": 11.5,
+          "rpg": 6.1,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Ace Reiser",
+          "pos": "G",
+          "height": "6-0",
+          "year": "R-So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kingston Tosi",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Brayden Boe",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Sean Felts",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Jr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Bron Roberts",
+          "pos": "G",
+          "height": "7-0",
+          "year": "R-So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jordan Boyd",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dallin Hall",
+          "pos": "G",
+          "height": "6-4",
+          "year": "GONE",
+          "ppg": 5.9,
+          "rpg": 3.6,
+          "apg": 4.4,
+          "notes": ""
+        },
+        {
+          "name": "Jax Allen",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Colorado State",
+      "conference": "Pac-12",
+      "espnId": 36,
+      "coach": "",
+      "players": [
+        {
+          "name": "Justin Menard",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Jr.",
+          "ppg": 12.9,
+          "rpg": 2.9,
+          "apg": 3.8,
+          "notes": ""
+        },
+        {
+          "name": "Josh Pascarelli",
+          "pos": "G",
+          "height": "6-3",
+          "year": "Sr.",
+          "ppg": 10.2,
+          "rpg": 2.8,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Jase Butler",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 9.3,
+          "rpg": 3.1,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Rashaan Mbemba",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 8.1,
+          "rpg": 3.7,
+          "apg": 0.9,
+          "notes": ""
+        },
+        {
+          "name": "Kyle Jorgensen",
+          "pos": "F",
+          "height": "6-9",
+          "year": "Jr.",
+          "ppg": 11.5,
+          "rpg": 4.3,
+          "apg": 2.2,
+          "notes": ""
+        },
+        {
+          "name": "Carey Booth",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Sr.",
+          "ppg": 10.7,
+          "rpg": 5.6,
+          "apg": 0.7,
+          "notes": ""
+        },
+        {
+          "name": "Amondo Miller",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Gr.",
+          "ppg": 21.0,
+          "rpg": 8.4,
+          "apg": 3.1,
+          "notes": ""
+        },
+        {
+          "name": "Pops Dunson",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jojo McIver",
+          "pos": "G",
+          "height": "6-3",
+          "year": "So.",
+          "ppg": 2.7,
+          "rpg": 1.8,
+          "apg": 1.0,
+          "notes": ""
+        },
+        {
+          "name": "Jaden Ghoreishi",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Eric Fiedler",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Docker Tedeschi",
+          "pos": "G",
+          "height": "6-9",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Jaxon Clark",
+          "pos": "G",
+          "height": "6-10",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "River Sawyer",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Charlie Dortch",
+          "pos": "G",
+          "height": "6-7",
+          "year": "R-Jr.",
+          "ppg": 0.8,
+          "rpg": 0.6,
+          "apg": 0.4,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Washington State",
+      "conference": "Pac-12",
+      "espnId": 265,
+      "coach": "",
+      "players": [
+        {
+          "name": "Lazerek Houston",
+          "pos": "G",
+          "height": "6-0",
+          "year": "So.",
+          "ppg": 20.8,
+          "rpg": 4.1,
+          "apg": 5.1,
+          "notes": ""
+        },
+        {
+          "name": "Sebastian Akins",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Jr.",
+          "ppg": 5.3,
+          "rpg": 1.5,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Casey Jones",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "R-Sr.",
+          "ppg": 12.6,
+          "rpg": 4.4,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Fraser Roxburgh",
+          "pos": "F",
+          "height": "6-7",
+          "year": "Jr.",
+          "ppg": 11.0,
+          "rpg": 5.8,
+          "apg": 1.1,
+          "notes": ""
+        },
+        {
+          "name": "Tyler Kropp",
+          "pos": "F",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 3.1,
+          "rpg": 2.1,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Ronnie Harrison",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 14.7,
+          "rpg": 6.1,
+          "apg": 1.8,
+          "notes": ""
+        },
+        {
+          "name": "Jaylen Harrell",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Fr.",
+          "ppg": 3.7,
+          "rpg": 0.7,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "RJ Jones",
+          "pos": "G",
+          "height": "6-2",
+          "year": "R-Jr.",
+          "ppg": 2.6,
+          "rpg": 0.4,
+          "apg": 0.8,
+          "notes": ""
+        },
+        {
+          "name": "Jamari Phillips",
+          "pos": "G",
+          "height": "6-4",
+          "year": "Jr.",
+          "ppg": 2.7,
+          "rpg": 0.9,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Ladji Dembele",
+          "pos": "G",
+          "height": "6-8",
+          "year": "R-Jr.",
+          "ppg": 5.2,
+          "rpg": 4.2,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Brayden Kyman",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dominik Robinson",
+          "pos": "G",
+          "height": "6-10",
+          "year": "R-Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dio Blakely",
+          "pos": "G",
+          "height": "6-0",
+          "year": "So.",
+          "ppg": 0.8,
+          "rpg": 0.2,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "Roman Stathis",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Pedro Sancho Moraga",
+          "pos": "G",
+          "height": "",
+          "year": "",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Texas St.",
+      "conference": "Pac-12",
+      "espnId": 326,
+      "coach": "",
+      "players": [
+        {
+          "name": "Quel'Ron House",
+          "pos": "G",
+          "height": "6-0",
+          "year": "Jr.",
+          "ppg": 15.2,
+          "rpg": 3.4,
+          "apg": 3.3,
+          "notes": ""
+        },
+        {
+          "name": "Kaden Gumbs",
+          "pos": "G",
+          "height": "6-2",
+          "year": "Sr.",
+          "ppg": 8.7,
+          "rpg": 2.8,
+          "apg": 3.0,
+          "notes": ""
+        },
+        {
+          "name": "Paul Djobet",
+          "pos": "G/F",
+          "height": "6-7",
+          "year": "Sr.",
+          "ppg": 17.5,
+          "rpg": 6.6,
+          "apg": 2.0,
+          "notes": ""
+        },
+        {
+          "name": "DJ Hall",
+          "pos": "F",
+          "height": "6-7",
+          "year": "So.",
+          "ppg": 15.6,
+          "rpg": 7.7,
+          "apg": 2.3,
+          "notes": ""
+        },
+        {
+          "name": "Robert Fields",
+          "pos": "C",
+          "height": "6-9",
+          "year": "So.",
+          "ppg": 5.0,
+          "rpg": 3.7,
+          "apg": 0.4,
+          "notes": ""
+        },
+        {
+          "name": "KJ Younger",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 15.1,
+          "rpg": 4.7,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Caleb Steger",
+          "pos": "G",
+          "height": "6-5",
+          "year": "So.",
+          "ppg": 3.3,
+          "rpg": 1.0,
+          "apg": 0.2,
+          "notes": ""
+        },
+        {
+          "name": "Ron Jessamy",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 13.5,
+          "rpg": 6.6,
+          "apg": 1.2,
+          "notes": ""
+        },
+        {
+          "name": "Dimp Pernell",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Jr.",
+          "ppg": 8.8,
+          "rpg": 2.2,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Ky Pernell",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-Jr.",
+          "ppg": 3.0,
+          "rpg": 1.3,
+          "apg": 0.0,
+          "notes": ""
+        },
+        {
+          "name": "King Sanders",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Kole Grandison",
+          "pos": "G",
+          "height": "6-6",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "David Abisogun",
+          "pos": "G",
+          "height": "6-9",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Randy Livingston Jr.",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Fresno State",
+      "conference": "Pac-12",
+      "espnId": 278,
+      "coach": "",
+      "players": [
+        {
+          "name": "Roger Fabrega Urpina",
+          "pos": "G",
+          "height": "6-1",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Dragos Lungu",
+          "pos": "G",
+          "height": "6-6",
+          "year": "R-Jr.",
+          "ppg": 13.8,
+          "rpg": 5.3,
+          "apg": 2.8,
+          "notes": ""
+        },
+        {
+          "name": "Quentin Rhymes",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Colin Schroeder",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Bradey Henige",
+          "pos": "F/C",
+          "height": "7-0",
+          "year": "Jr.",
+          "ppg": 4.9,
+          "rpg": 5.5,
+          "apg": 0.5,
+          "notes": ""
+        },
+        {
+          "name": "Marko Vuckovic",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "DJ Stickman",
+          "pos": "G",
+          "height": "6-2",
+          "year": "So.",
+          "ppg": 3.5,
+          "rpg": 2.5,
+          "apg": 1.3,
+          "notes": ""
+        },
+        {
+          "name": "Brian Amuneke",
+          "pos": "G",
+          "height": "6-5",
+          "year": "Jr.",
+          "ppg": 2.4,
+          "rpg": 0.7,
+          "apg": 0.3,
+          "notes": ""
+        },
+        {
+          "name": "Ross Candelino",
+          "pos": "G",
+          "height": "6-5",
+          "year": "R-Sr.",
+          "ppg": 11.2,
+          "rpg": 5.2,
+          "apg": 1.4,
+          "notes": ""
+        },
+        {
+          "name": "Baye Fall",
+          "pos": "G",
+          "height": "6-11",
+          "year": "Sr.",
+          "ppg": 0.6,
+          "rpg": 1.7,
+          "apg": 0.1,
+          "notes": ""
+        },
+        {
+          "name": "Anthony Granger",
+          "pos": "G",
+          "height": "6-8",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Yeshua Kesse-Beda",
+          "pos": "G",
+          "height": "6-7",
+          "year": "Fr.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "Nathan Zulemie",
+          "pos": "G",
+          "height": "6-4",
+          "year": "So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        },
+        {
+          "name": "KJ Perry",
+          "pos": "G",
+          "height": "6-3",
+          "year": "R-So.",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": ""
+        }
+      ]
     }
   ]
 }
