@@ -3,7 +3,7 @@
     {
       "state": "Ohio",
       "date": "July 9, 2026",
-      "players": 24,
+      "players": 23,
       "judge": "Judge Christopher Wagner",
       "attorney": "Ryan Downton",
       "players_list": [
@@ -1065,12 +1065,117 @@
             }
           ]
         }
-      ]
+      ],
+      "case": "Borovicanin v. NCAA",
+      "status": "INELIGIBLE",
+      "statusNote": "Injunction stayed pending appeal"
+    },
+    {
+      "state": "Tennessee",
+      "date": "July 6, 2026",
+      "players": 15,
+      "judge": null,
+      "attorney": "Ryan Downton",
+      "players_list": [
+        {
+          "name": "Jalen Washington",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Chendall Weaver",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Sam Alexis",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "NJ Benson",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "BJ Edwards",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Cameron Fens",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Brody Robinson",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "AJ Storr",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jason Edwards",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Zachary Davis",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Olamide Ajiboye",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Daniel Egbuniwe",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Tarence Guinyard",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Dug McDaniel",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jaylon Johnson",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        }
+      ],
+      "case": "Washington v. NCAA",
+      "status": "INELIGIBLE",
+      "statusNote": "Injunction stayed by TN Court of Appeals"
     },
     {
       "state": "Colorado",
-      "date": "July 13, 2026",
-      "players": 11,
+      "date": "July 31, 2026",
+      "players": 7,
       "judge": null,
       "attorney": "Rob Shelquist",
       "players_list": [
@@ -1667,3952 +1772,1022 @@
             }
           ]
         }
-      ]
+      ],
+      "case": "Wisne v. NCAA",
+      "status": "INELIGIBLE",
+      "statusNote": "Nationwide PI granted July 31; stayed by Tenth Circuit Aug 21"
     },
     {
-      "state": "Tennessee",
-      "date": "July 6, 2026",
-      "players": 12,
+      "state": "South Carolina",
+      "case": "Dalley v. NCAA",
+      "status": "INELIGIBLE",
+      "statusNote": "Preliminary injunctive relief denied. These are the original Dalley plaintiffs only.",
+      "date": "2026",
+      "players": 18,
       "judge": null,
-      "attorney": "Ryan Downton",
+      "attorney": "",
       "players_list": [
         {
-          "name": "Jalen Washington",
-          "committedTo": "Vanderbilt",
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UNC",
-              "gp": 20,
-              "gs": 0,
-              "min": 5.6,
-              "fgPct": 45.7,
-              "threePct": 0.0,
-              "ftPct": 64.7,
-              "reb": 1.4,
-              "ast": 0.1,
-              "stl": 0.1,
-              "blk": 0.1,
-              "to": 0.4,
-              "pts": 2.2
-            },
-            {
-              "year": "2023-24",
-              "team": "UNC",
-              "gp": 37,
-              "gs": 0,
-              "min": 8.4,
-              "fgPct": 70.1,
-              "threePct": 53.3,
-              "ftPct": 64.3,
-              "reb": 2.6,
-              "ast": 0.2,
-              "stl": 0.1,
-              "blk": 0.6,
-              "to": 0.4,
-              "pts": 3.9
-            },
-            {
-              "year": "2024-25",
-              "team": "UNC",
-              "gp": 36,
-              "gs": 16,
-              "min": 15.9,
-              "fgPct": 59.4,
-              "threePct": 27.8,
-              "ftPct": 63.8,
-              "reb": 4.2,
-              "ast": 0.5,
-              "stl": 0.3,
-              "blk": 0.8,
-              "to": 1.0,
-              "pts": 5.7
-            },
-            {
-              "year": "2025-26",
-              "team": "VAN",
-              "gp": 36,
-              "gs": 9,
-              "min": 20.6,
-              "fgPct": 56.3,
-              "threePct": 29.4,
-              "ftPct": 74.1,
-              "reb": 5.6,
-              "ast": 0.9,
-              "stl": 0.6,
-              "blk": 1.3,
-              "to": 0.9,
-              "pts": 8.9
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 129,
-              "gs": 25,
-              "min": 13.4,
-              "fgPct": 58.8,
-              "threePct": 31.1,
-              "ftPct": 69.1,
-              "reb": 3.7,
-              "ast": 0.5,
-              "stl": 0.3,
-              "blk": 0.8,
-              "to": 0.7,
-              "pts": 5.5
-            }
-          ]
-        },
-        {
-          "name": "Chendall Weaver",
-          "committedTo": "Houston",
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UTA",
-              "gp": 32,
-              "gs": 25,
-              "min": 29.5,
-              "fgPct": 44.2,
-              "threePct": 40.2,
-              "ftPct": 70.3,
-              "reb": 4.6,
-              "ast": 2.0,
-              "stl": 0.9,
-              "blk": 0.4,
-              "to": 1.2,
-              "pts": 9.5
-            },
-            {
-              "year": "2023-24",
-              "team": "TEX",
-              "gp": 34,
-              "gs": 6,
-              "min": 18.4,
-              "fgPct": 49.0,
-              "threePct": 23.7,
-              "ftPct": 74.0,
-              "reb": 3.0,
-              "ast": 0.6,
-              "stl": 0.6,
-              "blk": 0.4,
-              "to": 0.4,
-              "pts": 6.2
-            },
-            {
-              "year": "2024-25",
-              "team": "TEX",
-              "gp": 20,
-              "gs": 9,
-              "min": 20.7,
-              "fgPct": 50.5,
-              "threePct": 40.0,
-              "ftPct": 60.0,
-              "reb": 4.9,
-              "ast": 1.4,
-              "stl": 0.8,
-              "blk": 0.3,
-              "to": 0.9,
-              "pts": 6.4
-            },
-            {
-              "year": "2025-26",
-              "team": "TEX",
-              "gp": 36,
-              "gs": 2,
-              "min": 20.9,
-              "fgPct": 44.4,
-              "threePct": 21.7,
-              "ftPct": 71.4,
-              "reb": 4.1,
-              "ast": 1.1,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 0.7,
-              "pts": 5.8
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 122,
-              "gs": 42,
-              "min": 22.4,
-              "fgPct": 46.3,
-              "threePct": 32.3,
-              "ftPct": 70.0,
-              "reb": 4.1,
-              "ast": 1.3,
-              "stl": 0.7,
-              "blk": 0.3,
-              "to": 0.8,
-              "pts": 7.0
-            }
-          ]
-        },
-        {
-          "name": "AJ Storr",
-          "committedTo": "UNLV",
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "SJU",
-              "gp": 33,
-              "gs": 17,
-              "min": 21.1,
-              "fgPct": 43.4,
-              "threePct": 40.4,
-              "ftPct": 75.0,
-              "reb": 1.9,
-              "ast": 0.8,
-              "stl": 0.4,
-              "blk": 0.2,
-              "to": 1.1,
-              "pts": 8.8
-            },
-            {
-              "year": "2023-24",
-              "team": "WIS",
-              "gp": 36,
-              "gs": 36,
-              "min": 28.8,
-              "fgPct": 43.4,
-              "threePct": 32.0,
-              "ftPct": 81.2,
-              "reb": 3.9,
-              "ast": 0.9,
-              "stl": 0.6,
-              "blk": 0.1,
-              "to": 1.6,
-              "pts": 16.8
-            },
-            {
-              "year": "2024-25",
-              "team": "KU",
-              "gp": 34,
-              "gs": 4,
-              "min": 15.7,
-              "fgPct": 38.4,
-              "threePct": 29.1,
-              "ftPct": 68.1,
-              "reb": 1.7,
-              "ast": 0.7,
-              "stl": 0.3,
-              "blk": 0.1,
-              "to": 0.9,
-              "pts": 6.1
-            },
-            {
-              "year": "2025-26",
-              "team": "MISS",
-              "gp": 35,
-              "gs": 15,
-              "min": 26.3,
-              "fgPct": 44.8,
-              "threePct": 35.0,
-              "ftPct": 78.3,
-              "reb": 3.1,
-              "ast": 1.9,
-              "stl": 0.9,
-              "blk": 0.1,
-              "to": 1.5,
-              "pts": 15.5
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 138,
-              "gs": 72,
-              "min": 23.1,
-              "fgPct": 43.1,
-              "threePct": 34.1,
-              "ftPct": 77.7,
-              "reb": 2.7,
-              "ast": 1.1,
-              "stl": 0.6,
-              "blk": 0.2,
-              "to": 1.3,
-              "pts": 11.9
-            }
-          ]
-        },
-        {
-          "name": "Jason Edwards",
+          "name": "Tyson Dalley",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2023-24",
-              "team": "UNT",
-              "gp": 34,
-              "gs": 22,
-              "min": 32.6,
-              "fgPct": 42.5,
-              "threePct": 35.0,
-              "ftPct": 80.7,
-              "reb": 2.4,
-              "ast": 1.4,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 2.3,
-              "pts": 19.1
-            },
-            {
-              "year": "2024-25",
-              "team": "VAN",
-              "gp": 33,
-              "gs": 24,
-              "min": 25.2,
-              "fgPct": 43.5,
-              "threePct": 35.3,
-              "ftPct": 83.1,
-              "reb": 2.0,
-              "ast": 1.3,
-              "stl": 0.9,
-              "blk": 0.0,
-              "to": 1.6,
-              "pts": 17.0
-            },
-            {
-              "year": "2025-26",
-              "team": "PROV",
-              "gp": 23,
-              "gs": 13,
-              "min": 26.6,
-              "fgPct": 43.2,
-              "threePct": 34.3,
-              "ftPct": 79.0,
-              "reb": 2.8,
-              "ast": 3.0,
-              "stl": 0.8,
-              "blk": 0.0,
-              "to": 1.8,
-              "pts": 16.5
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 90,
-              "gs": 59,
-              "min": 28.3,
-              "fgPct": 43.0,
-              "threePct": 34.9,
-              "ftPct": 81.3,
-              "reb": 2.3,
-              "ast": 1.8,
-              "stl": 0.9,
-              "blk": 0.1,
-              "to": 1.9,
-              "pts": 17.7
-            }
-          ]
+          "seasons": []
         },
         {
-          "name": "Zach Davis",
+          "name": "Kareem Rozier",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Brit Harris",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Michael Sharavjamts",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Malik McKinzie",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Major Freeman",
           "committedTo": null,
           "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "SC",
-              "gp": 30,
-              "gs": 2,
-              "min": 13.9,
-              "fgPct": 38.2,
-              "threePct": 17.1,
-              "ftPct": 66.7,
-              "reb": 2.2,
-              "ast": 0.7,
-              "stl": 0.7,
-              "blk": 0.2,
-              "to": 0.6,
-              "pts": 2.2
-            },
-            {
-              "year": "2023-24",
-              "team": "SC",
-              "gp": 33,
-              "gs": 17,
-              "min": 22.9,
-              "fgPct": 43.2,
-              "threePct": 25.0,
-              "ftPct": 66.7,
-              "reb": 3.6,
-              "ast": 1.3,
-              "stl": 0.7,
-              "blk": 0.2,
-              "to": 1.0,
-              "pts": 5.9
-            },
-            {
-              "year": "2024-25",
-              "team": "SC",
-              "gp": 32,
-              "gs": 19,
-              "min": 26.3,
-              "fgPct": 38.2,
-              "threePct": 27.7,
-              "ftPct": 73.5,
-              "reb": 4.6,
-              "ast": 1.8,
-              "stl": 1.1,
-              "blk": 0.1,
-              "to": 2.0,
-              "pts": 8.2
-            },
-            {
-              "year": "2025-26",
-              "team": "MEM",
-              "gp": 29,
-              "gs": 11,
-              "min": 20.9,
-              "fgPct": 41.5,
-              "threePct": 27.8,
-              "ftPct": 75.5,
-              "reb": 4.2,
-              "ast": 1.1,
-              "stl": 1.1,
-              "blk": 0.3,
-              "to": 1.8,
-              "pts": 7.2
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 124,
-              "gs": 49,
-              "min": 21.1,
-              "fgPct": 40.4,
-              "threePct": 25.7,
-              "ftPct": 71.7,
-              "reb": 3.7,
-              "ast": 1.2,
-              "stl": 0.9,
-              "blk": 0.2,
-              "to": 1.3,
-              "pts": 5.9
-            }
-          ]
+          "seasons": []
         },
         {
-          "name": "Brody Robinson",
-          "committedTo": "Creighton",
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UTC",
-              "gp": 33,
-              "gs": 2,
-              "min": 11.0,
-              "fgPct": 43.4,
-              "threePct": 38.7,
-              "ftPct": 83.9,
-              "reb": 1.0,
-              "ast": 1.3,
-              "stl": 0.5,
-              "blk": 0.0,
-              "to": 0.8,
-              "pts": 4.1
-            },
-            {
-              "year": "2024-25",
-              "team": "UTA",
-              "gp": 31,
-              "gs": 29,
-              "min": 31.3,
-              "fgPct": 36.6,
-              "threePct": 40.0,
-              "ftPct": 80.5,
-              "reb": 2.6,
-              "ast": 4.4,
-              "stl": 0.7,
-              "blk": 0.1,
-              "to": 2.2,
-              "pts": 9.5
-            },
-            {
-              "year": "2025-26",
-              "team": "OAK",
-              "gp": 32,
-              "gs": 32,
-              "min": 35.8,
-              "fgPct": 41.3,
-              "threePct": 36.8,
-              "ftPct": 79.8,
-              "reb": 2.7,
-              "ast": 6.7,
-              "stl": 1.3,
-              "blk": 0.0,
-              "to": 2.5,
-              "pts": 17.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 96,
-              "gs": 63,
-              "min": 25.8,
-              "fgPct": 40.1,
-              "threePct": 38.1,
-              "ftPct": 80.3,
-              "reb": 2.1,
-              "ast": 4.1,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 1.8,
-              "pts": 10.3
-            }
-          ]
-        },
-        {
-          "name": "Olamide Ajiboye",
-          "committedTo": null,
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "CMU",
-              "gp": 30,
-              "gs": 14,
-              "min": 19.3,
-              "fgPct": 44.1,
-              "threePct": 0.0,
-              "ftPct": 61.7,
-              "reb": 3.4,
-              "ast": 0.6,
-              "stl": 0.7,
-              "blk": 0.8,
-              "to": 0.9,
-              "pts": 3.0
-            },
-            {
-              "year": "2023-24",
-              "team": "VAL",
-              "gp": 31,
-              "gs": 0,
-              "min": 14.2,
-              "fgPct": 52.7,
-              "threePct": 0.0,
-              "ftPct": 62.3,
-              "reb": 3.4,
-              "ast": 0.4,
-              "stl": 0.5,
-              "blk": 0.6,
-              "to": 0.6,
-              "pts": 3.7
-            },
-            {
-              "year": "2024-25",
-              "team": "TNTC",
-              "gp": 32,
-              "gs": 6,
-              "min": 17.2,
-              "fgPct": 53.3,
-              "threePct": 0.0,
-              "ftPct": 47.4,
-              "reb": 3.4,
-              "ast": 1.3,
-              "stl": 0.7,
-              "blk": 1.0,
-              "to": 0.9,
-              "pts": 4.3
-            },
-            {
-              "year": "2025-26",
-              "team": "USI",
-              "gp": 30,
-              "gs": 30,
-              "min": 25.1,
-              "fgPct": 49.3,
-              "threePct": 0.0,
-              "ftPct": 65.2,
-              "reb": 5.1,
-              "ast": 0.8,
-              "stl": 0.8,
-              "blk": 1.5,
-              "to": 0.8,
-              "pts": 6.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 123,
-              "gs": 50,
-              "min": 18.9,
-              "fgPct": 50.1,
-              "threePct": 0.0,
-              "ftPct": 59.9,
-              "reb": 3.8,
-              "ast": 0.8,
-              "stl": 0.7,
-              "blk": 1.0,
-              "to": 0.8,
-              "pts": 4.4
-            }
-          ]
-        },
-        {
-          "name": "Daniel Egbuniwe",
+          "name": "Karon Boyd",
           "committedTo": null,
           "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "LR",
-              "gp": 12,
-              "gs": 0,
-              "min": 6.8,
-              "fgPct": 36.4,
-              "threePct": 16.7,
-              "ftPct": 50.0,
-              "reb": 1.3,
-              "ast": 0.2,
-              "stl": 0.4,
-              "blk": 0.1,
-              "to": 0.5,
-              "pts": 1.7
-            },
-            {
-              "year": "2023-24",
-              "team": "TNTC",
-              "gp": 31,
-              "gs": 29,
-              "min": 27.3,
-              "fgPct": 46.4,
-              "threePct": 35.8,
-              "ftPct": 55.6,
-              "reb": 5.8,
-              "ast": 1.8,
-              "stl": 0.9,
-              "blk": 1.1,
-              "to": 1.8,
-              "pts": 7.6
-            },
-            {
-              "year": "2024-25",
-              "team": "TNTC",
-              "gp": 30,
-              "gs": 28,
-              "min": 27.9,
-              "fgPct": 39.5,
-              "threePct": 30.9,
-              "ftPct": 62.3,
-              "reb": 6.5,
-              "ast": 2.3,
-              "stl": 0.9,
-              "blk": 0.8,
-              "to": 2.0,
-              "pts": 10.0
-            },
-            {
-              "year": "2025-26",
-              "team": "SBU",
-              "gp": 31,
-              "gs": 19,
-              "min": 23.2,
-              "fgPct": 42.2,
-              "threePct": 39.7,
-              "ftPct": 74.0,
-              "reb": 3.2,
-              "ast": 1.1,
-              "stl": 0.9,
-              "blk": 0.5,
-              "to": 1.1,
-              "pts": 8.2
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 104,
-              "gs": 76,
-              "min": 23.9,
-              "fgPct": 42.1,
-              "threePct": 34.7,
-              "ftPct": 63.7,
-              "reb": 4.7,
-              "ast": 1.5,
-              "stl": 0.8,
-              "blk": 0.7,
-              "to": 1.5,
-              "pts": 7.8
-            }
-          ]
+          "seasons": []
         },
         {
-          "name": "Cameron Fens",
-          "committedTo": "North Carolina",
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UIC",
-              "gp": 31,
-              "gs": 12,
-              "min": 10.8,
-              "fgPct": 49.1,
-              "threePct": 0.0,
-              "ftPct": 48.8,
-              "reb": 2.4,
-              "ast": 0.2,
-              "stl": 0.3,
-              "blk": 0.9,
-              "to": 0.6,
-              "pts": 2.5
-            },
-            {
-              "year": "2023-24",
-              "team": "UIC",
-              "gp": 21,
-              "gs": 3,
-              "min": 5.3,
-              "fgPct": 67.9,
-              "threePct": 0.0,
-              "ftPct": 52.9,
-              "reb": 2.0,
-              "ast": 0.1,
-              "stl": 0.1,
-              "blk": 0.5,
-              "to": 0.3,
-              "pts": 2.2
-            },
-            {
-              "year": "2024-25",
-              "team": "SDAK",
-              "gp": 19,
-              "gs": 16,
-              "min": 18.4,
-              "fgPct": 56.8,
-              "threePct": 0.0,
-              "ftPct": 58.7,
-              "reb": 5.0,
-              "ast": 0.4,
-              "stl": 0.3,
-              "blk": 1.1,
-              "to": 0.8,
-              "pts": 8.6
-            },
-            {
-              "year": "2025-26",
-              "team": "SDAK",
-              "gp": 32,
-              "gs": 32,
-              "min": 25.3,
-              "fgPct": 57.9,
-              "threePct": 0.0,
-              "ftPct": 58.5,
-              "reb": 8.7,
-              "ast": 0.8,
-              "stl": 0.4,
-              "blk": 1.5,
-              "to": 1.7,
-              "pts": 14.4
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 103,
-              "gs": 63,
-              "min": 15.6,
-              "fgPct": 57.2,
-              "threePct": 0.0,
-              "ftPct": 56.8,
-              "reb": 4.8,
-              "ast": 0.4,
-              "stl": 0.3,
-              "blk": 1.0,
-              "to": 0.9,
-              "pts": 7.3
-            }
-          ]
-        },
-        {
-          "name": "Tarence Guinyard",
-          "committedTo": "Duquesne",
+          "name": "Christian May",
+          "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2024-25",
-              "team": "UTM",
-              "gp": 32,
-              "gs": 28,
-              "min": 28.3,
-              "fgPct": 44.4,
-              "threePct": 32.7,
-              "ftPct": 74.3,
-              "reb": 4.7,
-              "ast": 2.3,
-              "stl": 1.3,
-              "blk": 0.2,
-              "to": 1.8,
-              "pts": 16.3
-            },
-            {
-              "year": "2025-26",
-              "team": "DUQ",
-              "gp": 32,
-              "gs": 32,
-              "min": 33.3,
-              "fgPct": 45.0,
-              "threePct": 36.0,
-              "ftPct": 71.4,
-              "reb": 3.3,
-              "ast": 4.7,
-              "stl": 1.3,
-              "blk": 0.0,
-              "to": 2.2,
-              "pts": 16.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 64,
-              "gs": 60,
-              "min": 30.8,
-              "fgPct": 44.7,
-              "threePct": 34.6,
-              "ftPct": 73.0,
-              "reb": 4.0,
-              "ast": 3.5,
-              "stl": 1.3,
-              "blk": 0.1,
-              "to": 2.0,
-              "pts": 16.4
-            }
-          ]
+          "seasons": []
+        },
+        {
+          "name": "Bryson Ogletree",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Anthony McComb",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Malik Reneau",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Vincent Brady II",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Kenyon Giles",
+          "committedTo": "Wichita State",
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Owen Aquino",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Mason Swinney",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Noah Ross",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Jackson Paveletzke",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Bowen Hardman",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
         }
       ]
     },
     {
       "state": "Georgia",
       "date": "2026",
-      "players": 16,
+      "players": 24,
       "judge": "Cobb County",
       "attorney": "Heitner",
       "players_list": [
         {
-          "name": "RJ Godfrey",
-          "committedTo": "Arizona",
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "CLEM",
-              "gp": 33,
-              "gs": 1,
-              "min": 9.4,
-              "fgPct": 59.7,
-              "threePct": 33.3,
-              "ftPct": 65.4,
-              "reb": 2.1,
-              "ast": 0.3,
-              "stl": 0.2,
-              "blk": 0.5,
-              "to": 0.8,
-              "pts": 3.2
-            },
-            {
-              "year": "2023-24",
-              "team": "CLEM",
-              "gp": 36,
-              "gs": 0,
-              "min": 15.6,
-              "fgPct": 59.4,
-              "threePct": 42.9,
-              "ftPct": 62.7,
-              "reb": 3.4,
-              "ast": 0.8,
-              "stl": 0.5,
-              "blk": 0.6,
-              "to": 0.9,
-              "pts": 6.1
-            },
-            {
-              "year": "2024-25",
-              "team": "UGA",
-              "gp": 33,
-              "gs": 33,
-              "min": 19.5,
-              "fgPct": 53.2,
-              "threePct": 0.0,
-              "ftPct": 61.1,
-              "reb": 3.8,
-              "ast": 1.0,
-              "stl": 0.6,
-              "blk": 0.6,
-              "to": 1.5,
-              "pts": 6.4
-            },
-            {
-              "year": "2025-26",
-              "team": "CLEM",
-              "gp": 35,
-              "gs": 32,
-              "min": 25.2,
-              "fgPct": 61.1,
-              "threePct": 20.0,
-              "ftPct": 66.0,
-              "reb": 5.3,
-              "ast": 1.6,
-              "stl": 0.6,
-              "blk": 0.6,
-              "to": 1.4,
-              "pts": 12.0
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 137,
-              "gs": 66,
-              "min": 17.5,
-              "fgPct": 58.6,
-              "threePct": 21.6,
-              "ftPct": 64.2,
-              "reb": 3.7,
-              "ast": 0.9,
-              "stl": 0.5,
-              "blk": 0.6,
-              "to": 1.1,
-              "pts": 7.0
-            }
-          ]
-        },
-        {
-          "name": "Jamichael Stillwell",
-          "committedTo": "Texas Tech",
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2024-25",
-              "team": "MILW",
-              "gp": 31,
-              "gs": 29,
-              "min": 28.0,
-              "fgPct": 46.8,
-              "threePct": 28.6,
-              "ftPct": 56.2,
-              "reb": 10.7,
-              "ast": 1.4,
-              "stl": 1.3,
-              "blk": 0.4,
-              "to": 2.1,
-              "pts": 13.0
-            },
-            {
-              "year": "2025-26",
-              "team": "UCF",
-              "gp": 31,
-              "gs": 30,
-              "min": 28.4,
-              "fgPct": 50.4,
-              "threePct": 30.8,
-              "ftPct": 70.2,
-              "reb": 8.2,
-              "ast": 2.2,
-              "stl": 1.1,
-              "blk": 0.2,
-              "to": 1.6,
-              "pts": 11.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 62,
-              "gs": 59,
-              "min": 28.2,
-              "fgPct": 48.4,
-              "threePct": 29.4,
-              "ftPct": 62.0,
-              "reb": 9.5,
-              "ast": 1.8,
-              "stl": 1.2,
-              "blk": 0.3,
-              "to": 1.9,
-              "pts": 12.3
-            }
-          ]
-        },
-        {
-          "name": "Lamar Washington",
-          "committedTo": "Georgia Tech",
+          "name": "Donte Bacchus",
+          "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "TTU",
-              "gp": 32,
-              "gs": 3,
-              "min": 15.4,
-              "fgPct": 42.5,
-              "threePct": 23.3,
-              "ftPct": 73.3,
-              "reb": 1.8,
-              "ast": 1.8,
-              "stl": 0.9,
-              "blk": 0.2,
-              "to": 1.4,
-              "pts": 3.4
-            },
-            {
-              "year": "2023-24",
-              "team": "TTU",
-              "gp": 30,
-              "gs": 0,
-              "min": 8.9,
-              "fgPct": 38.2,
-              "threePct": 23.5,
-              "ftPct": 68.0,
-              "reb": 1.5,
-              "ast": 0.8,
-              "stl": 0.3,
-              "blk": 0.0,
-              "to": 0.6,
-              "pts": 2.1
-            },
-            {
-              "year": "2024-25",
-              "team": "PAC",
-              "gp": 33,
-              "gs": 33,
-              "min": 34.3,
-              "fgPct": 40.1,
-              "threePct": 29.6,
-              "ftPct": 84.0,
-              "reb": 5.1,
-              "ast": 5.8,
-              "stl": 1.7,
-              "blk": 0.2,
-              "to": 3.9,
-              "pts": 13.5
-            },
-            {
-              "year": "2025-26",
-              "team": "GT",
-              "gp": 29,
-              "gs": 21,
-              "min": 28.5,
-              "fgPct": 39.1,
-              "threePct": 28.8,
-              "ftPct": 75.5,
-              "reb": 4.7,
-              "ast": 5.1,
-              "stl": 1.5,
-              "blk": 0.3,
-              "to": 2.7,
-              "pts": 9.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 124,
-              "gs": 57,
-              "min": 21.9,
-              "fgPct": 39.9,
-              "threePct": 28.2,
-              "ftPct": 77.7,
-              "reb": 3.3,
-              "ast": 3.4,
-              "stl": 1.1,
-              "blk": 0.2,
-              "to": 2.2,
-              "pts": 7.2
-            }
-          ]
+          "seasons": []
         },
         {
-          "name": "Chauncey Wiggins",
-          "committedTo": "Gonzaga",
+          "name": "Rickey Ballard",
+          "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "CLEM",
-              "gp": 27,
-              "gs": 0,
-              "min": 8.9,
-              "fgPct": 44.4,
-              "threePct": 40.0,
-              "ftPct": 66.7,
-              "reb": 0.9,
-              "ast": 0.4,
-              "stl": 0.1,
-              "blk": 0.1,
-              "to": 0.2,
-              "pts": 2.4
-            },
-            {
-              "year": "2023-24",
-              "team": "CLEM",
-              "gp": 36,
-              "gs": 18,
-              "min": 17.7,
-              "fgPct": 44.2,
-              "threePct": 34.9,
-              "ftPct": 71.4,
-              "reb": 2.1,
-              "ast": 0.9,
-              "stl": 0.2,
-              "blk": 0.3,
-              "to": 0.7,
-              "pts": 5.4
-            },
-            {
-              "year": "2024-25",
-              "team": "CLEM",
-              "gp": 34,
-              "gs": 26,
-              "min": 23.6,
-              "fgPct": 43.8,
-              "threePct": 36.5,
-              "ftPct": 80.6,
-              "reb": 2.9,
-              "ast": 0.7,
-              "stl": 0.3,
-              "blk": 0.2,
-              "to": 1.1,
-              "pts": 8.3
-            },
-            {
-              "year": "2025-26",
-              "team": "FSU",
-              "gp": 32,
-              "gs": 30,
-              "min": 27.8,
-              "fgPct": 47.9,
-              "threePct": 38.7,
-              "ftPct": 85.1,
-              "reb": 3.9,
-              "ast": 0.9,
-              "stl": 0.3,
-              "blk": 0.2,
-              "to": 1.0,
-              "pts": 13.3
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 129,
-              "gs": 74,
-              "min": 19.9,
-              "fgPct": 45.6,
-              "threePct": 37.5,
-              "ftPct": 81.1,
-              "reb": 2.5,
-              "ast": 0.7,
-              "stl": 0.2,
-              "blk": 0.2,
-              "to": 0.8,
-              "pts": 7.5
-            }
-          ]
+          "seasons": []
         },
         {
           "name": "Kaleb Banks",
           "committedTo": null,
           "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "IU",
-              "gp": 24,
-              "gs": 0,
-              "min": 5.6,
-              "fgPct": 55.2,
-              "threePct": 40.0,
-              "ftPct": 53.6,
-              "reb": 0.9,
-              "ast": 0.3,
-              "stl": 0.2,
-              "blk": 0.1,
-              "to": 0.4,
-              "pts": 2.0
-            },
-            {
-              "year": "2023-24",
-              "team": "IU",
-              "gp": 21,
-              "gs": 0,
-              "min": 10.7,
-              "fgPct": 39.2,
-              "threePct": 25.0,
-              "ftPct": 47.4,
-              "reb": 1.8,
-              "ast": 0.8,
-              "stl": 0.2,
-              "blk": 0.2,
-              "to": 0.4,
-              "pts": 2.6
-            },
-            {
-              "year": "2024-25",
-              "team": "TULN",
-              "gp": 32,
-              "gs": 32,
-              "min": 31.4,
-              "fgPct": 50.6,
-              "threePct": 34.1,
-              "ftPct": 73.1,
-              "reb": 6.7,
-              "ast": 1.0,
-              "stl": 0.8,
-              "blk": 1.3,
-              "to": 0.9,
-              "pts": 14.7
-            },
-            {
-              "year": "2025-26",
-              "team": "DEP",
-              "gp": 31,
-              "gs": 11,
-              "min": 16.2,
-              "fgPct": 45.2,
-              "threePct": 35.5,
-              "ftPct": 74.1,
-              "reb": 2.5,
-              "ast": 0.4,
-              "stl": 0.3,
-              "blk": 0.3,
-              "to": 0.6,
-              "pts": 5.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 108,
-              "gs": 43,
-              "min": 17.3,
-              "fgPct": 48.5,
-              "threePct": 33.8,
-              "ftPct": 68.8,
-              "reb": 3.3,
-              "ast": 0.6,
-              "stl": 0.4,
-              "blk": 0.5,
-              "to": 0.6,
-              "pts": 6.9
-            }
-          ]
+          "seasons": []
+        },
+        {
+          "name": "Jerald Colonel",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Devon Ellis",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "RJ Godfrey Jr.",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Kasheem Grady",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Cam Haffner",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Dillon Hunter",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Michael Jacobs",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Chas Kelley III",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Kamari Lands",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Jacari Lane",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "George Marshall",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Kamrin Oriol",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
         },
         {
           "name": "Stephon Payne",
           "committedTo": null,
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UIW",
-              "gp": 30,
-              "gs": 16,
-              "min": 18.1,
-              "fgPct": 49.3,
-              "threePct": 0.0,
-              "ftPct": 57.9,
-              "reb": 4.7,
-              "ast": 0.5,
-              "stl": 1.0,
-              "blk": 1.3,
-              "to": 1.2,
-              "pts": 6.0
-            },
-            {
-              "year": "2023-24",
-              "team": "JAX",
-              "gp": 33,
-              "gs": 25,
-              "min": 22.7,
-              "fgPct": 50.0,
-              "threePct": 0.0,
-              "ftPct": 68.4,
-              "reb": 6.1,
-              "ast": 0.8,
-              "stl": 0.9,
-              "blk": 0.8,
-              "to": 1.2,
-              "pts": 7.3
-            },
-            {
-              "year": "2024-25",
-              "team": "JAX",
-              "gp": 28,
-              "gs": 23,
-              "min": 21.2,
-              "fgPct": 53.2,
-              "threePct": 0.0,
-              "ftPct": 63.4,
-              "reb": 6.3,
-              "ast": 0.7,
-              "stl": 1.1,
-              "blk": 0.9,
-              "to": 1.5,
-              "pts": 8.4
-            },
-            {
-              "year": "2025-26",
-              "team": "HALL",
-              "gp": 33,
-              "gs": 33,
-              "min": 20.2,
-              "fgPct": 52.4,
-              "threePct": 0.0,
-              "ftPct": 51.8,
-              "reb": 6.5,
-              "ast": 0.6,
-              "stl": 0.8,
-              "blk": 1.2,
-              "to": 0.7,
-              "pts": 5.9
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 124,
-              "gs": 97,
-              "min": 20.6,
-              "fgPct": 51.2,
-              "threePct": 0.0,
-              "ftPct": 60.3,
-              "reb": 5.9,
-              "ast": 0.6,
-              "stl": 1.0,
-              "blk": 1.0,
-              "to": 1.1,
-              "pts": 6.8
-            }
-          ]
-        },
-        {
-          "name": "Chas Kelley",
-          "committedTo": null,
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "BC",
-              "gp": 30,
-              "gs": 0,
-              "min": 14.7,
-              "fgPct": 34.7,
-              "threePct": 28.6,
-              "ftPct": 50.0,
-              "reb": 0.9,
-              "ast": 1.2,
-              "stl": 0.4,
-              "blk": 0.2,
-              "to": 0.9,
-              "pts": 2.9
-            },
-            {
-              "year": "2023-24",
-              "team": "BC",
-              "gp": 27,
-              "gs": 7,
-              "min": 15.4,
-              "fgPct": 35.4,
-              "threePct": 25.0,
-              "ftPct": 64.3,
-              "reb": 1.4,
-              "ast": 1.6,
-              "stl": 0.6,
-              "blk": 0.1,
-              "to": 1.5,
-              "pts": 3.7
-            },
-            {
-              "year": "2024-25",
-              "team": "BC",
-              "gp": 31,
-              "gs": 15,
-              "min": 18.8,
-              "fgPct": 37.9,
-              "threePct": 32.3,
-              "ftPct": 64.5,
-              "reb": 1.2,
-              "ast": 2.0,
-              "stl": 0.4,
-              "blk": 0.3,
-              "to": 1.4,
-              "pts": 4.4
-            },
-            {
-              "year": "2025-26",
-              "team": "GT",
-              "gp": 29,
-              "gs": 1,
-              "min": 17.2,
-              "fgPct": 40.5,
-              "threePct": 38.4,
-              "ftPct": 60.0,
-              "reb": 1.4,
-              "ast": 1.6,
-              "stl": 0.4,
-              "blk": 0.1,
-              "to": 0.9,
-              "pts": 4.3
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 117,
-              "gs": 23,
-              "min": 16.6,
-              "fgPct": 37.3,
-              "threePct": 31.7,
-              "ftPct": 61.7,
-              "reb": 1.2,
-              "ast": 1.6,
-              "stl": 0.5,
-              "blk": 0.2,
-              "to": 1.1,
-              "pts": 3.8
-            }
-          ]
+          "pos": "F",
+          "seasons": []
         },
         {
           "name": "Devin Ree",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "LOU",
-              "gp": 16,
-              "gs": 0,
-              "min": 4.3,
-              "fgPct": 29.4,
-              "threePct": 18.2,
-              "ftPct": 100.0,
-              "reb": 0.6,
-              "ast": 0.0,
-              "stl": 0.1,
-              "blk": 0.2,
-              "to": 0.3,
-              "pts": 0.9
-            },
-            {
-              "year": "2023-24",
-              "team": "LT",
-              "gp": 27,
-              "gs": 8,
-              "min": 14.0,
-              "fgPct": 45.9,
-              "threePct": 40.7,
-              "ftPct": 61.8,
-              "reb": 2.6,
-              "ast": 0.3,
-              "stl": 0.6,
-              "blk": 0.0,
-              "to": 0.5,
-              "pts": 5.4
-            },
-            {
-              "year": "2024-25",
-              "team": "LT",
-              "gp": 29,
-              "gs": 19,
-              "min": 16.4,
-              "fgPct": 34.5,
-              "threePct": 27.3,
-              "ftPct": 82.6,
-              "reb": 2.9,
-              "ast": 0.4,
-              "stl": 0.2,
-              "blk": 0.2,
-              "to": 0.6,
-              "pts": 4.1
-            },
-            {
-              "year": "2025-26",
-              "team": "JKST",
-              "gp": 33,
-              "gs": 18,
-              "min": 20.8,
-              "fgPct": 35.7,
-              "threePct": 27.6,
-              "ftPct": 88.2,
-              "reb": 3.0,
-              "ast": 0.7,
-              "stl": 0.4,
-              "blk": 0.5,
-              "to": 0.9,
-              "pts": 5.4
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 105,
-              "gs": 45,
-              "min": 15.3,
-              "fgPct": 37.9,
-              "threePct": 30.2,
-              "ftPct": 77.4,
-              "reb": 2.5,
-              "ast": 0.4,
-              "stl": 0.4,
-              "blk": 0.2,
-              "to": 0.6,
-              "pts": 4.4
-            }
-          ]
+          "seasons": []
         },
         {
-          "name": "Devon Ellis",
-          "committedTo": null,
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2023-24",
-              "team": "UMES",
-              "gp": 26,
-              "gs": 23,
-              "min": 26.6,
-              "fgPct": 49.8,
-              "threePct": 25.0,
-              "ftPct": 69.6,
-              "reb": 4.4,
-              "ast": 0.7,
-              "stl": 0.7,
-              "blk": 0.4,
-              "to": 1.7,
-              "pts": 11.6
-            },
-            {
-              "year": "2024-25",
-              "team": "VAL",
-              "gp": 27,
-              "gs": 8,
-              "min": 12.2,
-              "fgPct": 43.0,
-              "threePct": 27.3,
-              "ftPct": 68.0,
-              "reb": 2.6,
-              "ast": 0.2,
-              "stl": 0.2,
-              "blk": 0.3,
-              "to": 0.7,
-              "pts": 4.8
-            },
-            {
-              "year": "2025-26",
-              "team": "NORF",
-              "gp": 32,
-              "gs": 32,
-              "min": 27.3,
-              "fgPct": 54.7,
-              "threePct": 38.9,
-              "ftPct": 68.3,
-              "reb": 4.4,
-              "ast": 1.6,
-              "stl": 0.7,
-              "blk": 0.4,
-              "to": 1.3,
-              "pts": 11.1
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 85,
-              "gs": 63,
-              "min": 22.3,
-              "fgPct": 50.6,
-              "threePct": 34.1,
-              "ftPct": 68.7,
-              "reb": 3.8,
-              "ast": 0.8,
-              "stl": 0.5,
-              "blk": 0.4,
-              "to": 1.2,
-              "pts": 9.2
-            }
-          ]
-        },
-        {
-          "name": "Kasheem Grady II",
+          "name": "Dan Skillings Jr.",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2024-25",
-              "team": "KC",
-              "gp": 29,
-              "gs": 5,
-              "min": 13.1,
-              "fgPct": 43.1,
-              "threePct": 34.9,
-              "ftPct": 70.4,
-              "reb": 1.9,
-              "ast": 0.9,
-              "stl": 0.6,
-              "blk": 0.0,
-              "to": 0.5,
-              "pts": 5.1
-            },
-            {
-              "year": "2025-26",
-              "team": "KC",
-              "gp": 30,
-              "gs": 11,
-              "min": 25.7,
-              "fgPct": 39.8,
-              "threePct": 29.5,
-              "ftPct": 80.8,
-              "reb": 3.2,
-              "ast": 1.2,
-              "stl": 1.0,
-              "blk": 0.2,
-              "to": 1.5,
-              "pts": 10.0
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 59,
-              "gs": 16,
-              "min": 19.5,
-              "fgPct": 40.9,
-              "threePct": 31.3,
-              "ftPct": 78.0,
-              "reb": 2.5,
-              "ast": 1.0,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 1.0,
-              "pts": 7.6
-            }
-          ]
+          "seasons": []
         },
         {
           "name": "Perry Smith Jr.",
           "committedTo": null,
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UVM",
-              "gp": 26,
-              "gs": 1,
-              "min": 9.6,
-              "fgPct": 46.7,
-              "threePct": 0.0,
-              "ftPct": 36.4,
-              "reb": 1.7,
-              "ast": 0.3,
-              "stl": 0.2,
-              "blk": 0.2,
-              "to": 0.6,
-              "pts": 1.9
-            },
-            {
-              "year": "2023-24",
-              "team": "NCCU",
-              "gp": 29,
-              "gs": 11,
-              "min": 19.6,
-              "fgPct": 62.3,
-              "threePct": 0.0,
-              "ftPct": 58.8,
-              "reb": 4.2,
-              "ast": 0.2,
-              "stl": 0.7,
-              "blk": 0.4,
-              "to": 1.0,
-              "pts": 5.2
-            },
-            {
-              "year": "2024-25",
-              "team": "NCCU",
-              "gp": 33,
-              "gs": 33,
-              "min": 28.1,
-              "fgPct": 61.9,
-              "threePct": 0.0,
-              "ftPct": 55.2,
-              "reb": 6.0,
-              "ast": 0.5,
-              "stl": 0.6,
-              "blk": 0.6,
-              "to": 1.9,
-              "pts": 11.4
-            },
-            {
-              "year": "2025-26",
-              "team": "KENN",
-              "gp": 26,
-              "gs": 3,
-              "min": 11.8,
-              "fgPct": 63.3,
-              "threePct": 0.0,
-              "ftPct": 53.6,
-              "reb": 2.5,
-              "ast": 0.7,
-              "stl": 0.3,
-              "blk": 0.1,
-              "to": 0.6,
-              "pts": 3.0
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 114,
-              "gs": 48,
-              "min": 18.0,
-              "fgPct": 60.6,
-              "threePct": 0.0,
-              "ftPct": 53.4,
-              "reb": 3.8,
-              "ast": 0.4,
-              "stl": 0.4,
-              "blk": 0.3,
-              "to": 1.1,
-              "pts": 5.7
-            }
-          ]
+          "pos": "G",
+          "seasons": []
         },
         {
-          "name": "Jaquan Sanders",
+          "name": "Braden Sparks",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "HALL",
-              "gp": 22,
-              "gs": 0,
-              "min": 9.0,
-              "fgPct": 36.2,
-              "threePct": 32.4,
-              "ftPct": 80.0,
-              "reb": 1.1,
-              "ast": 0.4,
-              "stl": 0.0,
-              "blk": 0.1,
-              "to": 0.5,
-              "pts": 2.3
-            },
-            {
-              "year": "2023-24",
-              "team": "HALL",
-              "gp": 35,
-              "gs": 0,
-              "min": 10.4,
-              "fgPct": 44.4,
-              "threePct": 37.3,
-              "ftPct": 66.7,
-              "reb": 0.9,
-              "ast": 0.4,
-              "stl": 0.2,
-              "blk": 0.2,
-              "to": 0.4,
-              "pts": 2.7
-            },
-            {
-              "year": "2024-25",
-              "team": "HOF",
-              "gp": 24,
-              "gs": 13,
-              "min": 20.0,
-              "fgPct": 30.1,
-              "threePct": 27.6,
-              "ftPct": 80.0,
-              "reb": 1.3,
-              "ast": 1.3,
-              "stl": 0.5,
-              "blk": 0.1,
-              "to": 1.0,
-              "pts": 6.2
-            },
-            {
-              "year": "2025-26",
-              "team": "FAMU",
-              "gp": 30,
-              "gs": 26,
-              "min": 31.8,
-              "fgPct": 39.1,
-              "threePct": 34.1,
-              "ftPct": 83.7,
-              "reb": 3.1,
-              "ast": 3.6,
-              "stl": 1.0,
-              "blk": 0.2,
-              "to": 2.4,
-              "pts": 11.7
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 111,
-              "gs": 39,
-              "min": 18.0,
-              "fgPct": 37.0,
-              "threePct": 32.4,
-              "ftPct": 82.1,
-              "reb": 1.6,
-              "ast": 1.5,
-              "stl": 0.5,
-              "blk": 0.2,
-              "to": 1.1,
-              "pts": 5.8
-            }
-          ]
+          "seasons": []
         },
         {
-          "name": "Rickey Ballard",
+          "name": "JaMichael Stillwell",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Lamar Washington",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Chauncey Wiggins",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Asher Woods",
           "committedTo": null,
           "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "LYNN",
-              "gp": 1,
-              "gs": 1,
-              "min": 23.0,
-              "fgPct": 0.0,
-              "threePct": 0.0,
-              "ftPct": 0.0,
-              "reb": 2.0,
-              "ast": 0.0,
-              "stl": 2.0,
-              "blk": 0.0,
-              "to": 5.0,
-              "pts": 0.0
-            },
-            {
-              "year": "2023-24",
-              "team": "LYNN",
-              "gp": 1,
-              "gs": 1,
-              "min": 30.0,
-              "fgPct": 50.0,
-              "threePct": 0.0,
-              "ftPct": 75.0,
-              "reb": 9.0,
-              "ast": 0.0,
-              "stl": 1.0,
-              "blk": 0.0,
-              "to": 1.0,
-              "pts": 9.0
-            },
-            {
-              "year": "2024-25",
-              "team": "WGA",
-              "gp": 31,
-              "gs": 21,
-              "min": 23.0,
-              "fgPct": 42.4,
-              "threePct": 38.4,
-              "ftPct": 73.9,
-              "reb": 3.1,
-              "ast": 1.1,
-              "stl": 1.0,
-              "blk": 0.2,
-              "to": 1.3,
-              "pts": 6.4
-            },
-            {
-              "year": "2025-26",
-              "team": "GRAM",
-              "gp": 33,
-              "gs": 22,
-              "min": 22.3,
-              "fgPct": 40.0,
-              "threePct": 37.6,
-              "ftPct": 75.4,
-              "reb": 2.7,
-              "ast": 0.9,
-              "stl": 1.2,
-              "blk": 0.3,
-              "to": 0.8,
-              "pts": 7.1
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 66,
-              "gs": 45,
-              "min": 22.8,
-              "fgPct": 40.9,
-              "threePct": 37.3,
-              "ftPct": 75.0,
-              "reb": 3.0,
-              "ast": 1.0,
-              "stl": 1.1,
-              "blk": 0.2,
-              "to": 1.1,
-              "pts": 6.7
-            }
-          ]
+          "seasons": []
         }
-      ]
+      ],
+      "case": "Godfrey v. NCAA",
+      "status": "ELIGIBLE",
+      "statusNote": "Injunction in place while NCAA appeals"
     },
     {
       "state": "California",
       "date": "2026",
-      "players": 25,
+      "players": 43,
       "judge": null,
       "attorney": "Ryan Downton",
       "players_list": [
         {
-          "name": "Donovan Dent",
-          "committedTo": "LSU",
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UNM",
-              "gp": 34,
-              "gs": 2,
-              "min": 18.5,
-              "fgPct": 50.7,
-              "threePct": 21.1,
-              "ftPct": 68.5,
-              "reb": 2.0,
-              "ast": 2.3,
-              "stl": 0.9,
-              "blk": 0.7,
-              "to": 1.6,
-              "pts": 5.6
-            },
-            {
-              "year": "2023-24",
-              "team": "UNM",
-              "gp": 35,
-              "gs": 35,
-              "min": 31.3,
-              "fgPct": 52.0,
-              "threePct": 37.5,
-              "ftPct": 68.2,
-              "reb": 2.5,
-              "ast": 5.4,
-              "stl": 1.5,
-              "blk": 0.7,
-              "to": 2.3,
-              "pts": 14.1
-            },
-            {
-              "year": "2024-25",
-              "team": "UNM",
-              "gp": 35,
-              "gs": 35,
-              "min": 35.3,
-              "fgPct": 49.0,
-              "threePct": 40.9,
-              "ftPct": 78.4,
-              "reb": 2.3,
-              "ast": 6.4,
-              "stl": 1.4,
-              "blk": 0.9,
-              "to": 3.1,
-              "pts": 20.4
-            },
-            {
-              "year": "2025-26",
-              "team": "UCLA",
-              "gp": 35,
-              "gs": 34,
-              "min": 34.4,
-              "fgPct": 40.8,
-              "threePct": 25.4,
-              "ftPct": 65.6,
-              "reb": 2.9,
-              "ast": 7.6,
-              "stl": 1.7,
-              "blk": 0.3,
-              "to": 1.8,
-              "pts": 13.3
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 139,
-              "gs": 106,
-              "min": 29.9,
-              "fgPct": 47.6,
-              "threePct": 32.7,
-              "ftPct": 71.6,
-              "reb": 2.5,
-              "ast": 5.5,
-              "stl": 1.4,
-              "blk": 0.7,
-              "to": 2.2,
-              "pts": 13.4
-            }
-          ]
-        },
-        {
-          "name": "Jordan Pope",
-          "committedTo": "Texas A&M",
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "ORST",
-              "gp": 32,
-              "gs": 31,
-              "min": 33.5,
-              "fgPct": 42.3,
-              "threePct": 37.7,
-              "ftPct": 83.6,
-              "reb": 2.6,
-              "ast": 2.3,
-              "stl": 0.9,
-              "blk": 0.1,
-              "to": 1.4,
-              "pts": 12.6
-            },
-            {
-              "year": "2023-24",
-              "team": "ORST",
-              "gp": 32,
-              "gs": 32,
-              "min": 35.6,
-              "fgPct": 45.1,
-              "threePct": 37.1,
-              "ftPct": 87.9,
-              "reb": 2.6,
-              "ast": 3.4,
-              "stl": 0.7,
-              "blk": 0.1,
-              "to": 2.3,
-              "pts": 17.6
-            },
-            {
-              "year": "2024-25",
-              "team": "TEX",
-              "gp": 35,
-              "gs": 32,
-              "min": 25.5,
-              "fgPct": 43.5,
-              "threePct": 36.4,
-              "ftPct": 87.5,
-              "reb": 2.0,
-              "ast": 1.7,
-              "stl": 1.0,
-              "blk": 0.0,
-              "to": 0.9,
-              "pts": 11.0
-            },
-            {
-              "year": "2025-26",
-              "team": "TEX",
-              "gp": 36,
-              "gs": 35,
-              "min": 29.0,
-              "fgPct": 39.9,
-              "threePct": 37.2,
-              "ftPct": 84.0,
-              "reb": 2.1,
-              "ast": 1.9,
-              "stl": 0.4,
-              "blk": 0.1,
-              "to": 0.9,
-              "pts": 13.1
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 135,
-              "gs": 130,
-              "min": 30.7,
-              "fgPct": 42.8,
-              "threePct": 37.1,
-              "ftPct": 85.8,
-              "reb": 2.3,
-              "ast": 2.3,
-              "stl": 0.7,
-              "blk": 0.1,
-              "to": 1.4,
-              "pts": 13.5
-            }
-          ]
-        },
-        {
-          "name": "Skyy Clark",
-          "committedTo": "LSU",
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "ILL",
-              "gp": 13,
-              "gs": 12,
-              "min": 24.4,
-              "fgPct": 41.1,
-              "threePct": 33.3,
-              "ftPct": 69.6,
-              "reb": 3.7,
-              "ast": 2.1,
-              "stl": 0.5,
-              "blk": 0.2,
-              "to": 2.1,
-              "pts": 7.0
-            },
-            {
-              "year": "2023-24",
-              "team": "LOU",
-              "gp": 29,
-              "gs": 28,
-              "min": 31.9,
-              "fgPct": 41.2,
-              "threePct": 35.3,
-              "ftPct": 77.6,
-              "reb": 3.1,
-              "ast": 3.0,
-              "stl": 1.0,
-              "blk": 0.1,
-              "to": 3.0,
-              "pts": 13.2
-            },
-            {
-              "year": "2024-25",
-              "team": "UCLA",
-              "gp": 34,
-              "gs": 34,
-              "min": 26.4,
-              "fgPct": 45.8,
-              "threePct": 39.7,
-              "ftPct": 77.8,
-              "reb": 2.8,
-              "ast": 2.7,
-              "stl": 1.3,
-              "blk": 0.1,
-              "to": 1.1,
-              "pts": 8.5
-            },
-            {
-              "year": "2025-26",
-              "team": "UCLA",
-              "gp": 26,
-              "gs": 23,
-              "min": 28.6,
-              "fgPct": 46.9,
-              "threePct": 42.7,
-              "ftPct": 82.1,
-              "reb": 2.3,
-              "ast": 2.0,
-              "stl": 1.2,
-              "blk": 0.1,
-              "to": 1.0,
-              "pts": 11.5
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 102,
-              "gs": 97,
-              "min": 28.3,
-              "fgPct": 44.0,
-              "threePct": 38.5,
-              "ftPct": 77.6,
-              "reb": 2.9,
-              "ast": 2.5,
-              "stl": 1.1,
-              "blk": 0.1,
-              "to": 1.7,
-              "pts": 10.4
-            }
-          ]
-        },
-        {
           "name": "Jeremy Dent-Smith",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2023-24",
-              "team": "CSDH",
-              "gp": 1,
-              "gs": 1,
-              "min": 28.0,
-              "fgPct": 50.0,
-              "threePct": 57.1,
-              "ftPct": 71.4,
-              "reb": 6.0,
-              "ast": 4.0,
-              "stl": 0.0,
-              "blk": 1.0,
-              "to": 4.0,
-              "pts": 21.0
-            },
-            {
-              "year": "2025-26",
-              "team": "STAN",
-              "gp": 33,
-              "gs": 4,
-              "min": 20.1,
-              "fgPct": 36.9,
-              "threePct": 37.9,
-              "ftPct": 82.9,
-              "reb": 1.8,
-              "ast": 1.5,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 1.2,
-              "pts": 8.2
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 34,
-              "gs": 5,
-              "min": 20.3,
-              "fgPct": 37.5,
-              "threePct": 38.7,
-              "ftPct": 81.3,
-              "reb": 1.9,
-              "ast": 1.6,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 1.3,
-              "pts": 8.6
-            }
-          ]
+          "seasons": []
         },
         {
           "name": "Benny Gealer",
-          "committedTo": "UIC",
+          "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "STAN",
-              "gp": 12,
-              "gs": 0,
-              "min": 4.8,
-              "fgPct": 50.0,
-              "threePct": 42.9,
-              "ftPct": 100.0,
-              "reb": 0.5,
-              "ast": 0.5,
-              "stl": 0.3,
-              "blk": 0.0,
-              "to": 0.8,
-              "pts": 1.1
-            },
-            {
-              "year": "2023-24",
-              "team": "STAN",
-              "gp": 32,
-              "gs": 1,
-              "min": 17.9,
-              "fgPct": 36.2,
-              "threePct": 33.3,
-              "ftPct": 83.3,
-              "reb": 1.6,
-              "ast": 2.3,
-              "stl": 0.6,
-              "blk": 0.0,
-              "to": 0.8,
-              "pts": 4.2
-            },
-            {
-              "year": "2024-25",
-              "team": "STAN",
-              "gp": 32,
-              "gs": 7,
-              "min": 20.4,
-              "fgPct": 34.1,
-              "threePct": 36.6,
-              "ftPct": 88.9,
-              "reb": 1.7,
-              "ast": 2.0,
-              "stl": 0.8,
-              "blk": 0.0,
-              "to": 0.6,
-              "pts": 6.0
-            },
-            {
-              "year": "2025-26",
-              "team": "STAN",
-              "gp": 33,
-              "gs": 31,
-              "min": 29.5,
-              "fgPct": 43.6,
-              "threePct": 41.0,
-              "ftPct": 89.5,
-              "reb": 2.5,
-              "ast": 1.7,
-              "stl": 1.6,
-              "blk": 0.1,
-              "to": 0.7,
-              "pts": 10.9
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 109,
-              "gs": 39,
-              "min": 20.7,
-              "fgPct": 39.1,
-              "threePct": 38.3,
-              "ftPct": 88.5,
-              "reb": 1.8,
-              "ast": 1.8,
-              "stl": 0.9,
-              "blk": 0.1,
-              "to": 0.7,
-              "pts": 6.4
-            }
-          ]
+          "seasons": []
         },
         {
           "name": "Josiah Davis",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "WVU",
-              "gp": 6,
-              "gs": 0,
-              "min": 1.5,
-              "fgPct": 33.3,
-              "threePct": 0.0,
-              "ftPct": 50.0,
-              "reb": 0.3,
-              "ast": 0.2,
-              "stl": 0.0,
-              "blk": 0.0,
-              "to": 0.3,
-              "pts": 0.8
-            },
-            {
-              "year": "2023-24",
-              "team": "TNTC",
-              "gp": 31,
-              "gs": 31,
-              "min": 30.5,
-              "fgPct": 50.3,
-              "threePct": 25.0,
-              "ftPct": 62.1,
-              "reb": 4.6,
-              "ast": 2.3,
-              "stl": 0.7,
-              "blk": 0.1,
-              "to": 2.4,
-              "pts": 12.9
-            },
-            {
-              "year": "2024-25",
-              "team": "NIA",
-              "gp": 22,
-              "gs": 20,
-              "min": 28.0,
-              "fgPct": 45.7,
-              "threePct": 23.8,
-              "ftPct": 67.1,
-              "reb": 3.5,
-              "ast": 3.1,
-              "stl": 1.0,
-              "blk": 0.1,
-              "to": 2.7,
-              "pts": 9.4
-            },
-            {
-              "year": "2025-26",
-              "team": "CSUN",
-              "gp": 34,
-              "gs": 34,
-              "min": 33.3,
-              "fgPct": 45.9,
-              "threePct": 16.7,
-              "ftPct": 70.0,
-              "reb": 4.6,
-              "ast": 7.4,
-              "stl": 1.1,
-              "blk": 0.3,
-              "to": 4.7,
-              "pts": 15.9
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 93,
-              "gs": 85,
-              "min": 29.1,
-              "fgPct": 47.3,
-              "threePct": 21.5,
-              "ftPct": 66.8,
-              "reb": 4.1,
-              "ast": 4.2,
-              "stl": 0.9,
-              "blk": 0.2,
-              "to": 3.2,
-              "pts": 12.4
-            }
-          ]
+          "seasons": []
         },
         {
           "name": "Duke Brennan",
-          "committedTo": "Oklahoma",
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "ASU",
-              "gp": 36,
-              "gs": 1,
-              "min": 9.0,
-              "fgPct": 51.9,
-              "threePct": 0.0,
-              "ftPct": 63.0,
-              "reb": 2.3,
-              "ast": 0.1,
-              "stl": 0.2,
-              "blk": 0.5,
-              "to": 0.4,
-              "pts": 2.4
-            },
-            {
-              "year": "2023-24",
-              "team": "GCU",
-              "gp": 35,
-              "gs": 35,
-              "min": 22.9,
-              "fgPct": 58.3,
-              "threePct": 50.0,
-              "ftPct": 57.8,
-              "reb": 6.7,
-              "ast": 0.5,
-              "stl": 0.7,
-              "blk": 0.7,
-              "to": 1.3,
-              "pts": 7.0
-            },
-            {
-              "year": "2024-25",
-              "team": "GCU",
-              "gp": 30,
-              "gs": 30,
-              "min": 26.6,
-              "fgPct": 64.6,
-              "threePct": 0.0,
-              "ftPct": 65.4,
-              "reb": 9.2,
-              "ast": 0.5,
-              "stl": 0.8,
-              "blk": 0.4,
-              "to": 1.2,
-              "pts": 10.4
-            },
-            {
-              "year": "2025-26",
-              "team": "VIL",
-              "gp": 32,
-              "gs": 32,
-              "min": 31.0,
-              "fgPct": 65.8,
-              "threePct": 0.0,
-              "ftPct": 61.3,
-              "reb": 10.3,
-              "ast": 2.0,
-              "stl": 0.8,
-              "blk": 0.5,
-              "to": 2.0,
-              "pts": 12.4
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 133,
-              "gs": 98,
-              "min": 21.9,
-              "fgPct": 62.2,
-              "threePct": 33.3,
-              "ftPct": 61.8,
-              "reb": 6.9,
-              "ast": 0.8,
-              "stl": 0.6,
-              "blk": 0.5,
-              "to": 1.2,
-              "pts": 7.8
-            }
-          ]
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jordan Pope",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Donovan Dent",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Charles Johnston",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
         },
         {
           "name": "Elijah Fisher",
           "committedTo": null,
           "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "TTU",
-              "gp": 28,
-              "gs": 1,
-              "min": 12.2,
-              "fgPct": 46.1,
-              "threePct": 25.0,
-              "ftPct": 58.6,
-              "reb": 2.0,
-              "ast": 0.4,
-              "stl": 0.4,
-              "blk": 0.1,
-              "to": 0.5,
-              "pts": 3.3
-            },
-            {
-              "year": "2023-24",
-              "team": "DEP",
-              "gp": 32,
-              "gs": 30,
-              "min": 31.8,
-              "fgPct": 52.0,
-              "threePct": 26.3,
-              "ftPct": 72.2,
-              "reb": 3.8,
-              "ast": 1.4,
-              "stl": 0.8,
-              "blk": 0.3,
-              "to": 1.6,
-              "pts": 10.2
-            },
-            {
-              "year": "2024-25",
-              "team": "PAC",
-              "gp": 33,
-              "gs": 33,
-              "min": 33.6,
-              "fgPct": 48.3,
-              "threePct": 29.7,
-              "ftPct": 74.8,
-              "reb": 4.8,
-              "ast": 1.5,
-              "stl": 0.7,
-              "blk": 0.3,
-              "to": 2.7,
-              "pts": 15.7
-            },
-            {
-              "year": "2025-26",
-              "team": "HALL",
-              "gp": 33,
-              "gs": 33,
-              "min": 20.7,
-              "fgPct": 45.5,
-              "threePct": 23.7,
-              "ftPct": 69.6,
-              "reb": 2.9,
-              "ast": 0.8,
-              "stl": 0.9,
-              "blk": 0.5,
-              "to": 0.8,
-              "pts": 6.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 126,
-              "gs": 97,
-              "min": 25.0,
-              "fgPct": 48.5,
-              "threePct": 26.9,
-              "ftPct": 72.1,
-              "reb": 3.4,
-              "ast": 1.0,
-              "stl": 0.7,
-              "blk": 0.3,
-              "to": 1.4,
-              "pts": 9.2
-            }
-          ]
-        },
-        {
-          "name": "Parsa Fallah",
-          "committedTo": "Oklahoma State",
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "SUU",
-              "gp": 33,
-              "gs": 0,
-              "min": 7.9,
-              "fgPct": 67.9,
-              "threePct": 0.0,
-              "ftPct": 46.2,
-              "reb": 2.1,
-              "ast": 0.3,
-              "stl": 0.4,
-              "blk": 0.2,
-              "to": 0.8,
-              "pts": 3.6
-            },
-            {
-              "year": "2023-24",
-              "team": "SUU",
-              "gp": 25,
-              "gs": 25,
-              "min": 27.6,
-              "fgPct": 57.0,
-              "threePct": 17.6,
-              "ftPct": 66.7,
-              "reb": 6.0,
-              "ast": 1.6,
-              "stl": 0.6,
-              "blk": 0.3,
-              "to": 2.8,
-              "pts": 13.2
-            },
-            {
-              "year": "2024-25",
-              "team": "ORST",
-              "gp": 31,
-              "gs": 30,
-              "min": 24.8,
-              "fgPct": 59.8,
-              "threePct": 0.0,
-              "ftPct": 69.3,
-              "reb": 4.0,
-              "ast": 1.0,
-              "stl": 0.3,
-              "blk": 0.5,
-              "to": 1.4,
-              "pts": 12.8
-            },
-            {
-              "year": "2025-26",
-              "team": "OKST",
-              "gp": 26,
-              "gs": 26,
-              "min": 26.4,
-              "fgPct": 59.8,
-              "threePct": 40.0,
-              "ftPct": 68.0,
-              "reb": 6.0,
-              "ast": 0.8,
-              "stl": 1.2,
-              "blk": 0.5,
-              "to": 1.3,
-              "pts": 14.7
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 115,
-              "gs": 81,
-              "min": 20.9,
-              "fgPct": 59.8,
-              "threePct": 28.3,
-              "ftPct": 66.6,
-              "reb": 4.3,
-              "ast": 0.9,
-              "stl": 0.6,
-              "blk": 0.4,
-              "to": 1.5,
-              "pts": 10.7
-            }
-          ]
+          "seasons": []
         },
         {
           "name": "Jaden Henley",
-          "committedTo": "Grand Canyon",
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "MINN",
-              "gp": 31,
-              "gs": 18,
-              "min": 20.8,
-              "fgPct": 37.6,
-              "threePct": 37.8,
-              "ftPct": 63.3,
-              "reb": 2.2,
-              "ast": 1.3,
-              "stl": 0.8,
-              "blk": 0.2,
-              "to": 1.6,
-              "pts": 5.3
-            },
-            {
-              "year": "2023-24",
-              "team": "DEP",
-              "gp": 32,
-              "gs": 23,
-              "min": 24.4,
-              "fgPct": 43.6,
-              "threePct": 26.9,
-              "ftPct": 75.5,
-              "reb": 2.7,
-              "ast": 1.3,
-              "stl": 0.9,
-              "blk": 0.2,
-              "to": 1.8,
-              "pts": 8.6
-            },
-            {
-              "year": "2024-25",
-              "team": "UNLV",
-              "gp": 28,
-              "gs": 27,
-              "min": 29.4,
-              "fgPct": 43.3,
-              "threePct": 35.1,
-              "ftPct": 86.4,
-              "reb": 4.2,
-              "ast": 1.8,
-              "stl": 1.6,
-              "blk": 0.1,
-              "to": 2.0,
-              "pts": 12.5
-            },
-            {
-              "year": "2025-26",
-              "team": "GCU",
-              "gp": 32,
-              "gs": 32,
-              "min": 31.4,
-              "fgPct": 46.6,
-              "threePct": 26.8,
-              "ftPct": 75.6,
-              "reb": 5.7,
-              "ast": 2.9,
-              "stl": 1.6,
-              "blk": 0.3,
-              "to": 2.8,
-              "pts": 17.7
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 123,
-              "gs": 100,
-              "min": 26.5,
-              "fgPct": 43.8,
-              "threePct": 30.7,
-              "ftPct": 76.4,
-              "reb": 3.7,
-              "ast": 1.8,
-              "stl": 1.2,
-              "blk": 0.2,
-              "to": 2.0,
-              "pts": 11.0
-            }
-          ]
-        },
-        {
-          "name": "Kendall Blue",
-          "committedTo": null,
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "STMN",
-              "gp": 33,
-              "gs": 22,
-              "min": 24.5,
-              "fgPct": 42.7,
-              "threePct": 32.1,
-              "ftPct": 77.8,
-              "reb": 3.3,
-              "ast": 1.5,
-              "stl": 0.6,
-              "blk": 0.4,
-              "to": 1.3,
-              "pts": 7.4
-            },
-            {
-              "year": "2023-24",
-              "team": "STMN",
-              "gp": 33,
-              "gs": 33,
-              "min": 28.1,
-              "fgPct": 49.6,
-              "threePct": 32.0,
-              "ftPct": 66.2,
-              "reb": 4.1,
-              "ast": 1.6,
-              "stl": 0.8,
-              "blk": 0.3,
-              "to": 1.0,
-              "pts": 10.6
-            },
-            {
-              "year": "2024-25",
-              "team": "STMN",
-              "gp": 34,
-              "gs": 34,
-              "min": 27.1,
-              "fgPct": 51.0,
-              "threePct": 41.7,
-              "ftPct": 73.1,
-              "reb": 4.4,
-              "ast": 2.4,
-              "stl": 1.0,
-              "blk": 0.4,
-              "to": 1.6,
-              "pts": 12.3
-            },
-            {
-              "year": "2025-26",
-              "team": "NEB",
-              "gp": 19,
-              "gs": 0,
-              "min": 3.5,
-              "fgPct": 30.8,
-              "threePct": 37.5,
-              "ftPct": 100.0,
-              "reb": 0.3,
-              "ast": 0.2,
-              "stl": 0.1,
-              "blk": 0.0,
-              "to": 0.4,
-              "pts": 0.7
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 119,
-              "gs": 89,
-              "min": 22.9,
-              "fgPct": 48.0,
-              "threePct": 35.5,
-              "ftPct": 71.8,
-              "reb": 3.4,
-              "ast": 1.6,
-              "stl": 0.7,
-              "blk": 0.3,
-              "to": 1.2,
-              "pts": 8.6
-            }
-          ]
-        },
-        {
-          "name": "Langston Reynolds",
-          "committedTo": "Northern Colorado",
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "UNCO",
-              "gp": 25,
-              "gs": 1,
-              "min": 10.5,
-              "fgPct": 36.7,
-              "threePct": 18.2,
-              "ftPct": 40.0,
-              "reb": 1.0,
-              "ast": 0.8,
-              "stl": 0.3,
-              "blk": 0.1,
-              "to": 0.9,
-              "pts": 1.7
-            },
-            {
-              "year": "2023-24",
-              "team": "UNCO",
-              "gp": 33,
-              "gs": 2,
-              "min": 18.5,
-              "fgPct": 58.7,
-              "threePct": 21.4,
-              "ftPct": 50.0,
-              "reb": 2.0,
-              "ast": 1.3,
-              "stl": 0.5,
-              "blk": 0.2,
-              "to": 1.2,
-              "pts": 6.2
-            },
-            {
-              "year": "2024-25",
-              "team": "UNCO",
-              "gp": 34,
-              "gs": 34,
-              "min": 32.8,
-              "fgPct": 59.3,
-              "threePct": 40.9,
-              "ftPct": 66.9,
-              "reb": 5.6,
-              "ast": 3.4,
-              "stl": 0.9,
-              "blk": 0.5,
-              "to": 2.7,
-              "pts": 16.0
-            },
-            {
-              "year": "2025-26",
-              "team": "MINN",
-              "gp": 33,
-              "gs": 26,
-              "min": 33.3,
-              "fgPct": 53.8,
-              "threePct": 25.6,
-              "ftPct": 59.2,
-              "reb": 4.3,
-              "ast": 4.5,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 2.6,
-              "pts": 11.6
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 125,
-              "gs": 63,
-              "min": 24.7,
-              "fgPct": 56.0,
-              "threePct": 30.4,
-              "ftPct": 60.3,
-              "reb": 3.4,
-              "ast": 2.6,
-              "stl": 0.6,
-              "blk": 0.2,
-              "to": 1.9,
-              "pts": 9.4
-            }
-          ]
-        },
-        {
-          "name": "Guillermo Diaz Graham",
-          "committedTo": null,
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "PITT",
-              "gp": 33,
-              "gs": 3,
-              "min": 12.0,
-              "fgPct": 44.7,
-              "threePct": 25.9,
-              "ftPct": 68.0,
-              "reb": 3.2,
-              "ast": 0.7,
-              "stl": 0.5,
-              "blk": 0.8,
-              "to": 0.6,
-              "pts": 3.5
-            },
-            {
-              "year": "2023-24",
-              "team": "PITT",
-              "gp": 33,
-              "gs": 7,
-              "min": 18.0,
-              "fgPct": 49.1,
-              "threePct": 40.5,
-              "ftPct": 59.6,
-              "reb": 3.9,
-              "ast": 1.1,
-              "stl": 0.8,
-              "blk": 0.8,
-              "to": 1.0,
-              "pts": 6.7
-            },
-            {
-              "year": "2024-25",
-              "team": "PITT",
-              "gp": 32,
-              "gs": 25,
-              "min": 23.3,
-              "fgPct": 42.3,
-              "threePct": 31.6,
-              "ftPct": 67.6,
-              "reb": 5.0,
-              "ast": 1.5,
-              "stl": 0.5,
-              "blk": 0.7,
-              "to": 0.9,
-              "pts": 6.2
-            },
-            {
-              "year": "2025-26",
-              "team": "SF",
-              "gp": 33,
-              "gs": 19,
-              "min": 17.2,
-              "fgPct": 41.7,
-              "threePct": 37.5,
-              "ftPct": 69.1,
-              "reb": 3.2,
-              "ast": 1.3,
-              "stl": 0.5,
-              "blk": 0.5,
-              "to": 0.8,
-              "pts": 5.2
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 131,
-              "gs": 54,
-              "min": 17.5,
-              "fgPct": 44.6,
-              "threePct": 34.9,
-              "ftPct": 66.0,
-              "reb": 3.8,
-              "ast": 1.2,
-              "stl": 0.6,
-              "blk": 0.7,
-              "to": 0.8,
-              "pts": 5.4
-            }
-          ]
-        },
-        {
-          "name": "Jorge Diaz Graham",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "PITT",
-              "gp": 31,
-              "gs": 1,
-              "min": 9.2,
-              "fgPct": 32.9,
-              "threePct": 35.3,
-              "ftPct": 75.0,
-              "reb": 2.2,
-              "ast": 0.4,
-              "stl": 0.5,
-              "blk": 0.5,
-              "to": 0.3,
-              "pts": 2.9
-            },
-            {
-              "year": "2023-24",
-              "team": "PITT",
-              "gp": 16,
-              "gs": 0,
-              "min": 10.4,
-              "fgPct": 36.4,
-              "threePct": 29.0,
-              "ftPct": 78.9,
-              "reb": 2.5,
-              "ast": 0.8,
-              "stl": 0.4,
-              "blk": 0.3,
-              "to": 0.7,
-              "pts": 3.5
-            },
-            {
-              "year": "2024-25",
-              "team": "PITT",
-              "gp": 29,
-              "gs": 0,
-              "min": 7.2,
-              "fgPct": 51.9,
-              "threePct": 47.6,
-              "ftPct": 81.3,
-              "reb": 0.9,
-              "ast": 0.2,
-              "stl": 0.3,
-              "blk": 0.1,
-              "to": 0.1,
-              "pts": 3.1
-            },
-            {
-              "year": "2025-26",
-              "team": "ORST",
-              "gp": 32,
-              "gs": 11,
-              "min": 17.9,
-              "fgPct": 43.3,
-              "threePct": 36.5,
-              "ftPct": 83.1,
-              "reb": 3.6,
-              "ast": 1.0,
-              "stl": 0.5,
-              "blk": 1.0,
-              "to": 0.8,
-              "pts": 6.0
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 108,
-              "gs": 12,
-              "min": 11.4,
-              "fgPct": 41.3,
-              "threePct": 37.6,
-              "ftPct": 80.1,
-              "reb": 2.3,
-              "ast": 0.6,
-              "stl": 0.4,
-              "blk": 0.5,
-              "to": 0.5,
-              "pts": 4.0
-            }
-          ]
+          "seasons": []
         },
         {
-          "name": "Jevon Porter",
-          "committedTo": "LMU",
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "PEPP",
-              "gp": 31,
-              "gs": 31,
-              "min": 28.3,
-              "fgPct": 48.5,
-              "threePct": 35.1,
-              "ftPct": 70.6,
-              "reb": 7.2,
-              "ast": 0.9,
-              "stl": 0.9,
-              "blk": 0.9,
-              "to": 1.8,
-              "pts": 12.1
-            },
-            {
-              "year": "2023-24",
-              "team": "PEPP",
-              "gp": 21,
-              "gs": 18,
-              "min": 31.4,
-              "fgPct": 42.5,
-              "threePct": 29.8,
-              "ftPct": 77.2,
-              "reb": 5.9,
-              "ast": 1.7,
-              "stl": 0.8,
-              "blk": 1.0,
-              "to": 1.7,
-              "pts": 16.2
-            },
-            {
-              "year": "2024-25",
-              "team": "LMU",
-              "gp": 31,
-              "gs": 30,
-              "min": 30.9,
-              "fgPct": 39.4,
-              "threePct": 31.6,
-              "ftPct": 68.1,
-              "reb": 7.2,
-              "ast": 1.9,
-              "stl": 0.8,
-              "blk": 1.1,
-              "to": 1.9,
-              "pts": 12.5
-            },
-            {
-              "year": "2025-26",
-              "team": "MIZ",
-              "gp": 12,
-              "gs": 10,
-              "min": 17.4,
-              "fgPct": 49.1,
-              "threePct": 25.0,
-              "ftPct": 64.7,
-              "reb": 4.0,
-              "ast": 1.6,
-              "stl": 0.8,
-              "blk": 0.2,
-              "to": 0.7,
-              "pts": 6.2
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 95,
-              "gs": 89,
-              "min": 28.5,
-              "fgPct": 43.5,
-              "threePct": 31.5,
-              "ftPct": 71.5,
-              "reb": 6.5,
-              "ast": 1.5,
-              "stl": 0.8,
-              "blk": 0.9,
-              "to": 1.7,
-              "pts": 12.4
-            }
-          ]
-        },
-        {
-          "name": "Nick Townsend",
-          "committedTo": ":Stanford",
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "YALE",
-              "gp": 11,
-              "gs": 0,
-              "min": 4.9,
-              "fgPct": 60.0,
-              "threePct": 33.3,
-              "ftPct": 42.9,
-              "reb": 1.3,
-              "ast": 0.4,
-              "stl": 0.3,
-              "blk": 0.2,
-              "to": 0.1,
-              "pts": 2.5
-            },
-            {
-              "year": "2023-24",
-              "team": "YALE",
-              "gp": 33,
-              "gs": 8,
-              "min": 17.7,
-              "fgPct": 44.8,
-              "threePct": 29.6,
-              "ftPct": 79.6,
-              "reb": 3.9,
-              "ast": 1.1,
-              "stl": 0.4,
-              "blk": 0.1,
-              "to": 0.7,
-              "pts": 6.0
-            },
-            {
-              "year": "2024-25",
-              "team": "YALE",
-              "gp": 30,
-              "gs": 30,
-              "min": 30.5,
-              "fgPct": 52.9,
-              "threePct": 48.2,
-              "ftPct": 74.4,
-              "reb": 7.1,
-              "ast": 3.6,
-              "stl": 0.8,
-              "blk": 0.2,
-              "to": 1.5,
-              "pts": 15.4
-            },
-            {
-              "year": "2025-26",
-              "team": "YALE",
-              "gp": 30,
-              "gs": 30,
-              "min": 33.4,
-              "fgPct": 51.1,
-              "threePct": 46.3,
-              "ftPct": 75.3,
-              "reb": 7.4,
-              "ast": 4.3,
-              "stl": 1.1,
-              "blk": 0.2,
-              "to": 2.4,
-              "pts": 16.3
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 104,
-              "gs": 68,
-              "min": 24.5,
-              "fgPct": 50.8,
-              "threePct": 44.2,
-              "ftPct": 75.0,
-              "reb": 5.6,
-              "ast": 2.7,
-              "stl": 0.7,
-              "blk": 0.2,
-              "to": 1.4,
-              "pts": 11.3
-            }
-          ]
-        },
-        {
-          "name": "Jaxon Kohler",
-          "committedTo": "BYU",
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "MSU",
-              "gp": 34,
-              "gs": 0,
-              "min": 10.8,
-              "fgPct": 50.5,
-              "threePct": 0.0,
-              "ftPct": 25.0,
-              "reb": 2.9,
-              "ast": 0.3,
-              "stl": 0.1,
-              "blk": 0.5,
-              "to": 0.6,
-              "pts": 3.0
-            },
-            {
-              "year": "2023-24",
-              "team": "MSU",
-              "gp": 21,
-              "gs": 0,
-              "min": 9.2,
-              "fgPct": 43.5,
-              "threePct": 0.0,
-              "ftPct": 28.6,
-              "reb": 2.0,
-              "ast": 0.2,
-              "stl": 0.1,
-              "blk": 0.5,
-              "to": 0.4,
-              "pts": 2.0
-            },
-            {
-              "year": "2024-25",
-              "team": "MSU",
-              "gp": 37,
-              "gs": 34,
-              "min": 20.8,
-              "fgPct": 51.9,
-              "threePct": 37.3,
-              "ftPct": 82.1,
-              "reb": 7.5,
-              "ast": 1.3,
-              "stl": 0.4,
-              "blk": 0.8,
-              "to": 1.3,
-              "pts": 7.8
-            },
-            {
-              "year": "2025-26",
-              "team": "MSU",
-              "gp": 35,
-              "gs": 35,
-              "min": 27.7,
-              "fgPct": 50.0,
-              "threePct": 38.9,
-              "ftPct": 86.9,
-              "reb": 8.9,
-              "ast": 1.3,
-              "stl": 0.6,
-              "blk": 0.7,
-              "to": 1.4,
-              "pts": 12.5
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 127,
-              "gs": 69,
-              "min": 18.1,
-              "fgPct": 50.2,
-              "threePct": 37.6,
-              "ftPct": 78.0,
-              "reb": 5.7,
-              "ast": 0.9,
-              "stl": 0.3,
-              "blk": 0.6,
-              "to": 1.0,
-              "pts": 6.9
-            }
-          ]
-        },
-        {
-          "name": "Aidan Mahaney",
+          "name": "Parsa Fallah",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "SMC",
-              "gp": 35,
-              "gs": 26,
-              "min": 30.6,
-              "fgPct": 42.8,
-              "threePct": 40.0,
-              "ftPct": 71.8,
-              "reb": 2.1,
-              "ast": 2.0,
-              "stl": 0.9,
-              "blk": 0.1,
-              "to": 1.5,
-              "pts": 13.9
-            },
-            {
-              "year": "2023-24",
-              "team": "SMC",
-              "gp": 34,
-              "gs": 34,
-              "min": 33.2,
-              "fgPct": 38.6,
-              "threePct": 35.5,
-              "ftPct": 81.3,
-              "reb": 2.6,
-              "ast": 2.6,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 1.4,
-              "pts": 13.9
-            },
-            {
-              "year": "2024-25",
-              "team": "CONN",
-              "gp": 34,
-              "gs": 5,
-              "min": 12.3,
-              "fgPct": 37.7,
-              "threePct": 35.9,
-              "ftPct": 75.8,
-              "reb": 0.8,
-              "ast": 1.3,
-              "stl": 0.2,
-              "blk": 0.0,
-              "to": 0.6,
-              "pts": 4.5
-            },
-            {
-              "year": "2025-26",
-              "team": "UCSB",
-              "gp": 32,
-              "gs": 32,
-              "min": 33.6,
-              "fgPct": 43.5,
-              "threePct": 38.5,
-              "ftPct": 80.7,
-              "reb": 1.9,
-              "ast": 2.7,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 1.3,
-              "pts": 14.9
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 135,
-              "gs": 97,
-              "min": 27.3,
-              "fgPct": 41.2,
-              "threePct": 37.6,
-              "ftPct": 77.7,
-              "reb": 1.9,
-              "ast": 2.1,
-              "stl": 0.7,
-              "blk": 0.1,
-              "to": 1.2,
-              "pts": 11.8
-            }
-          ]
-        },
-        {
-          "name": "Joshua Ward",
-          "committedTo": null,
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2023-24",
-              "team": "LIFE",
-              "gp": 1,
-              "gs": 1,
-              "min": 31.0,
-              "fgPct": 41.7,
-              "threePct": 0.0,
-              "ftPct": 80.0,
-              "reb": 3.0,
-              "ast": 3.0,
-              "stl": 0.0,
-              "blk": 1.0,
-              "to": 6.0,
-              "pts": 14.0
-            },
-            {
-              "year": "2025-26",
-              "team": "CSUF",
-              "gp": 34,
-              "gs": 34,
-              "min": 30.9,
-              "fgPct": 44.0,
-              "threePct": 30.9,
-              "ftPct": 75.1,
-              "reb": 4.5,
-              "ast": 3.5,
-              "stl": 1.6,
-              "blk": 0.5,
-              "to": 2.0,
-              "pts": 14.5
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 35,
-              "gs": 35,
-              "min": 30.9,
-              "fgPct": 43.9,
-              "threePct": 30.1,
-              "ftPct": 75.3,
-              "reb": 4.5,
-              "ast": 3.5,
-              "stl": 1.6,
-              "blk": 0.5,
-              "to": 2.1,
-              "pts": 14.5
-            }
-          ]
-        },
-        {
-          "name": "Braeden Carrington",
-          "committedTo": "Wisconsin",
-          "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "MINN",
-              "gp": 22,
-              "gs": 0,
-              "min": 20.0,
-              "fgPct": 32.7,
-              "threePct": 33.3,
-              "ftPct": 71.8,
-              "reb": 3.6,
-              "ast": 0.8,
-              "stl": 0.5,
-              "blk": 0.2,
-              "to": 0.8,
-              "pts": 5.9
-            },
-            {
-              "year": "2023-24",
-              "team": "MINN",
-              "gp": 29,
-              "gs": 10,
-              "min": 21.0,
-              "fgPct": 34.4,
-              "threePct": 22.1,
-              "ftPct": 77.1,
-              "reb": 3.2,
-              "ast": 1.1,
-              "stl": 0.7,
-              "blk": 0.3,
-              "to": 0.8,
-              "pts": 4.6
-            },
-            {
-              "year": "2024-25",
-              "team": "TLSA",
-              "gp": 29,
-              "gs": 19,
-              "min": 26.8,
-              "fgPct": 35.1,
-              "threePct": 33.6,
-              "ftPct": 73.2,
-              "reb": 4.8,
-              "ast": 1.7,
-              "stl": 1.1,
-              "blk": 0.5,
-              "to": 1.0,
-              "pts": 7.4
-            },
-            {
-              "year": "2025-26",
-              "team": "WIS",
-              "gp": 34,
-              "gs": 0,
-              "min": 18.0,
-              "fgPct": 40.8,
-              "threePct": 40.1,
-              "ftPct": 77.2,
-              "reb": 2.4,
-              "ast": 1.1,
-              "stl": 0.4,
-              "blk": 0.3,
-              "to": 0.5,
-              "pts": 8.3
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 114,
-              "gs": 29,
-              "min": 21.4,
-              "fgPct": 36.4,
-              "threePct": 34.1,
-              "ftPct": 74.8,
-              "reb": 3.4,
-              "ast": 1.2,
-              "stl": 0.7,
-              "blk": 0.4,
-              "to": 0.8,
-              "pts": 6.7
-            }
-          ]
-        },
-        {
-          "name": "KC Ibekwe",
-          "committedTo": null,
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "ORST",
-              "gp": 21,
-              "gs": 3,
-              "min": 9.2,
-              "fgPct": 40.4,
-              "threePct": 0.0,
-              "ftPct": 43.8,
-              "reb": 2.3,
-              "ast": 0.1,
-              "stl": 0.0,
-              "blk": 1.0,
-              "to": 1.0,
-              "pts": 2.5
-            },
-            {
-              "year": "2023-24",
-              "team": "ORST",
-              "gp": 32,
-              "gs": 22,
-              "min": 18.2,
-              "fgPct": 52.3,
-              "threePct": 0.0,
-              "ftPct": 44.4,
-              "reb": 4.0,
-              "ast": 0.5,
-              "stl": 0.5,
-              "blk": 1.2,
-              "to": 1.6,
-              "pts": 5.1
-            },
-            {
-              "year": "2024-25",
-              "team": "WASH",
-              "gp": 12,
-              "gs": 0,
-              "min": 5.8,
-              "fgPct": 58.3,
-              "threePct": 0.0,
-              "ftPct": 50.0,
-              "reb": 1.1,
-              "ast": 0.0,
-              "stl": 0.0,
-              "blk": 0.3,
-              "to": 0.3,
-              "pts": 1.6
-            },
-            {
-              "year": "2025-26",
-              "team": "PAC",
-              "gp": 32,
-              "gs": 0,
-              "min": 9.3,
-              "fgPct": 59.6,
-              "threePct": 0.0,
-              "ftPct": 29.6,
-              "reb": 1.6,
-              "ast": 0.3,
-              "stl": 0.2,
-              "blk": 0.3,
-              "to": 0.8,
-              "pts": 3.8
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 97,
-              "gs": 25,
-              "min": 11.8,
-              "fgPct": 53.0,
-              "threePct": 0.0,
-              "ftPct": 41.7,
-              "reb": 2.5,
-              "ast": 0.3,
-              "stl": 0.2,
-              "blk": 0.7,
-              "to": 1.0,
-              "pts": 3.7
-            }
-          ]
-        },
-        {
-          "name": "Corey Stephenson",
-          "committedTo": "Ole Miss",
-          "pos": "F",
-          "seasons": [
-            {
-              "year": "2023-24",
-              "team": "CSUB",
-              "gp": 30,
-              "gs": 18,
-              "min": 16.0,
-              "fgPct": 40.7,
-              "threePct": 23.8,
-              "ftPct": 69.4,
-              "reb": 3.0,
-              "ast": 0.3,
-              "stl": 0.6,
-              "blk": 0.1,
-              "to": 1.1,
-              "pts": 6.7
-            },
-            {
-              "year": "2024-25",
-              "team": "CSUB",
-              "gp": 32,
-              "gs": 30,
-              "min": 26.0,
-              "fgPct": 45.2,
-              "threePct": 43.2,
-              "ftPct": 80.5,
-              "reb": 5.7,
-              "ast": 1.1,
-              "stl": 1.1,
-              "blk": 0.2,
-              "to": 2.3,
-              "pts": 11.4
-            },
-            {
-              "year": "2025-26",
-              "team": "FIU",
-              "gp": 31,
-              "gs": 31,
-              "min": 31.2,
-              "fgPct": 45.7,
-              "threePct": 39.8,
-              "ftPct": 74.2,
-              "reb": 6.4,
-              "ast": 1.6,
-              "stl": 1.4,
-              "blk": 0.5,
-              "to": 2.3,
-              "pts": 18.0
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 93,
-              "gs": 79,
-              "min": 24.5,
-              "fgPct": 44.6,
-              "threePct": 38.9,
-              "ftPct": 74.6,
-              "reb": 5.0,
-              "ast": 1.0,
-              "stl": 1.0,
-              "blk": 0.3,
-              "to": 1.9,
-              "pts": 12.1
-            }
-          ]
+          "seasons": []
         },
         {
           "name": "Tayshawn Comer",
           "committedTo": null,
           "pos": "G",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "EKU",
-              "gp": 37,
-              "gs": 37,
-              "min": 26.5,
-              "fgPct": 35.8,
-              "threePct": 31.9,
-              "ftPct": 66.2,
-              "reb": 2.3,
-              "ast": 3.6,
-              "stl": 1.2,
-              "blk": 0.1,
-              "to": 2.1,
-              "pts": 8.0
-            },
-            {
-              "year": "2023-24",
-              "team": "EKU",
-              "gp": 31,
-              "gs": 29,
-              "min": 25.5,
-              "fgPct": 38.9,
-              "threePct": 36.5,
-              "ftPct": 63.5,
-              "reb": 2.5,
-              "ast": 3.0,
-              "stl": 0.8,
-              "blk": 0.1,
-              "to": 1.8,
-              "pts": 7.8
-            },
-            {
-              "year": "2024-25",
-              "team": "EVAN",
-              "gp": 32,
-              "gs": 32,
-              "min": 36.0,
-              "fgPct": 38.6,
-              "threePct": 30.4,
-              "ftPct": 78.7,
-              "reb": 3.7,
-              "ast": 4.1,
-              "stl": 1.2,
-              "blk": 0.2,
-              "to": 3.3,
-              "pts": 16.2
-            },
-            {
-              "year": "2025-26",
-              "team": "NEV",
-              "gp": 37,
-              "gs": 36,
-              "min": 25.2,
-              "fgPct": 38.3,
-              "threePct": 35.1,
-              "ftPct": 79.7,
-              "reb": 1.8,
-              "ast": 3.6,
-              "stl": 0.9,
-              "blk": 0.0,
-              "to": 2.0,
-              "pts": 11.0
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 137,
-              "gs": 134,
-              "min": 28.1,
-              "fgPct": 37.9,
-              "threePct": 33.0,
-              "ftPct": 74.8,
-              "reb": 2.5,
-              "ast": 3.6,
-              "stl": 1.0,
-              "blk": 0.1,
-              "to": 2.3,
-              "pts": 10.7
-            }
-          ]
+          "seasons": []
+        },
+        {
+          "name": "Jojo Murphy",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Langston Reynolds",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Guillermo Diaz Graham",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jevon Porter",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jaxon Kohler",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Nick Townsend",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Aidan Mahaney",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Joshua Ward",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Braeden Carrington",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "KC Ibekwe",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Corey Stephenson",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
         },
         {
           "name": "Isaiah Carr",
           "committedTo": null,
-          "pos": "C",
-          "seasons": [
-            {
-              "year": "2022-23",
-              "team": "GCU",
-              "gp": 9,
-              "gs": 6,
-              "min": 8.1,
-              "fgPct": 28.6,
-              "threePct": 0.0,
-              "ftPct": 50.0,
-              "reb": 1.8,
-              "ast": 0.1,
-              "stl": 0.3,
-              "blk": 0.9,
-              "to": 0.3,
-              "pts": 0.9
-            },
-            {
-              "year": "2023-24",
-              "team": "DEN",
-              "gp": 34,
-              "gs": 10,
-              "min": 16.8,
-              "fgPct": 58.7,
-              "threePct": 16.7,
-              "ftPct": 63.6,
-              "reb": 4.4,
-              "ast": 0.2,
-              "stl": 0.4,
-              "blk": 1.8,
-              "to": 0.7,
-              "pts": 5.2
-            },
-            {
-              "year": "2024-25",
-              "team": "DEN",
-              "gp": 12,
-              "gs": 4,
-              "min": 17.5,
-              "fgPct": 46.7,
-              "threePct": 0.0,
-              "ftPct": 58.8,
-              "reb": 4.3,
-              "ast": 0.3,
-              "stl": 0.3,
-              "blk": 1.3,
-              "to": 1.0,
-              "pts": 6.3
-            },
-            {
-              "year": "2025-26",
-              "team": "DRKE",
-              "gp": 32,
-              "gs": 2,
-              "min": 11.7,
-              "fgPct": 55.8,
-              "threePct": 0.0,
-              "ftPct": 62.3,
-              "reb": 3.2,
-              "ast": 0.6,
-              "stl": 0.4,
-              "blk": 1.2,
-              "to": 0.9,
-              "pts": 3.7
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 87,
-              "gs": 22,
-              "min": 14.1,
-              "fgPct": 54.3,
-              "threePct": 14.3,
-              "ftPct": 61.3,
-              "reb": 3.6,
-              "ast": 0.4,
-              "stl": 0.4,
-              "blk": 1.4,
-              "to": 0.8,
-              "pts": 4.4
-            }
-          ]
+          "pos": "G",
+          "seasons": []
         },
         {
-          "name": "Charles Johnston",
+          "name": "Elijah Saunders",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Oziyah Sellers",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Moe Odum",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Trejuan Holloman",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Takai Simpkins",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Mohamed Keba Keita",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Xaivian Lee",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Scotty Washington",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Chisom Okpara",
           "committedTo": null,
           "pos": "F",
-          "seasons": [
-            {
-              "year": "2024-25",
-              "team": "FUR",
-              "gp": 31,
-              "gs": 2,
-              "min": 12.1,
-              "fgPct": 42.7,
-              "threePct": 38.8,
-              "ftPct": 67.6,
-              "reb": 3.1,
-              "ast": 0.7,
-              "stl": 0.3,
-              "blk": 0.2,
-              "to": 0.5,
-              "pts": 5.3
-            },
-            {
-              "year": "2025-26",
-              "team": "FUR",
-              "gp": 35,
-              "gs": 35,
-              "min": 28.3,
-              "fgPct": 48.7,
-              "threePct": 28.7,
-              "ftPct": 66.2,
-              "reb": 9.0,
-              "ast": 1.7,
-              "stl": 0.8,
-              "blk": 0.7,
-              "to": 1.5,
-              "pts": 9.8
-            },
-            {
-              "year": "Career",
-              "team": "",
-              "gp": 66,
-              "gs": 37,
-              "min": 20.7,
-              "fgPct": 46.8,
-              "threePct": 32.6,
-              "ftPct": 66.7,
-              "reb": 6.2,
-              "ast": 1.2,
-              "stl": 0.6,
-              "blk": 0.5,
-              "to": 1.0,
-              "pts": 7.7
-            }
-          ]
+          "seasons": []
+        },
+        {
+          "name": "Kimani Hamilton",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Reed Bailey",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Maleek Arington",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jamarques Lawrence",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Christian Richardson",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Desmond Claude",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Blair Thompson",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Lance Waddles",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "JJ Starling",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Hamed 'Larry' Olayinka",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Iaroslav Niagu",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        }
+      ],
+      "case": "Glancey v. NCAA",
+      "status": "ELIGIBLE",
+      "statusNote": "TRO active for remaining plaintiffs through Sept 29 PI hearing. Skyy Clark moved to Kentucky case."
+    },
+    {
+      "state": "Kentucky",
+      "case": "Wells v. NCAA",
+      "status": "ELIGIBLE",
+      "statusNote": "TRO active; Skyy Clark withdrew to this case; NCAA emergency appeal pending",
+      "date": "2026",
+      "players": 15,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "LJ Wells II",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Donovan Oday",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Mark Mitchell",
+          "committedTo": "Missouri",
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Justin Allen",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Fred King",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Colin Porter",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Albert Vargas Brito",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Billy Smith",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Seth Trimble",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Cardell Bailey",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Damoni Harrison",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Emmanuel Okorafor",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Javon Jackson",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Orlando Lovejoy",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Aidan Hadaway",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        }
+      ]
+    },
+    {
+      "state": "Texas",
+      "case": "Multiple (McLennan, Hudson, Atwell, Warren)",
+      "status": "ELIGIBLE",
+      "statusNote": "McLennan County TRO (22 players). Hudson TRO (Kugel, Gunn, Brewer, Griffen, Graves, Lewis) hearing Sept 11. Atwell and Warren separate TROs.",
+      "date": "2026",
+      "players": 22,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "Andrew Akuchie",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Tavion Banks",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Nate Calmese",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jacob Crews",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Alonzo Dodd",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Treysen Eaglestaff",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Dashon Gittens",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Dallin Hall",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Micah Handlogten",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Chaze Harris",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Andrew Holifield",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Bradyn Hubbard",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Po'Boigh King",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Ven-Allen Lubin",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Mekhi Mason",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jaqai Murray",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Joshua Omojafo",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Noah Otshudi",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Ethan Potter",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Darrion Williams",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Sheldon Williams",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "AJ Worrell",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Riley Kugel",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "CJ Gunn",
+          "committedTo": "Missouri",
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jayden Brewer",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Rylan Griffen",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Nikolas Graves",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Trey Lewis",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Donovan Atwell",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Bryson Warren",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        }
+      ]
+    },
+    {
+      "state": "New York",
+      "case": "Multiple (Iwuchukwu, Monroe, Gayle, Bewley)",
+      "status": "ELIGIBLE",
+      "statusNote": "Each player has their own individual suit. Iwuchukwu, Monroe, and Gayle TROs active. Bewley brothers paused pending settlement.",
+      "date": "2026",
+      "players": 5,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "Vincent Iwuchukwu",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Amarri Monroe",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Roddy Gayle Jr.",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Matthew Bewley",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Ryan Bewley",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        }
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "case": "Pyburn v. NCAA + Luis v. NCAA",
+      "status": "ELIGIBLE",
+      "statusNote": "Pyburn TRO active; PI hearing Sept 3. RJ Luis Jr. PI granted separately.",
+      "date": "2026",
+      "players": 9,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "Joshua 'Greedy' Williams",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Jamil Muttilib",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Rashad King",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Michael Eley",
+          "committedTo": null,
+          "pos": "F",
+          "seasons": []
+        },
+        {
+          "name": "Percy Daniels",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Derrian Ford",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Chandler Jackson",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Peitok Machar",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        },
+        {
+          "name": "Sami Pissis",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        }
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "case": "Ellingsworth v. NCAA + Mann v. NCAA (individual orders only)",
+      "status": "ELIGIBLE",
+      "statusNote": "Individual PIs granted for Ellingsworth and Mann only. Okpara plaintiffs have NO operative injunction.",
+      "date": "2026",
+      "players": 2,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "Jaxon Ellingsworth",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Nasir Mann",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
+        }
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "case": "Ondekane v. NCAA",
+      "status": "ELIGIBLE",
+      "statusNote": "Douglas County judge granted injunction for 2026-27",
+      "date": "2026",
+      "players": 1,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "Isaac Ondekane",
+          "committedTo": null,
+          "pos": "C",
+          "seasons": []
+        }
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "case": "Natt / Fallah \u2014 Payne County",
+      "status": "ELIGIBLE",
+      "statusNote": "Individual temporary orders only \u2014 not a blanket ruling. Natt (July 6) and Fallah (Aug 19) each have Payne County orders.",
+      "date": "2026",
+      "players": 2,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "Kashie Natt",
+          "committedTo": "Oklahoma State",
+          "pos": "G",
+          "seasons": []
+        },
+        {
+          "name": "Parsa Fallah",
+          "committedTo": null,
+          "pos": "G",
+          "seasons": []
         }
       ]
     }
