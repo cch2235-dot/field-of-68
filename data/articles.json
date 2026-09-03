@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a39",
+      "title": "Devils rising",
+      "url": "https://fieldof68.beehiiv.com/p/devils-rising",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/7d418427-9e0e-457d-ad90-8a898719453f/ON3_COVERS__25_.png",
+      "excerpt": "Arizona State landed 2027 wing Carson Crawford. What will his impact be? Plus: Michigan's Roddy Gayle received a TRO, North Carolina's roster spending reportedly exceeds $20 million, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a38",
       "title": "Summer setback",
       "url": "https://fieldof68.beehiiv.com/p/summer-setback",
