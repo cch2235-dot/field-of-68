@@ -12959,7 +12959,7 @@
     {
       "name": "Seattle",
       "conference": "WCC",
-      "espnId": 2563,
+      "espnId": 2547,
       "coach": "",
       "players": [
         {
@@ -13117,7 +13117,7 @@
     {
       "name": "Loyola Marymount",
       "conference": "WCC",
-      "espnId": 2380,
+      "espnId": 2351,
       "coach": "",
       "players": [
         {
@@ -16563,7 +16563,7 @@
     {
       "name": "UAB",
       "conference": "American",
-      "espnId": 373,
+      "espnId": 5,
       "coach": "",
       "players": [
         {
@@ -17125,7 +17125,7 @@
     {
       "name": "UTSA",
       "conference": "American",
-      "espnId": 2659,
+      "espnId": 2636,
       "coach": "",
       "players": [
         {
@@ -19239,7 +19239,7 @@
     {
       "name": "St. Bonaventure",
       "conference": "Atlantic 10",
-      "espnId": 2607,
+      "espnId": 179,
       "coach": "",
       "players": [
         {
