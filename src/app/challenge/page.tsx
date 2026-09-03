@@ -35,24 +35,22 @@ function rateSquad(squad: any[]): { score: number; breakdown: any; verdict: stri
   if (players.length === 0) return { score: 0, breakdown: {}, verdict: "", color: "#555" };
   const withStats = players.filter((p: any) => p.hasStats);
 
-  // Combined team totals — the 40-0 criteria
+  // Combined team totals — 40-0 criteria: 110 PPG / 35 RPG / 20 APG
   const totalPpg = Math.round(withStats.reduce((s: number, p: any) => s + (p.ppg || 0), 0) * 10) / 10;
   const totalRpg = Math.round(withStats.reduce((s: number, p: any) => s + (p.rpg || 0), 0) * 10) / 10;
   const totalApg = Math.round(withStats.reduce((s: number, p: any) => s + (p.apg || 0), 0) * 10) / 10;
 
-  // Score based on hitting the 125/50/25 thresholds
-  const ppgScore = Math.min(50, Math.round((totalPpg / 125) * 50));
-  const rpgScore = Math.min(25, Math.round((totalRpg / 50) * 25));
-  const apgScore = Math.min(25, Math.round((totalApg / 25) * 25));
+  const ppgScore = Math.min(50, Math.round((totalPpg / 110) * 50));
+  const rpgScore = Math.min(25, Math.round((totalRpg / 35) * 25));
+  const apgScore = Math.min(25, Math.round((totalApg / 20) * 25));
   const noStatsPenalty = (players.length - withStats.length) * 4;
 
   const score = Math.min(100, Math.max(0, ppgScore + rpgScore + apgScore - noStatsPenalty));
 
-  // Only hit 100 if all three thresholds are met
-  const hits125ppg = totalPpg >= 125;
-  const hits50rpg = totalRpg >= 50;
-  const hits25apg = totalApg >= 25;
-  const perfect = hits125ppg && hits50rpg && hits25apg;
+  const hits110ppg = totalPpg >= 110;
+  const hits35rpg = totalRpg >= 35;
+  const hits20apg = totalApg >= 20;
+  const perfect = hits110ppg && hits35rpg && hits20apg;
 
   let verdict = "", color = "";
   if (perfect) { verdict = "40-0 WORTHY"; color = "#22c55e"; }
@@ -63,7 +61,7 @@ function rateSquad(squad: any[]): { score: number; breakdown: any; verdict: stri
 
   return {
     score: perfect ? 100 : score,
-    breakdown: { totalPpg, totalRpg, totalApg, hits125ppg, hits50rpg, hits25apg, noStatsPenalty },
+    breakdown: { totalPpg, totalRpg, totalApg, hits110ppg, hits35rpg, hits20apg, noStatsPenalty },
     verdict,
     color,
   };
@@ -280,7 +278,7 @@ export default function App() {
         method: "POST", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           model: "claude-sonnet-4-6", max_tokens: 1200,
-          messages: [{ role: "user", content: `You are a sharp college basketball analyst. Simulate this squad's season. Squad rating: ${r.score}/100 (${r.verdict}).\n\nSquad:\n${squadStr}\n\nRating guide: 90-100=deep run, 80-89=Sweet 16, 70-79=first round, 55-69=bubble, below 55=miss tournament. Mention players by name.\n\nRespond ONLY in JSON (no markdown):\n{"record":"24-11","madetournament":true,"seed":7,"tournamentRun":[{"round":"Round of 64","opponent":"Team","result":"W","score":"78-71"}],"exitRound":"Round of 32","mvp":"Player Name","headline":"ALL CAPS HEADLINE","analysis":"3-4 sentences...","grade":"B+"}` }]
+          messages: [{ role: "user", content: `You are a sharp college basketball analyst. Simulate this squad's season. Squad rating: ${r.score}/100 (${r.verdict}). Combined: ${r.breakdown.totalPpg} PPG / ${r.breakdown.totalRpg} RPG / ${r.breakdown.totalApg} APG (40-0 requires 110 PPG / 35 RPG / 20 APG).\\n\\nSquad:\\n${squadStr}\\n\\nBase the RECORD directly on how close they hit the parameters. Perfect thresholds = 40-0. Well below = .500 or worse. Include realistic scores for every tournament game. Mention players by name.\\n\\nRespond ONLY in JSON (no markdown):\\n{"record":"24-11","madetournament":true,"seed":7,"tournamentRun":[{"round":"Round of 64","opponent":"Duke Blue Devils","result":"W","score":"82-74"},{"round":"Round of 32","opponent":"Kansas Jayhawks","result":"L","score":"68-71"}],"exitRound":"Round of 32","mvp":"Player Name","headline":"ALL CAPS HEADLINE","analysis":"3-4 sentences...","grade":"B+"}}` }]
         })
       });
       clearInterval(iv);
@@ -445,30 +443,14 @@ export default function App() {
                 <div><div style={{ color: "#444", fontFamily: "'Bebas Neue',sans-serif", fontSize: 11, letterSpacing: 2 }}>SQUAD RATING</div><div style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 14, letterSpacing: 2, color: rating.color, marginTop: 2 }}>{rating.verdict}</div></div>
                 <div style={{ textAlign: "right" }}><div style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 52, color: rating.color, lineHeight: 1 }}>{rating.score}</div><div style={{ color: "#444", fontSize: 11, letterSpacing: 1 }}>OUT OF 100</div></div>
               </div>
-              {/* 40-0 threshold bars */}
-              <div style={{ marginBottom: 10 }}>
-                {[
-                  ["COMBINED PPG", rating.breakdown.totalPpg, 125, rating.breakdown.hits125ppg],
-                  ["COMBINED RPG", rating.breakdown.totalRpg, 50, rating.breakdown.hits50rpg],
-                  ["COMBINED APG", rating.breakdown.totalApg, 25, rating.breakdown.hits25apg],
-                ].map(([label, val, target, hit]: any) => (
-                  <div key={label as string} style={{ marginBottom: 10 }}>
-                    <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 3 }}>
-                      <span style={{ color: "#555", fontSize: 11, letterSpacing: 1, fontFamily: "'Bebas Neue',sans-serif" }}>{label}</span>
-                      <span style={{ color: hit ? "#22c55e" : "#888", fontSize: 11, fontFamily: "'Bebas Neue',sans-serif" }}>
-                        {val} / {target} {hit ? "✓" : ""}
-                      </span>
-                    </div>
-                    <div style={{ height: 4, background: "#1A1A1A", borderRadius: 2 }}>
-                      <div style={{ height: "100%", width: `${Math.min((val / target) * 100, 100)}%`, background: hit ? "#22c55e" : rating.color, borderRadius: 2, transition: "width 0.6s ease" }} />
-                    </div>
+              <div style={{ display: "flex", gap: 16, marginBottom: 10 }}>
+                {[["PPG", rating.breakdown.totalPpg, 110], ["RPG", rating.breakdown.totalRpg, 35], ["APG", rating.breakdown.totalApg, 20]].map(([l, v, t]: any) => (
+                  <div key={l} style={{ textAlign: "center", flex: 1, background: "#0D0D0D", borderRadius: 8, padding: "10px 6px" }}>
+                    <div style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 26, color: v >= t ? "#22c55e" : rating.color, lineHeight: 1 }}>{v}</div>
+                    <div style={{ color: "#444", fontSize: 10, letterSpacing: 1 }}>TEAM {l}</div>
                   </div>
                 ))}
               </div>
-              <div style={{ padding: "8px 12px", background: "#0D0D0D", borderRadius: 8, color: "#555", fontSize: 12 }}>
-                {rating.breakdown.hits125ppg && rating.breakdown.hits50rpg && rating.breakdown.hits25apg
-                  ? "🔥 Squad hits all three thresholds. You have a shot at 40-0."
-                  : `Need ${!rating.breakdown.hits125ppg ? `${(125 - rating.breakdown.totalPpg).toFixed(1)} more PPG` : ""}${!rating.breakdown.hits125ppg && (!rating.breakdown.hits50rpg || !rating.breakdown.hits25apg) ? ", " : ""}${!rating.breakdown.hits50rpg ? `${(50 - rating.breakdown.totalRpg).toFixed(1)} more RPG` : ""}${!rating.breakdown.hits50rpg && !rating.breakdown.hits25apg ? ", " : ""}${!rating.breakdown.hits25apg ? `${(25 - rating.breakdown.totalApg).toFixed(1)} more APG` : ""} to reach 40-0 territory.`}
               </div>
             </div>
             <button onClick={simulate} style={{ width: "100%", background: "#F5A623", color: "#0A0A0A", border: "none", borderRadius: 10, padding: "15px", fontFamily: "'Bebas Neue',sans-serif", fontSize: 24, letterSpacing: 3, cursor: "pointer" }}>🏆 SIMULATE THE SEASON</button>
