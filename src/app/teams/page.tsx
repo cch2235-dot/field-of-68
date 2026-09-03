@@ -123,6 +123,9 @@ function TeamsContent() {
                     <tr key={i} className="border-b border-[#1A1A1A] last:border-0 hover:bg-[#1A1A1A] transition-colors">
                       <td className="px-4 py-3">
                         <span className="font-condensed font-bold text-white text-sm">{player.name}</span>
+                        {(player as any).seeking5th && (
+                          <span className="ml-2 bg-blue-900/50 text-blue-300 border border-blue-700/50 font-condensed font-bold text-[9px] tracking-widest uppercase px-2 py-0.5 rounded-full whitespace-nowrap">SEEKING 5TH YR</span>
+                        )}
                       </td>
                       <td className="px-3 py-3">
                         <span className="font-condensed text-[#8A8A8A] text-sm">{player.pos}</span>
