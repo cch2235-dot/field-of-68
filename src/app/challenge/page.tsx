@@ -164,6 +164,7 @@ export default function App() {
   const nextSlotIdx = squad.findIndex(s => !s);
 
   const init = useCallback(() => {
+    // Shuffle all teams into a queue - guaranteed no repeats across all 6 picks
     setTeamPool(shuffle(ALL_TEAMS));
     setSquad(Array(6).fill(null));
     setCurrentTeam(null);
@@ -181,9 +182,22 @@ export default function App() {
     setSpinning(true);
     const picked = teamPool[0];
     pickedRef.current = picked;
-    const items: any[] = Array.from({ length: 36 }, (_, i) =>
-      i === LAND_IDX ? picked : ALL_TEAMS[Math.floor(Math.random() * ALL_TEAMS.length)]
-    );
+    // Build wheel with no adjacent duplicates
+    const items: any[] = [];
+    for (let i = 0; i < 36; i++) {
+      if (i === LAND_IDX) {
+        items.push(picked);
+      } else {
+        let candidate = ALL_TEAMS[Math.floor(Math.random() * ALL_TEAMS.length)];
+        // Retry if same as previous item
+        let tries = 0;
+        while (tries < 5 && items.length > 0 && candidate.name === items[items.length - 1].name) {
+          candidate = ALL_TEAMS[Math.floor(Math.random() * ALL_TEAMS.length)];
+          tries++;
+        }
+        items.push(candidate);
+      }
+    }
     setWheelItems(items);
     setWheelPx(0);
     const targetPx = 8 + LAND_IDX * (CARD_W + 8);
@@ -202,8 +216,8 @@ export default function App() {
         setSpinning(false);
         setCurrentTeam(pickedRef.current);
         setTeamPool(prev => {
-          const next = prev.filter((t: any) => t.name !== pickedRef.current?.name);
-          return next.length === 0 ? shuffle(ALL_TEAMS) : next;
+          // Remove picked team — never refill to avoid duplicates
+          return prev.filter((t: any) => t.name !== pickedRef.current?.name);
         });
         setPhase("picking");
       }
