@@ -34,25 +34,39 @@ function rateSquad(squad: any[]): { score: number; breakdown: any; verdict: stri
   const players = squad.filter(Boolean);
   if (players.length === 0) return { score: 0, breakdown: {}, verdict: "", color: "#555" };
   const withStats = players.filter((p: any) => p.hasStats);
-  const eliteScorers = withStats.filter((p: any) => p.ppg >= 15).length;
-  const goodScorers = withStats.filter((p: any) => p.ppg >= 10).length;
-  const starPower = Math.min(40, eliteScorers * 15 + goodScorers * 5);
-  const avgPpg = withStats.length > 0 ? withStats.reduce((s: number, p: any) => s + p.ppg, 0) / withStats.length : 0;
-  const scoringDepth = Math.min(25, Math.round((avgPpg / 18) * 25));
-  const avgFgp = withStats.length > 0 ? withStats.reduce((s: number, p: any) => s + p.fgp, 0) / withStats.length : 0;
-  const efficiency = Math.min(15, Math.round((avgFgp / 55) * 15));
-  const avgRpg = withStats.length > 0 ? withStats.reduce((s: number, p: any) => s + p.rpg, 0) / withStats.length : 0;
-  const avgApg = withStats.length > 0 ? withStats.reduce((s: number, p: any) => s + p.apg, 0) / withStats.length : 0;
-  const balance = Math.min(20, Math.round(((avgRpg / 8) + (avgApg / 5)) * 10));
-  const noStatsPenalty = (players.length - withStats.length) * 3;
-  const score = Math.min(100, Math.max(0, Math.round(starPower + scoringDepth + efficiency + balance - noStatsPenalty)));
+
+  // Combined team totals — the 40-0 criteria
+  const totalPpg = Math.round(withStats.reduce((s: number, p: any) => s + (p.ppg || 0), 0) * 10) / 10;
+  const totalRpg = Math.round(withStats.reduce((s: number, p: any) => s + (p.rpg || 0), 0) * 10) / 10;
+  const totalApg = Math.round(withStats.reduce((s: number, p: any) => s + (p.apg || 0), 0) * 10) / 10;
+
+  // Score based on hitting the 125/50/25 thresholds
+  const ppgScore = Math.min(50, Math.round((totalPpg / 125) * 50));
+  const rpgScore = Math.min(25, Math.round((totalRpg / 50) * 25));
+  const apgScore = Math.min(25, Math.round((totalApg / 25) * 25));
+  const noStatsPenalty = (players.length - withStats.length) * 4;
+
+  const score = Math.min(100, Math.max(0, ppgScore + rpgScore + apgScore - noStatsPenalty));
+
+  // Only hit 100 if all three thresholds are met
+  const hits125ppg = totalPpg >= 125;
+  const hits50rpg = totalRpg >= 50;
+  const hits25apg = totalApg >= 25;
+  const perfect = hits125ppg && hits50rpg && hits25apg;
+
   let verdict = "", color = "";
-  if (score >= 90) { verdict = "DYNASTY MATERIAL"; color = "#22c55e"; }
+  if (perfect) { verdict = "40-0 WORTHY"; color = "#22c55e"; }
   else if (score >= 80) { verdict = "TOURNAMENT THREAT"; color = "#86efac"; }
-  else if (score >= 70) { verdict = "BUBBLE TEAM"; color = "#F5A623"; }
-  else if (score >= 55) { verdict = "LONG SHOT"; color = "#f97316"; }
+  else if (score >= 65) { verdict = "BUBBLE TEAM"; color = "#F5A623"; }
+  else if (score >= 45) { verdict = "LONG SHOT"; color = "#f97316"; }
   else { verdict = "NEEDS WORK"; color = "#ef4444"; }
-  return { score, breakdown: { starPower, scoringDepth, efficiency, balance, noStatsPenalty, eliteScorers, avgPpg: Math.round(avgPpg * 10) / 10 }, verdict, color };
+
+  return {
+    score: perfect ? 100 : score,
+    breakdown: { totalPpg, totalRpg, totalApg, hits125ppg, hits50rpg, hits25apg, noStatsPenalty },
+    verdict,
+    color,
+  };
 }
 
 function TeamLogo({ team, size = 72 }: { team: any; size?: number }) {
@@ -417,13 +431,30 @@ export default function App() {
                 <div><div style={{ color: "#444", fontFamily: "'Bebas Neue',sans-serif", fontSize: 11, letterSpacing: 2 }}>SQUAD RATING</div><div style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 14, letterSpacing: 2, color: rating.color, marginTop: 2 }}>{rating.verdict}</div></div>
                 <div style={{ textAlign: "right" }}><div style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 52, color: rating.color, lineHeight: 1 }}>{rating.score}</div><div style={{ color: "#444", fontSize: 11, letterSpacing: 1 }}>OUT OF 100</div></div>
               </div>
-              <RatingBar label="STAR POWER" value={rating.breakdown.starPower} max={40} color={rating.color} />
-              <RatingBar label="SCORING DEPTH" value={rating.breakdown.scoringDepth} max={25} color={rating.color} />
-              <RatingBar label="EFFICIENCY" value={rating.breakdown.efficiency} max={15} color={rating.color} />
-              <RatingBar label="BALANCE" value={rating.breakdown.balance} max={20} color={rating.color} />
-              <div style={{ marginTop: 10, padding: "8px 12px", background: "#0D0D0D", borderRadius: 8, color: "#555", fontSize: 12 }}>
-                {rating.score >= 90 ? "🔥 Elite squad. 40-0 is within reach." : rating.score >= 80 ? "💪 Solid team with tournament upside." : rating.score >= 70 ? "⚠️ Bubble territory. You'll need to get hot." : rating.score >= 55 ? "😬 Long shot. Maybe get lucky in March." : "💀 This squad is going to struggle. A lot."}
-                {rating.breakdown.eliteScorers > 0 && ` ${rating.breakdown.eliteScorers} elite scorer${rating.breakdown.eliteScorers > 1 ? "s" : ""} (15+ PPG).`}
+              {/* 40-0 threshold bars */}
+              <div style={{ marginBottom: 10 }}>
+                {[
+                  ["COMBINED PPG", rating.breakdown.totalPpg, 125, rating.breakdown.hits125ppg],
+                  ["COMBINED RPG", rating.breakdown.totalRpg, 50, rating.breakdown.hits50rpg],
+                  ["COMBINED APG", rating.breakdown.totalApg, 25, rating.breakdown.hits25apg],
+                ].map(([label, val, target, hit]: any) => (
+                  <div key={label as string} style={{ marginBottom: 10 }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 3 }}>
+                      <span style={{ color: "#555", fontSize: 11, letterSpacing: 1, fontFamily: "'Bebas Neue',sans-serif" }}>{label}</span>
+                      <span style={{ color: hit ? "#22c55e" : "#888", fontSize: 11, fontFamily: "'Bebas Neue',sans-serif" }}>
+                        {val} / {target} {hit ? "✓" : ""}
+                      </span>
+                    </div>
+                    <div style={{ height: 4, background: "#1A1A1A", borderRadius: 2 }}>
+                      <div style={{ height: "100%", width: `${Math.min((val / target) * 100, 100)}%`, background: hit ? "#22c55e" : rating.color, borderRadius: 2, transition: "width 0.6s ease" }} />
+                    </div>
+                  </div>
+                ))}
+              </div>
+              <div style={{ padding: "8px 12px", background: "#0D0D0D", borderRadius: 8, color: "#555", fontSize: 12 }}>
+                {rating.breakdown.hits125ppg && rating.breakdown.hits50rpg && rating.breakdown.hits25apg
+                  ? "🔥 Squad hits all three thresholds. You have a shot at 40-0."
+                  : `Need ${!rating.breakdown.hits125ppg ? `${(125 - rating.breakdown.totalPpg).toFixed(1)} more PPG` : ""}${!rating.breakdown.hits125ppg && (!rating.breakdown.hits50rpg || !rating.breakdown.hits25apg) ? ", " : ""}${!rating.breakdown.hits50rpg ? `${(50 - rating.breakdown.totalRpg).toFixed(1)} more RPG` : ""}${!rating.breakdown.hits50rpg && !rating.breakdown.hits25apg ? ", " : ""}${!rating.breakdown.hits25apg ? `${(25 - rating.breakdown.totalApg).toFixed(1)} more APG` : ""} to reach 40-0 territory.`}
               </div>
             </div>
             <button onClick={simulate} style={{ width: "100%", background: "#F5A623", color: "#0A0A0A", border: "none", borderRadius: 10, padding: "15px", fontFamily: "'Bebas Neue',sans-serif", fontSize: 24, letterSpacing: 3, cursor: "pointer" }}>🏆 SIMULATE THE SEASON</button>
