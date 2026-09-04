@@ -212,7 +212,7 @@ export default function MockDraft() {
           <div style={{ display: "inline-block", background: "#F5A623", borderRadius: 5, padding: "2px 10px", marginBottom: 8 }}>
             <span style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 11, letterSpacing: 3, color: "#0A0A0A" }}>FIELD OF 68</span>
           </div>
-          <h1 style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: "clamp(2.4rem,6vw,4rem)", letterSpacing: 4, margin: "0 0 4px", lineHeight: 1 }}>2026 NBA MOCK DRAFT</h1>
+          <h1 style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: "clamp(2.4rem,6vw,4rem)", letterSpacing: 4, margin: "0 0 4px", lineHeight: 1 }}>2027 NBA MOCK DRAFT</h1>
           <p style={{ color: "#555", fontSize: 14, margin: 0 }}>100 prospects · Simulate the full draft</p>
         </div>
 
