@@ -273,22 +273,37 @@ export default function App() {
       `${SLOTS[i].label}: ${p.name} (${p.pos || "G"}, ${p.team}) — ` +
       (p.hasStats ? `${p.ppg} PPG, ${p.rpg} RPG, ${p.apg} APG, FG%: ${p.fgp}` : "No prior stats")
     ).join("\n");
+    // Compute exact record from rating — non-negotiable
+    const RECORD_MAP: Record<number,string> = {
+      100:"40-0",99:"39-1",98:"38-2",97:"38-2",96:"37-3",95:"37-3",
+      94:"36-4",93:"36-4",92:"35-5",91:"35-5",90:"34-6",89:"34-6",
+      88:"33-7",87:"33-7",86:"32-8",85:"32-8",84:"31-9",83:"31-9",
+      82:"30-10",81:"30-10",80:"29-11",79:"29-11",78:"28-12",77:"28-12",
+      76:"27-13",75:"27-13",74:"26-14",73:"26-14",72:"25-15",71:"25-15",
+      70:"24-16",69:"24-16",68:"23-17",67:"23-17",66:"22-18",65:"22-18",
+      64:"21-19",63:"21-19",62:"20-20",61:"20-20",60:"19-21",59:"19-21",
+      58:"18-22",57:"18-22",56:"17-23",55:"17-23",
+    };
+    const mandatoryRecord = RECORD_MAP[r.score] || (r.score < 55 ? "16-24" : "40-0");
+
     try {
       const res = await fetch("https://api.anthropic.com/v1/messages", {
         method: "POST", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           model: "claude-sonnet-4-6", max_tokens: 1200,
-          messages: [{ role: "user", content: `You are a sharp college basketball analyst. Simulate this squad's season. Squad rating: ${r.score}/100 (${r.verdict}). Combined: ${r.breakdown.totalPpg} PPG / ${r.breakdown.totalRpg} RPG / ${r.breakdown.totalApg} APG (40-0 requires 110 PPG / 35 RPG / 20 APG).\\n\\nSquad:\\n${squadStr}\\n\\nThe squad rating is ${r.score}/100. You MUST use this exact record — no exceptions, do not change it: rating 100=40-0, 99=39-1, 97-98=38-2, 95-96=37-3, 93-94=36-4, 91-92=35-5, 89-90=34-6, 87-88=33-7, 85-86=32-8, 83-84=31-9, 81-82=30-10, 79-80=29-11, 77-78=28-12, 75-76=27-13, 73-74=26-14, 71-72=25-15, 69-70=24-16, 67-68=23-17, 65-66=22-18, below 65=worse. An 82 rating MUST produce a 30-10 record. Do not give a worse or better record than the scale. Seed/tournament run should match the record. Include realistic scores for every game. Mention players by name. When assigning tournament opponents use this top 68 ranking — higher seeds face lower seeds: 1.Florida 2.Duke 3.Illinois 4.Texas 5.Texas Tech 6.UConn 7.Michigan 8.Tennessee 9.Michigan St. 10.Arizona 11.St. John's 12.Arkansas 13.Miami 14.Gonzaga 15.Louisville 16.Vanderbilt 17.Virginia 18.Houston 19.Kentucky 20.Alabama 21.Missouri 22.Kansas 23.BYU 24.Iowa State 25.UCLA 26.USC 27.Saint Louis 28.Creighton 29.Ohio State 30.Villanova 31.Marquette 32.Indiana 33.Purdue 34.North Carolina 35.Baylor 36.Texas A&M 37.West Virginia 38.Oklahoma 39.Oklahoma State 40.Iowa 41.Providence 42.LSU 43.NC State 44.Nebraska 45.Maryland 46.Xavier 47.VCU 48.Oregon 49.Cincinnati 50.Grand Canyon 51.Wisconsin 52.DePaul 53.Arizona State 54.TCU 55.Ole Miss 56.Florida State 57.Auburn 58.Syracuse 59.Georgetown 60.Minnesota 61.Murray State 62.New Mexico 63.Wichita State 64.Colorado State 65.San Diego State 66.Boise State 67.High Point 68.SMU\\n\\nRespond ONLY in JSON (no markdown):\\n{"record":"24-11","madetournament":true,"seed":7,"tournamentRun":[{"round":"Round of 64","opponent":"Duke Blue Devils","result":"W","score":"82-74"},{"round":"Round of 32","opponent":"Kansas Jayhawks","result":"L","score":"68-71"}],"exitRound":"Round of 32","mvp":"Player Name","headline":"ALL CAPS HEADLINE","analysis":"3-4 sentences...","grade":"B+"}}` }]
+          messages: [{ role: "user", content: `You are a sharp college basketball analyst. Simulate this squad's season. Squad rating: ${r.score}/100 (${r.verdict}). Combined: ${r.breakdown.totalPpg} PPG / ${r.breakdown.totalRpg} RPG / ${r.breakdown.totalApg} APG (40-0 requires 110 PPG / 35 RPG / 20 APG).\\n\\nSquad:\\n${squadStr}\\n\\nYou are simulating a college basketball season. The record has ALREADY been decided by our system: \${mandatoryRecord}. You cannot change this record. Write the "record" field in your JSON as exactly "\${mandatoryRecord}". Based on that record, determine the appropriate seed (40-0=1 seed, 37-3=1-2 seed, 34-6=2-3 seed, 30-10=5-7 seed, 27-13=8-10 seed, below 24-16=no tournament), whether they made the tournament, and simulate realistic tournament game scores. Write 3-4 sentences of analysis mentioning players by name. Use this top 68 ranking for tournament opponents — higher seeds face lower seeds: 1.Florida 2.Duke 3.Illinois 4.Texas 5.Texas Tech 6.UConn 7.Michigan 8.Tennessee 9.Michigan St. 10.Arizona 11.St. John's 12.Arkansas 13.Miami 14.Gonzaga 15.Louisville 16.Vanderbilt 17.Virginia 18.Houston 19.Kentucky 20.Alabama 21.Missouri 22.Kansas 23.BYU 24.Iowa State 25.UCLA 26.USC 27.Saint Louis 28.Creighton 29.Ohio State 30.Villanova 31.Marquette 32.Indiana 33.Purdue 34.North Carolina 35.Baylor 36.Texas A&M 37.West Virginia 38.Oklahoma 39.Oklahoma State 40.Iowa 41.Providence 42.LSU 43.NC State 44.Nebraska 45.Maryland 46.Xavier 47.VCU 48.Oregon 49.Cincinnati 50.Grand Canyon 51.Wisconsin 52.DePaul 53.Arizona State 54.TCU 55.Ole Miss 56.Florida State 57.Auburn 58.Syracuse 59.Georgetown 60.Minnesota 61.Murray State 62.New Mexico 63.Wichita State 64.Colorado State 65.San Diego State 66.Boise State 67.High Point 68.SMU\\n\\nRespond ONLY in JSON (no markdown):\\n{"record":"24-11","madetournament":true,"seed":7,"tournamentRun":[{"round":"Round of 64","opponent":"Duke Blue Devils","result":"W","score":"82-74"},{"round":"Round of 32","opponent":"Kansas Jayhawks","result":"L","score":"68-71"}],"exitRound":"Round of 32","mvp":"Player Name","headline":"ALL CAPS HEADLINE","analysis":"3-4 sentences...","grade":"B+"}}` }]
         })
       });
       clearInterval(iv);
       const data = await res.json();
       const text = data.content.map((c: any) => c.text || "").join("");
-      setResult(JSON.parse(text.replace(/```json|```/g, "").trim()));
+      const parsed = JSON.parse(text.replace(/```json|```/g, "").trim());
+      parsed.record = mandatoryRecord;
+      setResult(parsed);
       setPhase("result");
     } catch {
       clearInterval(iv);
-      setResult({ record: "18-17", madetournament: false, seed: null, tournamentRun: [], mvp: squad.filter(Boolean)[0]?.name, headline: "A SEASON TO FORGET", analysis: "This squad never found its footing.", grade: "C-" });
+      setResult({ record: mandatoryRecord, madetournament: r.score >= 65, seed: r.score >= 90 ? 1 : r.score >= 80 ? 5 : r.score >= 70 ? 9 : null, tournamentRun: [], mvp: squad.filter(Boolean)[0]?.name, headline: "SIMULATION COMPLETE", analysis: "Season simulated based on squad rating.", grade: r.score >= 90 ? "A" : r.score >= 80 ? "B+" : r.score >= 70 ? "B-" : r.score >= 60 ? "C+" : "C-" });
       setPhase("result");
     }
   };
