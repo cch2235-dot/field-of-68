@@ -4,7 +4,7 @@ const AD_OPTIONS = [
   { id: 'youtube', label: 'YouTube Sponsorship', desc: 'Host-read integrations on our 75K subscriber channel' },
   { id: 'newsletter', label: 'Newsletter Sponsorship', desc: 'Placement in The Field of 68 Daily newsletter' },
   { id: 'podcast', label: 'Podcast Sponsorship', desc: 'Host-read ads on After Dark and all shows' },
-  { id: 'social', label: 'Social Media Integration', desc: 'Branded content across X (154K) & Instagram (49K)' },
+  { id: 'social', label: 'Social Media Integration', desc: 'Branded content across X (164K) & Instagram (50K)' },
   { id: 'event', label: 'Live Show Sponsorship', desc: 'Branding around After Dark and live events' },
   { id: 'custom', label: 'Custom Partnership', desc: 'Tell us what you have in mind' },
 ];
@@ -23,7 +23,7 @@ export default function ContactPage() {
         <div className="lg:col-span-1">
           <div className="bg-[#111111] border border-[#1A1A1A] rounded-xl p-6 mb-6">
             <h3 className="font-display text-white text-2xl tracking-wider mb-5">OUR REACH</h3>
-            {[{stat:'75K+',label:'YouTube Subscribers'},{stat:'154K+',label:'X / Twitter Followers'},{stat:'49K+',label:'Instagram Followers'},{stat:'800+',label:'Newsletter Subscribers'},{stat:'1,400+',label:'After Dark Episodes'}].map(({stat,label}) => (
+            {[{stat:'75K+',label:'YouTube Subscribers'},{stat:'164K+',label:'X / Twitter Followers'},{stat:'50K+',label:'Instagram Followers'},{stat:'800+',label:'Newsletter Subscribers'}].map(({stat,label}) => (
               <div key={label} className="flex items-center justify-between py-3 border-b border-[#1A1A1A] last:border-0">
                 <span className="text-[#8A8A8A] font-condensed text-sm">{label}</span>
                 <span className="font-display text-[#F5A623] text-xl tracking-wider">{stat}</span>
