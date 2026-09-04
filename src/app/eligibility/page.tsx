@@ -3,9 +3,8 @@ import { useState } from 'react';
 import eligibilityData from '../../../data/eligibility.json';
 
 type Season = {
-  year: string; team: string; gp: number; gs: number; min: number;
-  fgPct: number; threePct: number; ftPct: number; reb: number;
-  ast: number; stl: number; blk: number; to: number; pts: number;
+  year: string; team: string; fgPct: number; threePct: number;
+  reb: number; ast: number; stl: number; blk: number; pts: number;
 };
 type Player = {
   name: string; committedTo: string | null; pos: string;
@@ -173,17 +172,13 @@ export default function EligibilityPage() {
                         <tr className="text-[#555] uppercase tracking-widest">
                           <th className="text-left py-2 pr-4">Season</th>
                           <th className="text-left py-2 pr-4">Team</th>
-                          <th className="text-right py-2 pr-3">GP</th>
-                          <th className="text-right py-2 pr-3">MIN</th>
                           <th className="text-right py-2 pr-3">PTS</th>
                           <th className="text-right py-2 pr-3">REB</th>
                           <th className="text-right py-2 pr-3">AST</th>
                           <th className="text-right py-2 pr-3">STL</th>
                           <th className="text-right py-2 pr-3">BLK</th>
-                          <th className="text-right py-2 pr-3">TO</th>
                           <th className="text-right py-2 pr-3">FG%</th>
-                          <th className="text-right py-2 pr-3">3P%</th>
-                          <th className="text-right py-2">FT%</th>
+                          <th className="text-right py-2">3P%</th>
                         </tr>
                       </thead>
                       <tbody>
@@ -191,17 +186,13 @@ export default function EligibilityPage() {
                           <tr key={si} className={`border-t border-[#1A1A1A] ${s.year === 'Career' ? 'text-[#F5A623] font-bold' : 'text-[#C4C4C4]'}`}>
                             <td className="py-2 pr-4">{s.year}</td>
                             <td className="py-2 pr-4 text-[#8A8A8A]">{s.team}</td>
-                            <td className="py-2 pr-3 text-right">{s.gp}</td>
-                            <td className="py-2 pr-3 text-right">{s.min.toFixed(1)}</td>
                             <td className="py-2 pr-3 text-right">{s.pts.toFixed(1)}</td>
                             <td className="py-2 pr-3 text-right">{s.reb.toFixed(1)}</td>
                             <td className="py-2 pr-3 text-right">{s.ast.toFixed(1)}</td>
                             <td className="py-2 pr-3 text-right">{s.stl.toFixed(1)}</td>
                             <td className="py-2 pr-3 text-right">{s.blk.toFixed(1)}</td>
-                            <td className="py-2 pr-3 text-right">{s.to.toFixed(1)}</td>
                             <td className="py-2 pr-3 text-right">{s.fgPct.toFixed(1)}</td>
-                            <td className="py-2 pr-3 text-right">{s.threePct.toFixed(1)}</td>
-                            <td className="py-2 text-right">{s.ftPct.toFixed(1)}</td>
+                            <td className="py-2 text-right">{s.threePct.toFixed(1)}</td>
                           </tr>
                         ))}
                       </tbody>
