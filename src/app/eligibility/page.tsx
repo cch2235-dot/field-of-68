@@ -50,7 +50,7 @@ export default function EligibilityPage() {
           <h1 className="font-display text-white text-4xl md:text-5xl tracking-wider">ELIGIBILITY TRACKER</h1>
         </div>
         <p className="text-[#8A8A8A] font-condensed text-lg mt-1">State court injunctions granting extra eligibility to college basketball players</p>
-        <p className="text-[#555] font-condensed text-sm mt-1">Last updated: September 3, 2026</p>
+        <p className="text-[#555] font-condensed text-sm mt-1">Last updated: September 4, 2026</p>
       </div>
 
       {/* Status summary */}
@@ -146,14 +146,18 @@ export default function EligibilityPage() {
                   </div>
                   <div className="flex items-center gap-2 mt-0.5">
                     <span className="text-[#F5A623] font-condensed text-xs font-bold">{player.pos}</span>
-                    {player.seasons.find(s => s.year === 'Career') && (
-                      <>
-                        <span className="text-[#555]">·</span>
-                        <span className="text-[#8A8A8A] font-condensed text-xs">
-                          {`${player.seasons.find(s => s.year === 'Career')!.pts.toFixed(1)} PPG · ${player.seasons.find(s => s.year === 'Career')!.reb.toFixed(1)} RPG · ${player.seasons.find(s => s.year === 'Career')!.ast.toFixed(1)} APG (career)`}
-                        </span>
-                      </>
-                    )}
+                    {(() => {
+                        const recent = player.seasons.find(s => s.year === '2025-26') || player.seasons[0];
+                        if (!recent) return null;
+                        return (
+                          <>
+                            <span className="text-[#555]">·</span>
+                            <span className="text-[#8A8A8A] font-condensed text-xs">
+                              {`${recent.pts.toFixed(1)} PPG · ${recent.reb.toFixed(1)} RPG · ${recent.ast.toFixed(1)} APG (${recent.year})`}
+                            </span>
+                          </>
+                        );
+                      })()}
                   </div>
                 </div>
                 {player.seasons.length > 0 && (
