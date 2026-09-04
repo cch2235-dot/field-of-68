@@ -343,6 +343,17 @@
           "rpg": 4.8,
           "apg": 1.2,
           "notes": ""
+        },
+        {
+          "name": "Sam Alexis",
+          "pos": "F/C",
+          "height": "6-9",
+          "year": "GONE",
+          "ppg": 8.8,
+          "rpg": 4.8,
+          "apg": 1.2,
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
@@ -510,6 +521,17 @@
           "ppg": 17.1,
           "rpg": 3.4,
           "apg": 3.7,
+          "notes": "",
+          "seeking5th": true
+        },
+        {
+          "name": "Roddy Gayle Jr.",
+          "pos": "G",
+          "height": "6-5",
+          "year": "GONE",
+          "ppg": 7.1,
+          "rpg": 3.3,
+          "apg": 1.4,
           "notes": "",
           "seeking5th": true
         }
@@ -4085,13 +4107,14 @@
         },
         {
           "name": "Brenen Lorient",
-          "pos": "G",
+          "pos": "F/C",
           "height": "6-9",
-          "year": "??",
+          "year": "GONE",
           "ppg": 11.6,
           "rpg": 5.1,
           "apg": 1.9,
-          "notes": ""
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
@@ -4696,6 +4719,17 @@
           "ppg": 10.8,
           "rpg": 8.2,
           "apg": 2.4,
+          "notes": "",
+          "seeking5th": true
+        },
+        {
+          "name": "Parsa Fallah",
+          "pos": "F/C",
+          "height": "6-10",
+          "year": "GONE",
+          "ppg": 14.7,
+          "rpg": 6.0,
+          "apg": 0.8,
           "notes": "",
           "seeking5th": true
         }
@@ -5490,17 +5524,6 @@
           "rpg": 0,
           "apg": 0,
           "notes": ""
-        },
-        {
-          "name": "Mark Mitchell",
-          "pos": "F/C",
-          "height": "6-9",
-          "year": "GONE",
-          "ppg": 18.3,
-          "rpg": 5.2,
-          "apg": 3.6,
-          "notes": "",
-          "seeking5th": true
         }
       ]
     },
@@ -5631,6 +5654,17 @@
           "rpg": 7.2,
           "apg": 2.0,
           "notes": ""
+        },
+        {
+          "name": "RJ Luis Jr.",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "GONE",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
@@ -6117,6 +6151,17 @@
           "apg": 0.7,
           "notes": "",
           "seeking5th": true
+        },
+        {
+          "name": "Corey Stephenson",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "GONE",
+          "ppg": 18.0,
+          "rpg": 6.4,
+          "apg": 1.6,
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
@@ -6601,6 +6646,17 @@
           "rpg": 1.8,
           "apg": 0.3,
           "notes": ""
+        },
+        {
+          "name": "Mark Mitchell",
+          "pos": "F/C",
+          "height": "6-9",
+          "year": "GONE",
+          "ppg": 18.3,
+          "rpg": 5.2,
+          "apg": 3.6,
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
@@ -7899,14 +7955,26 @@
           "notes": ""
         },
         {
+          "name": "BJ Edwards",
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "GONE",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "",
+          "seeking5th": true
+        },
+        {
           "name": "Duke Brennan",
-          "pos": "G",
-          "height": "6-10",
-          "year": "5th",
-          "ppg": 12.4,
-          "rpg": 10.3,
-          "apg": 2.0,
-          "notes": ""
+          "pos": "G/F",
+          "height": "6-6",
+          "year": "GONE",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
@@ -9016,6 +9084,17 @@
           "rpg": 0,
           "apg": 0,
           "notes": ""
+        },
+        {
+          "name": "Vince Iwuchukwu",
+          "pos": "C",
+          "height": "7-1",
+          "year": "GONE",
+          "ppg": 11.6,
+          "rpg": 6.1,
+          "apg": 0.5,
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
