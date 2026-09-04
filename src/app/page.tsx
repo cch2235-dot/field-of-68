@@ -62,7 +62,8 @@ export default async function HomePage() {
                 className="group block bg-[#111] rounded-xl overflow-hidden hover:ring-2 hover:ring-[#F5A623]/40 transition-all">
                 {article.thumbnail && <div style={{height:'180px'}}><img src={article.thumbnail} alt={article.title} className="w-full h-full object-cover" /></div>}
                 <div className="p-4">
-                  <p className="font-condensed font-bold text-white text-sm leading-snug line-clamp-2 group-hover:text-[#F5A623] transition-colors">{article.title}</p>
+                  <p className="font-condensed font-bold text-white text-sm leading-snug line-clamp-2 group-hover:text-[#F5A623] transition-colors mb-2">{article.title}</p>
+                  {article.excerpt && <p className="font-condensed text-[#8A8A8A] text-xs leading-snug line-clamp-3">{article.excerpt}</p>}
                 </div>
               </a>
             ))}
