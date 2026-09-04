@@ -2,6 +2,9 @@
 import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import rostersData from '../../../data/rosters.json';
+import espnIds from '../../../data/espn-ids.json';
+
+const ESPN_IDS: Record<string, number> = espnIds as any;
 import schedulesData from '../../../data/schedules.json';
 
 const CONFERENCES = ['ACC', 'American', 'Atlantic 10', 'Big 12', 'Big East', 'Big Ten', 'MWC', 'Pac-12', 'SEC', 'WCC'];
@@ -56,9 +59,9 @@ function TeamsContent() {
         {confTeams.map(team => (
           <button key={team.name} onClick={() => { setActiveTeam(activeTeam === team.name ? null : team.name); setActiveTab('roster'); }}
             className={`flex flex-col items-center gap-2 p-4 rounded-xl border transition-all ${activeTeam === team.name ? 'bg-[#F5A623]/10 border-[#F5A623]' : 'bg-[#111] border-[#1A1A1A] hover:border-[#333]'}`}>
-            {team.espnId && (
+            {(team.espnId || ESPN_IDS[team.name]) && (
               <img
-                src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${team.espnId}.png`}
+                src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${team.espnId || ESPN_IDS[team.name]}.png`}
                 alt={team.name}
                 className="w-12 h-12 object-contain"
                 style={WHITE_BG_TEAMS.includes(team.name) ? {background:'white',borderRadius:'6px',padding:'3px'} : {}}
@@ -74,9 +77,9 @@ function TeamsContent() {
         <div className="bg-[#111] border border-[#1A1A1A] rounded-2xl overflow-hidden">
           {/* Team header */}
           <div className="flex items-center gap-4 p-6 border-b border-[#1A1A1A] bg-[#0A0A0A]">
-            {selectedTeam.espnId && (
+            {(selectedTeam.espnId || ESPN_IDS[selectedTeam.name]) && (
               <img
-                src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${selectedTeam.espnId}.png`}
+                src={`https://a.espncdn.com/i/teamlogos/ncaa/500/${selectedTeam.espnId || ESPN_IDS[selectedTeam.name]}.png`}
                 alt={selectedTeam.name}
                 className="w-16 h-16 object-contain"
                 style={WHITE_BG_TEAMS.includes(selectedTeam.name) ? {background:'white',borderRadius:'6px',padding:'4px'} : {}}
