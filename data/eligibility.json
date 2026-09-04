@@ -1416,19 +1416,70 @@
           "name": "Zachary Davis",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Memphis",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 41.5,
+              "threePct": 27.8,
+              "ftPct": 0,
+              "reb": 4.2,
+              "ast": 1.1,
+              "blk": 0.3,
+              "stl": 1.1,
+              "to": 0,
+              "pts": 7.2
+            }
+          ]
         },
         {
           "name": "Olamide Ajiboye",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Southern Ind.",
+              "gp": 30,
+              "gs": 30,
+              "min": 25.1,
+              "fgPct": 49.3,
+              "threePct": 0.0,
+              "ftPct": 49.6,
+              "reb": 5.1,
+              "ast": 0.8,
+              "blk": 1.5,
+              "stl": 0.8,
+              "to": 0.8,
+              "pts": 6.6
+            }
+          ]
         },
         {
           "name": "Daniel Egbuniwe",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "St. Bonaventure",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 42.2,
+              "threePct": 39.7,
+              "ftPct": 0,
+              "reb": 3.2,
+              "ast": 1.1,
+              "blk": 0.5,
+              "stl": 0.9,
+              "to": 0,
+              "pts": 8.2
+            }
+          ]
         },
         {
           "name": "Tarence Guinyard",
@@ -1489,7 +1540,24 @@
           "name": "Dug McDaniel",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Memphis",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 41.3,
+              "threePct": 32.9,
+              "ftPct": 0,
+              "reb": 3.7,
+              "ast": 4.6,
+              "blk": 0.1,
+              "stl": 1.9,
+              "to": 0,
+              "pts": 13.9
+            }
+          ]
         },
         {
           "name": "Jaylon Johnson",
@@ -2130,81 +2198,239 @@
       "status": "INELIGIBLE",
       "statusNote": "Preliminary injunctive relief denied. These are the original Dalley plaintiffs only.",
       "date": "2026",
-      "players": 18,
+      "players": 15,
       "judge": null,
       "attorney": "",
       "players_list": [
         {
-          "name": "Tyson Dalley",
-          "committedTo": null,
-          "pos": "G",
-          "seasons": []
-        },
-        {
           "name": "Kareem Rozier",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Winthrop",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 37.6,
+              "threePct": 36.4,
+              "ftPct": 0,
+              "reb": 2.3,
+              "ast": 3.3,
+              "blk": 0.0,
+              "stl": 1.3,
+              "to": 0,
+              "pts": 13.2
+            }
+          ]
         },
         {
           "name": "Brit Harris",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "FIU",
+              "gp": 32,
+              "gs": 0,
+              "min": 18.7,
+              "fgPct": 38.6,
+              "threePct": 31.5,
+              "ftPct": 55.3,
+              "reb": 2.5,
+              "ast": 1.6,
+              "blk": 0.2,
+              "stl": 1.0,
+              "to": 0.8,
+              "pts": 5.6
+            }
+          ]
         },
         {
           "name": "Michael Sharavjamts",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
-        },
-        {
-          "name": "Malik McKinzie",
-          "committedTo": null,
-          "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "South Carolina",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 49.0,
+              "threePct": 34.1,
+              "ftPct": 0,
+              "reb": 5.6,
+              "ast": 2.3,
+              "blk": 0.9,
+              "stl": 0.7,
+              "to": 0,
+              "pts": 10.9
+            }
+          ]
         },
         {
           "name": "Major Freeman",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Charlotte",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 40.3,
+              "threePct": 35.3,
+              "ftPct": 0,
+              "reb": 2.0,
+              "ast": 1.3,
+              "blk": 0.0,
+              "stl": 0.5,
+              "to": 0,
+              "pts": 6.3
+            }
+          ]
         },
         {
           "name": "Karon Boyd",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Wichita St.",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 42.2,
+              "threePct": 35.1,
+              "ftPct": 0,
+              "reb": 5.8,
+              "ast": 1.6,
+              "blk": 0.4,
+              "stl": 0.7,
+              "to": 0,
+              "pts": 10.9
+            }
+          ]
         },
         {
           "name": "Christian May",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Michigan",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 33.3,
+              "threePct": 50.0,
+              "ftPct": 0,
+              "reb": 0.2,
+              "ast": 0.2,
+              "blk": 0.0,
+              "stl": 0.2,
+              "to": 0,
+              "pts": 0.7
+            }
+          ]
         },
         {
           "name": "Bryson Ogletree",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "N.C. A&T",
+              "gp": 28,
+              "gs": 8,
+              "min": 21.0,
+              "fgPct": 49.5,
+              "threePct": 36.4,
+              "ftPct": 69.4,
+              "reb": 1.8,
+              "ast": 1.1,
+              "blk": 0.1,
+              "stl": 0.4,
+              "to": 0.8,
+              "pts": 4.5
+            }
+          ]
         },
         {
           "name": "Anthony McComb",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Norfolk St.",
+              "gp": 32,
+              "gs": 32,
+              "min": 34.2,
+              "fgPct": 41.5,
+              "threePct": 38.1,
+              "ftPct": 44.0,
+              "reb": 4.2,
+              "ast": 1.4,
+              "blk": 0.3,
+              "stl": 1.1,
+              "to": 1.7,
+              "pts": 17.1
+            }
+          ]
         },
         {
           "name": "Malik Reneau",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Miami (FL)",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 54.0,
+              "threePct": 34.7,
+              "ftPct": 0,
+              "reb": 6.5,
+              "ast": 2.1,
+              "blk": 0.8,
+              "stl": 1.1,
+              "to": 0,
+              "pts": 18.9
+            }
+          ]
         },
         {
           "name": "Vincent Brady II",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "High Point",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 37.7,
+              "threePct": 24.2,
+              "ftPct": 0,
+              "reb": 1.9,
+              "ast": 1.6,
+              "blk": 0.1,
+              "stl": 1.0,
+              "to": 0,
+              "pts": 5.2
+            }
+          ]
         },
         {
           "name": "Kenyon Giles",
@@ -2297,19 +2523,47 @@
           "name": "Owen Aquino",
           "committedTo": null,
           "pos": "C",
-          "seasons": []
-        },
-        {
-          "name": "Mason Swinney",
-          "committedTo": null,
-          "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "High Point",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 54.3,
+              "threePct": 44.4,
+              "ftPct": 0,
+              "reb": 5.8,
+              "ast": 2.4,
+              "blk": 1.7,
+              "stl": 1.1,
+              "to": 0,
+              "pts": 9.3
+            }
+          ]
         },
         {
           "name": "Noah Ross",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "UNCW",
+              "gp": 34,
+              "gs": 34,
+              "min": 29.2,
+              "fgPct": 43.6,
+              "threePct": 25.6,
+              "ftPct": 50.2,
+              "reb": 5.1,
+              "ast": 1.9,
+              "blk": 0.3,
+              "stl": 0.9,
+              "to": 0.8,
+              "pts": 9.4
+            }
+          ]
         },
         {
           "name": "Jackson Paveletzke",
@@ -2402,7 +2656,24 @@
           "name": "Bowen Hardman",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Akron",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 40.3,
+              "threePct": 40.3,
+              "ftPct": 0,
+              "reb": 1.5,
+              "ast": 0.2,
+              "blk": 0.0,
+              "stl": 0.2,
+              "to": 0,
+              "pts": 7.6
+            }
+          ]
         }
       ]
     },
@@ -2417,7 +2688,24 @@
           "name": "Donte Bacchus",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "North Ala.",
+              "gp": 30,
+              "gs": 29,
+              "min": 33.4,
+              "fgPct": 48.3,
+              "threePct": 27.1,
+              "ftPct": 53.0,
+              "reb": 5.8,
+              "ast": 1.1,
+              "blk": 0.4,
+              "stl": 0.9,
+              "to": 1.4,
+              "pts": 14.7
+            }
+          ]
         },
         {
           "name": "Rickey Ballard",
@@ -2533,13 +2821,47 @@
           "name": "Jerald Colonel",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Stephen F. Austin",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 50.4,
+              "threePct": 0.0,
+              "ftPct": 0,
+              "reb": 7.3,
+              "ast": 1.3,
+              "blk": 2.6,
+              "stl": 0.9,
+              "to": 0,
+              "pts": 5.0
+            }
+          ]
         },
         {
           "name": "Devon Ellis",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Norfolk St.",
+              "gp": 32,
+              "gs": 32,
+              "min": 27.3,
+              "fgPct": 54.7,
+              "threePct": 38.9,
+              "ftPct": 59.3,
+              "reb": 4.4,
+              "ast": 1.6,
+              "blk": 0.4,
+              "stl": 0.7,
+              "to": 1.3,
+              "pts": 11.1
+            }
+          ]
         },
         {
           "name": "RJ Godfrey Jr.",
@@ -2632,13 +2954,47 @@
           "name": "Kasheem Grady",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "UMKC",
+              "gp": 30,
+              "gs": 11,
+              "min": 25.8,
+              "fgPct": 39.8,
+              "threePct": 29.5,
+              "ftPct": 50.4,
+              "reb": 3.2,
+              "ast": 1.2,
+              "blk": 0.2,
+              "stl": 1.0,
+              "to": 1.5,
+              "pts": 10.0
+            }
+          ]
         },
         {
           "name": "Cam Haffner",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Western Ky.",
+              "gp": 28,
+              "gs": 6,
+              "min": 12.6,
+              "fgPct": 34.5,
+              "threePct": 32.7,
+              "ftPct": 42.9,
+              "reb": 1.3,
+              "ast": 0.5,
+              "blk": 0.0,
+              "stl": 0.3,
+              "to": 0.4,
+              "pts": 4.3
+            }
+          ]
         },
         {
           "name": "Dillon Hunter",
@@ -2731,7 +3087,24 @@
           "name": "Michael Jacobs",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Southern U.",
+              "gp": 32,
+              "gs": 25,
+              "min": 32.2,
+              "fgPct": 40.2,
+              "threePct": 33.9,
+              "ftPct": 42.6,
+              "reb": 3.6,
+              "ast": 5.1,
+              "blk": 0.1,
+              "stl": 1.6,
+              "to": 2.6,
+              "pts": 17.3
+            }
+          ]
         },
         {
           "name": "Chas Kelley III",
@@ -2760,19 +3133,70 @@
           "name": "Kamari Lands",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Middle Tenn.",
+              "gp": 32,
+              "gs": 32,
+              "min": 29.2,
+              "fgPct": 40.3,
+              "threePct": 32.1,
+              "ftPct": 50.0,
+              "reb": 3.7,
+              "ast": 2.2,
+              "blk": 0.4,
+              "stl": 1.0,
+              "to": 1.4,
+              "pts": 13.3
+            }
+          ]
         },
         {
           "name": "Jacari Lane",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Texas A&M",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 39.5,
+              "threePct": 30.3,
+              "ftPct": 0,
+              "reb": 1.7,
+              "ast": 3.0,
+              "blk": 0.0,
+              "stl": 0.6,
+              "to": 0,
+              "pts": 6.1
+            }
+          ]
         },
         {
           "name": "George Marshall",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Morehead St.",
+              "gp": 33,
+              "gs": 33,
+              "min": 30.4,
+              "fgPct": 41.7,
+              "threePct": 37.7,
+              "ftPct": 46.3,
+              "reb": 4.5,
+              "ast": 1.9,
+              "blk": 0.3,
+              "stl": 1.3,
+              "to": 1.7,
+              "pts": 13.8
+            }
+          ]
         },
         {
           "name": "Kamrin Oriol",
@@ -2856,13 +3280,46 @@
           "name": "Devin Ree",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Jackson St.",
+              "gp": 33,
+              "gs": 18,
+              "min": 20.8,
+              "fgPct": 35.7,
+              "threePct": 27.6,
+              "ftPct": 46.6,
+              "reb": 3.0,
+              "ast": 0.7,
+              "blk": 0.5,
+              "stl": 0.4,
+              "to": 0.9,
+              "pts": 5.4
+            }
+          ]
         },
         {
           "name": "Dan Skillings Jr.",
           "committedTo": null,
           "pos": "G",
           "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Baylor",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 43.7,
+              "threePct": 29.6,
+              "ftPct": 0,
+              "reb": 5.9,
+              "ast": 2.1,
+              "blk": 0.1,
+              "stl": 1.0,
+              "to": 0,
+              "pts": 9.6
+            },
             {
               "year": "2022-23",
               "team": "CIN",
@@ -2956,7 +3413,24 @@
           "name": "Braden Sparks",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Fairfield",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 41.2,
+              "threePct": 39.0,
+              "ftPct": 0,
+              "reb": 3.2,
+              "ast": 2.6,
+              "blk": 0.1,
+              "stl": 1.4,
+              "to": 0,
+              "pts": 17.2
+            }
+          ]
         },
         {
           "name": "JaMichael Stillwell",
@@ -3127,7 +3601,24 @@
           "name": "Asher Woods",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Tulane",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 40.5,
+              "threePct": 27.2,
+              "ftPct": 0,
+              "reb": 3.2,
+              "ast": 2.0,
+              "blk": 0.0,
+              "stl": 1.3,
+              "to": 0,
+              "pts": 12.8
+            }
+          ]
         },
         {
           "name": "Dan Skillings",
@@ -3168,7 +3659,24 @@
           "name": "Jeremy Dent-Smith",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Stanford",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 37.2,
+              "threePct": 38.4,
+              "ftPct": 0,
+              "reb": 1.8,
+              "ast": 1.6,
+              "blk": 0.1,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 8.4
+            }
+          ]
         },
         {
           "name": "Benny Gealer",
@@ -3401,13 +3909,47 @@
           "name": "Charles Johnston",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Furman",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 48.7,
+              "threePct": 28.7,
+              "ftPct": 0,
+              "reb": 9.0,
+              "ast": 1.7,
+              "blk": 0.7,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 9.8
+            }
+          ]
         },
         {
           "name": "Elijah Fisher",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Seton Hall",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 45.5,
+              "threePct": 23.7,
+              "ftPct": 0,
+              "reb": 2.9,
+              "ast": 0.8,
+              "blk": 0.5,
+              "stl": 0.9,
+              "to": 0,
+              "pts": 6.6
+            }
+          ]
         },
         {
           "name": "Jaden Henley",
@@ -3507,13 +4049,47 @@
           "name": "Tayshawn Comer",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Nevada",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 38.3,
+              "threePct": 35.1,
+              "ftPct": 0,
+              "reb": 1.8,
+              "ast": 3.6,
+              "blk": 0.0,
+              "stl": 0.9,
+              "to": 0,
+              "pts": 11.0
+            }
+          ]
         },
         {
           "name": "Jojo Murphy",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Seattle",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 40.4,
+              "threePct": 34.5,
+              "ftPct": 0,
+              "reb": 2.3,
+              "ast": 1.4,
+              "blk": 0.1,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 5.9
+            }
+          ]
         },
         {
           "name": "Langston Reynolds",
@@ -3606,7 +4182,24 @@
           "name": "Guillermo Diaz Graham",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "San Francisco",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 41.7,
+              "threePct": 37.5,
+              "ftPct": 0,
+              "reb": 3.2,
+              "ast": 1.3,
+              "blk": 0.5,
+              "stl": 0.5,
+              "to": 0,
+              "pts": 5.2
+            }
+          ]
         },
         {
           "name": "Jevon Porter",
@@ -3681,25 +4274,93 @@
           "name": "Aidan Mahaney",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "UC Santa Barbara",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 43.5,
+              "threePct": 38.5,
+              "ftPct": 0,
+              "reb": 1.9,
+              "ast": 2.7,
+              "blk": 0.1,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 14.9
+            }
+          ]
         },
         {
           "name": "Joshua Ward",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Cal St Fullerton",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 44.0,
+              "threePct": 30.9,
+              "ftPct": 0,
+              "reb": 4.5,
+              "ast": 3.5,
+              "blk": 0.5,
+              "stl": 1.6,
+              "to": 0,
+              "pts": 14.5
+            }
+          ]
         },
         {
           "name": "Braeden Carrington",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Wisconsin",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 40.8,
+              "threePct": 40.1,
+              "ftPct": 0,
+              "reb": 2.4,
+              "ast": 1.1,
+              "blk": 0.3,
+              "stl": 0.4,
+              "to": 0,
+              "pts": 8.3
+            }
+          ]
         },
         {
           "name": "KC Ibekwe",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Pacific",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 59.6,
+              "threePct": 0.0,
+              "ftPct": 0,
+              "reb": 1.6,
+              "ast": 0.3,
+              "blk": 0.3,
+              "stl": 0.2,
+              "to": 0,
+              "pts": 3.8
+            }
+          ]
         },
         {
           "name": "Corey Stephenson",
@@ -3751,19 +4412,70 @@
           "name": "Elijah Saunders",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Maryland",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 44.1,
+              "threePct": 41.1,
+              "ftPct": 0,
+              "reb": 4.4,
+              "ast": 0.9,
+              "blk": 0.3,
+              "stl": 0.4,
+              "to": 0,
+              "pts": 9.0
+            }
+          ]
         },
         {
           "name": "Oziyah Sellers",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "St. John's",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 43.5,
+              "threePct": 35.4,
+              "ftPct": 0,
+              "reb": 2.8,
+              "ast": 1.6,
+              "blk": 0.3,
+              "stl": 0.6,
+              "to": 0,
+              "pts": 10.5
+            }
+          ]
         },
         {
           "name": "Moe Odum",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Arizona St.",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 40.6,
+              "threePct": 37.7,
+              "ftPct": 0,
+              "reb": 3.1,
+              "ast": 5.7,
+              "blk": 0.1,
+              "stl": 1.4,
+              "to": 0,
+              "pts": 16.4
+            }
+          ]
         },
         {
           "name": "Trejuan Holloman",
@@ -3861,13 +4573,47 @@
           "name": "Scotty Washington",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "High Point",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 47.5,
+              "threePct": 37.9,
+              "ftPct": 0,
+              "reb": 2.8,
+              "ast": 0.9,
+              "blk": 0.2,
+              "stl": 0.9,
+              "to": 0,
+              "pts": 8.2
+            }
+          ]
         },
         {
           "name": "Chisom Okpara",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Stanford",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 39.3,
+              "threePct": 30.4,
+              "ftPct": 0,
+              "reb": 3.9,
+              "ast": 2.2,
+              "blk": 0.4,
+              "stl": 1.1,
+              "to": 0,
+              "pts": 13.9
+            }
+          ]
         },
         {
           "name": "Kimani Hamilton",
@@ -3983,31 +4729,116 @@
           "name": "Maleek Arington",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Seattle",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 29.8,
+              "threePct": 32.1,
+              "ftPct": 0,
+              "reb": 3.1,
+              "ast": 3.9,
+              "blk": 0.1,
+              "stl": 2.3,
+              "to": 0,
+              "pts": 4.7
+            }
+          ]
         },
         {
           "name": "Jamarques Lawrence",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Nebraska",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 42.1,
+              "threePct": 35.1,
+              "ftPct": 0,
+              "reb": 2.4,
+              "ast": 3.9,
+              "blk": 0.0,
+              "stl": 0.9,
+              "to": 0,
+              "pts": 9.8
+            }
+          ]
         },
         {
           "name": "Christian Richardson",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Omaha",
+              "gp": 27,
+              "gs": 16,
+              "min": 15.7,
+              "fgPct": 72.7,
+              "threePct": 0.0,
+              "ftPct": 72.7,
+              "reb": 3.0,
+              "ast": 0.0,
+              "blk": 0.7,
+              "stl": 0.5,
+              "to": 1.1,
+              "pts": 7.4
+            }
+          ]
         },
         {
           "name": "Desmond Claude",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Washington",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 42.6,
+              "threePct": 30.0,
+              "ftPct": 0,
+              "reb": 2.4,
+              "ast": 1.9,
+              "blk": 0.1,
+              "stl": 0.4,
+              "to": 0,
+              "pts": 13.3
+            }
+          ]
         },
         {
           "name": "Blair Thompson",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Columbia",
+              "gp": 28,
+              "gs": 28,
+              "min": 31.0,
+              "fgPct": 50.2,
+              "threePct": 40.9,
+              "ftPct": 58.5,
+              "reb": 4.8,
+              "ast": 1.1,
+              "blk": 0.4,
+              "stl": 1.0,
+              "to": 0.8,
+              "pts": 11.4
+            }
+          ]
         },
         {
           "name": "Lance Waddles",
@@ -4187,7 +5018,24 @@
           "name": "Hamed 'Larry' Olayinka",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "FIU",
+              "gp": 32,
+              "gs": 32,
+              "min": 23.7,
+              "fgPct": 54.5,
+              "threePct": 15.4,
+              "ftPct": 56.8,
+              "reb": 6.7,
+              "ast": 0.9,
+              "blk": 1.3,
+              "stl": 1.0,
+              "to": 1.5,
+              "pts": 10.0
+            }
+          ]
         },
         {
           "name": "Iaroslav Niagu",
@@ -4302,7 +5150,24 @@
           "name": "Donovan Oday",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Northern Kentucky",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 49.8,
+              "threePct": 33.0,
+              "ftPct": 0,
+              "reb": 3.8,
+              "ast": 1.9,
+              "blk": 0.5,
+              "stl": 2.0,
+              "to": 0,
+              "pts": 18.6
+            }
+          ]
         },
         {
           "name": "Mark Mitchell",
@@ -4331,7 +5196,24 @@
           "name": "Justin Allen",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Green Bay",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 48.0,
+              "threePct": 25.3,
+              "ftPct": 0,
+              "reb": 3.7,
+              "ast": 1.7,
+              "blk": 0.1,
+              "stl": 0.5,
+              "to": 0,
+              "pts": 13.6
+            }
+          ]
         },
         {
           "name": "Fred King",
@@ -4447,7 +5329,24 @@
           "name": "Albert Vargas Brito",
           "committedTo": null,
           "pos": "C",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Robert Morris",
+              "gp": 28,
+              "gs": 26,
+              "min": 24.1,
+              "fgPct": 37.3,
+              "threePct": 38.9,
+              "ftPct": 35.4,
+              "reb": 2.3,
+              "ast": 4.0,
+              "blk": 0.0,
+              "stl": 0.7,
+              "to": 2.0,
+              "pts": 7.5
+            }
+          ]
         },
         {
           "name": "Billy Smith",
@@ -4499,7 +5398,24 @@
           "name": "Cardell Bailey",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Southern Ind.",
+              "gp": 29,
+              "gs": 7,
+              "min": 24.6,
+              "fgPct": 38.8,
+              "threePct": 30.9,
+              "ftPct": 45.9,
+              "reb": 5.0,
+              "ast": 0.7,
+              "blk": 0.2,
+              "stl": 1.1,
+              "to": 1.4,
+              "pts": 12.6
+            }
+          ]
         },
         {
           "name": "Damoni Harrison",
@@ -4528,7 +5444,24 @@
           "name": "Emmanuel Okorafor",
           "committedTo": null,
           "pos": "C",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Wichita St.",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 57.0,
+              "threePct": 0.0,
+              "ftPct": 0,
+              "reb": 5.2,
+              "ast": 0.4,
+              "blk": 1.0,
+              "stl": 0.4,
+              "to": 0,
+              "pts": 6.3
+            }
+          ]
         },
         {
           "name": "Javon Jackson",
@@ -4557,13 +5490,47 @@
           "name": "Orlando Lovejoy",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Detroit",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 44.6,
+              "threePct": 14.8,
+              "ftPct": 0,
+              "reb": 3.6,
+              "ast": 3.7,
+              "blk": 0.1,
+              "stl": 1.6,
+              "to": 0,
+              "pts": 15.8
+            }
+          ]
         },
         {
           "name": "Aidan Hadaway",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Ohio",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 48.6,
+              "threePct": 30.1,
+              "ftPct": 0,
+              "reb": 7.4,
+              "ast": 2.1,
+              "blk": 0.7,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 14.4
+            }
+          ]
         }
       ]
     },
@@ -4581,31 +5548,116 @@
           "name": "Andrew Akuchie",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Rice",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 55.8,
+              "threePct": 20.0,
+              "ftPct": 0,
+              "reb": 3.8,
+              "ast": 0.3,
+              "blk": 0.5,
+              "stl": 0.3,
+              "to": 0,
+              "pts": 3.8
+            }
+          ]
         },
         {
           "name": "Tavion Banks",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Iowa",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 53.8,
+              "threePct": 45.0,
+              "ftPct": 0,
+              "reb": 4.7,
+              "ast": 1.1,
+              "blk": 0.2,
+              "stl": 1.0,
+              "to": 0,
+              "pts": 10.6
+            }
+          ]
         },
         {
           "name": "Nate Calmese",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Wake Forest",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 46.1,
+              "threePct": 39.8,
+              "ftPct": 0,
+              "reb": 1.9,
+              "ast": 4.5,
+              "blk": 0.1,
+              "stl": 1.3,
+              "to": 0,
+              "pts": 10.3
+            }
+          ]
         },
         {
           "name": "Jacob Crews",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Mizzou",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 46.5,
+              "threePct": 43.4,
+              "ftPct": 0,
+              "reb": 3.7,
+              "ast": 0.2,
+              "blk": 0.1,
+              "stl": 0.2,
+              "to": 0,
+              "pts": 8.4
+            }
+          ]
         },
         {
           "name": "Alonzo Dodd",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Appalachian St.",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 47.5,
+              "threePct": 28.0,
+              "ftPct": 0,
+              "reb": 5.3,
+              "ast": 4.2,
+              "blk": 0.3,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 13.8
+            }
+          ]
         },
         {
           "name": "Treysen Eaglestaff",
@@ -4634,7 +5686,24 @@
           "name": "Dashon Gittens",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Sacred Heart",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 50.9,
+              "threePct": 39.3,
+              "ftPct": 0,
+              "reb": 5.8,
+              "ast": 2.8,
+              "blk": 0.8,
+              "stl": 1.5,
+              "to": 0,
+              "pts": 13.5
+            }
+          ]
         },
         {
           "name": "Dallin Hall",
@@ -4837,19 +5906,70 @@
           "name": "Andrew Holifield",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Lamar",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 38.1,
+              "threePct": 30.2,
+              "ftPct": 0,
+              "reb": 4.6,
+              "ast": 1.5,
+              "blk": 1.7,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 11.7
+            }
+          ]
         },
         {
           "name": "Bradyn Hubbard",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Abilene Christian",
+              "gp": 32,
+              "gs": 29,
+              "min": 28.1,
+              "fgPct": 40.1,
+              "threePct": 31.3,
+              "ftPct": 44.7,
+              "reb": 4.7,
+              "ast": 1.6,
+              "blk": 0.2,
+              "stl": 1.8,
+              "to": 2.3,
+              "pts": 16.3
+            }
+          ]
         },
         {
           "name": "Po'Boigh King",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Sam Houston",
+              "gp": 31,
+              "gs": 31,
+              "min": 27.7,
+              "fgPct": 41.8,
+              "threePct": 37.0,
+              "ftPct": 47.7,
+              "reb": 1.9,
+              "ast": 1.5,
+              "blk": 0.2,
+              "stl": 0.6,
+              "to": 0.9,
+              "pts": 13.7
+            }
+          ]
         },
         {
           "name": "Ven-Allen Lubin",
@@ -4942,19 +6062,70 @@
           "name": "Mekhi Mason",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Wake Forest",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 38.9,
+              "threePct": 33.8,
+              "ftPct": 0,
+              "reb": 2.6,
+              "ast": 1.4,
+              "blk": 0.2,
+              "stl": 0.9,
+              "to": 0,
+              "pts": 7.4
+            }
+          ]
         },
         {
           "name": "Jaqai Murray",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2024-25",
+              "team": "N.C. Central",
+              "gp": 32,
+              "gs": 12,
+              "min": 16.7,
+              "fgPct": 51.4,
+              "threePct": 25.0,
+              "ftPct": 52.1,
+              "reb": 4.5,
+              "ast": 0.8,
+              "blk": 0.2,
+              "stl": 0.7,
+              "to": 1.1,
+              "pts": 6.0
+            }
+          ]
         },
         {
           "name": "Joshua Omojafo",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "USF",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 45.5,
+              "threePct": 29.7,
+              "ftPct": 0,
+              "reb": 5.3,
+              "ast": 1.7,
+              "blk": 0.2,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 11.3
+            }
+          ]
         },
         {
           "name": "Noah Otshudi",
@@ -5212,13 +6383,47 @@
           "name": "AJ Worrell",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Morgan St.",
+              "gp": 30,
+              "gs": 26,
+              "min": 28.5,
+              "fgPct": 38.8,
+              "threePct": 36.3,
+              "ftPct": 42.4,
+              "reb": 3.8,
+              "ast": 1.1,
+              "blk": 0.2,
+              "stl": 0.9,
+              "to": 2.0,
+              "pts": 17.4
+            }
+          ]
         },
         {
           "name": "Riley Kugel",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "UCF",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 41.5,
+              "threePct": 38.7,
+              "ftPct": 0,
+              "reb": 3.1,
+              "ast": 2.5,
+              "blk": 0.2,
+              "stl": 1.0,
+              "to": 0,
+              "pts": 14.4
+            }
+          ]
         },
         {
           "name": "CJ Gunn",
@@ -5295,19 +6500,70 @@
           "name": "Jayden Brewer",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Western Michigan",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 45.6,
+              "threePct": 31.6,
+              "ftPct": 0,
+              "reb": 7.0,
+              "ast": 1.1,
+              "blk": 1.0,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 13.3
+            }
+          ]
         },
         {
           "name": "Rylan Griffen",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Texas A&M",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 45.3,
+              "threePct": 40.4,
+              "ftPct": 0,
+              "reb": 2.7,
+              "ast": 2.5,
+              "blk": 0.4,
+              "stl": 1.6,
+              "to": 0,
+              "pts": 11.2
+            }
+          ]
         },
         {
           "name": "Nikolas Graves",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Creighton",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 38.5,
+              "threePct": 28.6,
+              "ftPct": 0,
+              "reb": 2.9,
+              "ast": 4.3,
+              "blk": 0.1,
+              "stl": 1.0,
+              "to": 0,
+              "pts": 10.5
+            }
+          ]
         },
         {
           "name": "Trey Lewis",
@@ -5359,7 +6615,24 @@
           "name": "Bryson Warren",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "WES",
+              "gp": 7,
+              "gs": 6,
+              "min": 29.0,
+              "fgPct": 33.0,
+              "threePct": 24.1,
+              "ftPct": 90.5,
+              "reb": 2.3,
+              "ast": 4.7,
+              "blk": 0.0,
+              "stl": 1.3,
+              "to": 1.7,
+              "pts": 15.6
+            }
+          ]
         }
       ]
     },
@@ -5378,6 +6651,22 @@
           "committedTo": null,
           "pos": "C",
           "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Georgetown",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 54.9,
+              "threePct": 37.5,
+              "ftPct": 0,
+              "reb": 6.1,
+              "ast": 0.5,
+              "blk": 0.8,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 11.6
+            },
             {
               "year": "2022-23",
               "team": "USC",
@@ -5471,7 +6760,24 @@
           "name": "Roddy Gayle Jr.",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Michigan",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 46.1,
+              "threePct": 26.8,
+              "ftPct": 0,
+              "reb": 3.3,
+              "ast": 1.4,
+              "blk": 0.4,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 7.1
+            }
+          ]
         },
         {
           "name": "Matthew Bewley",
@@ -5547,31 +6853,116 @@
           "name": "Jamil Muttilib",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Grambling",
+              "gp": 33,
+              "gs": 23,
+              "min": 26.9,
+              "fgPct": 43.5,
+              "threePct": 32.6,
+              "ftPct": 57.9,
+              "reb": 3.4,
+              "ast": 0.5,
+              "blk": 0.5,
+              "stl": 1.4,
+              "to": 1.2,
+              "pts": 12.1
+            }
+          ]
         },
         {
           "name": "Rashad King",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "LSU",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 39.4,
+              "threePct": 29.5,
+              "ftPct": 0,
+              "reb": 2.1,
+              "ast": 1.2,
+              "blk": 0.3,
+              "stl": 0.7,
+              "to": 0,
+              "pts": 5.8
+            }
+          ]
         },
         {
           "name": "Michael Eley",
           "committedTo": null,
           "pos": "F",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Hampton",
+              "gp": 23,
+              "gs": 10,
+              "min": 19.2,
+              "fgPct": 47.7,
+              "threePct": 30.9,
+              "ftPct": 60.3,
+              "reb": 3.4,
+              "ast": 0.7,
+              "blk": 0.2,
+              "stl": 0.7,
+              "to": 0.7,
+              "pts": 13.0
+            }
+          ]
         },
         {
           "name": "Percy Daniels",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Tulane",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 62.8,
+              "threePct": 0.0,
+              "ftPct": 0,
+              "reb": 2.2,
+              "ast": 0.7,
+              "blk": 1.5,
+              "stl": 0.4,
+              "to": 0,
+              "pts": 2.3
+            }
+          ]
         },
         {
           "name": "Derrian Ford",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Temple",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 42.7,
+              "threePct": 37.9,
+              "ftPct": 0,
+              "reb": 4.3,
+              "ast": 1.9,
+              "blk": 0.1,
+              "stl": 0.6,
+              "to": 0,
+              "pts": 18.1
+            }
+          ]
         },
         {
           "name": "Chandler Jackson",
@@ -5600,13 +6991,47 @@
           "name": "Peitok Machar",
           "committedTo": null,
           "pos": "C",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "McNeese St.",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 70.3,
+              "threePct": 0.0,
+              "ftPct": 0,
+              "reb": 3.1,
+              "ast": 0.1,
+              "blk": 0.7,
+              "stl": 0.4,
+              "to": 0,
+              "pts": 3.5
+            }
+          ]
         },
         {
           "name": "Sami Pissis",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Alabama A&M",
+              "gp": 30,
+              "gs": 28,
+              "min": 29.8,
+              "fgPct": 39.9,
+              "threePct": 32.4,
+              "ftPct": 45.0,
+              "reb": 3.2,
+              "ast": 4.0,
+              "blk": 0.1,
+              "stl": 1.2,
+              "to": 1.8,
+              "pts": 10.4
+            }
+          ]
         }
       ]
     },
@@ -5624,7 +7049,24 @@
           "name": "Jaxon Ellingsworth",
           "committedTo": null,
           "pos": "G",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Arkansas St.",
+              "gp": 0,
+              "gs": 0,
+              "min": 0,
+              "fgPct": 47.3,
+              "threePct": 34.7,
+              "ftPct": 0,
+              "reb": 4.8,
+              "ast": 0.7,
+              "blk": 0.2,
+              "stl": 0.8,
+              "to": 0,
+              "pts": 9.7
+            }
+          ]
         },
         {
           "name": "Nasir Mann",
@@ -5665,7 +7107,24 @@
           "name": "Isaac Ondekane",
           "committedTo": null,
           "pos": "C",
-          "seasons": []
+          "seasons": [
+            {
+              "year": "2024-25",
+              "team": "Omaha",
+              "gp": 35,
+              "gs": 34,
+              "min": 16.7,
+              "fgPct": 58.1,
+              "threePct": 0.0,
+              "ftPct": 58.1,
+              "reb": 3.8,
+              "ast": 0.5,
+              "blk": 0.4,
+              "stl": 0.3,
+              "to": 1.3,
+              "pts": 5.3
+            }
+          ]
         }
       ]
     },
