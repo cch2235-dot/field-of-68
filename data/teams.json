@@ -381,6 +381,21 @@
         "bpg": 1.2,
         "fgp": 68.7,
         "tpp": 25.0
+      },
+      {
+        "name": "Sam Alexis",
+        "pos": "F/C",
+        "height": "6-9",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": true,
+        "ppg": 8.8,
+        "rpg": 4.8,
+        "apg": 1.2,
+        "spg": 0.3,
+        "bpg": 1.2,
+        "fgp": 68.7,
+        "tpp": 25.0
       }
     ]
   },
@@ -557,6 +572,21 @@
         "bpg": 0.0,
         "fgp": 44.9,
         "tpp": 37.5
+      },
+      {
+        "name": "Roddy Gayle Jr.",
+        "pos": "G",
+        "height": "6-5",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": true,
+        "ppg": 7.1,
+        "rpg": 3.3,
+        "apg": 1.4,
+        "spg": 0.8,
+        "bpg": 0.4,
+        "fgp": 46.1,
+        "tpp": 26.8
       }
     ]
   },
@@ -4626,9 +4656,10 @@
       },
       {
         "name": "Brenen Lorient",
-        "pos": "G",
+        "pos": "F/C",
         "height": "6-9",
-        "year": "??",
+        "year": "GONE",
+        "seeking5th": true,
         "hasStats": true,
         "ppg": 11.6,
         "rpg": 5.1,
@@ -5334,6 +5365,21 @@
         "bpg": 0.5,
         "fgp": 43.0,
         "tpp": 38.3
+      },
+      {
+        "name": "Parsa Fallah",
+        "pos": "F/C",
+        "height": "6-10",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": true,
+        "ppg": 14.7,
+        "rpg": 6.0,
+        "apg": 0.8,
+        "spg": 1.2,
+        "bpg": 0.5,
+        "fgp": 59.8,
+        "tpp": 40.0
       }
     ]
   },
@@ -6204,21 +6250,6 @@
         "height": "6-2",
         "year": "Fr.",
         "hasStats": false
-      },
-      {
-        "name": "Mark Mitchell",
-        "pos": "F/C",
-        "height": "6-9",
-        "year": "GONE",
-        "hasStats": true,
-        "seeking5th": true,
-        "ppg": 18.3,
-        "rpg": 5.2,
-        "apg": 3.6,
-        "spg": 0.7,
-        "bpg": 0.5,
-        "fgp": 54.7,
-        "tpp": 38.8
       }
     ]
   },
@@ -6361,6 +6392,14 @@
         "bpg": 0.6,
         "fgp": 43.9,
         "tpp": 33.6
+      },
+      {
+        "name": "RJ Luis Jr.",
+        "pos": "G/F",
+        "height": "6-6",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": false
       }
     ]
   },
@@ -6902,6 +6941,21 @@
         "bpg": 0.9,
         "fgp": 63.7,
         "tpp": 0.0
+      },
+      {
+        "name": "Corey Stephenson",
+        "pos": "G/F",
+        "height": "6-6",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": true,
+        "ppg": 18.0,
+        "rpg": 6.4,
+        "apg": 1.6,
+        "spg": 1.4,
+        "bpg": 0.5,
+        "fgp": 45.7,
+        "tpp": 39.8
       }
     ]
   },
@@ -7476,6 +7530,21 @@
         "bpg": 0.2,
         "fgp": 31.8,
         "tpp": 25.0
+      },
+      {
+        "name": "Mark Mitchell",
+        "pos": "F/C",
+        "height": "6-9",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": true,
+        "ppg": 18.3,
+        "rpg": 5.2,
+        "apg": 3.6,
+        "spg": 0.7,
+        "bpg": 0.5,
+        "fgp": 54.7,
+        "tpp": 38.8
       }
     ]
   },
@@ -8929,18 +8998,20 @@
         "tpp": 37.2
       },
       {
+        "name": "BJ Edwards",
+        "pos": "G/F",
+        "height": "6-6",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": false
+      },
+      {
         "name": "Duke Brennan",
-        "pos": "G",
-        "height": "6-10",
-        "year": "5th",
-        "hasStats": true,
-        "ppg": 12.4,
-        "rpg": 10.3,
-        "apg": 2.0,
-        "spg": 0.8,
-        "bpg": 0.5,
-        "fgp": 65.8,
-        "tpp": 0.0
+        "pos": "G/F",
+        "height": "6-6",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": false
       }
     ]
   },
@@ -10225,6 +10296,21 @@
         "height": "6-10",
         "year": "??",
         "hasStats": false
+      },
+      {
+        "name": "Vince Iwuchukwu",
+        "pos": "C",
+        "height": "7-1",
+        "year": "GONE",
+        "seeking5th": true,
+        "hasStats": true,
+        "ppg": 11.6,
+        "rpg": 6.1,
+        "apg": 0.5,
+        "spg": 0.8,
+        "bpg": 0.8,
+        "fgp": 54.9,
+        "tpp": 37.5
       }
     ]
   },
