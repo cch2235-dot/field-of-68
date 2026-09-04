@@ -10349,9 +10349,9 @@
       ]
     },
     {
-      "name": "GONE",
+      "name": "Miami",
       "conference": "ACC",
-      "espnId": null,
+      "espnId": 2390,
       "coach": "",
       "players": [
         {
@@ -16435,9 +16435,9 @@
       ]
     },
     {
-      "name": "USF",
+      "name": "South Florida",
       "conference": "American",
-      "espnId": null,
+      "espnId": 58,
       "coach": "",
       "players": [
         {
@@ -17316,7 +17316,7 @@
     {
       "name": "UTSA",
       "conference": "American",
-      "espnId": null,
+      "espnId": 2636,
       "coach": "",
       "players": [
         {
@@ -17778,9 +17778,9 @@
       ]
     },
     {
-      "name": "GONE",
+      "name": "Loyola Chicago",
       "conference": "Atlantic 10",
-      "espnId": null,
+      "espnId": 2350,
       "coach": "",
       "players": [
         {
@@ -19262,7 +19262,7 @@
     {
       "name": "St. Joseph's",
       "conference": "Atlantic 10",
-      "espnId": null,
+      "espnId": 2603,
       "coach": "",
       "players": [
         {
@@ -20974,7 +20974,7 @@
       ]
     },
     {
-      "name": "Texas St.",
+      "name": "Texas State",
       "conference": "Pac-12",
       "espnId": 326,
       "coach": "",
@@ -21273,6 +21273,13 @@
       "name": "Miami",
       "conference": "ACC",
       "espnId": 2390,
+      "coach": "",
+      "players": []
+    },
+    {
+      "name": "Massachusetts",
+      "conference": "Atlantic 10",
+      "espnId": 113,
       "coach": "",
       "players": []
     }
