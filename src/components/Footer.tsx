@@ -41,10 +41,10 @@ export default function Footer() {
           </div>
           <div>
             <h4 className="font-condensed font-bold text-white tracking-widest uppercase text-sm mb-4">The Daily Newsletter</h4>
-            <p className="text-[#8A8A8A] text-sm mb-4 leading-relaxed">Daily college basketball coverage — transfer portal, recruiting, coaching carousel. $4.99/mo.</p>
+            <p className="text-[#8A8A8A] text-sm mb-4 leading-relaxed">Daily college basketball coverage — transfer portal, recruiting, coaching carousel. $50/yr.</p>
             <a href="https://fieldof68.beehiiv.com/upgrade" target="_blank" rel="noopener noreferrer"
               className="block w-full text-center bg-[#F5A623] hover:bg-[#FFBE4D] text-black font-condensed font-bold tracking-widest uppercase text-sm py-3 rounded transition-colors">
-              Subscribe — $4.99/mo
+              Subscribe — $50/yr
             </a>
           </div>
         </div>
