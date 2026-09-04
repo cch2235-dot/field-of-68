@@ -61,8 +61,8 @@ export default function AboutPage() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
         {[
           { stat: '75K+', label: 'YouTube Subscribers' },
-          { stat: '154K+', label: 'Twitter Followers' },
-          { stat: '49K+', label: 'Instagram Followers' },
+          { stat: '164K+', label: 'Twitter Followers' },
+          { stat: '50K+', label: 'Instagram Followers' },
           { stat: '11', label: 'Original Shows' },
         ].map(({ stat, label }) => (
           <div key={label} className="bg-[#111111] border border-[#1A1A1A] rounded-xl p-6 text-center">
