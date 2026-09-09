@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a43",
+      "title": "McDonald's All-American game 2016: Where are they now?",
+      "url": "https://fieldof68.beehiiv.com/p/mcdonald-s-all-american-game-2016-where-are-they-now",
+      "category": "Feature",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/de5b4efc-d9ca-4ad2-808b-0724c79abded/on3-cv.JPEG",
+      "excerpt": "Jeff Goodman takes a look at the 2016 McDonald's All-American game and where those players are at now.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a42",
       "title": "Take two Tyson",
       "url": "https://fieldof68.beehiiv.com/p/take-two-tyson",
