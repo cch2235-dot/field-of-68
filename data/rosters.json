@@ -354,6 +354,26 @@
           "apg": 1.2,
           "notes": "",
           "seeking5th": true
+        },
+        {
+          "name": "Malik Reneau",
+          "pos": "F",
+          "height": "6-8",
+          "year": "Sr.",
+          "ppg": 17.1,
+          "rpg": 6.8,
+          "apg": 1.9,
+          "notes": ""
+        },
+        {
+          "name": "Yohan Traore",
+          "pos": "C",
+          "height": "6-10",
+          "year": "So.",
+          "ppg": 10.2,
+          "rpg": 7.1,
+          "apg": 0.8,
+          "notes": ""
         }
       ]
     },
