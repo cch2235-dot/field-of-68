@@ -1798,6 +1798,17 @@
           "rpg": 0,
           "apg": 0,
           "notes": ""
+        },
+        {
+          "name": "Cade Tyson",
+          "pos": "G",
+          "height": "6-5",
+          "year": "GONE",
+          "ppg": 0,
+          "rpg": 0,
+          "apg": 0,
+          "notes": "",
+          "seeking5th": true
         }
       ]
     },
@@ -4442,7 +4453,7 @@
           "ppg": 11.6,
           "rpg": 8.2,
           "apg": 2.2,
-          "notes": "",
+          "notes": "\u2192 Texas Tech",
           "seeking5th": true
         }
       ]
@@ -5098,7 +5109,7 @@
           "ppg": 12.0,
           "rpg": 5.3,
           "apg": 1.6,
-          "notes": "",
+          "notes": "\u2192 Arizona",
           "seeking5th": true
         }
       ]
@@ -14351,7 +14362,7 @@
           "ppg": 9.6,
           "rpg": 5.9,
           "apg": 2.1,
-          "notes": "",
+          "notes": "\u2192 Grand Canyon",
           "seeking5th": true
         },
         {
