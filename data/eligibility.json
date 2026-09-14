@@ -555,7 +555,7 @@
       "players_list": [
         {
           "name": "Cade Tyson",
-          "committedTo": null,
+          "committedTo": "Minnesota",
           "pos": "G",
           "seasons": [
             {
@@ -1437,7 +1437,7 @@
       "players_list": [
         {
           "name": "Jeremy Dent-Smith",
-          "committedTo": null,
+          "committedTo": "Saint Mary's",
           "pos": "G",
           "seasons": [
             {
@@ -3421,6 +3421,54 @@
               "blk": 0.5,
               "stl": 1.2,
               "pts": 14.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Indiana",
+      "case": "Indiana TRO",
+      "status": "ELIGIBLE",
+      "statusNote": "Indiana court granted TRO for multiple athletes including Malik Reneau and Yohan Traore",
+      "date": "September 10, 2026",
+      "players": 2,
+      "judge": null,
+      "attorney": "",
+      "players_list": [
+        {
+          "name": "Malik Reneau",
+          "committedTo": "Indiana",
+          "pos": "F",
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Indiana",
+              "fgPct": 52.3,
+              "threePct": 0.0,
+              "reb": 6.8,
+              "ast": 1.9,
+              "blk": 0.7,
+              "stl": 0.9,
+              "pts": 17.1
+            }
+          ]
+        },
+        {
+          "name": "Yohan Traore",
+          "committedTo": "Indiana",
+          "pos": "C",
+          "seasons": [
+            {
+              "year": "2025-26",
+              "team": "Indiana",
+              "fgPct": 58.4,
+              "threePct": 0.0,
+              "reb": 7.1,
+              "ast": 0.8,
+              "blk": 1.8,
+              "stl": 0.5,
+              "pts": 10.2
             }
           ]
         }
