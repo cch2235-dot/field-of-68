@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "a46",
+      "title": "Buzz build",
+      "url": "https://fieldof68.beehiiv.com/p/buzz-build",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/107145a3-7591-416b-9e18-030e4acbd337/ON3_COVERS__27_.png",
+      "excerpt": "Maryland landed four-star recruit Payton Jones to kickstart its 2027 class. Plus: fifth-year LJ Wells chose Louisville, Denzel Aberdeen filed for an injunction, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a45",
+      "title": "Tied Bow(man)",
+      "url": "https://fieldof68.beehiiv.com/p/tied-bow-man",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/c6030f3d-64a0-41ce-9111-88022c3b1695/ON3_COVERS__27_.png",
+      "excerpt": "UConn got on the board in the 2027 class with five-star point guard NaVorro Bowman Jr. Plus: BYU had a shuffle at its center spot, Temple's leading scorer is set to return, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a44",
       "title": "Prayers for Pikiell",
       "url": "https://fieldof68.beehiiv.com/p/prayers-for-pikiell",
