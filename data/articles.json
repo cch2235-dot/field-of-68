@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a49",
+      "title": "King's court",
+      "url": "https://fieldof68.beehiiv.com/p/king-s-court",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/db081984-41fd-4a65-b0e6-cba7c724d9a0/ON3_COVERS__27_.png",
+      "excerpt": "USF landed class of 2027 four-star guard King Kendrick. Plus: The Big Ten dropped its conference slate, Blue Ribbon Yearbook released its All-American teams, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a48",
       "title": "Sellers' market",
       "url": "https://fieldof68.beehiiv.com/p/sellers-market",
