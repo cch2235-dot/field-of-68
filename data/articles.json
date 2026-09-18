@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "a51",
+      "title": "Deng day",
+      "url": "https://fieldof68.beehiiv.com/p/deng-day",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/44b43d24-ad24-47d7-9330-e9f673b43be3/ON3_COVERS__27_.png",
+      "excerpt": "Ohio State landed its first 2027 commit in Deng Ngor. What makes him a top prospect? Plus: Houston continues to build its impressive 2027 class, the Big 12 released its conference slate, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "a50",
+      "title": "Intel on two four-star guards as decisions near",
+      "url": "https://fieldof68.beehiiv.com/p/intel-on-two-four-star-guards-as-decisions-near",
+      "category": "Grassroots",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/5d1407ba-549a-4866-b53b-e659d8b420e1/ON3_COVERS__27_.png",
+      "excerpt": "Micah Gordon and Jaxson Davis are set to make their decisions soon. We have the school that's trending for each player.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-17T01:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a49",
       "title": "King's court",
       "url": "https://fieldof68.beehiiv.com/p/king-s-court",
