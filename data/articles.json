@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a52",
+      "title": "Commitment weekend",
+      "url": "https://fieldof68.beehiiv.com/p/commitment-weekend",
+      "category": "Daily",
+      "thumbnail": "https://media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/asset/file/3b10e35a-f136-41f6-938b-fe0517ed3a9f/ON3_COVERS__27_.png",
+      "excerpt": "Michigan State, Ohio State, and Creighton all landed top point guards in the 2027 class. What else is to come? Plus: Rutgers and St. Bonaventure picked up notable commitments as well, Wichita State and VCU will start a home-and-home, and more.",
+      "author": "Field of 68",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "tags": [],
+      "readTime": "5 min read"
+    },
+    {
       "id": "a51",
       "title": "Deng day",
       "url": "https://fieldof68.beehiiv.com/p/deng-day",
