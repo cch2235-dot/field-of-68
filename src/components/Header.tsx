@@ -12,7 +12,6 @@ const NAV = [
   { href:'/teams', label:'Teams' },
   { href:'/rankings/hs', label:'HS Rankings' },
   { href:'/portal', label:'Portal' },
-  { href:'/eligibility', label:'Eligibility Tracker' },
   { href:'/mock-draft', label:'NBA Mock Draft' },
   { href:'/challenge', label:'40-0 Challenge' },
   { href:'https://fieldof68.shop/', label:'Shop', external:true },
