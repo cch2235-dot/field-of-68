@@ -12,6 +12,7 @@ const CATEGORIES = [
   { id: 'NBA Draft', label: 'NBA Draft' },
   { id: 'Coaching Carousel', label: 'Coaching Carousel' },
   { id: 'Conference Shows', label: 'Conference Shows' },
+  { id: 'Media Day', label: 'Media Day' },
 ];
 
 export default function VideosClient({ videos }: { videos: YouTubeVideo[] }) {
